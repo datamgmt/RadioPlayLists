@@ -1,0 +1,10 @@
+#!/bin/zsh
+
+DIR=`dirname $0`
+EXE=`basename $0`
+
+cd ${DIR}
+
+(
+${DIR}/bin/python ${DIR}/scripts/rpl.py 
+) 1>>${DIR}/logs/${EXE}.out.log 2>>${DIR}/logs/${EXE}.err.log

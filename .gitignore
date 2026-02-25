@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+bin/*
+lib/*
+pyvenv.cfg
+.DS_Store
+*/.DS_Store
+data/*
+logs/*
+database/playlists.db

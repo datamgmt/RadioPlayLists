@@ -71,7 +71,7 @@ Load the current collection and wantlists from discogs - these need to be downlo
 cat sql/create_80s_counts.sql| sqlite3 database/playlists.db
 ```
 
-Run the matcha (full docs at markdown/match_absolute80s_to_discogs.md)
+Run the matcha - full docs at [docs/match_absolute80s_to_discogs.md](docs/match_absolute80s_to_discogs.md)
 
 ```
 python3 scripts/matcha.py

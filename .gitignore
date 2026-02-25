@@ -7,3 +7,5 @@ pyvenv.cfg
 data/*
 logs/*
 database/playlists.db
+database/playlists.db-shm
+database/playlists.db-wal

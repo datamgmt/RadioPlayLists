@@ -86,5 +86,5 @@ Connect to the database and then you can look at the matches
 ```
 sqlite3 database/playlists.db
 
-select * from matches where country = 'uk' and station = 'absolute80s'
+select * from matches where country = 'uk' and station = 'absolute80s';
 ```

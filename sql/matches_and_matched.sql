@@ -5,8 +5,13 @@ CREATE TABLE if not exists matched(
   station TEXT,
   artist TEXT,
   title TEXT,
-  matched_source
+  matched_source TEXT
 );
+
+.headers on
+.mode csv
+.import --skip 1 data/matched/matched.csv matched
+.mode column
 
 INSERT INTO matched (country, station, artist, title, matched_source)
 SELECT m.country,
@@ -42,6 +47,8 @@ WHERE NOT EXISTS (
       AND d.title   = m.title
 )
 AND station = 'absolute80s'
+AND match_score < 100
+and matched_source is not null
 ;
 
 INSERT INTO matched (country, station, artist, title, matched_source)
@@ -61,13 +68,12 @@ WHERE NOT EXISTS (
 )
 AND station = 'absolute70s'
 AND match_score < 100
+and matched_source is not null
 ;
 
-
-.headers on
 .mode csv
 .echo off
-.output matched.csv
+.output data/matched/matched.csv
 
 SELECT * 
  from matched
@@ -80,7 +86,9 @@ SELECT *
 
 .output
 .echo on
-.quit
+.mode column
+
+.q
 
 SELECT *
 FROM matches m
@@ -93,7 +101,7 @@ WHERE NOT EXISTS (
       AND d.title   = m.title
 );
 
-SELECT artist, matched_artist, title, matched_title
+SELECT id, artist, matched_artist, title, matched_title
 FROM matches m
 WHERE NOT EXISTS (
     SELECT 1
@@ -102,5 +110,5 @@ WHERE NOT EXISTS (
       AND d.station = m.station
       AND d.artist  = m.artist
       AND d.title   = m.title
-) and station = 'absolute70s' and match_score is not null
+) and station = 'absolute70s' and match_score is null
 order by artist, title;

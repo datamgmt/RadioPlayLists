@@ -68,11 +68,23 @@ There are two tables:
 Load the current collection and wantlists from discogs - these need to be downloaded and copied to data/discogs
 
 ```
-cat sql/create_80s_counts.sql| sqlite3 database/playlists.db
+cat sql/create_song_counts.sql | sqlite3 database/playlists.db
 ```
 
-Run the matcha - full docs at [docs/match_absolute80s_to_discogs.md](docs/match_absolute80s_to_discogs.md)
+```
+cat sql/create_discogs.sql | sqlite3 database/playlists.db
+```
+
+Run the matcha - full docs at [docs/matcha.md](docs/matcha.md)
 
 ```
 python3 scripts/matcha.py
+```
+
+Connect to the database and then you can look at the matches
+
+```
+sqlite3 database/playlists.db
+
+select * from matches where country = 'uk' and station = 'absolute80s'
 ```

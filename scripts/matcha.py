@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Match absolute80s_song_counts to Discogs collection/wantlist in SQLite using weighted fuzzy matching.
+Match song_counts to Discogs collection/wantlist in SQLite using weighted fuzzy matching.
 
 Key rules:
 - match_score rounded to 1 decimal place
@@ -71,6 +71,8 @@ def ensure_results_table(conn, table):
             id INTEGER PRIMARY KEY,
             artist TEXT,
             title TEXT,
+            country TEXT,
+            station TEXT,
             play_count INTEGER,
             match_score REAL,
             matched_source TEXT,
@@ -83,7 +85,7 @@ def ensure_results_table(conn, table):
 
 def insert_results(conn, table, df):
     cols = [
-        "artist", "title", "play_count",
+        "artist", "title", "country", "station", "play_count",
         "match_score", "matched_source",
         "matched_artist", "matched_title",
         "match_note"
@@ -107,8 +109,9 @@ def main():
     scorer = make_weighted_scorer(args.artist_weight, args.title_weight)
     conn = sqlite3.connect(args.db)
 
+    # 🔹 UPDATED SOURCE TABLE
     songs = pd.read_sql(
-        "SELECT artist, title, play_count FROM absolute80s_song_counts",
+        "SELECT artist, title, country, station, play_count FROM song_counts",
         conn
     )
 
@@ -138,6 +141,8 @@ def main():
         row = dict(
             artist=s.artist,
             title=s.title,
+            country=s.country,
+            station=s.station,
             play_count=int(s.play_count),
             match_score=None,
             matched_source=None,

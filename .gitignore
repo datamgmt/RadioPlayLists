@@ -4,7 +4,10 @@ lib/*
 pyvenv.cfg
 .DS_Store
 */.DS_Store
-data/*
+data/discogs/*
+data/uk/*
+data/us/*
+data/load_state.json
 logs/*
 database/playlists.db
 database/playlists.db-shm

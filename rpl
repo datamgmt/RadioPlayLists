@@ -6,5 +6,25 @@ EXE=`basename $0`
 cd ${DIR}
 
 (
+
+echo "Fetching playlists"
 ${DIR}/bin/python ${DIR}/scripts/rpl.py 
+
+echo "Loading playlists"
+${DIR}/bin/python ${DIR}/scripts/plloader.py
+
+echo "Creating Song Counts"
+cat ${DIR}/sql/create_song_counts.sql | sqlite3 ${DIR}/database/playlists.db
+
+echo "Loading Discogs Data"
+cat ${DIR}/sql/create_discogs.sql     | sqlite3 ${DIR}/database/playlists.db
+
+echo "Matching artists and titles"
+${DIR}/bin/python ${DIR}/scripts/matcha.py
+
+echo "Create Matched Data"
+cat ${DIR}/sql/create_matched.sql     | sqlite3 ${DIR}/database/playlists.db
+
+echo "Complete"
+
 ) 1>>${DIR}/logs/${EXE}.out.log 2>>${DIR}/logs/${EXE}.err.log

@@ -6,7 +6,7 @@ Setting up the python virtual environment
 
 ```
 cd RadioPlayLists
-python3 -m venv .
+python -m venv .
 pip install --upgrade pip
 pip install requests beautifulsoup4
 pip install pandas
@@ -23,17 +23,24 @@ crontab -l
 
 ## Running Manually
 
+### Run everything
 
 ```
 cd RadioPlayLists
 ./rpl
 ```
 
-## The Database
+
+### Run individual steps
 
 Activate the Python VEnv
+
 ```
 source bin/activate
+```
+
+```
+python scripts/rpl.py 
 ```
 
 The data can be loaded into the database - this creates the database and loads all data. If data already exists only new data is loaded
@@ -44,7 +51,7 @@ For a complete refresh do this first
  ```
 
 ```
-python3 scripts/plloader.py
+python scripts/plloader.py
 ```
 
 This creates/updates SQLite database:
@@ -78,13 +85,25 @@ cat sql/create_discogs.sql | sqlite3 database/playlists.db
 Run the matcha - full docs at [docs/matcha.md](docs/matcha.md)
 
 ```
-python3 scripts/matcha.py
+python scripts/matcha.py
+```
+
+```
+cat sql/create_matched.sql | sqlite3 database/playlists.db
 ```
 
 Connect to the database and then you can look at the matches
 
 ```
 sqlite3 database/playlists.db
+```
 
+```
 select * from matches where country = 'uk' and station = 'absolute80s';
+```
+
+To update the matched file run
+
+```
+cat sql/update_matched.sql | sqlite3 database/playlists.db
 ```

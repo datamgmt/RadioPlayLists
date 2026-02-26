@@ -1,0 +1,22 @@
+# Absolute Radio
+https://onlineradiobox.com/uk/absolute60s;rock,rock'n'roll,60s
+https://onlineradiobox.com/uk/absolute70s;rock,pop,soul,70s
+https://onlineradiobox.com/uk/absolute80s;rock,pop,80s
+https://onlineradiobox.com/uk/absolute90s;rock,pop,90s
+https://onlineradiobox.com/uk/absolute00s;rock,pop,00s
+https://onlineradiobox.com/uk/absolute10s;rock,pop,10s
+https://onlineradiobox.com/uk/absolute20s;rock,alternative,20s
+https://onlineradiobox.com/uk/absoluteclassicrock;classic rock
+https://onlineradiobox.com/uk/countryhits;country
+https://onlineradiobox.com/uk/absolute1058;rock
+# Smooth Radio
+https://onlineradiobox.com/uk/smoothradio1022;pop,lounge,90s,80s,70s,60s
+https://onlineradiobox.com/uk/chilldigital;lounge,ambient,chill-out
+https://onlineradiobox.com/uk/smooth70s;70s
+https://onlineradiobox.com/uk/smooth80s;80s
+https://onlineradiobox.com/uk/smoothcountry;country,oldies
+https://onlineradiobox.com/uk/smoothlovesongs;country,oldies
+https://onlineradiobox.com/uk/smoothsoul;soul
+https://onlineradiobox.com/uk/smoothrelax/;easy listening,relax,love songs
+# Colorado Radio
+https://onlineradiobox.com/us/kygo;country,oldies

@@ -8,7 +8,7 @@ SELECT
     title,
     COUNT(*) AS play_count
 FROM playlists
-GROUP BY 
+GROUP BY
     country,
     station,
     artist,

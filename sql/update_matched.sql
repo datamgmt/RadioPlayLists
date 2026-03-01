@@ -1,17 +1,19 @@
 INSERT INTO matched (artist, title, matched_source)
-SELECT m.artist,
-       m.title,
-       m.matched_source
+SELECT
+    m.artist,
+    m.title,
+    m.matched_source
 FROM matches m
-WHERE NOT EXISTS (
+WHERE
+    NOT EXISTS (
     SELECT 1
-    FROM matched d
-    WHERE d.artist  = m.artist
-      AND d.title   = m.title
+        FROM matched d
+        WHERE d.artist  = m.artist
+          AND d.title   = m.title
 )
-AND (match_score < 100 
-OR  match_score is NULL)
-and matched_source is not null
+AND (m.match_score < 100 
+OR   m.match_score is NULL)
+and  m.matched_source is not null
 ;
 
 .mode csv
@@ -19,14 +21,14 @@ and matched_source is not null
 .output data/matched/matched.csv
 
 SELECT 
-artist,
-title,
-matched_source 
- from matched
- order by
-     artist,
-     title,
-     matched_source
+    artist,
+    title,
+    matched_source 
+from matched
+order by
+    artist,
+    title,
+    matched_source
 ;
 
 .output

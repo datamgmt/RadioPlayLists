@@ -5,7 +5,7 @@ CREATE TABLE stations (
     music_tags TEXT NOT NULL,
     PRIMARY KEY (country, station)
 );
-        
+
 CREATE TABLE playlists (
     country TEXT NOT NULL,
     station TEXT NOT NULL,
@@ -13,13 +13,13 @@ CREATE TABLE playlists (
     playtime TEXT NOT NULL,   -- HH:MM
     artist TEXT NOT NULL,
     title TEXT NOT NULL,
-    UNIQUE(country, station, playdate, playtime, artist, title)
+    UNIQUE (country, station, playdate, playtime, artist, title)
 );
 
-CREATE INDEX idx_playlists_station_date 
-    ON playlists(country, station, playdate);
+CREATE INDEX idx_playlists_station_date
+ON playlists (country, station, playdate);
 
-CREATE TABLE song_counts(
+CREATE TABLE song_counts (
     country TEXT,
     station TEXT,
     artist TEXT,

@@ -47,7 +47,7 @@ The data can be loaded into the database - this creates the database and loads a
 
 For a complete refresh do this first
 ```
- rm database/playlists.db data/load_state.json
+ rm db/playlists.db data/load_state.json
  ```
 
 ```
@@ -55,7 +55,7 @@ python scripts/plloader.py
 ```
 
 This creates/updates SQLite database:
-  database/playlists.db
+  db/playlists.db
 
 There are two tables:
   1) playlists
@@ -75,11 +75,11 @@ There are two tables:
 Load the current collection and wantlists from discogs - these need to be downloaded and copied to data/discogs
 
 ```
-cat sql/create_song_counts.sql | sqlite3 database/playlists.db
+cat sql/create_song_counts.sql | sqlite3 db/playlists.db
 ```
 
 ```
-cat sql/create_discogs.sql | sqlite3 database/playlists.db
+cat sql/create_discogs.sql | sqlite3 db/playlists.db
 ```
 
 Run the matcha - full docs at [docs/matcha.md](docs/matcha.md)
@@ -89,13 +89,13 @@ python scripts/matcha.py
 ```
 
 ```
-cat sql/create_matched.sql | sqlite3 database/playlists.db
+cat sql/create_matched.sql | sqlite3 db/playlists.db
 ```
 
 Connect to the database and then you can look at the matches
 
 ```
-sqlite3 database/playlists.db
+sqlite3 db/playlists.db
 ```
 
 ```
@@ -105,5 +105,5 @@ select * from matches where country = 'uk' and station = 'absolute80s';
 To update the matched file run
 
 ```
-cat sql/update_matched.sql | sqlite3 database/playlists.db
+cat sql/update_matched.sql | sqlite3 db/playlists.db
 ```

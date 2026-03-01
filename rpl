@@ -14,16 +14,16 @@ echo "Loading playlists"
 ${DIR}/bin/python ${DIR}/scripts/plloader.py
 
 echo "Creating Song Counts"
-cat ${DIR}/sql/create_song_counts.sql | sqlite3 ${DIR}/database/playlists.db
+cat ${DIR}/sql/create_song_counts.sql | sqlite3 ${DIR}/db/playlists.db
 
 echo "Loading Discogs Data"
-cat ${DIR}/sql/create_discogs.sql     | sqlite3 ${DIR}/database/playlists.db
+cat ${DIR}/sql/create_discogs.sql     | sqlite3 ${DIR}/db/playlists.db
 
 echo "Matching artists and titles"
 ${DIR}/bin/python ${DIR}/scripts/matcha.py
 
 echo "Create Matched Data"
-cat ${DIR}/sql/create_matched.sql     | sqlite3 ${DIR}/database/playlists.db
+cat ${DIR}/sql/create_matched.sql     | sqlite3 ${DIR}/db/playlists.db
 
 echo "Complete"
 

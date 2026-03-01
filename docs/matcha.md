@@ -135,7 +135,7 @@ Before matching:
 
 | Option | Description | Default |
 |------|------------|---------|
-| `--db` | SQLite database path | `database/playlists.db` |
+| `--db` | SQLite database path | `db/playlists.db` |
 | `--results-table` | Output table name | `matches` |
 | `--artist-weight` | Artist similarity weight | `40` |
 | `--title-weight` | Title similarity weight | `60` |

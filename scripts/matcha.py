@@ -17,7 +17,7 @@ import re
 import pandas as pd
 from rapidfuzz import fuzz, process
 
-DB_DEFAULT = "database/playlists.db"
+DB_DEFAULT = "db/playlists.db"
 RESULTS_TABLE_DEFAULT = "matches"
 
 # ---------- Normalization helpers ----------

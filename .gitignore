@@ -12,3 +12,6 @@ logs/*
 database/playlists.db
 database/playlists.db-shm
 database/playlists.db-wal
+db/playlists.db-shm
+db/playlists.db-wal
+db/playlists.db

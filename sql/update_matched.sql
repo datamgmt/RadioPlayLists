@@ -1,16 +1,12 @@
-INSERT INTO matched (country, station, artist, title, matched_source)
-SELECT m.country,
-       m.station,
-       m.artist,
+INSERT INTO matched (artist, title, matched_source)
+SELECT m.artist,
        m.title,
        m.matched_source
 FROM matches m
 WHERE NOT EXISTS (
     SELECT 1
     FROM matched d
-    WHERE d.country = m.country
-      AND d.station = m.station
-      AND d.artist  = m.artist
+    WHERE d.artist  = m.artist
       AND d.title   = m.title
 )
 AND (match_score < 100 
@@ -22,11 +18,12 @@ and matched_source is not null
 .echo off
 .output data/matched/matched.csv
 
-SELECT * 
+SELECT 
+artist,
+title,
+matched_source 
  from matched
  order by
-     country,
-     station,
      artist,
      title,
      matched_source

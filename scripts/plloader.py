@@ -10,7 +10,7 @@ Directory layout expected:
         DD-MON-YYYY.csv   (e.g. 22-Feb-2026.csv)
 
 Creates/updates SQLite database:
-  database/playlists.db
+  db/playlists.db
 
 Tables:
   1) playlists
@@ -49,7 +49,7 @@ DATA_DIR = Path("data")
 URLS_FILE = DATA_DIR / "urls.txt"
 STATE_FILE = DATA_DIR / "load_state.json"
 
-DB_DIR = Path("database")
+DB_DIR = Path("db")
 DB_PATH = DB_DIR / "playlists.db"
 
 FILENAME_DATE_RE = re.compile(r"^\d{2}-[A-Za-z]{3}-\d{4}\.csv$")

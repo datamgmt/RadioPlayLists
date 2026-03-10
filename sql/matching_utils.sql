@@ -43,14 +43,13 @@ ORDER BY id;
 UPDATE matches SET matched_source = 'wantlist'
 WHERE
     station = 'absolute80s'
-    AND id IN (546, 548, 712, 722, 723, 905, 907, 910, 911, 917);
+    AND id IN (9427,9456,9457);
 
 UPDATE matches
 SET matched_source = 'collection'
 WHERE
     station = 'absolute80s'
-    AND matched_source IS null
-    AND id < 100;
+    AND matched_source IS null;
 
 
 SELECT
@@ -72,11 +71,11 @@ WHERE
     ) AND matched_source IS null
 ORDER BY id;
 
-UPDATE matches m
+UPDATE matches
 SET
     matched_source
-    = SELECT d.matched_source
+    = (SELECT d.matched_source
     FROM matched AS d
     WHERE
-        d.artist = m.artist
-        AND d.title = m.title
+        d.artist = matches.artist
+        AND d.title = matches.title)

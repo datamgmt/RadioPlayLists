@@ -1,5 +1,6 @@
 INSERT INTO matched (artist, title, matched_source)
 SELECT
+    distinct
     m.artist,
     m.title,
     m.matched_source

@@ -1,6 +1,6 @@
 INSERT INTO matched (artist, title, matched_source)
 SELECT
-    distinct
+    DISTINCT
     m.artist,
     m.title,
     m.matched_source
@@ -22,6 +22,7 @@ and  m.matched_source is not null
 .output data/matched/matched.csv
 
 SELECT 
+DISTINCT
     artist,
     title,
     matched_source 

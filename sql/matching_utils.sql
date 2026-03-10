@@ -17,7 +17,7 @@ WHERE NOT EXISTS (
     WHERE
         d.artist = m.artist
         AND d.title = m.title
-);
+) AND station = 'absolute80s';
 
 SELECT
     id,
@@ -36,21 +36,20 @@ WHERE
             d.artist = m.artist
             AND d.title = m.title
     )
-    AND station = 'absolute80s'
+    AND station IN ('absolute80s','smooth80s')
     AND match_score IS null
 ORDER BY id;
 
 UPDATE matches SET matched_source = 'wantlist'
 WHERE
-    station = 'absolute80s'
+    AND station IN ('absolute80s','smooth80s')
     AND id IN (9427,9456,9457);
 
 UPDATE matches
 SET matched_source = 'collection'
 WHERE
-    station = 'absolute80s'
+    AND station IN ('absolute80s','smooth80s')
     AND matched_source IS null;
-
 
 SELECT
     id,

@@ -15,3 +15,4 @@ database/playlists.db-wal
 db/playlists.db-shm
 db/playlists.db-wal
 db/playlists.db
+data/wantlist.csv

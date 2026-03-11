@@ -18,5 +18,13 @@ https://onlineradiobox.com/uk/smoothcountry;country,oldies
 https://onlineradiobox.com/uk/smoothlovesongs;country,oldies
 https://onlineradiobox.com/uk/smoothsoul;soul
 https://onlineradiobox.com/uk/smoothrelax/;easy listening,relax,love songs
+# Heart Radio
+https://onlineradiobox.com/uk/heartuk;pop,news,talk
+https://onlineradiobox.com/uk/heart70s;70s
+https://onlineradiobox.com/uk/heart80s;80s
+https://onlineradiobox.com/uk/heart90s;90s
+https://onlineradiobox.com/uk/heart00s;00s
+https://onlineradiobox.com/uk/heart10s;10s
+https://onlineradiobox.com/uk/heartdance/;top40,hits
 # Colorado Radio
 https://onlineradiobox.com/us/kygo;country,oldies

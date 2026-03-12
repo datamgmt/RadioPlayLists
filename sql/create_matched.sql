@@ -26,3 +26,13 @@ WHERE NOT EXISTS (
         AND d.title = m.title
 )
 AND m.match_score = 100;
+
+
+UPDATE matches
+SET matched_source = 
+(SELECT matched_source 
+    FROM  matched m
+    WHERE m.artist = matches.artist
+    AND   m.title = matches.title
+)
+WHERE matched_source IS NULL;

@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS song_counts;
 
-CREATE TABLE song_counts AS
+CREATE TABLE IF NOT EXISTS song_counts AS
 SELECT
     country,
     station,

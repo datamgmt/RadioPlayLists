@@ -1,4 +1,4 @@
-CREATE TABLE stations (
+CREATE TABLE IF NOT EXISTS stations (
     country TEXT NOT NULL,
     station TEXT NOT NULL,
     url TEXT NOT NULL,
@@ -6,7 +6,7 @@ CREATE TABLE stations (
     PRIMARY KEY (country, station)
 );
 
-CREATE TABLE playlists (
+CREATE TABLE IF NOT EXISTS playlists (
     country TEXT NOT NULL,
     station TEXT NOT NULL,
     playdate TEXT NOT NULL,   -- DD-MON-YYYY
@@ -16,7 +16,7 @@ CREATE TABLE playlists (
     UNIQUE (country, station, playdate, playtime, artist, title)
 );
 
-CREATE INDEX idx_playlists_station_date
+CREATE INDEX IF NOT EXISTS idx_playlists_station_date
 ON playlists (country, station, playdate);
 
 CREATE TABLE song_counts (
@@ -61,7 +61,7 @@ CREATE TABLE IF NOT EXISTS "wantlist" (
     "DateAdded" TEXT
 );
 
-CREATE TABLE matches (
+CREATE TABLE IF NOT EXISTS matches (
     id INTEGER PRIMARY KEY,
     artist TEXT,
     title TEXT,
@@ -73,4 +73,11 @@ CREATE TABLE matches (
     matched_artist TEXT,
     matched_title TEXT,
     match_note TEXT
+);
+
+CREATE TABLE IF NOT EXISTS matched
+(
+    artist TEXT,
+    title TEXT,
+    matched_source TEXT
 );

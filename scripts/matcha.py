@@ -67,7 +67,7 @@ def ensure_results_table(conn, table):
     cur = conn.cursor()
     cur.execute(f"DROP TABLE IF EXISTS {table}")
     cur.execute(f"""
-        CREATE TABLE {table} (
+        CREATE TABLE IF NOT EXISTS {table} (
             id INTEGER PRIMARY KEY,
             artist TEXT,
             title TEXT,

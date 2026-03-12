@@ -67,22 +67,22 @@ ORDER BY id, station, artist, title,matched_source;
 UPDATE matches SET matched_source = 'wantlist'
 WHERE
     station IN ('absolute80s','smooth80s','heart80s','absolute70s')
-    AND id IN (1501,2136,2283,2444,2456,2638,3067,3071,3073,3389,3392,3753,4535,4537,5018,5019,5562,5563,6238,6243,6244)
-    AND id <7000;
+    AND id IN (###)
+    AND id <25000;
 
 UPDATE matches
 SET matched_source = 'no single'
 WHERE
     station IN ('absolute80s','smooth80s','heart80s','absolute70s')
-    AND id IN (4136,6239)
-    AND id <7000;
+    AND id IN (###)
+    AND id <25000;
 
 UPDATE matches
 SET matched_source = 'collection'
 WHERE
     station IN ('absolute80s','smooth80s','heart80s','absolute70s')
     AND matched_source IS null
-    AND id <7000;
+    AND id <25000;
 
  select station, matched_source, count(*) 
  from matches 

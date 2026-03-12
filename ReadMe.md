@@ -107,3 +107,9 @@ To update the matched file run
 ```
 cat sql/update_matched.sql | sqlite3 db/playlists.db
 ```
+
+To create a wantlist to print out
+
+```
+cat sql/create_wantlist.sql| sqlite3 db/playlists.db
+```

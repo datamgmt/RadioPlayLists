@@ -14,13 +14,6 @@ pip install rapidfuzz
 
 ````
 
-Schedule the user run at 12:00 each day - not change path in this file if required in **crontab.txt**
-
-```
-cat crontab.txt| crontab
-crontab -l
-```
-
 ## Running Manually
 
 ### Run everything

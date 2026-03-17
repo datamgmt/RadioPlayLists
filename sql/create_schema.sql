@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS stations (
     PRIMARY KEY (country, station)
 );
 
-DROP TABLE IF EXISTS playlists;
+# DROP TABLE IF EXISTS playlists;
 
 CREATE TABLE IF NOT EXISTS playlists (
     country TEXT NOT NULL,

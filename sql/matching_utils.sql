@@ -17,7 +17,7 @@ WHERE NOT EXISTS (
     WHERE
         d.artist = m.artist
         AND d.title = m.title
-) AND station = 'absolute80s';
+) AND station IN (SELECT station FROM stations WHERE validated = 'Y');
 
 SELECT
     id,
@@ -37,7 +37,7 @@ WHERE
             d.artist = m.artist
             AND d.title = m.title
     )
-    AND station IN ('absolute80s','smooth80s','heart80s','absolute70s')
+    AND station IN (SELECT station FROM stations WHERE validated = 'Y')
     AND match_score IS null
 ORDER BY id;
 
@@ -47,7 +47,7 @@ SELECT
     artist,
     title,
     matched_source
-    FROM matches AS m
+FROM matches AS m
 WHERE
     NOT EXISTS (
         SELECT 1
@@ -56,38 +56,33 @@ WHERE
             d.artist = m.artist
             AND d.title = m.title
     )
-    AND station IN ('absolute80s','smooth80s','heart80s','absolute70s')
-    AND match_score IS NULL
-    AND matched_artist IS NULL
-    AND matched_title IS NULL
-    AND match_score is NULL
-ORDER BY id, station, artist, title,matched_source;
+    AND station IN (SELECT station FROM stations WHERE validated = 'Y')
+    AND match_score IS null
+    AND matched_artist IS null
+    AND matched_title IS null
+    AND match_score IS null
+ORDER BY id, station, artist, title, matched_source;
 
 
 UPDATE matches SET matched_source = 'wantlist'
 WHERE
-    station IN ('absolute80s','smooth80s','heart80s','absolute70s')
+    station IN (SELECT station FROM stations WHERE validated = 'Y')
     AND id IN (###)
-    AND id <25000;
+    AND id < 25000;
 
 UPDATE matches
 SET matched_source = 'no single'
 WHERE
-    station IN ('absolute80s','smooth80s','heart80s','absolute70s')
+    station IN (SELECT station FROM stations WHERE validated = 'Y')
     AND id IN (###)
-    AND id <25000;
+    AND id < 25000;
 
 UPDATE matches
 SET matched_source = 'collection'
 WHERE
-    station IN ('absolute80s','smooth80s','heart80s','absolute70s')
+    station IN (SELECT station FROM stations WHERE validated = 'Y')
     AND matched_source IS null
-    AND id <25000;
-
- select station, matched_source, count(*) 
- from matches 
- where station IN ('absolute80s','smooth80s','heart80s','absolute70s') 
- group by station, matched_source;
+    AND id < 25000;
 
 SELECT
     id,
@@ -111,10 +106,10 @@ ORDER BY id;
 UPDATE matches
 SET
     matched_source
-    = (SELECT d.matched_source
-    FROM matched AS d
-    WHERE
-        d.artist = matches.artist
-        AND d.title = matches.title)
-        
-
+    = (
+        SELECT d.matched_source
+        FROM matched AS d
+        WHERE
+            d.artist = matches.artist
+            AND d.title = matches.title
+    )

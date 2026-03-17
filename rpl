@@ -20,6 +20,9 @@ ${DIR}/bin/python ${DIR}/scripts/plloader.py
 echo "Load Song Counts"
 cat ${DIR}/sql/load_song_counts.sql | sqlite3 ${DB}
 
+echo "Load Stations"
+cat ${DIR}/sql/load_stations.sql | sqlite3 ${DB}
+
 echo "Loading Discogs Data"
 cat ${DIR}/sql/load_discogs.sql     | sqlite3 ${DB}
 

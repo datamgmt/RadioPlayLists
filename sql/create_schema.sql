@@ -14,6 +14,7 @@ CREATE TABLE IF NOT EXISTS stations (
     station TEXT NOT NULL,
     url TEXT NOT NULL,
     music_tags TEXT NOT NULL,
+    validated TEXT,
     PRIMARY KEY (country, station)
 );
 

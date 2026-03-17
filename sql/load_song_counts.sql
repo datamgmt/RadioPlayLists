@@ -1,6 +1,10 @@
-DROP TABLE IF EXISTS song_counts;
-
-CREATE TABLE IF NOT EXISTS song_counts AS
+INSERT INTO song_counts (
+    country,
+    station,
+    artist,
+    title,
+    play_count
+)
 SELECT
     country,
     station,

@@ -2,6 +2,7 @@
 
 DIR=`dirname $0`
 EXE=`basename $0`
+DB=${DIR}/db/playlists2.db
 
 cd ${DIR}
 
@@ -10,20 +11,23 @@ cd ${DIR}
 echo "Fetching playlists"
 ${DIR}/bin/python ${DIR}/scripts/rpl.py 
 
+echo "Creating schema"
+cat ${DIR}/sql2/create_schema.sql | sqlite3 ${DB)
+
 echo "Loading playlists"
 ${DIR}/bin/python ${DIR}/scripts/plloader.py
 
-echo "Creating Song Counts"
-cat ${DIR}/sql/create_song_counts.sql | sqlite3 ${DIR}/db/playlists.db
+echo "Load Song Counts"
+cat ${DIR}/sql2/load_song_counts.sql | sqlite3 ${DB}
 
 echo "Loading Discogs Data"
-cat ${DIR}/sql/create_discogs.sql     | sqlite3 ${DIR}/db/playlists.db
+cat ${DIR}/sql2/load_discogs.sql     | sqlite3 ${DB}
 
 echo "Matching artists and titles"
 ${DIR}/bin/python ${DIR}/scripts/matcha.py
 
 echo "Create Matched Data"
-cat ${DIR}/sql/create_matched.sql     | sqlite3 ${DIR}/db/playlists.db
+cat ${DIR}/sql/load_matched.sql      | sqlite3 ${DB}
 
 echo "Complete"
 

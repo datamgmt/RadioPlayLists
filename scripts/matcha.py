@@ -126,8 +126,8 @@ def main():
     """, conn)
 
     songs["k"] = songs.apply(lambda r: pack_key(r.artist, r.title), axis=1)
-    collection["k"] = collection.apply(lambda r: pack_key(r.Artist, r.Title), axis=1)
-    wantlist["k"] = wantlist.apply(lambda r: pack_key(r.Artist, r.Title), axis=1)
+    collection["k"] = collection.apply(lambda r: pack_key(r.artist, r.title), axis=1)
+    wantlist["k"] = wantlist.apply(lambda r: pack_key(r.artist, r.title), axis=1)
 
     c_by = collection.drop_duplicates("k").set_index("k")
     w_by = wantlist.drop_duplicates("k").set_index("k")
@@ -156,8 +156,8 @@ def main():
             row.update(
                 match_score=100.0,
                 matched_source="collection",
-                matched_artist=m.Artist,
-                matched_title=m.Title,
+                matched_artist=m.artist,
+                matched_title=m.title,
                 match_note='exact match to collection (7")'
             )
 
@@ -166,8 +166,8 @@ def main():
             row.update(
                 match_score=100.0,
                 matched_source="wantlist",
-                matched_artist=m.Artist,
-                matched_title=m.Title,
+                matched_artist=m.artist,
+                matched_title=m.title,
                 match_note='exact match to wantlist (7")'
             )
 
@@ -181,8 +181,8 @@ def main():
                     row.update(
                         match_score=round1(cs),
                         matched_source="collection",
-                        matched_artist=m.Artist,
-                        matched_title=m.Title,
+                        matched_artist=m.artist,
+                        matched_title=m.title,
                         match_note="best fuzzy match to collection"
                     )
                 elif wk:
@@ -190,8 +190,8 @@ def main():
                     row.update(
                         match_score=round1(ws),
                         matched_source="wantlist",
-                        matched_artist=m.Artist,
-                        matched_title=m.Title,
+                        matched_artist=m.artist,
+                        matched_title=m.title,
                         match_note="best fuzzy match to wantlist"
                     )
                 else:
@@ -204,8 +204,8 @@ def main():
                         row.update(
                             match_score=round1(cs),
                             matched_source="collection",
-                            matched_artist=m.Artist,
-                            matched_title=m.Title,
+                            matched_artist=m.artist,
+                            matched_title=m.title,
                             match_note="best fuzzy match (collection)"
                         )
                 elif wk:
@@ -213,8 +213,8 @@ def main():
                     row.update(
                         match_score=round1(ws),
                         matched_source="wantlist",
-                        matched_artist=m.Artist,
-                        matched_title=m.Title,
+                        matched_artist=m.artist,
+                        matched_title=m.title,
                         match_note="best fuzzy match (wantlist)"
                     )
 

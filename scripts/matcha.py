@@ -63,26 +63,6 @@ def best_match(query, candidates, scorer, min_score):
     hit = process.extractOne(query, candidates, scorer=scorer, score_cutoff=min_score)
     return (hit[0], float(hit[1])) if hit else (None, 0.0)
 
-def ensure_results_table(conn, table):
-    cur = conn.cursor()
-    cur.execute(f"DROP TABLE IF EXISTS {table}")
-    cur.execute(f"""
-        CREATE TABLE IF NOT EXISTS {table} (
-            id INTEGER PRIMARY KEY,
-            artist TEXT,
-            title TEXT,
-            country TEXT,
-            station TEXT,
-            play_count INTEGER,
-            match_score REAL,
-            matched_source TEXT,
-            matched_artist TEXT,
-            matched_title TEXT,
-            match_note TEXT
-        )
-    """)
-    conn.commit()
-
 def insert_results(conn, table, df):
     cols = [
         "artist", "title", "country", "station", "play_count",
@@ -219,10 +199,9 @@ def main():
                     )
 
         rows.append(row)
-
+    
     results = pd.DataFrame(rows)
 
-    ensure_results_table(conn, args.results_table)
     insert_results(conn, args.results_table, results)
 
     print(f"Wrote {len(results)} rows to table '{args.results_table}' in {args.db}")

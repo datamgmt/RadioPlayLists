@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup, NavigableString
 
 
 BASE_OUT_DIR = Path("data")
-URLS_FILE = BASE_OUT_DIR / "urls.txt"
+URLS_FILE = BASE_OUT_DIR / "stations.csv"
 
 TIME_ONLY_RE = re.compile(r"^\s*(\d{2}:\d{2})\s*$")
 
@@ -163,7 +163,7 @@ def read_station_urls(path: Path) -> list[str]:
         if not line or line.startswith("#"):
             continue
 
-        url_part = line.split(";", 1)[0].strip()
+        url_part = line.split(";")[2].strip()
         if url_part:
             urls.append(url_part)
 

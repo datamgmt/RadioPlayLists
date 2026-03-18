@@ -15,17 +15,18 @@ SELECT
     p.title,
     m.matched_source,
     COUNT(p.artist) AS play_count
-FROM playlists p, 
-     matched m
-WHERE   p.artist = m.artist
-AND     p.title =  m.title
-AND     p.country = 'uk'
-AND     p.station = 'absolute80s'
-GROUP BY 
-    p.artist, 
-    p.title, 
+FROM playlists AS p,
+    matched AS m
+WHERE
+    p.artist = m.artist
+    AND p.title = m.title
+    AND p.country = 'uk'
+    AND p.station = 'absolute80s'
+GROUP BY
+    p.artist,
+    p.title,
     m.matched_source
-ORDER BY 
+ORDER BY
     play_count ASC;
 
 SELECT
@@ -33,16 +34,17 @@ SELECT
     p.title,
     m.matched_source,
     COUNT(p.artist) AS play_count
-FROM playlists p, 
-     matched m
-WHERE   p.artist = m.artist
-AND     p.title =  m.title
-AND     p.country = 'uk'
-AND     p.station = 'absolute80s'
-AND     m.matched_source = 'wantlist'
-GROUP BY 
-    p.artist, 
-    p.title, 
+FROM playlists AS p,
+    matched AS m
+WHERE
+    p.artist = m.artist
+    AND p.title = m.title
+    AND p.country = 'uk'
+    AND p.station = 'absolute80s'
+    AND m.matched_source = 'wantlist'
+GROUP BY
+    p.artist,
+    p.title,
     m.matched_source
-ORDER BY 
-    play_count ASC;    
+ORDER BY
+    play_count ASC;

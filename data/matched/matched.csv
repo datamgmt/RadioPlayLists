@@ -13,7 +13,7 @@ artist,title,matched_source
 "A Taste Of Honey","Boogie Oogie Oogie",collection
 A-Ha,"Cry Wolf",collection
 A-Ha,"Hunting High And Low",wantlist
-A-Ha,"Stay On These Roads",wantlist
+A-Ha,"Stay On These Roads",collection
 A-Ha,"Take On Me",collection
 A-Ha,"The Living Daylights",collection
 A-Ha,"The Sun Always Shines On Tv",collection
@@ -92,7 +92,7 @@ Aftershock,"Slave To The Vibe",collection
 "Alarm The","Spirit of '76",wantlist
 "Alexander O'Neal",Criticise,wantlist
 "Alexander O'Neal",Criticize,wantlist
-"Alexander O'Neal","If You Were Here Tonight",wantlist
+"Alexander O'Neal","If You Were Here Tonight",collection
 "Alice Cooper",Elected,collection
 "Alice Cooper","No More Mr Nice Guy",collection
 "Alice Cooper",Poison,collection
@@ -205,11 +205,12 @@ Beatmasters,"Ska Train",collection
 "Belinda Carlisle","Leave A Light On",wantlist
 "Belinda Carlisle","We Want The Same Thing",collection
 "Belle Epoque","Black Is Black",collection
+"Belouis Some",Imagination,collection
 "Ben E. King","Stand By Me",collection
 Berlin,"Take My Breath Away",collection
 "Bette Midler","Wind Beneath My Wings",collection
 "Betty Boo","Doin' The Do",collection
-"Big Country",Chance,wantlist
+"Big Country",Chance,collection
 "Big Country","Fields Of Fire",wantlist
 "Big Country","In A Big Country",collection
 "Big Country","Look Away",collection
@@ -229,7 +230,7 @@ Berlin,"Take My Breath Away",collection
 "Billy Idol","White Wedding",collection
 "Billy Joel","All For Leyna",collection
 "Billy Joel","An Innocent Man",wantlist
-"Billy Joel","It's Still Rock And Roll To Me",collection
+"Billy Joel","It's Still Rock And Roll To Me",wantlist
 "Billy Joel","Just The Way You Are",collection
 "Billy Joel","Movin' Out",collection
 "Billy Joel","My Life",collection
@@ -295,6 +296,7 @@ Blur,"Song 2",wantlist
 "Bob Marley & The Wailers","Is This Love",collection
 "Bob Marley & The Wailers","No Woman No Cry",collection
 "Bob Marley & The Wailers","One Love",wantlist
+"Bob Marley & The Wailers","Three Little Birds",wantlist
 "Bob Marley & The Wailers","Waiting in Vain",collection
 "Bob Marley and The Wailers","Could You Be Loved",wantlist
 "Bob Marley and The Wailers",Exodus,collection
@@ -341,7 +343,7 @@ Blur,"Song 2",wantlist
 "Boomtown Rats","She's So Modern",collection
 "Boris Gardiner","I Want To Wake Up With You",collection
 Boston,"More Than A Feeling",collection
-"Bourgeois Tagg","I Don't Mind At All",wantlist
+"Bourgeois Tagg","I Don't Mind At All",collection
 "Bow Wow Wow","Go Wild In The Country",collection
 "Bow Wow Wow","I Want Candy",collection
 "Boy George","Everything I Own",collection
@@ -369,7 +371,7 @@ Bros,"When Will I Be Famous",collection
 "Bruce Hornsby","The Way It Is",collection
 "Bruce Hornsby And The Range","The Way It Is",collection
 "Bruce Springsteen","Born To Run",collection
-"Bruce Springsteen","Brilliant Disguise",wantlist
+"Bruce Springsteen","Brilliant Disguise",collection
 "Bruce Springsteen","Cover Me",collection
 "Bruce Springsteen","Dancing In The Dark",collection
 "Bruce Springsteen","Glory Days",collection
@@ -455,6 +457,7 @@ Chicago,"You're The Inspiration",collection
 "Chris Farlowe","Out Of Time",collection
 "Chris Isaak","Wicked Game",collection
 "Chris Rea","Fool (If You Think It's Over)",wantlist
+"Chris Rea","Fool If You Think It's Over",wantlist
 "Chris Rea","The Road To Hell",collection
 "Chris de Burgh","The Lady In Red",collection
 "Christopher Cross","(Arthur's Theme) The Best That You Can Do",collection
@@ -574,7 +577,7 @@ DeBarge,"Rhythm Of The Night",collection
 "Dean Parrish","I'm on My Way",wantlist
 Debarge,"Rhythm Of The Night",collection
 "Debbie Gibson","Shake Your Love",collection
-"Deborah Harry","I Want That Man",wantlist
+"Deborah Harry","I Want That Man",collection
 "Dee C. Lee","See The Day",collection
 Dee-Lite,"Groove Is In The Heart",collection
 Deee-lite,"Groove Is In The Heart",collection
@@ -626,7 +629,7 @@ Deee-lite,"Groove Is In The Heart",collection
 "Dionne Warwick & Friends","That's What Friends Are For",wantlist
 "Dire Straits","Brothers In Arms",collection
 "Dire Straits","Money For Nothing",collection
-"Dire Straits","Private Investigations",collection
+"Dire Straits","Private Investigations",wantlist
 "Dire Straits","Romeo & Juliet",collection
 "Dire Straits",Skateaway,collection
 "Dire Straits","So Far Away",wantlist
@@ -646,6 +649,7 @@ Deee-lite,"Groove Is In The Heart",collection
 "Don McLean",Vincent,collection
 "Donna Summer","Bad Girls",collection
 "Donna Summer","Could It Be Magic",wantlist
+"Donna Summer","Dinner With Gershwin",collection
 "Donna Summer","Hot Stuff",collection
 "Donna Summer","I Feel Love",collection
 "Donna Summer","Last Dance",collection
@@ -653,6 +657,7 @@ Deee-lite,"Groove Is In The Heart",collection
 "Donna Summer","Love's Unkind",collection
 "Donna Summer","On The Radio",wantlist
 "Donna Summer","She Works Hard For The Money",collection
+"Donna Summer","State Of Independence",collection
 "Donna Summer","This Time I Know It's For Real",collection
 "Donny Osmond","Puppy Love",collection
 Donovan,"Sunshine Superman",wantlist
@@ -718,6 +723,7 @@ Eagles,"Take It To The Limit",collection
 "Eighth Wonder","I'm Not Scared",collection
 "Electric Light Orchestra","Evil Woman",collection
 "Electric Light Orchestra","Livin' Thing",collection
+"Electric Light Orchestra","Mr. Blue Sky",collection
 "Electric Light Orchestra","Sweet Talking Woman",collection
 "Electric Six","Danger! High Voltage",wantlist
 "Electric Six","Gay Bar",wantlist
@@ -801,7 +807,7 @@ Eurythmics,"Sweet Dreams (Are Made Of This)",collection
 Eurythmics,"The Miracle Of Love",collection
 Eurythmics,"There Must Be An Angel",collection
 Eurythmics,"Thorn In My Side",collection
-Eurythmics,"When Tomorrow Comes",wantlist
+Eurythmics,"When Tomorrow Comes",collection
 Eurythmics,"Who's That Girl",collection
 Eurythmics,"Would I Lie To You?",collection
 "Eurythmics and Aretha Franklin","Sisters Are Doin' It For Themselves",collection
@@ -838,6 +844,7 @@ Falco,"Rock Me Amadeus",collection
 "Fleetwood Mac","Little Lies",collection
 "Fleetwood Mac","Need Your Love So Bad",wantlist
 "Fleetwood Mac",Rhiannon,collection
+"Fleetwood Mac","SAY YOU LOVE ME **",wantlist
 "Fleetwood Mac",Sara,collection
 "Fleetwood Mac","Say You Love Me",wantlist
 "Fleetwood Mac",Songbird,collection
@@ -945,7 +952,7 @@ Genesis,"Turn It On Again",collection
 "Gladys Knight & The Pips","Midnight Train To Georgia",collection
 "Gladys Knight & The Pips","The Best Thing That Ever Happened To Me",collection
 "Gladys Knight and The Pips","Midnight Train To Georgia",collection
-"Glenn Frey","The Heat Is On",wantlist
+"Glenn Frey","The Heat Is On",collection
 "Glenn Medeiros","Nothing's Gonna Change My Love For You",collection
 "Gloria Estefan","Anything For You",collection
 "Gloria Estefan","Can't Stay Away From You",collection
@@ -1046,6 +1053,7 @@ INXS,"New Sensation",collection
 "Iggy Pop","Real Wild Child",collection
 "Iggy Pop","The Passenger",collection
 "Ike & Tina Turner","Nutbush City Limits",collection
+"Ike & Tina Turner","Proud Mary",wantlist
 "Ike & Tina Turner","River Deep Mountain High",collection
 "Ike Turner and Tina Turner","Nutbush City Limits",collection
 "Ike Turner and Tina Turner","Proud Mary",wantlist
@@ -1054,7 +1062,7 @@ Imagination,"Body Talk",collection
 Imagination,"Just An Illusion",collection
 Imagination,"Music And Lights",collection
 Indeep,"Last Night A DJ Saved My Life",collection
-"Inner City","Ain't Nobody Better",wantlist
+"Inner City","Ain't Nobody Better",collection
 "Inner City","Big Fun",wantlist
 "Inner City","Good Life",collection
 Inxs,"Bitter Tears",wantlist
@@ -1066,9 +1074,10 @@ Inxs,"Never Tear Us Apart",wantlist
 Inxs,"New Sensation",collection
 Inxs,"Suicide Blonde",collection
 "Inxs and Jimmy Barnes","Good Times",wantlist
-"Irene Cara",Fame,collection
+"Irene Cara",Fame,wantlist
 "Irene Cara","Flashdance... What A Feeling",collection
 "Irene Cara","Flashdance...What A Feeling",collection
+"Iron Maiden","2 Minutes To Midnight",wantlist
 "Iron Maiden","Aces High",wantlist
 "Iron Maiden","Run To The Hills",collection
 "Iron Maiden","The Number Of The Beast",collection
@@ -1172,7 +1181,7 @@ Japan,"Quiet Life",collection
 "Johnny Mathis & Deniece Williams","Too Much, Too Little, Too Late",collection
 "Johnny Nash","I Can See Clearly Now",collection
 "Jon Bon Jovi","Blaze Of Glory",collection
-"Jona Lewie","You'll Always Find Me In The Kitchen At Parties",wantlist
+"Jona Lewie","You'll Always Find Me In The Kitchen At Parties",collection
 "Joni Mitchell","Big Yellow Taxi",collection
 "Joni Mitchell","Both Sides Now",wantlist
 Journey,"Don't Stop Believin'",wantlist
@@ -1237,7 +1246,7 @@ Kiss,"I Was Made For Lovin' You",collection
 "Kool and The Gang",Joanna,collection
 "Kool and The Gang","Ladies Night",collection
 "Kool and The Gang","Summer Madness",collection
-"Kool and The Gang","Take My Heart",wantlist
+"Kool and The Gang","Take My Heart",collection
 Kraftwerk,"The Model",collection
 "Kylie Minogue","Better The Devil You Know",collection
 "Kylie Minogue","Can't Get You Out Of My Head",wantlist
@@ -1363,6 +1372,7 @@ Madonna,Vogue,collection
 Madonna,"Who's That Girl",collection
 "Mai Tai",History,collection
 "Malcolm McLaren","Buffalo Gals",collection
+"Malcolm McLaren","Double Dutch",collection
 "Manfred Mann","Blinded By The Light",collection
 "Manfred Mann","Davy's On The Road Again",collection
 "Manfred Mann's Earth Band","Blinded By The Light",collection
@@ -1471,9 +1481,9 @@ Motorhead,"Ace Of Spades",wantlist
 "Mott The Hoople","All The Young Dudes",collection
 "Mott The Hoople","Roll Away The Stone",collection
 "Mr Mister","Broken Wings",collection
-"Mr Mister",Kyrie,wantlist
+"Mr Mister",Kyrie,collection
 "Mr. Mister","Broken Wings",collection
-"Mr. Mister",Kyrie,wantlist
+"Mr. Mister",Kyrie,collection
 "Musical Youth","Pass The Duchie",collection
 "Nancy Sinatra","These Boots Are Made For Walking",collection
 "Narada Michael Walden","I Shoulda Loved Ya",collection
@@ -1533,7 +1543,7 @@ Odyssey,"Use It Up And Wear It Out",collection
 Omd,"Enola Gay",collection
 Omd,"Forever Live And Die",wantlist
 Omd,"If You Leave",wantlist
-Omd,"Maid Of Orleans",wantlist
+Omd,"Maid Of Orleans",collection
 Omd,Messages,collection
 Omd,"Talking Loud And Clear",collection
 "Orange Juice","Rip It Up",collection
@@ -1579,6 +1589,7 @@ Omd,"Talking Loud And Clear",collection
 "Paula Abdul","Straight Up",collection
 "Peabo Bryson and Roberta Flack","Tonight I Celebrate My Love",collection
 "Peaches & Herb",Reunited,collection
+"Peaches & Herb","Shake Your Groove Thing",wantlist
 "Peaches and Herb","Shake Your Groove Thang",wantlist
 "Pearl Jam",Alive,wantlist
 "Percy Sledge","When A Man Loves A Woman",collection
@@ -1848,7 +1859,7 @@ Shannon,"Let The Music Play",collection
 "Sharon Redd","Can You Handle It",wantlist
 "Sheena Easton","For Your Eyes Only",collection
 "Sheila & B Devotion",Spacer,collection
-"Sheila E","The Belle Of St Mark",wantlist
+"Sheila E","The Belle Of St Mark",collection
 "Shirley Bassey","Diamonds Are Forever",collection
 "Shirley Bassey",Goldfinger,wantlist
 "Shirley Ellis","The Clapping Song",collection
@@ -1868,6 +1879,7 @@ Shannon,"Let The Music Play",collection
 "Simple Minds","Don't You (Forget About Me)",collection
 "Simple Minds","Don't You Forget About Me",collection
 "Simple Minds","Glittering Prize",collection
+"Simple Minds","Love Song",wantlist
 "Simple Minds","Promised You A Miracle",collection
 "Simple Minds","Sanctify Yourself",collection
 "Simple Minds","Sweat In Bullet",wantlist
@@ -1941,7 +1953,7 @@ Spagna,"Call Me",collection
 "Spice Girls","Too Much",wantlist
 "Spice Girls",Wannabe,wantlist
 "Spice Girls","Who Do You Think You Are",wantlist
-"Split Enz","I Got You",collection
+"Split Enz","I Got You",wantlist
 Squeeze,"Another Nail In My Heart",collection
 Squeeze,"Cool For Cats",collection
 Squeeze,Hourglass,wantlist
@@ -2004,6 +2016,7 @@ Stereophonics,"Have A Nice Day",wantlist
 "Stevie Wonder",Masterblaster,collection
 "Stevie Wonder","Part Time Lover",collection
 "Stevie Wonder","Signed Sealed Delivered",wantlist
+"Stevie Wonder","Signed, Sealed, Delivered I'm Yours",wantlist
 "Stevie Wonder","Sir Duke",collection
 "Stevie Wonder",Superstition,collection
 "Stevie Wonder","Yester - You, Yester - Me, Yesterday",collection
@@ -2067,7 +2080,7 @@ Sylvester,"You Make Me Feel (Mighty Real)",collection
 "Talking Heads","Psycho Killer",wantlist
 "Talking Heads","Road To Nowhere",collection
 "Tammy Wynette","Stand By Your Man",collection
-"Tanita Tikaram","Good Tradition",wantlist
+"Tanita Tikaram","Good Tradition",collection
 Tavares,"Don't Take Away The Music",collection
 Tavares,"Heaven Must Be Missing An Angel",collection
 Tavares,"It Only Takes A Minute",wantlist
@@ -2215,6 +2228,7 @@ Texas,"Say What You Want",wantlist
 "The Drifters","Kissin' In The Back Row Of The Movies",collection
 "The Drifters","You're More Than A Number In My Little Red Book",collection
 "The Easybeats","Friday On My Mind",wantlist
+"The Elgins","Heaven Must Have Sent You",wantlist
 "The Emotions","Best Of My Love",collection
 "The Fall","Hit The North",collection
 "The Farm","All Together Now",collection
@@ -2464,6 +2478,7 @@ Texas,"Say What You Want",wantlist
 "Thompson Twins","Doctor Doctor",collection
 "Thompson Twins","Hold Me Now",collection
 "Thompson Twins","Love On Your Side",collection
+"Thompson Twins","You Take Me Up",collection
 "Three Dog Night","Mama Told Me Not To Come",collection
 "Throwing Muses",Dizzy,wantlist
 "Thunderclap Newman","Something In The Air",collection
@@ -2487,7 +2502,7 @@ Tiffany,"I Think We're Alone Now",collection
 "Tom Petty","I Won't Back Down",wantlist
 "Tom Petty",Refugee,collection
 "Tom Robinson","2-4-6-8 Motorway",collection
-"Tom Robinson Band","2-4-6-8 Motorway",collection
+"Tom Robinson Band","2-4-6-8 Motorway",wantlist
 "Tommy James and The Shondells","Mony Mony",collection
 "Tommy Roe",Dizzy,collection
 "Toni Basil",Mickey,collection

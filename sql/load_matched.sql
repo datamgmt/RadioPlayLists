@@ -35,12 +35,12 @@ SET
     )
 WHERE matched_source IS NULL;
 
-UPDATE matches
+UPDATE matched
 SET matched_source = 'wantlist'
 WHERE EXISTS (
     SELECT 1
     FROM collection c
     WHERE LOWER(collection_notes) like '%cracked%'
-    AND c.artist = matches.artist
-    AND c.title = matches.title
+    AND c.artist = matched.artist
+    AND c.title = matched.title
 );

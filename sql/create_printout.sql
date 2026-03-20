@@ -1,6 +1,6 @@
 .mode csv
 .echo off
-.output data/wantlist.csv
+.output data/printout.csv
 
 SELECT
     -- Process artist names

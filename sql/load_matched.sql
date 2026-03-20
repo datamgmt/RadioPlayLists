@@ -9,6 +9,7 @@ INSERT INTO matched (
     matched_source
 )
 SELECT
+    DISTINCT
     m.artist,
     m.title,
     m.matched_source

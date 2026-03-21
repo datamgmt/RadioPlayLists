@@ -6,10 +6,21 @@ DB=${DIR}/db/playlists.db
 
 cd ${DIR}
 
+zparseopts -D -F -K -- \
+   {h,-help}=flag_help \
+   {r,-reset}=flag_reset
+
 (
 
 echo "*************** Start ***************" | tee /dev/stderr
 date  | tee /dev/stderr
+
+
+if (( ${flag_reset} )); then
+  echo "Doing a full refresh"
+  rm -f ${DB}
+  rm -f ${DIR}/data/load_state.json 
+fi
 
 echo "Fetching playlists"
 ${DIR}/bin/python ${DIR}/scripts/rpl.py 

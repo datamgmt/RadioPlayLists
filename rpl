@@ -2,6 +2,7 @@
 
 DIR=`dirname $0`
 EXE=`basename $0`
+DLD='/Users/datamgmt/Downloads'
 DB=${DIR}/db/playlists.db
 
 cd ${DIR}
@@ -9,6 +10,11 @@ cd ${DIR}
 zparseopts -D -F -K -- \
    {h,-help}=flag_help \
    {r,-reset}=flag_reset
+
+if (( ${flag_help} )); then
+    echo "Usage: ${EXE} [-h|--help] [-r|--reset]"
+    exit 0
+fi
 
 (
 
@@ -21,6 +27,22 @@ if (( ${flag_reset} )); then
   rm -f ${DB}
   rm -f ${DIR}/data/load_state.json 
 fi
+
+
+echo "Update discogs data"
+WANTLIST=`ls -t ${DLD}/datamgmt-wantlist* | head -1`
+COLLECTION=`ls -t ${DLD}/datamgmt-collection* | head -1`
+
+if [ -n "${WANTLIST}" ]
+then
+    cp ${WANTLIST} ${DIR}/data/discogs/wantlist.csv
+fi
+
+if [ -n "${COLLECTION}" ]
+then
+    cp ${COLLECTION} ${DIR}/data/discogs/collection.csv
+fi
+
 
 echo "Fetching playlists"
 ${DIR}/bin/python ${DIR}/scripts/rpl.py 

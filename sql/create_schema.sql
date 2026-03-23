@@ -104,3 +104,30 @@ CREATE TABLE IF NOT EXISTS matched (
     matched_source TEXT NOT NULL,
     PRIMARY KEY (artist, title, matched_source)
 );
+
+DROP VIEW IF EXISTS v_playlists;
+
+CREATE VIEW IF NOT EXISTS v_playlists AS
+SELECT
+    country,
+    station,
+    artist,
+    title,
+    -- Convert play_date to ISO format and combine with play_time
+    substr(play_date,8,4) || '-' ||
+    CASE substr(play_date,4,3)
+        WHEN 'Jan' THEN '01'
+        WHEN 'Feb' THEN '02'
+        WHEN 'Mar' THEN '03'
+        WHEN 'Apr' THEN '04'
+        WHEN 'May' THEN '05'
+        WHEN 'Jun' THEN '06'
+        WHEN 'Jul' THEN '07'
+        WHEN 'Aug' THEN '08'
+        WHEN 'Sep' THEN '09'
+        WHEN 'Oct' THEN '10'
+        WHEN 'Nov' THEN '11'
+        WHEN 'Dec' THEN '12'
+    END || '-' ||
+    substr(play_date,1,2) || ' ' || play_time AS play_datetime
+FROM playlists;

@@ -113,3 +113,20 @@ SET
             d.artist = matches.artist
             AND d.title = matches.title
     )
+
+SELECT
+    sc.artist,
+    sc.title,
+    sc.play_count
+FROM song_counts AS sc
+WHERE
+    sc.station = 'absolute80s'
+    AND EXISTS (
+        SELECT 1
+        FROM matched AS m
+        WHERE
+            sc.artist = m.artist
+            AND sc.title = m.title
+            AND m.matched_source = 'wantlist'
+    )
+ORDER BY sc.play_count;

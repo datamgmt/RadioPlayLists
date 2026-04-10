@@ -6,7 +6,7 @@ SELECT
     CAST(
         ROUND(
             100.0 * COUNT(play_count)
-            / SUM(COUNT(play_count)) OVER (PARTITION BY station),
+            / SUM(COUNT(play_count)) OVER(PARTITION BY station),
             1
         ) AS REAL
     ) AS title_count_percentage,
@@ -14,7 +14,7 @@ SELECT
     CAST(
         ROUND(
             100.0 * SUM(play_count)
-            / SUM(SUM(play_count)) OVER (PARTITION BY station),
+            / SUM(SUM(play_count)) OVER(PARTITION BY station),
             1
         ) AS REAL
     ) AS play_count_percentage

@@ -132,10 +132,12 @@ SELECT
     substr(play_date,1,2) || ' ' || play_time AS play_datetime
 FROM playlists;
 
-DROP VIEW IF EXISTS v_80s_analysis;
+DROP VIEW IF EXISTS v_analysis;
 
-CREATE VIEW IF NOT EXISTS v_80s_analysis AS
+CREATE VIEW IF NOT EXISTS v_analysis AS
 SELECT
+    sc.country,
+    sc.station,
     sc.artist,
     sc.title,
     sc.play_count,
@@ -145,8 +147,7 @@ FROM song_counts AS sc,
 WHERE
     sc.artist = m.artist
     AND sc.title = m.title
-    AND sc.country = 'uk'
-    AND sc.station = 'absolute80s'
+    AND sc.station IN (SELECT station FROM stations WHERE validated = 'Y')
 ORDER BY
     sc.artist,
     sc.title;

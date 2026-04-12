@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+cat sql/update_matched.sql| sqlite3 db/playlists.db

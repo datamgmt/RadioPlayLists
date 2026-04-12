@@ -1,5 +1,3 @@
 #!/bin/zsh
 
 cat sql/match_check.sql   | sqlite3 db/playlists.db
-
-cat sql/update_matched.sql| sqlite3 db/playlists.db

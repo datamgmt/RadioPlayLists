@@ -6,9 +6,10 @@ FROM playlists
 WHERE
     country = 'uk'
     AND station = 'absolute80s'
-GROUP BY artist, title
+GROUP BY
+    artist,
+    title
 ORDER BY play_count DESC;
-
 
 SELECT
     p.artist,
@@ -48,3 +49,20 @@ GROUP BY
     m.matched_source
 ORDER BY
     play_count ASC;
+
+SELECT
+    artist,
+    title,
+    play_count
+FROM v_analysis
+WHERE
+    station = 'absolute80s'
+    AND matched_source = 'collection'
+    AND play_count > (
+        SELECT MAX(play_count)
+        FROM v_analysis
+        WHERE
+            matched_source = 'wantlist'
+            AND station = 'absolute80s'
+    )
+ORDER BY play_count DESC, artist ASC, title ASC;

@@ -314,6 +314,7 @@ Blur,"Song 2",wantlist
 "Bob Marley and The Wailers",Jamming,wantlist
 "Bob Marley and The Wailers","No Woman No Cry",collection
 "Bob Marley and The Wailers","One Love",wantlist
+"Bob Marley and The Wailers","Redemption Song",wantlist
 "Bob Marley and The Wailers","Stir It Up",wantlist
 "Bob Marley and The Wailers","Three Little Birds",wantlist
 "Bob Marley and The Wailers","Waiting In Vain",collection
@@ -368,6 +369,7 @@ Bread,"Everything I Own",wantlist
 Bread,"Guitar Man",collection
 Bread,"Make It With You",collection
 Bread,"The Guitar Man",collection
+"Break Machine","Street Dance",collection
 Breathe,"Hands To Heaven",collection
 "Brenda Russell","Piano In The Dark",wantlist
 "Brian Hyland","Sealed With A Kiss",collection
@@ -395,6 +397,7 @@ Bros,"When Will I Be Famous",collection
 "Bryan Adams","(Everything I Do) I Do It For You...",collection
 "Bryan Adams","Can't Stop This Thing",collection
 "Bryan Adams","Can't Stop This Thing We've Started",collection
+"Bryan Adams","Heat Of The Night",wantlist
 "Bryan Adams",Heaven,collection
 "Bryan Adams","Run To You",collection
 "Bryan Adams",Somebody,collection
@@ -413,6 +416,7 @@ Cameo,"Word Up",collection
 "Candi Staton","Nights On Broadway",collection
 "Candi Staton","Suspicious Minds",wantlist
 "Candi Staton","Young Hearts Run Free",collection
+"Candy Flip","Strawberry Fields Forever",collection
 "Canned Heat","On The Road Again",collection
 "Captain & Tennille","Do That To Me One More Time",collection
 "Captain & Tennille","Love Will Keep Us Together",collection
@@ -490,6 +494,7 @@ Chumbawamba,Tubthumping,wantlist
 "Climie Fisher","Love Changes (Everything)",collection
 "Climie Fisher","Love Changes Everything",collection
 Clout,Substitute,collection
+"Club Nouveau","Lean On Me",collection
 "Coldcut and Lisa Stansfield","People Hold On",wantlist
 "Coldcut and Yazz and The Plastic Population","Doctorin' The House",wantlist
 "Coldcut feat. Lisa Stansfield","People Hold On",wantlist
@@ -824,6 +829,7 @@ Erasure,"It Doesn't Have To Be",collection
 Erasure,"Ship Of Fools",collection
 Erasure,Sometimes,collection
 Erasure,Stop,collection
+Erasure,"The Circus",collection
 "Eric Carmen","Hungry Eyes",wantlist
 "Eric Clapton","Behind The Mask",collection
 "Eric Clapton","I Shot The Sheriff",collection
@@ -1130,7 +1136,7 @@ Inxs,"Never Tear Us Apart",wantlist
 Inxs,"New Sensation",collection
 Inxs,"Suicide Blonde",collection
 "Inxs and Jimmy Barnes","Good Times",wantlist
-"Irene Cara",Fame,collection
+"Irene Cara",Fame,wantlist
 "Irene Cara","Flashdance... What A Feeling",collection
 "Irene Cara","Flashdance...What A Feeling",collection
 "Iron Maiden","2 Minutes To Midnight",wantlist
@@ -1583,6 +1589,7 @@ Nena,"99 Red Balloons",collection
 "Nick Lowe","Cruel To Be Kind",collection
 "Nick Lowe","I Love The Sound Of Breaking Glass",collection
 "Nick Straker Band","Leaving On A Midnight Train",collection
+"Nik Kershaw","Dancing Girls",collection
 "Nik Kershaw","I Won't Let The Sun Go Down On Me",collection
 "Nik Kershaw","The Riddle",collection
 "Nik Kershaw","Wouldn't It Be Good",collection
@@ -1653,6 +1660,7 @@ Omd,"Talking Loud And Clear",collection
 "Paul Simon","50 Ways To Leave Your Lover",collection
 "Paul Simon","Boy In The Bubble",collection
 "Paul Simon","Diamonds On The Soles Of Her Shoes",wantlist
+"Paul Simon",Graceland,wantlist
 "Paul Simon","Me And Julio Down By The School Yard",wantlist
 "Paul Simon","Mother And Child Reunion",collection
 "Paul Simon","Slip Slidin' Away",wantlist
@@ -1948,6 +1956,7 @@ Shalamar,"There It Is",collection
 Shamen,"Ebeneezer Goode",collection
 Shamen,"Move Any Mountain",collection
 Shangri-Las,"Leader Of The Pack",collection
+Shannon,"Give Me Tonight",wantlist
 Shannon,"Let The Music Play",collection
 "Sharon Redd","Can You Handle It",wantlist
 "Sheena Easton","For Your Eyes Only",collection
@@ -1965,6 +1974,7 @@ Shannon,"Let The Music Play",collection
 "Simon and Garfunkel","Bridge Over Troubled Water",collection
 "Simon and Garfunkel",Cecilia,wantlist
 "Simon and Garfunkel","Hazy Shade Of Winter",wantlist
+"Simon and Garfunkel","Mrs Robinson",wantlist
 "Simon and Garfunkel","Mrs Robinson *",wantlist
 "Simon and Garfunkel","The Boxer",wantlist
 "Simon and Garfunkel","The Sound Of Silence",wantlist
@@ -2012,6 +2022,7 @@ Sleeper,"Sale Of The Century",wantlist
 "Sly & The Family Stone","Dance To The Music",collection
 "Sly & The Family Stone","Family Affair",collection
 "Sly Fox","Let's Go All The Way",collection
+"Sly and Robbie",Boops,collection
 "Sly and The Family Stone","Dance To The Music",collection
 "Sly and The Family Stone","Family Affair",collection
 "Smokey Robinson","Being With You",collection
@@ -2028,6 +2039,7 @@ Snow,Informer,collection
 "Sonny and Cher","I Got You Babe",collection
 "Sophie Ellis Bextor","Murder On The Dancefloor",collection
 "Sophie Ellis-Bextor","Murder On The Dancefloor",collection
+"Soul II Soul","A Dream's A Dream",collection
 "Soul II Soul","Back To Life",collection
 "Soul II Soul","Keep On Movin'",wantlist
 "Soul II Soul","Keep On Moving",wantlist
@@ -2050,7 +2062,7 @@ Spagna,"Call Me",collection
 "Spice Girls","Too Much",wantlist
 "Spice Girls",Wannabe,wantlist
 "Spice Girls","Who Do You Think You Are",wantlist
-"Split Enz","I Got You",collection
+"Split Enz","I Got You",wantlist
 Squeeze,"Another Nail In My Heart",collection
 Squeeze,"Cool For Cats",collection
 Squeeze,Hourglass,wantlist
@@ -2421,6 +2433,7 @@ Texas,"Say What You Want",wantlist
 "The Pasadenas","I'm Doing Fine Now",collection
 "The Pasadenas","Tribute (Right On)",collection
 "The Passions","I'm In Love With A German Film Star",collection
+"The Pogues","The Irish Rover",collection
 "The Pointer Sisters",Automatic,collection
 "The Pointer Sisters","I'm So Excited",collection
 "The Pointer Sisters","Jump (For My Love)",collection
@@ -2450,6 +2463,7 @@ Texas,"Say What You Want",wantlist
 "The Primitives",Crash,collection
 "The Proclaimers","I'm Gonna Be",wantlist
 "The Proclaimers","Letter From America",collection
+"The Psychedelic Furs",Heaven,wantlist
 "The Psychedelic Furs","Pretty In Pink",wantlist
 "The Real Thing","Can You Feel The Force",collection
 "The Real Thing","Can You Feel The Force?",collection
@@ -2483,6 +2497,7 @@ Texas,"Say What You Want",wantlist
 "The Rolling Stones","You Can't Always Get What You Want",collection
 "The S.O.S Band","Just Be Good To Me",wantlist
 "The S.O.S Band","The Finest",collection
+"The S.O.S. Band","Just Be Good To Me",wantlist
 "The Searchers","Needles & Pins",collection
 "The Selecter","On My Radio",collection
 "The Skids","Into The Valley",collection
@@ -2667,6 +2682,7 @@ UB40,"Kingston Town",collection
 UB40,"Red Red Wine",collection
 "UB40 & Chrissie Hynde","I Got You Babe",collection
 "UB40 and Chrissie Hynde","I Got You Babe",collection
+Ub40,"Cherry Oh Baby",collection
 Ub40,"Don't Break My Heart",collection
 Ub40,"Food For Thought",collection
 Ub40,"If It Happens Again",collection
@@ -2703,6 +2719,7 @@ War,"Low Rider",collection
 "Was Not Was","Shake Your Head",collection
 "Was Not Was","Walk The Dinosaur",collection
 Wax,"Bridge To Your Heart",collection
+"Weather Girls","It's Raining Men",collection
 "West End feat. Sybil","The Love I Lost",collection
 "Wet Wet Wet","Angel Eyes",collection
 "Wet Wet Wet","Angel Eyes (Home and Away)",collection

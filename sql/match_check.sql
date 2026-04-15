@@ -52,7 +52,7 @@ SELECT
     sum(m.matched_source = 'wantlist') AS wantlist,
     sum(m.matched_source = 'no vinyl') AS no_vinyl,
     sum(1) AS total,
-    100 * sum(m.matched_source = 'collection') / sum(1) AS percentage
+    100 * sum(m.matched_source = 'collection') / sum(1) AS pct_collection
 FROM v_playlists AS v,
     matched AS m
 WHERE

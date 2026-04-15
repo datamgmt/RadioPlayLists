@@ -60,7 +60,7 @@ WHERE
     AND v.station = 'absolute80s'
     AND v.artist = m.artist
     AND v.title = m.title
-    AND play_datetime >= datetime('now', '-7 days')
+    AND play_datetime >= date('now', '-7 days')
 GROUP BY
     date(v.play_datetime)
 ORDER BY

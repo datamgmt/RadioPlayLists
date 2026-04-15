@@ -45,3 +45,23 @@ GROUP BY
     country,
     station,
     matched_source;
+
+SELECT
+    date(v.play_datetime) AS date,
+    sum(m.matched_source = 'collection') AS collection,
+    sum(m.matched_source = 'wantlist') AS wantlist,
+    sum(m.matched_source = 'no vinyl') AS no_vinyl,
+    sum(1) AS total,
+    100 * sum(m.matched_source = 'collection') / sum(1) AS percentage
+FROM v_playlists AS v,
+    matched AS m
+WHERE
+    v.country = 'uk'
+    AND v.station = 'absolute80s'
+    AND v.artist = m.artist
+    AND v.title = m.title
+    AND play_datetime >= datetime('now', '-7 days')
+GROUP BY
+    date(v.play_datetime)
+ORDER BY
+    date(v.play_datetime);

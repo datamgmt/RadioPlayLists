@@ -17,8 +17,8 @@ OR   m.match_score is NULL)
 and  m.matched_source is not null
 ;
 
-.mode csv
 .echo off
+.mode csv
 .output data/matched/matched.csv
 
 SELECT 
@@ -34,5 +34,5 @@ order by
 ;
 
 .output
-.echo on
 .mode column
+.echo on

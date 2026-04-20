@@ -1,3 +1,5 @@
 #!/bin/zsh
 
 cat sql/update_matched.sql| sqlite3 db/playlists.db
+
+cat sql/save_wantlist.sql| sqlite3 db/playlists.db

@@ -1,0 +1,197 @@
+artist                                       title                                    play_count
+-------------------------------------------  ---------------------------------------  ----------
+A Flock Of Seagulls                          I Ran                                    2         
+A-Ha                                         Hunting High And Low                     18        
+A-Ha                                         Touchy                                   2         
+Abba                                         Head Over Heels                          1         
+Abba                                         Lay All Your Love On Me                  1         
+Aerosmith                                    Love In An Elevator                      31        
+Bad Manners                                  Lip Up Fatty                             1         
+Bad Manners                                  Ne-ne Na-na Na-na Nu-nu                  1         
+Beloved                                      The Sun Rising                           1         
+Big Country                                  Fields Of Fire                           23        
+Billy Idol                                   Eyes Without A Face                      2         
+Billy Joel                                   An Innocent Man                          2         
+Billy Joel                                   The Longest Time                         1         
+Bob Marley and The Wailers                   Could You Be Loved                       39        
+Bob Marley and The Wailers                   One Love                                 29        
+Bob Marley and The Wailers                   Three Little Birds                       14        
+Bobby Brown                                  Every Little Step                        4         
+Bodysnatchers                                Let's Do Rock Steady                     1         
+Bon Jovi                                     You Give Love A Bad Name                 28        
+Bon Jovi                                     Bad Medicine                             25        
+Brenda Russell                               Piano In The Dark                        1         
+Bruce Springsteen                            Hungry Heart                             15        
+Bruce Springsteen                            Born In The USA                          1         
+Bryan Adams                                  Heat Of The Night                        1         
+Bryan Ferry                                  Slave To Love                            2         
+Christopher Cross                            Ride Like The Wind                       3         
+Clash                                        Should I Stay Or Should I Go             27        
+Clash                                        I Fought The Law                         2         
+Classix Nouveaux                             Tokyo                                    1         
+Coldcut and Lisa Stansfield                  People Hold On                           4         
+Coldcut and Yazz and The Plastic Population  Doctorin' The House                      1         
+Crowded House                                Don't Dream It's Over                    28        
+Cure                                         Just Like Heaven                         20        
+Cure                                         In Between Days                          17        
+Cure                                         Boys Don't Cry                           7         
+Cure                                         Why Can't I Be You                       3         
+Cure                                         Lullaby                                  2         
+Cure                                         The Caterpillar                          1         
+Cyndi Lauper                                 I Drove All Night                        23        
+Daryl Hall and John Oates                    You Make My Dreams                       26        
+De La Soul                                   Say No Go                                1         
+Deacon Blue                                  Dignity                                  36        
+Deacon Blue                                  Wages Day                                3         
+Deacon Blue                                  Chocolate Girl                           2         
+Deacon Blue                                  Queen Of The New Year                    1         
+Debbie Gibson                                Only In My Dreams                        1         
+Def Leppard                                  Hysteria                                 24        
+Def Leppard                                  Love Bites                               2         
+Depeche Mode                                 Everything Counts                        45        
+Depeche Mode                                 Personal Jesus                           22        
+Depeche Mode                                 Shake The Disease                        3         
+Dire Straits                                 So Far Away                              3         
+Dream Academy                                Life In A Northern Town                  21        
+Duran Duran                                  New Moon On Monday                       1         
+Echo and The Bunnymen                        The Killing Moon                         53        
+Echo and The Bunnymen                        The Back Of Love                         1         
+Edie Brickell and The New Bohemians          What I Am                                26        
+Elo                                          All Over The World                       4         
+Elvis Costello                               Everyday I Write The Book                1         
+Elvis Costello                               High Fidelity                            1         
+Eric Carmen                                  Hungry Eyes                              20        
+Eurythmics                                   Missionary Man                           3         
+Fleetwood Mac                                Everywhere                               36        
+Fleetwood Mac                                Gypsy                                    1         
+Four Tops                                    Loco In Acapulco                         4         
+Furniture                                    Brilliant Mind                           3         
+Gary Moore                                   Over The Hills And Far Away              1         
+Genesis                                      Tonight Tonight Tonight                  2         
+Georgia Satellites                           Battleship Chains                        1         
+Girlschool                                   Hit And Run                              1         
+Gloria Estefan and Miami Sound Machine       Get On Your Feet                         6         
+Gloria Estefan and Miami Sound Machine       Rhythm Is Gonna Get You                  3         
+Grandmaster Flash                            The Message                              18        
+Hall and Oates                               Out Of Touch                             28        
+Heart                                        These Dreams                             23        
+Heart                                        Never                                    5         
+Heart                                        What About Love                          1         
+Howard Jones                                 Look Mama                                1         
+Huey Lewis and The News                      Back In Time                             1         
+Huey Lewis and The News                      If This Is It                            1         
+Inner City                                   Big Fun                                  1         
+Inxs                                         Never Tear Us Apart                      2         
+Inxs and Jimmy Barnes                        Good Times                               3         
+Janet Jackson                                Rhythm Nation                            4         
+John Lennon                                  Nobody Told Me                           1         
+John Lennon                                  Watching The Wheels                      1         
+Johnny Hates Jazz                            Turn Back The Clock                      1         
+Journey                                      Don't Stop Believin'                     46        
+Judas Priest                                 Living After Midnight                    1         
+Julian Cope                                  World Shut Your Mouth                    4         
+Keith Sweat                                  I Want Her                               1         
+Killing Joke                                 Love Like Blood                          1         
+Lightning Seeds                              Pure                                     25        
+Lionel Richie                                Running With The Night                   3         
+Lloyd Cole                                   Perfect Skin                             14        
+Lloyd Cole                                   Brand New Friend                         3         
+Lotus Eaters                                 First Picture Of You                     1         
+Luther Vandross                              Never Too Much                           22        
+Madness                                      It Must Be Love                          22        
+Madness                                      Tomorrow's Just Another Day              1         
+Madonna                                      Cherish                                  15        
+Madonna                                      Open Your Heart                          13        
+Matt Bianco                                  Get Out Of Your Lazy Bed                 1         
+Michael Jackson                              Billie Jean                              40        
+Michael Jackson                              Another Part Of Me                       1         
+Mike and the Mechanics                       All I Need Is A Miracle                  18        
+New Order                                    Bizarre Love Triangle                    4         
+Olivia Newton John                           Landslide                                1         
+Omd                                          Forever Live And Die                     19        
+Omd                                          If You Leave                             1         
+Pat Benatar                                  Love Is A Battlefield                    47        
+Pat Benatar                                  Hit Me With Your Best Shot               17        
+Paul Simon                                   Diamonds On The Soles Of Her Shoes       2         
+Paul Simon                                   Graceland                                1         
+Perfect Day                                  Jane                                     1         
+Pointer Sisters                              Neutron Dance                            3         
+Poison                                       Every Rose Has Its Thorn                 3         
+Police                                       Synchronicity Ii                         1         
+Prefab Sprout                                Nightingales                             1         
+Prefab Sprout                                When Love Breaks Down                    1         
+Pretenders                                   Don't Get Me Wrong                       36        
+Prince                                       Let's Go Crazy                           29        
+Prince                                       I Would Die 4 U                          1         
+Proclaimers                                  I'm Gonna Be                             38        
+Psychedelic Furs                             Pretty In Pink                           26        
+Psychedelic Furs                             Heaven                                   1         
+Queen                                        Hammer To Fall                           18        
+Queen                                        Who Wants To Live Forever                1         
+R.E.M                                        Stand.                                   16        
+REO Speedwagon                               Can't Fight This Feeling                 44        
+Ramones                                      Baby I Love You                          5         
+Rebel MC                                     Street Tuff                              4         
+Red Box                                      Lean On Me                               2         
+Rick James                                   Superfreak                               5         
+River Detectives                             Chains                                   1         
+Robert Palmer                                Johnny & Mary                            43        
+Roxette                                      Dressed For Success                      22        
+Rush                                         Tom Sawyer                               1         
+S.O.S. Band                                  Just Be Good To Me                       1         
+Sade                                         The Sweetest Taboo                       1         
+Shannon                                      Give Me Tonight                          1         
+Simple Minds                                 Up On The Catwalk                        3         
+Simple Minds                                 Love Song                                2         
+Simple Minds                                 Belfast Child                            1         
+Simple Minds                                 Sweat In Bullet                          1         
+Simply Red                                   A New Flame                              20        
+Smiths                                       Heaven Knows I'm Miserable Now           18        
+Smiths                                       How Soon Is Now?                         18        
+Smiths                                       This Charming Man                        18        
+Smiths                                       Ask                                      15        
+Smiths                                       What Difference Does It Make             5         
+Smiths                                       The Boy With A Thorn In His Side         3         
+Smiths                                       There Is A Light That Never Goes Out     2         
+Smiths                                       William, It Was Really Nothing           2         
+Smiths                                       Stop Me If You've Heard This One Before  1         
+Smiths                                       That Joke Isn't Funny Anymore            1         
+Soul II Soul                                 Keep On Moving                           22        
+Specials                                     Ghost Town                               31        
+Specials                                     Too Much Too Young                       17        
+Specials                                     A Message To You Rudy                    1         
+Squeeze                                      Hourglass                                3         
+Steve Winwood                                Valerie                                  45        
+Stevie Nicks                                 Edge Of Seventeen                        3         
+Stevie Nicks                                 Rooms On Fire                            3         
+Stiff Little Fingers                         Nobody's Hero                            1         
+Stone Roses                                  What The World Is Waiting For            1         
+Stranglers                                   All Day And All Of The Night             2         
+Stranglers                                   Always The Sun                           1         
+Style Council                                You're The Best Thing                    23        
+Style Council                                It Didn't Matter                         1         
+Suzi Quatro                                  Mama's Boy                               1         
+Talk Talk                                    It's My Life                             46        
+Talking Heads                                Burning Down The House                   4         
+Tears For Fears                              Mothers Talk                             1         
+Tears For Fears                              Woman In Chains                          1         
+Thomas Dolby                                 Hyperactive                              4         
+Throwing Muses                               Dizzy                                    2         
+Tom Petty                                    Free Falling                             45        
+Tone Loc                                     Wild Thing                               1         
+Tracey Ullman                                My Guy                                   1         
+Tracy Chapman                                Baby Can I Hold You                      8         
+Tracy Chapman                                Talkin' 'bout A Revolution               6         
+U2                                           Gloria                                   1         
+Ultravox                                     Hymn                                     3         
+Ultravox                                     Visions In Blue                          1         
+Usa For Africa                               We Are The World                         1         
+Wet Wet Wet                                  Temptation                               1         
+Whitney Houston                              So Emotional                             49        
+Who                                          You Better You Bet                       3         
+World Party                                  Message In The Box                       1         
+Yazoo                                        Situation                                3         
+Yazz and The Plastic Population              Fine Time                                1         
+Yello                                        Oh Yeah                                  1         
+ZZ Top                                       Legs                                     4         
+Ziggy Marley and The Melody Makers           Tomorrow People                          1         

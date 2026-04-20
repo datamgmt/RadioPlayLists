@@ -163,6 +163,7 @@ Baccara,"Yes Sir, I Can Boogie",collection
 "Bad Company","Feel Like Makin' Love",collection
 "Bad Manners","Just A Feeling",collection
 "Bad Manners","Lip Up Fatty",wantlist
+"Bad Manners","Ne-ne Na-na Na-na Nu-nu",wantlist
 "Bad Manners","Special Brew",collection
 Bananarama,"I Heard A Rumour",collection
 Bananarama,"Love In The First Degree",collection
@@ -386,6 +387,7 @@ Bros,"When Will I Be Famous",collection
 "Brothers Johnson","Strawberry Letter #23",wantlist
 "Bruce Hornsby","The Way It Is",collection
 "Bruce Hornsby And The Range","The Way It Is",collection
+"Bruce Springsteen","Born In The USA",wantlist
 "Bruce Springsteen","Born To Run",collection
 "Bruce Springsteen","Brilliant Disguise",collection
 "Bruce Springsteen","Cover Me",collection
@@ -422,6 +424,7 @@ Cameo,"Word Up",collection
 "Captain & Tennille","Do That To Me One More Time",collection
 "Captain & Tennille","Love Will Keep Us Together",collection
 "Captain Sensible","Happy Talk",collection
+"Captain and Tennille","Do That To Me One More Time",collection
 "Carl Douglas","Kung Fu Fighting",collection
 "Carly Simon","Coming Around Again",collection
 "Carly Simon","Nobody Does It Better",collection
@@ -643,6 +646,7 @@ Deee-lite,"Groove Is In The Heart",collection
 "Desmond Dekker","You Can Get It If You Really Want",collection
 "Desmond Dekker","You Can Get It If You Really Want It",wantlist
 "Detroit Spinners","Could It Be I'm Falling In Love",collection
+"Detroit Spinners","Working My Way Back To You",collection
 "Dexy's Midnight Runners","Come on Eileen",collection
 "Dexys Midnight Runners","Come On Eileen",collection
 "Dexys Midnight Runners",Geno,collection
@@ -807,6 +811,7 @@ Elo,"Turn To Stone",collection
 "Elton John","Your Song",wantlist
 "Elton John and Kiki Dee","Don't Go Breaking My Heart",collection
 "Elvis Costello","Accidents Will Happen",collection
+"Elvis Costello","Everyday I Write The Book",wantlist
 "Elvis Costello","High Fidelity",wantlist
 "Elvis Costello","I Don't Want To Go To Chelsea",collection
 "Elvis Costello","Oliver's Army",collection
@@ -1092,6 +1097,7 @@ Hipsway,"The Honeythief",collection
 "Hothouse Flowers","Don't Go",collection
 "House Of Love","Shine On",collection
 "Howard Jones","Like To Get To Know You Well",collection
+"Howard Jones","Look Mama",wantlist
 "Howard Jones","New Song",collection
 "Howard Jones","No One Is To Blame",collection
 "Howard Jones","Pearl In The Shell",collection
@@ -1260,6 +1266,7 @@ Journey,"Don't Stop Believin'",wantlist
 "Joy Division","Love Will Tear Us Apart",collection
 "Joyce Sims","Come Into My Life",collection
 "Judas Priest","Breaking The Law",collection
+"Judas Priest","Living After Midnight",wantlist
 "Judie Tzuke","Stay With Me 'Til Dawn",collection
 "Julian Cope",Trampolene,collection
 "Julian Cope","World Shut Your Mouth",wantlist
@@ -1420,6 +1427,7 @@ Madness,"House Of Fun",collection
 Madness,"It Must Be Love",wantlist
 Madness,"Michael Caine",collection
 Madness,"My Girl",collection
+Madness,"Night Boat To Cairo",collection
 Madness,"One Step Beyond",collection
 Madness,"Our House",collection
 Madness,"The Prince",collection
@@ -1760,12 +1768,14 @@ Pretenders,"Brass In Pocket",collection
 Pretenders,"Don't Get Me Wrong",wantlist
 Prince,1999,collection
 Prince,"Alphabet Street",collection
+Prince,"I Would Die 4 U",wantlist
 Prince,Kiss,collection
 Prince,"Let's Go Crazy",wantlist
 Prince,"Little Red Corvette",collection
 Prince,"Purple Rain",collection
 Prince,"Raspberry Beret",collection
 Prince,"Sign O' The Times",collection
+Prince,"Take Me With U",collection
 Prince,"U Got The Look",collection
 Prince,"When Doves Cry",collection
 Princess,"Say I'm Your No. 1",collection
@@ -1917,6 +1927,7 @@ Roxette,"The Look",collection
 "Roy Orbison","You Got It",collection
 "Rufus & Chaka Khan","Ain't Nobody",collection
 "Rufus and Chaka Khan","Ain't Nobody",collection
+"Rupert Holmes",Him,collection
 Rush,"Spirit Of Radio",collection
 Rush,"Tom Sawyer",wantlist
 "S Express","Hey Music Lover",collection
@@ -1942,6 +1953,7 @@ Santana,"She's Not There",collection
 "Savage Garden","To The Moon And Back",wantlist
 "Savage Garden","Truly Madly Deeply",wantlist
 "Savage Garden","Truly, Madly, Deeply",wantlist
+Saxon,747,collection
 "Scissor Sisters","I Don't Feel Like Dancin'",wantlist
 Scorpions,"Wind Of Change",wantlist
 "Scritti Politti",Absolute,collection
@@ -2087,6 +2099,7 @@ Starship,"We Built This City",collection
 "Status Quo",Caroline,collection
 "Status Quo","Down Down",collection
 "Status Quo","In The Army Now",collection
+"Status Quo","LIVING ON AN ISLAND **",collection
 "Status Quo","Paper Plane",collection
 "Status Quo","Pictures of Matchstick Men",collection
 "Status Quo","Rockin' All Over The World",collection
@@ -2165,6 +2178,7 @@ Survivor,"Eye Of The Tiger",collection
 "Suzanne Vega and Dna","Tom's Diner",collection
 "Suzi Quatro","Can The Can",collection
 "Suzi Quatro","Devil Gate Drive",collection
+"Suzi Quatro","Mama's Boy",wantlist
 "Swing Out Sister",Breakout,collection
 Sybil,"When I'm Good and Ready",collection
 "Sydney Youngblood","If Only I Could",collection
@@ -2213,6 +2227,7 @@ Tavares,"More Than A Woman",collection
 "Tears For Fears","Everybody Wants To Rule The World.",collection
 "Tears For Fears","Head Over Heels",collection
 "Tears For Fears","Mad World",collection
+"Tears For Fears","Mothers Talk",wantlist
 "Tears For Fears","Pale Shelter",collection
 "Tears For Fears",Shout,collection
 "Tears For Fears","Sowing The Seeds Of Love",collection
@@ -2418,6 +2433,7 @@ Texas,"Say What You Want",wantlist
 "The Knack","My Sharona",collection
 "The Kooks","She Moves In Her Own Way",wantlist
 "The Korgis","Everybody's Got To Learn Sometime",collection
+"The Lambrettas","Poison Ivy",collection
 "The Libertines","Don't Look Back Into The Sun",wantlist
 "The Lightning Seeds",Pure,wantlist
 "The Lightning Seeds","The Life Of Riley",wantlist
@@ -2586,6 +2602,8 @@ Texas,"Say What You Want",wantlist
 "The Undertones","Jimmy Jimmy",collection
 "The Undertones","My Perfect Cousin",collection
 "The Undertones","Teenage Kicks",collection
+"The Undertones","Wednesday Week",collection
+"The Vapors","Turning Japanese",collection
 "The Verve","Bittersweet Symphony","no single"
 "The Village People","Go West",collection
 "The Village People",Ymca,collection
@@ -2707,6 +2725,7 @@ Ultravox,Hymn,wantlist
 Ultravox,Vienna,collection
 Ultravox,"Visions In Blue",wantlist
 Undercover,"Baker Street",collection
+"Usa For Africa","We Are The World",wantlist
 "Utah Saints","Something Good",collection
 "Van Halen",Jump,collection
 "Van Halen","Why Can't This Be Love",collection

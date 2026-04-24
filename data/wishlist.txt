@@ -48,13 +48,11 @@ Deacon Blue                                  Queen Of The New Year              
 Debbie Gibson                                Only In My Dreams                               1         
 Def Leppard                                  Hysteria                                        26        
 Def Leppard                                  Love Bites                                      2         
-Depeche Mode                                 Everything Counts                               48        
 Depeche Mode                                 Personal Jesus                                  24        
 Depeche Mode                                 Shake The Disease                               3         
 Dire Straits                                 So Far Away                                     3         
 Dream Academy                                Life In A Northern Town                         22        
 Duran Duran                                  New Moon On Monday                              1         
-Echo and The Bunnymen                        The Killing Moon                                56        
 Echo and The Bunnymen                        The Back Of Love                                1         
 Edie Brickell and The New Bohemians          What I Am                                       28        
 Elo                                          All Over The World                              4         
@@ -161,11 +159,9 @@ Smiths                                       William, It Was Really Nothing     
 Smiths                                       Please, Please, Please, Let Me Get What I Want  1         
 Smiths                                       That Joke Isn't Funny Anymore                   1         
 Soul II Soul                                 Keep On Moving                                  23        
-Specials                                     Ghost Town                                      33        
 Specials                                     Too Much Too Young                              19        
 Specials                                     A Message To You Rudy                           1         
 Squeeze                                      Hourglass                                       3         
-Steve Winwood                                Valerie                                         47        
 Stevie Nicks                                 Edge Of Seventeen                               4         
 Stevie Nicks                                 Rooms On Fire                                   3         
 Stiff Little Fingers                         Nobody's Hero                                   1         
@@ -191,7 +187,6 @@ Ultravox                                     Hymn                               
 Ultravox                                     Visions In Blue                                 1         
 Usa For Africa                               We Are The World                                1         
 Wet Wet Wet                                  Temptation                                      1         
-Whitney Houston                              So Emotional                                    52        
 Who                                          You Better You Bet                              3         
 World Party                                  Message In The Box                              1         
 Yazoo                                        Situation                                       5         

@@ -67,13 +67,15 @@ UPDATE matches
 SET matched_source = 'no single'
 WHERE
     station IN (SELECT station FROM stations WHERE validated = 'Y')
+    AND matched_source IS null
     AND id IN (###)
     AND id < 25000;
     
 UPDATE matches SET matched_source = 'collection'
 WHERE
     station IN (SELECT station FROM stations WHERE validated = 'Y')
-    AND id IN (###)
+    AND matched_source IS null
+    AND id IN (13851)
     AND id < 25000;
 
 UPDATE matches

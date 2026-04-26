@@ -25,20 +25,14 @@ SELECT
     station,
     matched_source,
     COUNT(play_count) AS title_count,
-    CAST(
-        ROUND(
-            100.0 * COUNT(play_count)
-            / SUM(COUNT(play_count)) OVER(PARTITION BY station),
-            1
-        ) AS REAL
+    ROUND(
+        100.0 * COUNT(play_count)
+        / SUM(COUNT(play_count)) OVER(PARTITION BY station), 2
     ) AS title_count_percentage,
     SUM(play_count) AS play_count,
-    CAST(
-        ROUND(
-            100.0 * SUM(play_count)
-            / SUM(SUM(play_count)) OVER(PARTITION BY station),
-            1
-        ) AS REAL
+    ROUND(
+        100.0 * SUM(play_count)
+        / SUM(SUM(play_count)) OVER(PARTITION BY station), 2
     ) AS play_count_percentage
 FROM v_analysis
 GROUP BY
@@ -52,20 +46,14 @@ SELECT
     sum(m.matched_source = 'wantlist') AS wantlist,
     sum(m.matched_source = 'no vinyl') AS no_vinyl,
     sum(1) AS total,
-    CAST(
-        ROUND(
-            100.0 * sum(m.matched_source = 'collection') / sum(1) 
-        ) AS REAL
-    ) AS pct_collection,
-    CAST(
-        ROUND(
-            100.0 * sum(m.matched_source = 'wantlist') / sum(1) 
-        ) AS REAL
+    ROUND(
+        100.0 * sum(m.matched_source = 'collection') / sum(1), 2 
+    )AS pct_collection,
+    ROUND(
+        100.0 * sum(m.matched_source = 'wantlist') / sum(1), 2 
     ) AS pct_wantlist,
-    CAST(
-        ROUND(
-            100.0 * sum(m.matched_source = 'no vinyl') / sum(1) 
-        ) AS REAL
+    ROUND(
+        100.0 * sum(m.matched_source = 'no vinyl') / sum(1), 2 
     ) AS pct_no_vinyl
 FROM v_playlists AS v,
     matched AS m
@@ -79,3 +67,23 @@ GROUP BY
     date(v.play_datetime)
 ORDER BY
     date(v.play_datetime);
+
+WITH daily AS (
+    SELECT
+        date(v.play_datetime) AS date,
+        ROUND(
+            100.0 * sum(m.matched_source = 'collection') / sum(1), 2
+        ) AS pct_collection
+    FROM v_playlists AS v
+    JOIN matched AS m
+        ON v.artist = m.artist
+       AND v.title = m.title
+    WHERE
+        v.country = 'uk'
+        AND v.station = 'absolute80s'
+    GROUP BY date(v.play_datetime)
+)
+SELECT *
+FROM daily
+WHERE pct_collection = (SELECT MAX(pct_collection) FROM daily)
+ORDER BY date;

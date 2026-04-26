@@ -1,3 +1,11 @@
+.shell tput clear
+
+.header off
+select 'Station statistics
+
+';
+.header on
+
 SELECT
     country,
     station,
@@ -22,6 +30,12 @@ GROUP BY
     station,
     matched_source;
     
+.header off
+select '
+Absolute 80s Last 7 days
+
+';
+.header on
 
 SELECT
     date(v.play_datetime) AS date,
@@ -54,6 +68,13 @@ GROUP BY
     date(v.play_datetime)
 ORDER BY
     date(v.play_datetime);
+
+.header off
+select '
+Absolute 80s Best Day
+
+';
+.header on
     
 WITH daily AS (
     SELECT
@@ -76,3 +97,5 @@ SELECT
 FROM daily
 WHERE pct_collection = (SELECT MAX(pct_collection) FROM daily)
 ORDER BY date;    
+
+.shell echo ""

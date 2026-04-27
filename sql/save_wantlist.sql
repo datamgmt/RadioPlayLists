@@ -20,6 +20,7 @@ WHERE
     )
 ORDER BY
     (CASE WHEN sc.artist LIKE 'The %' THEN SUBSTR(sc.artist, 5) ELSE sc.artist END),
+    sc.title asc,
     sc.play_count desc;
     
 .output

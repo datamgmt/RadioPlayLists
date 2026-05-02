@@ -12,7 +12,6 @@ Bad Manners                                  Ne-ne Na-na Na-na Nu-nu            
 Beloved                                      The Sun Rising                                  1         
 Big Country                                  Fields Of Fire                                  28        
 Billy Idol                                   Eyes Without A Face                             3         
-Billy Joel                                   An Innocent Man                                 2         
 Billy Joel                                   The Longest Time                                1         
 Bob Marley and The Wailers                   Could You Be Loved                              47        
 Bob Marley and The Wailers                   One Love                                        33        
@@ -38,14 +37,12 @@ Cure                                         Just Like Heaven                   
 Cure                                         Lullaby                                         3         
 Cure                                         The Caterpillar                                 1         
 Cure                                         Why Can't I Be You                              3         
-Cyndi Lauper                                 I Drove All Night                               26        
 Daryl Hall and John Oates                    You Make My Dreams                              31        
 De La Soul                                   Me Myself & I                                   1         
 De La Soul                                   Say No Go                                       1         
 Deacon Blue                                  Chocolate Girl                                  3         
 Deacon Blue                                  Dignity                                         43        
 Deacon Blue                                  Queen Of The New Year                           2         
-Deacon Blue                                  Wages Day                                       3         
 Debbie Gibson                                Only In My Dreams                               1         
 Def Leppard                                  Hysteria                                        29        
 Def Leppard                                  Love Bites                                      3         
@@ -53,7 +50,6 @@ Depeche Mode                                 Personal Jesus                     
 Depeche Mode                                 Shake The Disease                               3         
 Dire Straits                                 So Far Away                                     3         
 Dream Academy                                Life In A Northern Town                         26        
-Duran Duran                                  New Moon On Monday                              1         
 Echo and The Bunnymen                        The Back Of Love                                1         
 Edie Brickell and The New Bohemians          What I Am                                       31        
 Elo                                          All Over The World                              5         
@@ -69,7 +65,6 @@ Furniture                                    Brilliant Mind                     
 Gary Moore                                   Over The Hills And Far Away                     1         
 Genesis                                      Tonight Tonight Tonight                         2         
 Georgia Satellites                           Battleship Chains                               1         
-Girlschool                                   Hit And Run                                     1         
 Gloria Estefan and Miami Sound Machine       Get On Your Feet                                6         
 Gloria Estefan and Miami Sound Machine       Rhythm Is Gonna Get You                         4         
 Grandmaster Flash                            The Message                                     21        
@@ -79,7 +74,6 @@ Heart                                        These Dreams                       
 Heart                                        What About Love                                 1         
 Howard Jones                                 Look Mama                                       1         
 Huey Lewis and The News                      Back In Time                                    1         
-Huey Lewis and The News                      If This Is It                                   2         
 Inner City                                   Big Fun                                         2         
 Inxs                                         Never Tear Us Apart                             2         
 Inxs and Jimmy Barnes                        Good Times                                      5         
@@ -97,19 +91,14 @@ Lightning Seeds                              Pure                               
 Lionel Richie                                Running With The Night                          4         
 Lloyd Cole                                   Brand New Friend                                3         
 Lloyd Cole                                   Perfect Skin                                    17        
-Lotus Eaters                                 First Picture Of You                            1         
 Luther Vandross                              Never Too Much                                  25        
 Madness                                      It Must Be Love                                 26        
 Madness                                      Tomorrow's Just Another Day                     2         
 Madonna                                      Cherish                                         18        
 Madonna                                      Open Your Heart                                 14        
-Matt Bianco                                  Get Out Of Your Lazy Bed                        1         
-Michael Jackson                              Another Part Of Me                              2         
 Michael Jackson                              Billie Jean                                     46        
 Mike and the Mechanics                       All I Need Is A Miracle                         21        
-Natalie Cole                                 Miss You Like Crazy                             1         
 New Order                                    Bizarre Love Triangle                           5         
-Olivia Newton John                           Landslide                                       1         
 Omd                                          Forever Live And Die                            22        
 Omd                                          If You Leave                                    1         
 Pat Benatar                                  Hit Me With Your Best Shot                      21        
@@ -122,7 +111,6 @@ Poison                                       Every Rose Has Its Thorn           
 Police                                       Synchronicity Ii                                1         
 Prefab Sprout                                Nightingales                                    1         
 Prefab Sprout                                When Love Breaks Down                           1         
-Pretenders                                   Don't Get Me Wrong                              45        
 Prince                                       Controversy                                     1         
 Prince                                       I Would Die 4 U                                 1         
 Prince                                       Let's Go Crazy                                  38        
@@ -148,7 +136,6 @@ Shannon                                      Give Me Tonight                    
 Simple Minds                                 Belfast Child                                   1         
 Simple Minds                                 Love Song                                       3         
 Simple Minds                                 Sweat In Bullet                                 1         
-Simple Minds                                 Up On The Catwalk                               3         
 Smiths                                       Ask                                             19        
 Smiths                                       Heaven Knows I'm Miserable Now                  20        
 Smiths                                       How Soon Is Now?                                22        
@@ -170,7 +157,6 @@ Stiff Little Fingers                         Nobody's Hero                      
 Stone Roses                                  What The World Is Waiting For                   1         
 Stranglers                                   All Day And All Of The Night                    3         
 Stranglers                                   Always The Sun                                  1         
-Style Council                                It Didn't Matter                                1         
 Style Council                                You're The Best Thing                           29        
 Suzi Quatro                                  Mama's Boy                                      1         
 T'Pau                                        Only The Lonely                                 1         
@@ -187,13 +173,10 @@ Tracy Chapman                                Baby Can I Hold You                
 Tracy Chapman                                Talkin' 'bout A Revolution                      9         
 U2                                           Gloria                                          1         
 Ultravox                                     Hymn                                            4         
-Ultravox                                     Visions In Blue                                 1         
 Usa For Africa                               We Are The World                                1         
-Wet Wet Wet                                  Temptation                                      1         
 Who                                          You Better You Bet                              3         
 World Party                                  Message In The Box                              1         
 Yazoo                                        Situation                                       5         
-Yazz and The Plastic Population              Fine Time                                       1         
 Yello                                        Oh Yeah                                         1         
 ZZ Top                                       Legs                                            4         
 Ziggy Marley and The Melody Makers           Tomorrow People                                 1         

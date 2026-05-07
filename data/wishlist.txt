@@ -1,13 +1,13 @@
 artist                                       title                                           play_count
 -------------------------------------------  ----------------------------------------------  ----------
 A Flock Of Seagulls                          I Ran                                           4         
-A-Ha                                         Hunting High And Low                            23        
+A-Ha                                         Hunting High And Low                            24        
 A-Ha                                         Touchy                                          2         
 Abba                                         Head Over Heels                                 1         
 Abba                                         Lay All Your Love On Me                         1         
 Aerosmith                                    Love In An Elevator                             40        
 Asia                                         Heat Of The Moment                              1         
-Bad Manners                                  Lip Up Fatty                                    2         
+Bad Manners                                  Lip Up Fatty                                    3         
 Bad Manners                                  Ne-ne Na-na Na-na Nu-nu                         1         
 Beloved                                      The Sun Rising                                  1         
 Big Country                                  Fields Of Fire                                  28        
@@ -15,12 +15,12 @@ Billy Idol                                   Eyes Without A Face                
 Billy Joel                                   The Longest Time                                1         
 Bob Marley and The Wailers                   Buffalo Soldier                                 1         
 Bob Marley and The Wailers                   Could You Be Loved                              49        
-Bob Marley and The Wailers                   One Love                                        35        
-Bob Marley and The Wailers                   Three Little Birds                              17        
+Bob Marley and The Wailers                   One Love                                        36        
+Bob Marley and The Wailers                   Three Little Birds                              18        
 Bobby Brown                                  Every Little Step                               5         
 Bodysnatchers                                Let's Do Rock Steady                            3         
 Bon Jovi                                     Bad Medicine                                    31        
-Bon Jovi                                     You Give Love A Bad Name                        33        
+Bon Jovi                                     You Give Love A Bad Name                        34        
 Brenda Russell                               Piano In The Dark                               1         
 Bruce Springsteen                            Born In The USA                                 1         
 Bruce Springsteen                            Hungry Heart                                    20        
@@ -35,16 +35,16 @@ Coldcut and Yazz and The Plastic Population  Doctorin' The House                
 Creatures                                    Miss The Girl                                   1         
 Crowded House                                Don't Dream It's Over                           36        
 Cure                                         In Between Days                                 20        
-Cure                                         Just Like Heaven                                25        
+Cure                                         Just Like Heaven                                26        
 Cure                                         Lullaby                                         3         
 Cure                                         The Caterpillar                                 1         
-Cure                                         Why Can't I Be You                              3         
-Daryl Hall and John Oates                    You Make My Dreams                              33        
+Cure                                         Why Can't I Be You                              4         
+Daryl Hall and John Oates                    You Make My Dreams                              34        
 David Grant                                  Stop And Go                                     1         
 De La Soul                                   Me Myself & I                                   1         
 De La Soul                                   Say No Go                                       1         
 Deacon Blue                                  Chocolate Girl                                  3         
-Deacon Blue                                  Dignity                                         45        
+Deacon Blue                                  Dignity                                         46        
 Deacon Blue                                  Queen Of The New Year                           2         
 Debbie Gibson                                Only In My Dreams                               1         
 Def Leppard                                  Hysteria                                        30        
@@ -52,7 +52,7 @@ Def Leppard                                  Love Bites                         
 Depeche Mode                                 Personal Jesus                                  28        
 Depeche Mode                                 Shake The Disease                               4         
 Dire Straits                                 So Far Away                                     3         
-Dream Academy                                Life In A Northern Town                         27        
+Dream Academy                                Life In A Northern Town                         28        
 Echo and The Bunnymen                        The Back Of Love                                1         
 Edie Brickell and The New Bohemians          What I Am                                       32        
 Elo                                          All Over The World                              5         
@@ -60,7 +60,7 @@ Elvis Costello                               Everyday I Write The Book          
 Elvis Costello                               High Fidelity                                   1         
 Eric Carmen                                  Hungry Eyes                                     26        
 Eurythmics                                   Missionary Man                                  3         
-Fleetwood Mac                                Everywhere                                      47        
+Fleetwood Mac                                Everywhere                                      49        
 Fleetwood Mac                                Gypsy                                           2         
 Four Tops                                    Loco In Acapulco                                4         
 Freddie Mercury and Queen                    I Was Born To Love You                          1         
@@ -68,12 +68,12 @@ Furniture                                    Brilliant Mind                     
 Gary Moore                                   Over The Hills And Far Away                     1         
 Genesis                                      Tonight Tonight Tonight                         2         
 Georgia Satellites                           Battleship Chains                               1         
-Gloria Estefan and Miami Sound Machine       Get On Your Feet                                7         
+Gloria Estefan and Miami Sound Machine       Get On Your Feet                                8         
 Gloria Estefan and Miami Sound Machine       Rhythm Is Gonna Get You                         4         
-Grandmaster Flash                            The Message                                     22        
-Hall and Oates                               Out Of Touch                                    32        
+Grandmaster Flash                            The Message                                     23        
+Hall and Oates                               Out Of Touch                                    33        
 Heart                                        Never                                           6         
-Heart                                        These Dreams                                    27        
+Heart                                        These Dreams                                    28        
 Heart                                        What About Love                                 2         
 Howard Jones                                 Look Mama                                       1         
 Huey Lewis and The News                      Back In Time                                    1         
@@ -92,16 +92,16 @@ Keith Sweat                                  I Want Her                         
 Killing Joke                                 Love Like Blood                                 1         
 Lightning Seeds                              Pure                                            31        
 Lionel Richie                                Running With The Night                          4         
-Lloyd Cole                                   Brand New Friend                                3         
+Lloyd Cole                                   Brand New Friend                                4         
 Lloyd Cole                                   Perfect Skin                                    18        
 Luther Vandross                              Never Too Much                                  26        
 Madness                                      It Must Be Love                                 29        
 Madness                                      Tomorrow's Just Another Day                     2         
 Madonna                                      Cherish                                         18        
 Madonna                                      Open Your Heart                                 15        
-Michael Jackson                              Billie Jean                                     49        
+Michael Jackson                              Billie Jean                                     50        
 Mike and the Mechanics                       All I Need Is A Miracle                         22        
-New Order                                    Bizarre Love Triangle                           5         
+New Order                                    Bizarre Love Triangle                           6         
 Omd                                          Forever Live And Die                            24        
 Omd                                          If You Leave                                    1         
 Pat Benatar                                  Hit Me With Your Best Shot                      22        
@@ -120,18 +120,18 @@ Prince                                       Let's Go Crazy                     
 Prince                                       Nothing Compares 2 U                            1         
 Proclaimers                                  I'm Gonna Be                                    47        
 Psychedelic Furs                             Heaven                                          1         
-Psychedelic Furs                             Pretty In Pink                                  33        
-Queen                                        Hammer To Fall                                  23        
+Psychedelic Furs                             Pretty In Pink                                  34        
+Queen                                        Hammer To Fall                                  24        
 Queen                                        Who Wants To Live Forever                       2         
 R.E.M                                        Stand.                                          22        
-REO Speedwagon                               Can't Fight This Feeling                        54        
+REO Speedwagon                               Can't Fight This Feeling                        56        
 Ramones                                      Baby I Love You                                 5         
 Rebel MC                                     Street Tuff                                     4         
 Red Box                                      Lean On Me                                      2         
 Rick James                                   Superfreak                                      5         
 River Detectives                             Chains                                          1         
-Robert Palmer                                Johnny & Mary                                   51        
-Roxette                                      Dressed For Success                             27        
+Robert Palmer                                Johnny & Mary                                   52        
+Roxette                                      Dressed For Success                             28        
 Rush                                         Tom Sawyer                                      1         
 S.O.S. Band                                  Just Be Good To Me                              1         
 Sade                                         The Sweetest Taboo                              1         
@@ -139,7 +139,7 @@ Shannon                                      Give Me Tonight                    
 Simple Minds                                 Belfast Child                                   1         
 Simple Minds                                 Love Song                                       3         
 Simple Minds                                 Sweat In Bullet                                 1         
-Smiths                                       Ask                                             20        
+Smiths                                       Ask                                             21        
 Smiths                                       Heaven Knows I'm Miserable Now                  22        
 Smiths                                       How Soon Is Now?                                24        
 Smiths                                       Please, Please, Please, Let Me Get What I Want  1         
@@ -152,7 +152,7 @@ Smiths                                       What Difference Does It Make       
 Smiths                                       William, It Was Really Nothing                  3         
 Soul II Soul                                 Keep On Moving                                  28        
 Specials                                     A Message To You Rudy                           1         
-Specials                                     Too Much Too Young                              23        
+Specials                                     Too Much Too Young                              24        
 Squeeze                                      Hourglass                                       4         
 Stevie Nicks                                 Edge Of Seventeen                               4         
 Stevie Nicks                                 Rooms On Fire                                   4         
@@ -164,11 +164,11 @@ Style Council                                Money Go Round Part 1              
 Style Council                                You're The Best Thing                           31        
 Suzi Quatro                                  Mama's Boy                                      1         
 T'Pau                                        Only The Lonely                                 1         
-Talk Talk                                    It's My Life                                    58        
+Talk Talk                                    It's My Life                                    59        
 Talking Heads                                Burning Down The House                          4         
 Tears For Fears                              Mothers Talk                                    1         
 Tears For Fears                              Woman In Chains                                 1         
-Thomas Dolby                                 Hyperactive                                     4         
+Thomas Dolby                                 Hyperactive                                     5         
 Throwing Muses                               Dizzy                                           2         
 Tom Petty                                    Free Falling                                    57        
 Tone Loc                                     Wild Thing                                      1         

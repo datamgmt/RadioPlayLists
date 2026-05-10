@@ -151,3 +151,20 @@ WHERE
 ORDER BY
     (CASE WHEN sc.artist LIKE 'The %' THEN SUBSTR(sc.artist, 5) ELSE sc.artist END),
     sc.play_count desc;
+    
+--- Complete a date
+
+SELECT
+    p.play_datetime, 
+    p.artist, 
+    p.title, 
+    a.matched_source 
+from 
+    v_playlists p,
+    v_analysis a 
+where   p.station = 'absolute80s' 
+and     date(play_datetime) = '2026-02-24' 
+and     a.station = p.station 
+and     a.artist = p.artist 
+and     a.title = p.title 
+and     a.matched_source = 'wantlist';

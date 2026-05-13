@@ -163,7 +163,7 @@ from
     v_playlists p,
     v_analysis a 
 where   p.station = 'absolute80s' 
-and     date(play_datetime) = '2026-02-24' 
+and     date(play_datetime) in ('2026-02-24' ,'2026-03-28')
 and     a.station = p.station 
 and     a.artist = p.artist 
 and     a.title = p.title 

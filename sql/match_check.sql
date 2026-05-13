@@ -95,7 +95,7 @@ SELECT
     date,
     printf('%14.2f', pct_collection) AS pct_collection
 FROM daily
-WHERE pct_collection = (SELECT MAX(pct_collection) FROM daily)
+WHERE pct_collection in (SELECT pct_collection FROM daily Order by pct_collection desc limit 2)
 ORDER BY date;    
 
 .header off

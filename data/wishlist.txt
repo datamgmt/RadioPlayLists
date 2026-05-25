@@ -51,6 +51,7 @@ Fleetwood Mac                           Everywhere                              
 Fleetwood Mac                           Gypsy                                           2         
 Four Tops                               Loco In Acapulco                                5         
 Freddie Mercury and Queen               I Was Born To Love You                          2         
+Fun Boy Three                           The Telephone Always Rings                      1         
 Gary Moore                              Over The Hills And Far Away                     1         
 Genesis                                 Tonight Tonight Tonight                         2         
 Georgia Satellites                      Battleship Chains                               1         
@@ -59,6 +60,7 @@ Gloria Estefan and Miami Sound Machine  Rhythm Is Gonna Get You                 
 Grandmaster Flash                       The Message                                     28        
 Hall and Oates                          Out Of Touch                                    40        
 Heart                                   These Dreams                                    30        
+Hue and Cry                             Violently                                       1         
 Huey Lewis and The News                 Back In Time                                    1         
 Inxs                                    Never Tear Us Apart                             3         
 Inxs and Jimmy Barnes                   Good Times                                      6         
@@ -68,6 +70,7 @@ Jocelyn Brown                           Somebody Else's Guy                     
 Johnny Hates Jazz                       Turn Back The Clock                             1         
 Journey                                 Don't Stop Believin'                            73        
 Keith Sweat                             I Want Her                                      1         
+Kim Wilde                               View From A Bridge                              1         
 Lightning Seeds                         Pure                                            37        
 Lloyd Cole                              Brand New Friend                                5         
 Lloyd Cole                              Perfect Skin                                    23        
@@ -81,8 +84,10 @@ New Order                               Thieves Like Us                         
 Omd                                     Forever Live And Die                            29        
 Omd                                     If You Leave                                    1         
 Pat Benatar                             Hit Me With Your Best Shot                      27        
+Paul McCartney                          Take It Away                                    1         
 Paul Simon                              Diamonds On The Soles Of Her Shoes              4         
 Paul Simon                              Graceland                                       1         
+Poison                                  Your Mama Don't Dance                           1         
 Police                                  Synchronicity Ii                                1         
 Prefab Sprout                           Nightingales                                    1         
 Prince                                  Controversy                                     1         

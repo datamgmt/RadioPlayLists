@@ -27,8 +27,8 @@ Clash                                   I Fought The Law                        
 Clash                                   Should I Stay Or Should I Go                    48        
 Coldcut and Lisa Stansfield             People Hold On                                  9         
 Creatures                               Miss The Girl                                   1         
-Crowded House                           Don't Dream It's Over                           44        
-Cure                                    In Between Days                                 23        
+Crowded House                           Don't Dream It's Over                           45        
+Cure                                    In Between Days                                 24        
 Cure                                    Just Like Heaven                                31        
 Cure                                    Lullaby                                         5         
 Cure                                    Why Can't I Be You                              5         
@@ -57,18 +57,18 @@ Genesis                                 Tonight Tonight Tonight                 
 Georgia Satellites                      Battleship Chains                               1         
 Gloria Estefan and Miami Sound Machine  Get On Your Feet                                10        
 Gloria Estefan and Miami Sound Machine  Rhythm Is Gonna Get You                         4         
-Grandmaster Flash                       The Message                                     28        
-Hall and Oates                          Out Of Touch                                    40        
-Heart                                   These Dreams                                    30        
+Grandmaster Flash                       The Message                                     29        
+Hall and Oates                          Out Of Touch                                    41        
+Heart                                   These Dreams                                    31        
 Hue and Cry                             Violently                                       1         
 Huey Lewis and The News                 Back In Time                                    1         
 Inxs                                    Never Tear Us Apart                             3         
 Inxs and Jimmy Barnes                   Good Times                                      6         
 J Geils Band                            Freeze Frame                                    1         
-Janet Jackson                           Rhythm Nation                                   5         
+Janet Jackson                           Rhythm Nation                                   6         
 Jocelyn Brown                           Somebody Else's Guy                             1         
 Johnny Hates Jazz                       Turn Back The Clock                             1         
-Journey                                 Don't Stop Believin'                            73        
+Journey                                 Don't Stop Believin'                            75        
 Keith Sweat                             I Want Her                                      1         
 Kim Wilde                               View From A Bridge                              1         
 Lightning Seeds                         Pure                                            37        
@@ -77,7 +77,7 @@ Lloyd Cole                              Perfect Skin                            
 Luther Vandross                         Never Too Much                                  32        
 Madonna                                 Cherish                                         25        
 Madonna                                 Open Your Heart                                 20        
-Michael Jackson                         Billie Jean                                     61        
+Michael Jackson                         Billie Jean                                     62        
 Mike and the Mechanics                  All I Need Is A Miracle                         29        
 New Order                               Bizarre Love Triangle                           6         
 New Order                               Thieves Like Us                                 1         
@@ -102,7 +102,7 @@ REO Speedwagon                          Can't Fight This Feeling                
 Ramones                                 Baby I Love You                                 5         
 Rick James                              Superfreak                                      7         
 Rick Springfield                        Jessie's Girl                                   1         
-Robert Palmer                           Johnny & Mary                                   64        
+Robert Palmer                           Johnny & Mary                                   65        
 Roxy Music                              Avalon                                          1         
 Rush                                    Tom Sawyer                                      1         
 S.O.S. Band                             Just Be Good To Me                              2         
@@ -132,7 +132,7 @@ Style Council                           Money Go Round Part 1                   
 Style Council                           You're The Best Thing                           37        
 Suzi Quatro                             Mama's Boy                                      1         
 T'Pau                                   Only The Lonely                                 1         
-Talk Talk                               It's My Life                                    70        
+Talk Talk                               It's My Life                                    71        
 Talking Heads                           Burning Down The House                          5         
 Tears For Fears                         Mothers Talk                                    1         
 Tears For Fears                         Woman In Chains                                 1         

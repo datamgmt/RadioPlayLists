@@ -349,7 +349,7 @@ Blur,"Song 2",wantlist
 "Bon Jovi","Wanted Dead Or Alive",collection
 "Bon Jovi","You Give Love A Bad Name",wantlist
 "Bon Jovi, R Sambora","Livin' On A Prayer",collection
-"Bon Jovi, R Sambora","You Give Love A Bad Name",wantlist
+"Bon Jovi, R Sambora","You Give Love A Bad Name",collection
 "Boney M","Daddy Cool",collection
 "Boney M","Gotta Go Home",collection
 "Boney M",Rasputin,collection
@@ -626,10 +626,10 @@ D:ream,"Things Can Only Get Better",wantlist
 "De La Soul","Say No Go",wantlist
 "De La Soul","The Magic Number",collection
 DeBarge,"Rhythm Of The Night",collection
-"Deacon Blue","Chocolate Girl",wantlist
+"Deacon Blue","Chocolate Girl",collection
 "Deacon Blue",Dignity,wantlist
 "Deacon Blue","Fergus Sings The Blues",collection
-"Deacon Blue","Queen Of The New Year",wantlist
+"Deacon Blue","Queen Of The New Year",collection
 "Deacon Blue","Real Gone Kid",collection
 "Deacon Blue","Wages Day",collection
 "Dead Or Alive","You Spin Me Round",collection
@@ -644,7 +644,7 @@ Deee-lite,"Groove Is In The Heart",collection
 "Deep Purple","Smoke On The Water",collection
 "Def Leppard",Animal,collection
 "Def Leppard","Armageddon It",collection
-"Def Leppard",Hysteria,wantlist
+"Def Leppard",Hysteria,collection
 "Def Leppard","Love Bites",wantlist
 "Def Leppard",Photograph,wantlist
 "Def Leppard","Pour Some Sugar On Me",collection
@@ -1340,7 +1340,7 @@ Kajagoogoo,"Too Shy",collection
 "Kc and The Sunshine Band","Please Don't Go",collection
 "Kd Lang","Constant Craving",collection
 Keane,"Somewhere Only We Know",wantlist
-"Keith Sweat","I Want Her",wantlist
+"Keith Sweat","I Want Her",collection
 "Kenny Loggins","Danger Zone",collection
 "Kenny Loggins",Footloose,collection
 "Kenny Rogers feat. Sheena Easton","We've Got Tonight",collection
@@ -1444,9 +1444,9 @@ Linx,"So This Is Romance",collection
 "Living Colour","Love Rears It's Ugly Head",collection
 "Living In A Box","Living In A Box",collection
 "Living In A Box","Room In Your Heart",collection
-"Lloyd Cole","Brand New Friend",wantlist
+"Lloyd Cole","Brand New Friend",collection
 "Lloyd Cole","Lost Weekend",collection
-"Lloyd Cole","Perfect Skin",wantlist
+"Lloyd Cole","Perfect Skin",collection
 "London Boys","Harlem Desire",collection
 "London Boys",Requiem,collection
 Londonbeat,"I've Been Thinking About You",collection
@@ -1489,7 +1489,7 @@ Madness,"Tomorrow's Just Another Day",collection
 Madness,"Wings Of A Dove",collection
 Madonna,"Beautiful Stranger",wantlist
 Madonna,Borderline,collection
-Madonna,Cherish,wantlist
+Madonna,Cherish,collection
 Madonna,"Crazy For You",collection
 Madonna,"Dear Jessie",collection
 Madonna,"Deeper And Deeper",wantlist
@@ -1579,7 +1579,7 @@ Martika,"Toy Soldiers",collection
 "Michael Jackson","Another Part Of Me",collection
 "Michael Jackson",Bad,collection
 "Michael Jackson","Beat It",collection
-"Michael Jackson","Billie Jean",wantlist
+"Michael Jackson","Billie Jean",collection
 "Michael Jackson","Black Or White",collection
 "Michael Jackson","Don't Stop 'Til You Get Enough",collection
 "Michael Jackson","Don't Stop Til You Get Enough",collection
@@ -1613,7 +1613,7 @@ Martika,"Toy Soldiers",collection
 "Mike & The Mechanics","The Living Years",collection
 "Mike Oldfield","Moonlight Shadow",collection
 "Mike Oldfield","Tubular Bells",collection
-"Mike and the Mechanics","All I Need Is A Miracle",wantlist
+"Mike and the Mechanics","All I Need Is A Miracle",collection
 "Mike and the Mechanics","Silent Running",collection
 "Mike and the Mechanics","The Living Years",collection
 "Milli Vanilli","Girl I'm Gonna Miss You",wantlist
@@ -2230,7 +2230,7 @@ Stereophonics,"Have A Nice Day",wantlist
 "Stevie Wonder","Yester - You, Yester - Me, Yesterday",collection
 "Stevie Wonder","Yester-Me Yester-You Yesterday",collection
 "Stevie Wonder","You Are The Sunshine Of My Life",collection
-"Stiff Little Fingers","Nobody's Hero",wantlist
+"Stiff Little Fingers","Nobody's Hero",collection
 Sting,"Englishman In New York",collection
 Sting,"Fields Of Gold",collection
 Sting,"If You Love Somebody Set Them Free",collection
@@ -2561,7 +2561,7 @@ Texas,"Say What You Want",wantlist
 "The Police",Roxanne,collection
 "The Police","So Lonely",collection
 "The Police","Spirits In The Material World",collection
-"The Police","Synchronicity Ii",wantlist
+"The Police","Synchronicity Ii",collection
 "The Police","The Bed's Too Big Without You","no single"
 "The Police","Walking On The Moon",collection
 "The Police","Wrapped Around Your Finger",collection
@@ -2634,9 +2634,9 @@ Texas,"Say What You Want",wantlist
 "The Smiths","The Boy With A Thorn In His Side",wantlist
 "The Smiths","There Is A Light That Never Goes Out",wantlist
 "The Smiths","This Charming Man",wantlist
-"The Smiths","What Difference Does It Make",wantlist
+"The Smiths","What Difference Does It Make",collection
 "The Smiths","William, It Was Really Nothing",wantlist
-"The Specials","A Message To You Rudy",wantlist
+"The Specials","A Message To You Rudy",collection
 "The Specials","FREE NELSON MANDELA",collection
 "The Specials","Ghost Town",collection
 "The Specials","Too Much Too Young",collection
@@ -2810,7 +2810,7 @@ UB40,"Red Red Wine",collection
 Ub40,"Cherry Oh Baby",collection
 Ub40,"Don't Break My Heart",collection
 Ub40,"Food For Thought",collection
-Ub40,"Homely Girl",wantlist
+Ub40,"Homely Girl",collection
 Ub40,"If It Happens Again",collection
 Ub40,King,collection
 Ub40,"Kingston Town",collection
@@ -2906,7 +2906,7 @@ Wings,"Live And Let Die *",collection
 Wings,"Silly Love Songs",collection
 Wings,"With A Little Luck",collection
 "Womack & Womack",Teardrops,collection
-"Womack and Womack","Love Wars",wantlist
+"Womack and Womack","Love Wars",collection
 "Womack and Womack",Teardrops,collection
 "World Party","Message In The Box",collection
 Xpansions,"Move Your Body",collection
@@ -2929,7 +2929,7 @@ Yes,"Wonderous Stories",collection
 "Yvonne Elliman","If I Can't Have You",wantlist
 "ZZ Top","Gimme All Your Lovin",collection
 "ZZ Top","Gimme All Your Lovin'",collection
-"ZZ Top",Legs,wantlist
+"ZZ Top",Legs,collection
 "ZZ Top","Sharp Dressed Man",collection
 "Ziggy Marley and The Melody Makers","Tomorrow People",collection
 "Zodiac Mindwarp","Prime Mover",wantlist

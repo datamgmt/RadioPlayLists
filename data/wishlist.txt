@@ -37,10 +37,7 @@ David Bowie                             Magic Dance                             
 David Grant                             Stop And Go                                     1         
 De La Soul                              Me Myself & I                                   3         
 De La Soul                              Say No Go                                       1         
-Deacon Blue                             Chocolate Girl                                  3         
 Deacon Blue                             Dignity                                         58        
-Deacon Blue                             Queen Of The New Year                           4         
-Def Leppard                             Hysteria                                        37        
 Def Leppard                             Love Bites                                      3         
 Depeche Mode                            Personal Jesus                                  37        
 Depeche Mode                            Shake The Disease                               5         
@@ -69,16 +66,10 @@ Janet Jackson                           Rhythm Nation                           
 Jocelyn Brown                           Somebody Else's Guy                             1         
 Johnny Hates Jazz                       Turn Back The Clock                             1         
 Journey                                 Don't Stop Believin'                            76        
-Keith Sweat                             I Want Her                                      1         
 Kim Wilde                               View From A Bridge                              1         
 Lightning Seeds                         Pure                                            37        
-Lloyd Cole                              Brand New Friend                                5         
-Lloyd Cole                              Perfect Skin                                    24        
 Luther Vandross                         Never Too Much                                  33        
-Madonna                                 Cherish                                         25        
 Madonna                                 Open Your Heart                                 20        
-Michael Jackson                         Billie Jean                                     63        
-Mike and the Mechanics                  All I Need Is A Miracle                         30        
 New Order                               Bizarre Love Triangle                           6         
 New Order                               Thieves Like Us                                 1         
 Omd                                     Forever Live And Die                            29        
@@ -88,7 +79,6 @@ Paul McCartney                          Take It Away                            
 Paul Simon                              Diamonds On The Soles Of Her Shoes              4         
 Paul Simon                              Graceland                                       1         
 Poison                                  Your Mama Don't Dance                           1         
-Police                                  Synchronicity Ii                                1         
 Prefab Sprout                           Nightingales                                    1         
 Prince                                  Controversy                                     1         
 Prince                                  I Would Die 4 U                                 3         
@@ -119,12 +109,9 @@ Smiths                                  That Joke Isn't Funny Anymore           
 Smiths                                  The Boy With A Thorn In His Side                5         
 Smiths                                  There Is A Light That Never Goes Out            2         
 Smiths                                  This Charming Man                               33        
-Smiths                                  What Difference Does It Make                    6         
 Smiths                                  William, It Was Really Nothing                  3         
 Soul II Soul                            Keep On Moving                                  35        
-Specials                                A Message To You Rudy                           1         
 Stevie Nicks                            Edge Of Seventeen                               5         
-Stiff Little Fingers                    Nobody's Hero                                   1         
 Stone Roses                             What The World Is Waiting For                   1         
 Stranglers                              Always The Sun                                  3         
 Style Council                           Long Hot Summer                                 1         
@@ -142,8 +129,5 @@ Tone Loc                                Wild Thing                              
 Tracy Chapman                           Baby Can I Hold You                             15        
 Tracy Chapman                           Talkin' 'bout A Revolution                      13        
 U2                                      Gloria                                          1         
-Ub40                                    Homely Girl                                     1         
-Womack and Womack                       Love Wars                                       1         
 Yello                                   Oh Yeah                                         1         
-ZZ Top                                  Legs                                            5         
 Zodiac Mindwarp                         Prime Mover                                     1         

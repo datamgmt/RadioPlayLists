@@ -109,13 +109,13 @@ DROP VIEW IF EXISTS v_playlists;
 
 CREATE VIEW IF NOT EXISTS v_playlists AS
 SELECT
-    country,
-    station,
-    artist,
-    title,
+    p.country,
+    p.station,
+    p.artist,
+    p.title,
     -- Convert play_date to ISO format and combine with play_time
-    substr(play_date,8,4) || '-' ||
-    CASE substr(play_date,4,3)
+    substr(p.play_date,8,4) || '-' ||
+    CASE substr(p.play_date,4,3)
         WHEN 'Jan' THEN '01'
         WHEN 'Feb' THEN '02'
         WHEN 'Mar' THEN '03'
@@ -129,8 +129,12 @@ SELECT
         WHEN 'Nov' THEN '11'
         WHEN 'Dec' THEN '12'
     END || '-' ||
-    substr(play_date,1,2) || ' ' || play_time AS play_datetime
-FROM playlists;
+    substr(p.play_date,1,2) || ' ' || play_time AS play_datetime,
+    m.matched_source
+FROM playlists p,
+     matched m
+where p.artist = m.artist 
+and   p.title = m.title;
 
 DROP VIEW IF EXISTS v_analysis;
 

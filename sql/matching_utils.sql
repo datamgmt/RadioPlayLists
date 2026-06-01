@@ -163,11 +163,16 @@ from
     v_playlists p,
     v_analysis a 
 where   p.station = 'absolute80s' 
-and     date(play_datetime) in ('2026-02-24' ,'2026-03-28')
 and     a.station = p.station 
 and     a.artist = p.artist 
 and     a.title = p.title 
-and     a.matched_source = 'wantlist';
-
-
-select distinct v.artist, v.title, date(v.play_datetime), m.matched_source from v_playlists v, matches m where v.country='uk' and v.station = 'absolute80s' and v.station = m.station and v.artist=m.artist and v.title = m.title and m.matched_source = 'wantlist' order by date(v.play_datetime), v.artist, v.title;
+and     a.matched_source = 'wantlist'
+and     date(play_datetime) in (select playdate
+from
+(
+select distinct artist, title, date(play_datetime) playdate 
+FROM V_PLAYLISTS 
+where station = 'absolute80s' and matched_source = 'wantlist'
+) group by playdate
+having count(*) < 10)
+order by 2,3,1;

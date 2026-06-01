@@ -168,3 +168,6 @@ and     a.station = p.station
 and     a.artist = p.artist 
 and     a.title = p.title 
 and     a.matched_source = 'wantlist';
+
+
+select distinct v.artist, v.title, date(v.play_datetime), m.matched_source from v_playlists v, matches m where v.country='uk' and v.station = 'absolute80s' and v.station = m.station and v.artist=m.artist and v.title = m.title and m.matched_source = 'wantlist' order by date(v.play_datetime), v.artist, v.title;

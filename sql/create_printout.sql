@@ -1,5 +1,5 @@
-.mode csv
 .echo off
+.mode csv
 .output data/printout.csv
 
 SELECT
@@ -30,5 +30,5 @@ GROUP BY
     m.title;
     
 .output
-.echo on
 .mode column
+.echo on

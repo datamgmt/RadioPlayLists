@@ -155,3 +155,58 @@ WHERE
 ORDER BY
     sc.artist,
     sc.title;
+    
+DROP VIEW IF EXISTS v_record_cases;
+
+CREATE VIEW IF NOT EXISTS v_record_cases AS
+SELECT
+    CASE
+        WHEN collection_artist_override = ''
+            THEN
+                TRIM(
+                    CASE
+                        WHEN LOWER(artist) LIKE 'the %'
+                            THEN
+                                CASE
+                                    WHEN INSTR(artist, ' (') > 0
+                                        THEN
+                                            SUBSTR(
+                                                artist,
+                                                5,
+                                                INSTR(artist, ' (') - 5
+                                            )
+                                    ELSE SUBSTR(artist, 5)
+                                END
+                        WHEN INSTR(artist, ' (') > 0
+                            THEN
+                                SUBSTR(artist, 1, INSTR(artist, ' (') - 1)
+                        ELSE artist
+                    END
+                )
+        ELSE collection_artist_override
+    END AS Artist_Group,
+    TRIM(
+        CASE
+            WHEN LOWER(artist) LIKE 'the %'
+                THEN
+                    CASE
+                        WHEN INSTR(artist, ' (') > 0
+                            THEN SUBSTR(artist, 5, INSTR(artist, ' (') - 5)
+                        ELSE SUBSTR(artist, 5)
+                    END
+            WHEN INSTR(artist, ' (') > 0
+                THEN SUBSTR(artist, 1, INSTR(artist, ' (') - 1)
+            ELSE artist
+        END
+    ) AS Artist,
+    Title,
+    collection_folder AS Record_Case,
+    CASE
+        WHEN released = '0'
+            THEN ''
+        ELSE released
+    END AS Released,
+    'https://www.discogs.com/release/' || release_id AS QR_Code
+FROM collection
+WHERE collection_folder LIKE '7"%' OR collection_folder = 'Uncategorized'
+ORDER BY UPPER(artist_group), UPPER(artist), title;

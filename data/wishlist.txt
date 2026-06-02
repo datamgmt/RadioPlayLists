@@ -7,25 +7,25 @@ Asia                                 Heat Of The Moment                         
 Bad Manners                          Lip Up Fatty                                    7         
 Bad Manners                          Ne-ne Na-na Na-na Nu-nu                         1         
 Beloved                              The Sun Rising                                  1         
-Billy Idol                           Eyes Without A Face                             3         
+Billy Idol                           Eyes Without A Face                             4         
 Billy Joel                           The Longest Time                                2         
 Bob Marley and The Wailers           Buffalo Soldier                                 3         
-Bob Marley and The Wailers           Could You Be Loved                              66        
-Bob Marley and The Wailers           One Love                                        48        
-Bob Marley and The Wailers           Three Little Birds                              30        
+Bob Marley and The Wailers           Could You Be Loved                              67        
+Bob Marley and The Wailers           One Love                                        49        
+Bob Marley and The Wailers           Three Little Birds                              31        
 Bobby Brown                          Every Little Step                               7         
 Bodysnatchers                        Let's Do Rock Steady                            3         
 Bon Jovi                             Bad Medicine                                    39        
-Bon Jovi                             You Give Love A Bad Name                        50        
+Bon Jovi                             You Give Love A Bad Name                        51        
 Bruce Springsteen                    Born In The USA                                 1         
 Bruce Springsteen                    Hungry Heart                                    27        
 Bryan Adams                          Heat Of The Night                               1         
 Christopher Cross                    Ride Like The Wind                              6         
 Clash                                I Fought The Law                                4         
-Clash                                Should I Stay Or Should I Go                    52        
+Clash                                Should I Stay Or Should I Go                    53        
 Coldcut and Lisa Stansfield          People Hold On                                  9         
 Creatures                            Miss The Girl                                   2         
-Crowded House                        Don't Dream It's Over                           47        
+Crowded House                        Don't Dream It's Over                           48        
 Cure                                 In Between Days                                 25        
 Cure                                 Just Like Heaven                                33        
 Cure                                 Lullaby                                         5         
@@ -33,21 +33,21 @@ Cure                                 Why Can't I Be You                         
 Daryl Hall and John Oates            You Make My Dreams                              47        
 David Bowie                          Magic Dance                                     1         
 De La Soul                           Me Myself & I                                   3         
-Deacon Blue                          Dignity                                         60        
-Def Leppard                          Love Bites                                      3         
+Deacon Blue                          Dignity                                         61        
+Def Leppard                          Love Bites                                      4         
 Depeche Mode                         Personal Jesus                                  39        
 Depeche Mode                         Shake The Disease                               5         
 Dire Straits                         Your Latest Trick                               1         
 Edie Brickell and The New Bohemians  What I Am                                       42        
 Elvis Costello                       Everyday I Write The Book                       1         
-Fleetwood Mac                        Everywhere                                      67        
+Fleetwood Mac                        Everywhere                                      68        
 Fleetwood Mac                        Gypsy                                           2         
 Freddie Mercury and Queen            I Was Born To Love You                          2         
 Fun Boy Three                        The Telephone Always Rings                      1         
 Gary Moore                           Over The Hills And Far Away                     1         
 Genesis                              Tonight Tonight Tonight                         2         
 Georgia Satellites                   Battleship Chains                               1         
-Grandmaster Flash                    The Message                                     29        
+Grandmaster Flash                    The Message                                     30        
 Hall and Oates                       Out Of Touch                                    44        
 Hue and Cry                          Violently                                       1         
 Huey Lewis and The News              Back In Time                                    1         
@@ -55,17 +55,17 @@ Inxs                                 Never Tear Us Apart                        
 Inxs and Jimmy Barnes                Good Times                                      6         
 Janet Jackson                        Rhythm Nation                                   6         
 Jocelyn Brown                        Somebody Else's Guy                             1         
-Journey                              Don't Stop Believin'                            78        
+Journey                              Don't Stop Believin'                            79        
 Kate Bush                            This Woman's Work                               1         
 Kim Wilde                            View From A Bridge                              1         
-Lightning Seeds                      Pure                                            38        
-Luther Vandross                      Never Too Much                                  34        
+Lightning Seeds                      Pure                                            39        
+Luther Vandross                      Never Too Much                                  35        
 Meat Loaf                            Midnight At The Lost And Found                  1         
 Men At Work                          Overkill                                        1         
-New Order                            Bizarre Love Triangle                           6         
+New Order                            Bizarre Love Triangle                           7         
 New Order                            Thieves Like Us                                 1         
 Omd                                  If You Leave                                    1         
-Pat Benatar                          Hit Me With Your Best Shot                      29        
+Pat Benatar                          Hit Me With Your Best Shot                      30        
 Paul McCartney                       Take It Away                                    1         
 Paul Simon                           Diamonds On The Soles Of Her Shoes              4         
 Paul Simon                           Graceland                                       1         
@@ -89,7 +89,7 @@ S.O.S. Band                          Just Be Good To Me                         
 Sade                                 The Sweetest Taboo                              1         
 Shannon                              Give Me Tonight                                 1         
 Simple Minds                         Sweat In Bullet                                 1         
-Smiths                               Ask                                             30        
+Smiths                               Ask                                             31        
 Smiths                               Heaven Knows I'm Miserable Now                  28        
 Smiths                               How Soon Is Now?                                33        
 Smiths                               Please, Please, Please, Let Me Get What I Want  2         
@@ -103,12 +103,12 @@ Stevie Nicks                         Edge Of Seventeen                          
 Stone Roses                          What The World Is Waiting For                   1         
 Stranglers                           Always The Sun                                  3         
 Style Council                        Long Hot Summer                                 1         
-Style Council                        You're The Best Thing                           39        
+Style Council                        You're The Best Thing                           40        
 Talk Talk                            It's My Life                                    75        
-Talking Heads                        Burning Down The House                          5         
+Talking Heads                        Burning Down The House                          6         
 Tears For Fears                      Woman In Chains                                 1         
 Throwing Muses                       Dizzy                                           2         
-Tom Petty                            Free Falling                                    72        
+Tom Petty                            Free Falling                                    73        
 Tone Loc                             Wild Thing                                      1         
 Tracy Chapman                        Baby Can I Hold You                             17        
 Tracy Chapman                        Talkin' 'bout A Revolution                      14        

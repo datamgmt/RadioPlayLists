@@ -199,14 +199,22 @@ SELECT
             ELSE artist
         END
     ) AS Artist,
+<<<<<<< Local Changes
+    title as Title,
+    'https://www.discogs.com/release/' || release_id AS QR_Code,
+||||||| Old File
+    title at Title,
+    collection_folder AS Record_Case,
+=======
     Title,
     collection_folder AS Record_Case,
+>>>>>>> External Changes
     CASE
         WHEN released = '0'
             THEN ''
         ELSE released
     END AS Released,
-    'https://www.discogs.com/release/' || release_id AS QR_Code
+    collection_folder AS Record_Case
 FROM collection
 WHERE collection_folder LIKE '7"%' OR collection_folder = 'Uncategorized'
 ORDER BY UPPER(artist_group), UPPER(artist), title;

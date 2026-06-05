@@ -76,28 +76,23 @@ Absolute 80s Best Day
 ';
 .header on
     
-WITH daily AS (
-    SELECT
-        date(v.play_datetime) AS date,
-        printf('%14.2f',
-            100.0 * sum(m.matched_source = 'collection') / sum(1)
-        ) AS pct_collection
-    FROM v_playlists AS v
-    JOIN matched AS m
-        ON v.artist = m.artist
-       AND v.title = m.title
-    WHERE
-        v.country = 'uk'
-        AND v.station = 'absolute80s'
-        AND m.matched_source != 'no_vinyl'
-    GROUP BY date(v.play_datetime)
-)
-SELECT
-    date,
-    printf('%14.2f', pct_collection) AS pct_collection
-FROM daily
-ORDER BY pct_collection desc
-LIMIT 2;    
+SELECT  date(play_datetime) play_date, 
+        printf('%10d', sum(matched_source='collection')) collection, 
+        printf('%8d', sum(matched_source='wantlist')) wantlist,
+        printf('%8d', sum(matched_source='no_vinyl')) no_vinyl,
+        printf('%5d', sum(1)) total,
+        printf('%14.2f',100.0*sum(matched_source='collection')/sum(1)) pct_collection,
+        printf('%12.2f',100.0*sum(matched_source='wantlist')/sum(1)) pct_wantlist, 
+        printf('%12.2f',100.0*sum(matched_source='no_vinyl')/sum(1)) pct_no_vinyl 
+from    v_playlists
+where   country = 'uk'
+and     station = 'absolute80s'
+group by play_date
+having 100.0*sum(matched_source='wantlist')/sum(1) < 3
+and sum(matched_source='wantlist') < 10 
+order by wantlist,
+        pct_wantlist;
+        
 
 .header off
 select '

@@ -176,3 +176,47 @@ where station = 'absolute80s' and matched_source = 'wantlist'
 ) group by playdate
 having count(*) < 10)
 order by 2,3,1;
+
+SELECT distinct
+    p.artist, 
+    p.title
+from 
+    v_playlists p,
+    v_analysis a 
+where   p.station = 'absolute80s' 
+and     a.station = p.station 
+and     a.artist = p.artist 
+and     a.title = p.title 
+and     a.matched_source = 'wantlist'
+and     date(play_datetime) in (select playdate
+from
+(
+select distinct artist, title, date(play_datetime) playdate 
+FROM V_PLAYLISTS 
+where station = 'absolute80s' and matched_source = 'wantlist'
+) group by playdate
+having count(*) < 10)
+order by 1,2;
+
+SELECT distinct
+    date(p.play_datetime), 
+    p.artist, 
+    p.title, 
+    a.matched_source 
+from 
+    v_playlists p,
+    v_analysis a 
+where   p.station = 'absolute80s' 
+and     a.station = p.station 
+and     a.artist = p.artist 
+and     a.title = p.title 
+and     a.matched_source = 'wantlist'
+and     date(play_datetime) in (select playdate
+from
+(
+select distinct artist, title, date(play_datetime) playdate 
+FROM V_PLAYLISTS 
+where station = 'absolute80s' and matched_source = 'wantlist'
+) group by playdate
+having count(*) < 10)
+order by 1,2,3;

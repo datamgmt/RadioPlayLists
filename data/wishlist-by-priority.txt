@@ -1,0 +1,7 @@
+artist                     title                  play_count
+-------------------------  ---------------------  ----------
+Crowded House              Don't Dream It's Over  1         
+Daryl Hall and John Oates  You Make My Dreams     1         
+Depeche Mode               Personal Jesus         1         
+Luther Vandross            Never Too Much         1         
+Tom Petty                  Free Falling           1         

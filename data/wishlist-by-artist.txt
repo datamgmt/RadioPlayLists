@@ -8,11 +8,11 @@ Beloved                     The Sun Rising                                  1
 Billy Idol                  Eyes Without A Face                             4         
 Billy Joel                  The Longest Time                                2         
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
-Bob Marley and The Wailers  Could You Be Loved                              67        
+Bob Marley and The Wailers  Could You Be Loved                              69        
 Bob Marley and The Wailers  Three Little Birds                              31        
 Bodysnatchers               Let's Do Rock Steady                            3         
 Bon Jovi                    Bad Medicine                                    40        
-Bon Jovi                    You Give Love A Bad Name                        52        
+Bon Jovi                    You Give Love A Bad Name                        53        
 Bruce Springsteen           Born In The USA                                 1         
 Bruce Springsteen           Hungry Heart                                    28        
 Bryan Adams                 Heat Of The Night                               1         
@@ -22,9 +22,9 @@ Clash                       Should I Stay Or Should I Go                    55
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           50        
 Cure                        In Between Days                                 27        
-Cure                        Just Like Heaven                                34        
+Cure                        Just Like Heaven                                35        
 Cure                        Lullaby                                         5         
-Cure                        Why Can't I Be You                              6         
+Cure                        Why Can't I Be You                              7         
 Daryl Hall and John Oates   You Make My Dreams                              49        
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
@@ -63,7 +63,7 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 3         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    65        
+Proclaimers                 I'm Gonna Be                                    66        
 Queen                       Hammer To Fall                                  32        
 Queen                       Who Wants To Live Forever                       2         
 R.E.M                       Stand.                                          31        
@@ -76,7 +76,7 @@ S.O.S. Band                 Just Be Good To Me                              2
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         
 Simple Minds                Sweat In Bullet                                 1         
-Smiths                      Ask                                             32        
+Smiths                      Ask                                             33        
 Smiths                      Heaven Knows I'm Miserable Now                  29        
 Smiths                      How Soon Is Now?                                34        
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         
@@ -95,9 +95,9 @@ Talk Talk                   It's My Life                                    78
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    75        
+Tom Petty                   Free Falling                                    76        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             18        
-Tracy Chapman               Talkin' 'bout A Revolution                      14        
+Tracy Chapman               Talkin' 'bout A Revolution                      15        
 U2                          Gloria                                          1         
 Yello                       Oh Yeah                                         2         

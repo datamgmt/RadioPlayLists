@@ -199,16 +199,8 @@ SELECT
             ELSE artist
         END
     ) AS Artist,
-<<<<<<< Local Changes
     title as Title,
     'https://www.discogs.com/release/' || release_id AS QR_Code,
-||||||| Old File
-    title at Title,
-    collection_folder AS Record_Case,
-=======
-    Title,
-    collection_folder AS Record_Case,
->>>>>>> External Changes
     CASE
         WHEN released = '0'
             THEN ''

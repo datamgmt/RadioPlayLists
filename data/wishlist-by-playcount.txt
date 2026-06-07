@@ -1,40 +1,40 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            81        
-Talk Talk                   It's My Life                                    78        
-Tom Petty                   Free Falling                                    76        
-Fleetwood Mac               Everywhere                                      70        
+Talk Talk                   It's My Life                                    79        
+Tom Petty                   Free Falling                                    77        
+Fleetwood Mac               Everywhere                                      71        
 Bob Marley and The Wailers  Could You Be Loved                              69        
-Proclaimers                 I'm Gonna Be                                    66        
-Clash                       Should I Stay Or Should I Go                    55        
-Bon Jovi                    You Give Love A Bad Name                        53        
+Proclaimers                 I'm Gonna Be                                    67        
+Clash                       Should I Stay Or Should I Go                    56        
+Bon Jovi                    You Give Love A Bad Name                        54        
 Crowded House               Don't Dream It's Over                           50        
-Daryl Hall and John Oates   You Make My Dreams                              49        
+Daryl Hall and John Oates   You Make My Dreams                              50        
 Hall and Oates              Out Of Touch                                    45        
-Bon Jovi                    Bad Medicine                                    40        
-Depeche Mode                Personal Jesus                                  40        
+Bon Jovi                    Bad Medicine                                    41        
+Depeche Mode                Personal Jesus                                  41        
+Style Council               You're The Best Thing                           41        
 Lightning Seeds             Pure                                            40        
-Style Council               You're The Best Thing                           40        
-Luther Vandross             Never Too Much                                  36        
+Luther Vandross             Never Too Much                                  38        
 Cure                        Just Like Heaven                                35        
 Smiths                      This Charming Man                               35        
 Smiths                      How Soon Is Now?                                34        
 Smiths                      Ask                                             33        
+Grandmaster Flash           The Message                                     32        
+Pat Benatar                 Hit Me With Your Best Shot                      32        
 Queen                       Hammer To Fall                                  32        
 Bob Marley and The Wailers  Three Little Birds                              31        
-Grandmaster Flash           The Message                                     31        
-Pat Benatar                 Hit Me With Your Best Shot                      31        
 R.E.M                       Stand.                                          31        
-Smiths                      Heaven Knows I'm Miserable Now                  29        
+Smiths                      Heaven Knows I'm Miserable Now                  30        
 Bruce Springsteen           Hungry Heart                                    28        
 Cure                        In Between Days                                 27        
 Tracy Chapman               Baby Can I Hold You                             18        
 Tracy Chapman               Talkin' 'bout A Revolution                      15        
 A Flock Of Seagulls         I Ran                                           8         
 Bad Manners                 Lip Up Fatty                                    8         
+Rick James                  Superfreak                                      8         
 Cure                        Why Can't I Be You                              7         
 New Order                   Bizarre Love Triangle                           7         
-Rick James                  Superfreak                                      7         
 Christopher Cross           Ride Like The Wind                              6         
 Depeche Mode                Shake The Disease                               6         
 Inxs and Jimmy Barnes       Good Times                                      6         
@@ -51,6 +51,7 @@ Paul Simon                  Diamonds On The Soles Of Her Shoes              4
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
 Bodysnatchers               Let's Do Rock Steady                            3         
 De La Soul                  Me Myself & I                                   3         
+Freddie Mercury and Queen   I Was Born To Love You                          3         
 Inxs                        Never Tear Us Apart                             3         
 Prince                      I Would Die 4 U                                 3         
 Smiths                      William, It Was Really Nothing                  3         
@@ -59,7 +60,6 @@ Abba                        Lay All Your Love On Me                         2
 Billy Joel                  The Longest Time                                2         
 Creatures                   Miss The Girl                                   2         
 Fleetwood Mac               Gypsy                                           2         
-Freddie Mercury and Queen   I Was Born To Love You                          2         
 Queen                       Who Wants To Live Forever                       2         
 S.O.S. Band                 Just Be Good To Me                              2         
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         

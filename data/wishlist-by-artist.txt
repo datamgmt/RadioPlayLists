@@ -11,33 +11,33 @@ Bob Marley and The Wailers  Buffalo Soldier                                 3
 Bob Marley and The Wailers  Could You Be Loved                              69        
 Bob Marley and The Wailers  Three Little Birds                              31        
 Bodysnatchers               Let's Do Rock Steady                            3         
-Bon Jovi                    Bad Medicine                                    40        
-Bon Jovi                    You Give Love A Bad Name                        53        
+Bon Jovi                    Bad Medicine                                    41        
+Bon Jovi                    You Give Love A Bad Name                        54        
 Bruce Springsteen           Born In The USA                                 1         
 Bruce Springsteen           Hungry Heart                                    28        
 Bryan Adams                 Heat Of The Night                               1         
 Christopher Cross           Ride Like The Wind                              6         
 Clash                       I Fought The Law                                4         
-Clash                       Should I Stay Or Should I Go                    55        
+Clash                       Should I Stay Or Should I Go                    56        
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           50        
 Cure                        In Between Days                                 27        
 Cure                        Just Like Heaven                                35        
 Cure                        Lullaby                                         5         
 Cure                        Why Can't I Be You                              7         
-Daryl Hall and John Oates   You Make My Dreams                              49        
+Daryl Hall and John Oates   You Make My Dreams                              50        
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      4         
-Depeche Mode                Personal Jesus                                  40        
+Depeche Mode                Personal Jesus                                  41        
 Depeche Mode                Shake The Disease                               6         
 Dire Straits                Your Latest Trick                               1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      70        
+Fleetwood Mac               Everywhere                                      71        
 Fleetwood Mac               Gypsy                                           2         
-Freddie Mercury and Queen   I Was Born To Love You                          2         
+Freddie Mercury and Queen   I Was Born To Love You                          3         
 Georgia Satellites          Battleship Chains                               1         
-Grandmaster Flash           The Message                                     31        
+Grandmaster Flash           The Message                                     32        
 Hall and Oates              Out Of Touch                                    45        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             3         
@@ -48,13 +48,13 @@ Journey                     Don't Stop Believin'                            81
 Kate Bush                   This Woman's Work                               1         
 Kim Wilde                   View From A Bridge                              1         
 Lightning Seeds             Pure                                            40        
-Luther Vandross             Never Too Much                                  36        
+Luther Vandross             Never Too Much                                  38        
 Meat Loaf                   Midnight At The Lost And Found                  1         
 Men At Work                 Overkill                                        1         
 New Order                   Bizarre Love Triangle                           7         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
-Pat Benatar                 Hit Me With Your Best Shot                      31        
+Pat Benatar                 Hit Me With Your Best Shot                      32        
 Paul McCartney              Take It Away                                    1         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              4         
 Paul Simon                  Graceland                                       1         
@@ -63,12 +63,12 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 3         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    66        
+Proclaimers                 I'm Gonna Be                                    67        
 Queen                       Hammer To Fall                                  32        
 Queen                       Who Wants To Live Forever                       2         
 R.E.M                       Stand.                                          31        
 Ramones                     Baby I Love You                                 5         
-Rick James                  Superfreak                                      7         
+Rick James                  Superfreak                                      8         
 Rick Springfield            Jessie's Girl                                   1         
 Roxy Music                  Avalon                                          1         
 Rush                        Tom Sawyer                                      1         
@@ -77,7 +77,7 @@ Sade                        The Sweetest Taboo                              1
 Shannon                     Give Me Tonight                                 1         
 Simple Minds                Sweat In Bullet                                 1         
 Smiths                      Ask                                             33        
-Smiths                      Heaven Knows I'm Miserable Now                  29        
+Smiths                      Heaven Knows I'm Miserable Now                  30        
 Smiths                      How Soon Is Now?                                34        
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         
 Smiths                      Stop Me If You've Heard This One Before         2         
@@ -90,12 +90,12 @@ Stevie Nicks                Edge Of Seventeen                               6
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  3         
 Style Council               Long Hot Summer                                 1         
-Style Council               You're The Best Thing                           40        
-Talk Talk                   It's My Life                                    78        
+Style Council               You're The Best Thing                           41        
+Talk Talk                   It's My Life                                    79        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    76        
+Tom Petty                   Free Falling                                    77        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             18        
 Tracy Chapman               Talkin' 'bout A Revolution                      15        

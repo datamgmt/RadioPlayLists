@@ -1,28 +1,28 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            82        
+Journey                     Don't Stop Believin'                            83        
 Talk Talk                   It's My Life                                    80        
-Tom Petty                   Free Falling                                    77        
+Tom Petty                   Free Falling                                    78        
 Fleetwood Mac               Everywhere                                      72        
 Bob Marley and The Wailers  Could You Be Loved                              70        
 Proclaimers                 I'm Gonna Be                                    68        
 Clash                       Should I Stay Or Should I Go                    57        
-Bon Jovi                    You Give Love A Bad Name                        54        
+Bon Jovi                    You Give Love A Bad Name                        55        
 Crowded House               Don't Dream It's Over                           51        
-Daryl Hall and John Oates   You Make My Dreams                              50        
+Daryl Hall and John Oates   You Make My Dreams                              51        
 Hall and Oates              Out Of Touch                                    45        
-Bon Jovi                    Bad Medicine                                    41        
-Depeche Mode                Personal Jesus                                  41        
+Depeche Mode                Personal Jesus                                  43        
+Bon Jovi                    Bad Medicine                                    42        
+Style Council               You're The Best Thing                           42        
 Lightning Seeds             Pure                                            41        
-Style Council               You're The Best Thing                           41        
 Luther Vandross             Never Too Much                                  38        
+Cure                        Just Like Heaven                                36        
+Smiths                      How Soon Is Now?                                36        
 Smiths                      This Charming Man                               36        
-Cure                        Just Like Heaven                                35        
-Smiths                      How Soon Is Now?                                35        
-Smiths                      Ask                                             33        
-Grandmaster Flash           The Message                                     32        
+Smiths                      Ask                                             34        
+Grandmaster Flash           The Message                                     33        
+Queen                       Hammer To Fall                                  33        
 Pat Benatar                 Hit Me With Your Best Shot                      32        
-Queen                       Hammer To Fall                                  32        
 R.E.M                       Stand.                                          32        
 Bob Marley and The Wailers  Three Little Birds                              31        
 Smiths                      Heaven Knows I'm Miserable Now                  30        

@@ -1,34 +1,34 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            83        
-Talk Talk                   It's My Life                                    80        
-Tom Petty                   Free Falling                                    78        
-Fleetwood Mac               Everywhere                                      72        
-Bob Marley and The Wailers  Could You Be Loved                              70        
-Proclaimers                 I'm Gonna Be                                    68        
-Clash                       Should I Stay Or Should I Go                    57        
+Journey                     Don't Stop Believin'                            84        
+Talk Talk                   It's My Life                                    81        
+Tom Petty                   Free Falling                                    80        
+Fleetwood Mac               Everywhere                                      73        
+Bob Marley and The Wailers  Could You Be Loved                              71        
+Proclaimers                 I'm Gonna Be                                    69        
+Clash                       Should I Stay Or Should I Go                    58        
 Bon Jovi                    You Give Love A Bad Name                        55        
-Crowded House               Don't Dream It's Over                           51        
-Daryl Hall and John Oates   You Make My Dreams                              51        
-Hall and Oates              Out Of Touch                                    45        
+Crowded House               Don't Dream It's Over                           52        
+Daryl Hall and John Oates   You Make My Dreams                              52        
+Hall and Oates              Out Of Touch                                    46        
 Depeche Mode                Personal Jesus                                  43        
 Bon Jovi                    Bad Medicine                                    42        
+Lightning Seeds             Pure                                            42        
 Style Council               You're The Best Thing                           42        
-Lightning Seeds             Pure                                            41        
 Luther Vandross             Never Too Much                                  38        
 Cure                        Just Like Heaven                                36        
 Smiths                      How Soon Is Now?                                36        
 Smiths                      This Charming Man                               36        
-Smiths                      Ask                                             34        
+Smiths                      Ask                                             35        
 Grandmaster Flash           The Message                                     33        
+Pat Benatar                 Hit Me With Your Best Shot                      33        
 Queen                       Hammer To Fall                                  33        
-Pat Benatar                 Hit Me With Your Best Shot                      32        
-R.E.M                       Stand.                                          32        
+R.E.M                       Stand.                                          33        
 Bob Marley and The Wailers  Three Little Birds                              31        
+Bruce Springsteen           Hungry Heart                                    30        
 Smiths                      Heaven Knows I'm Miserable Now                  30        
-Bruce Springsteen           Hungry Heart                                    29        
 Cure                        In Between Days                                 27        
-Tracy Chapman               Baby Can I Hold You                             19        
+Tracy Chapman               Baby Can I Hold You                             20        
 Tracy Chapman               Talkin' 'bout A Revolution                      16        
 A Flock Of Seagulls         I Ran                                           8         
 Bad Manners                 Lip Up Fatty                                    8         
@@ -48,13 +48,13 @@ Billy Idol                  Eyes Without A Face                             4
 Clash                       I Fought The Law                                4         
 Def Leppard                 Love Bites                                      4         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              4         
+Smiths                      William, It Was Really Nothing                  4         
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
 Bodysnatchers               Let's Do Rock Steady                            3         
 De La Soul                  Me Myself & I                                   3         
 Freddie Mercury and Queen   I Was Born To Love You                          3         
 Inxs                        Never Tear Us Apart                             3         
 Prince                      I Would Die 4 U                                 3         
-Smiths                      William, It Was Really Nothing                  3         
 Stranglers                  Always The Sun                                  3         
 Abba                        Lay All Your Love On Me                         2         
 Billy Joel                  The Longest Time                                2         

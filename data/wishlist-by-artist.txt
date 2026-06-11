@@ -13,14 +13,12 @@ Bob Marley and The Wailers  Could You Be Loved                              72
 Bob Marley and The Wailers  Three Little Birds                              32        
 Bodysnatchers               Let's Do Rock Steady                            3         
 Bon Jovi                    Bad Medicine                                    43        
-Bon Jovi                    You Give Love A Bad Name                        56        
 Bruce Springsteen           Born In The USA                                 1         
 Bruce Springsteen           Hungry Heart                                    30        
 Bruce Springsteen           Tougher Than The Rest                           1         
 Bryan Adams                 Heat Of The Night                               1         
 Christopher Cross           Ride Like The Wind                              6         
 Clash                       I Fought The Law                                5         
-Clash                       Should I Stay Or Should I Go                    58        
 Communards                  There's More To Love                            1         
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           52        
@@ -97,7 +95,6 @@ Stevie Nicks                Edge Of Seventeen                               6
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  3         
 Style Council               Long Hot Summer                                 1         
-Style Council               You're The Best Thing                           42        
 Talk Talk                   It's My Life                                    82        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         

@@ -60,4 +60,4 @@ CASE
 END AS "Artist",
         title as "Title"
 FROM priority_list
-order by artist, title;
+order by id;

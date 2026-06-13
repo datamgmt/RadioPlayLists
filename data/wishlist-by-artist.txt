@@ -9,10 +9,10 @@ Beloved                     The Sun Rising                                  1
 Billy Idol                  Eyes Without A Face                             4         
 Billy Joel                  The Longest Time                                2         
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
-Bob Marley and The Wailers  Could You Be Loved                              73        
+Bob Marley and The Wailers  Could You Be Loved                              74        
 Bob Marley and The Wailers  Three Little Birds                              33        
 Bodysnatchers               Let's Do Rock Steady                            3         
-Bon Jovi                    Bad Medicine                                    43        
+Bon Jovi                    Bad Medicine                                    44        
 Bruce Springsteen           Born In The USA                                 1         
 Bruce Springsteen           Hungry Heart                                    31        
 Bruce Springsteen           Tougher Than The Rest                           1         
@@ -23,7 +23,7 @@ Communards                  There's More To Love                            1
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           53        
 Cure                        A Forest                                        1         
-Cure                        In Between Days                                 28        
+Cure                        In Between Days                                 29        
 Cure                        Just Like Heaven                                37        
 Cure                        Lullaby                                         5         
 Cure                        Why Can't I Be You                              7         
@@ -32,7 +32,7 @@ Daryl Hall and John Oates   You Make My Dreams                              53
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      4         
-Depeche Mode                Personal Jesus                                  44        
+Depeche Mode                Personal Jesus                                  45        
 Depeche Mode                Shake The Disease                               6         
 Dire Straits                Your Latest Trick                               2         
 Elvis Costello              Everyday I Write The Book                       1         
@@ -41,13 +41,13 @@ Fleetwood Mac               Gypsy                                           2
 Freddie Mercury and Queen   I Was Born To Love You                          3         
 Georgia Satellites          Battleship Chains                               1         
 Grandmaster Flash           The Message                                     34        
-Hall and Oates              Out Of Touch                                    46        
+Hall and Oates              Out Of Touch                                    48        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             3         
 Inxs and Jimmy Barnes       Good Times                                      6         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            85        
+Journey                     Don't Stop Believin'                            86        
 Kate Bush                   This Woman's Work                               1         
 Kim Wilde                   View From A Bridge                              1         
 Lightning Seeds             Pure                                            43        
@@ -67,10 +67,10 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 3         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    70        
+Proclaimers                 I'm Gonna Be                                    71        
 Queen                       Hammer To Fall                                  34        
 Queen                       Who Wants To Live Forever                       3         
-R.E.M                       Stand.                                          33        
+R.E.M                       Stand.                                          34        
 Ramones                     Baby I Love You                                 5         
 Rick James                  Superfreak                                      8         
 Rick Springfield            Jessie's Girl                                   1         
@@ -82,14 +82,14 @@ Sade                        The Sweetest Taboo                              1
 Shannon                     Give Me Tonight                                 1         
 Simple Minds                Sweat In Bullet                                 1         
 Smiths                      Ask                                             36        
-Smiths                      Heaven Knows I'm Miserable Now                  31        
+Smiths                      Heaven Knows I'm Miserable Now                  32        
 Smiths                      How Soon Is Now?                                37        
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         
 Smiths                      Stop Me If You've Heard This One Before         2         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                5         
 Smiths                      There Is A Light That Never Goes Out            2         
-Smiths                      This Charming Man                               38        
+Smiths                      This Charming Man                               40        
 Smiths                      William, It Was Really Nothing                  4         
 Specials                    Rat Race                                        1         
 Stevie Nicks                Edge Of Seventeen                               6         
@@ -101,7 +101,7 @@ Talking Heads               Burning Down The House                          6
 Tears For Fears             Woman In Chains                                 1         
 Third World                 Now That We've Found Love                       1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    81        
+Tom Petty                   Free Falling                                    82        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             20        
 Tracy Chapman               Talkin' 'bout A Revolution                      17        

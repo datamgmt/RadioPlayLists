@@ -3,7 +3,7 @@ artist                      title                                           play
 A Flock Of Seagulls         I Ran                                           8         
 Abba                        Lay All Your Love On Me                         2         
 Aztec Camera                Working In A Goldmine                           1         
-Bad Manners                 Lip Up Fatty                                    8         
+Bad Manners                 Lip Up Fatty                                    9         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             4         
@@ -40,14 +40,14 @@ Fleetwood Mac               Everywhere                                      74
 Fleetwood Mac               Gypsy                                           2         
 Freddie Mercury and Queen   I Was Born To Love You                          3         
 Georgia Satellites          Battleship Chains                               1         
-Grandmaster Flash           The Message                                     34        
+Grandmaster Flash           The Message                                     35        
 Hall and Oates              Out Of Touch                                    48        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             3         
 Inxs and Jimmy Barnes       Good Times                                      6         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            86        
+Journey                     Don't Stop Believin'                            87        
 Kate Bush                   This Woman's Work                               1         
 Kim Wilde                   View From A Bridge                              1         
 Lightning Seeds             Pure                                            43        
@@ -60,14 +60,14 @@ New Order                   Thieves Like Us                                 1
 Omd                         If You Leave                                    1         
 Pat Benatar                 Hit Me With Your Best Shot                      33        
 Paul McCartney              Take It Away                                    1         
-Paul Simon                  Diamonds On The Soles Of Her Shoes              4         
+Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Paul Simon                  Graceland                                       1         
 Poison                      Your Mama Don't Dance                           1         
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 3         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    71        
+Proclaimers                 I'm Gonna Be                                    72        
 Queen                       Hammer To Fall                                  34        
 Queen                       Who Wants To Live Forever                       3         
 R.E.M                       Stand.                                          34        
@@ -96,14 +96,14 @@ Stevie Nicks                Edge Of Seventeen                               6
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  3         
 Style Council               Long Hot Summer                                 1         
-Talk Talk                   It's My Life                                    83        
+Talk Talk                   It's My Life                                    84        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Third World                 Now That We've Found Love                       1         
 Throwing Muses              Dizzy                                           2         
 Tom Petty                   Free Falling                                    82        
 Tone Loc                    Wild Thing                                      1         
-Tracy Chapman               Baby Can I Hold You                             20        
+Tracy Chapman               Baby Can I Hold You                             21        
 Tracy Chapman               Talkin' 'bout A Revolution                      17        
 U2                          Gloria                                          1         
 Yello                       Oh Yeah                                         2         

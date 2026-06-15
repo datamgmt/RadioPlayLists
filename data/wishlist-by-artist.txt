@@ -5,23 +5,24 @@ Abba                        Lay All Your Love On Me                         2
 Aztec Camera                Working In A Goldmine                           1         
 Bad Manners                 Lip Up Fatty                                    9         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
+Beastie Boys                No Sleep Till Brooklyn                          1         
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             4         
 Billy Joel                  The Longest Time                                2         
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
-Bob Marley and The Wailers  Could You Be Loved                              74        
+Bob Marley and The Wailers  Could You Be Loved                              75        
 Bob Marley and The Wailers  Three Little Birds                              33        
 Bodysnatchers               Let's Do Rock Steady                            3         
 Bon Jovi                    Bad Medicine                                    44        
 Bruce Springsteen           Born In The USA                                 1         
-Bruce Springsteen           Hungry Heart                                    31        
+Bruce Springsteen           Hungry Heart                                    32        
 Bruce Springsteen           Tougher Than The Rest                           1         
 Bryan Adams                 Heat Of The Night                               1         
 Christopher Cross           Ride Like The Wind                              6         
 Clash                       I Fought The Law                                5         
 Communards                  There's More To Love                            1         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           53        
+Crowded House               Don't Dream It's Over                           54        
 Cure                        A Forest                                        1         
 Cure                        In Between Days                                 29        
 Cure                        Just Like Heaven                                37        
@@ -36,7 +37,7 @@ Depeche Mode                Personal Jesus                                  45
 Depeche Mode                Shake The Disease                               6         
 Dire Straits                Your Latest Trick                               2         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      74        
+Fleetwood Mac               Everywhere                                      76        
 Fleetwood Mac               Gypsy                                           2         
 Freddie Mercury and Queen   I Was Born To Love You                          3         
 Georgia Satellites          Battleship Chains                               1         
@@ -44,22 +45,23 @@ Grandmaster Flash           The Message                                     35
 Hall and Oates              Out Of Touch                                    48        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             3         
-Inxs and Jimmy Barnes       Good Times                                      6         
+Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
 Journey                     Don't Stop Believin'                            87        
 Kate Bush                   This Woman's Work                               1         
 Kim Wilde                   View From A Bridge                              1         
-Lightning Seeds             Pure                                            43        
-Luther Vandross             Never Too Much                                  39        
+Lightning Seeds             Pure                                            44        
+Luther Vandross             Never Too Much                                  40        
 Manhattan Transfer          Twilight Zone                                   1         
 Meat Loaf                   Midnight At The Lost And Found                  1         
 Men At Work                 Overkill                                        1         
 New Order                   Bizarre Love Triangle                           7         
+New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
 Pat Benatar                 Hit Me With Your Best Shot                      33        
-Paul McCartney              Take It Away                                    1         
+Paul McCartney              Take It Away                                    2         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Paul Simon                  Graceland                                       1         
 Poison                      Your Mama Don't Dance                           1         
@@ -69,13 +71,14 @@ Prince                      I Would Die 4 U                                 3
 Prince                      Nothing Compares 2 U                            1         
 Proclaimers                 I'm Gonna Be                                    72        
 Queen                       Hammer To Fall                                  34        
+Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
 R.E.M                       Stand.                                          34        
 Ramones                     Baby I Love You                                 5         
 Rick James                  Superfreak                                      8         
 Rick Springfield            Jessie's Girl                                   1         
 Righteous Brothers          You've Lost That Loving Feeling                 1         
-Roxy Music                  Avalon                                          1         
+Roxy Music                  Avalon                                          2         
 Rush                        Tom Sawyer                                      1         
 S.O.S. Band                 Just Be Good To Me                              2         
 Sade                        The Sweetest Taboo                              1         
@@ -83,25 +86,25 @@ Shannon                     Give Me Tonight                                 1
 Simple Minds                Sweat In Bullet                                 1         
 Smiths                      Ask                                             36        
 Smiths                      Heaven Knows I'm Miserable Now                  32        
-Smiths                      How Soon Is Now?                                37        
+Smiths                      How Soon Is Now?                                38        
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         
 Smiths                      Stop Me If You've Heard This One Before         2         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                5         
-Smiths                      There Is A Light That Never Goes Out            2         
-Smiths                      This Charming Man                               40        
+Smiths                      There Is A Light That Never Goes Out            3         
+Smiths                      This Charming Man                               41        
 Smiths                      William, It Was Really Nothing                  4         
 Specials                    Rat Race                                        1         
 Stevie Nicks                Edge Of Seventeen                               6         
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  3         
 Style Council               Long Hot Summer                                 1         
-Talk Talk                   It's My Life                                    84        
+Talk Talk                   It's My Life                                    85        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Third World                 Now That We've Found Love                       1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    82        
+Tom Petty                   Free Falling                                    83        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             21        
 Tracy Chapman               Talkin' 'bout A Revolution                      17        

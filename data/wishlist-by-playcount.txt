@@ -1,29 +1,29 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            87        
-Talk Talk                   It's My Life                                    84        
-Tom Petty                   Free Falling                                    82        
-Bob Marley and The Wailers  Could You Be Loved                              74        
-Fleetwood Mac               Everywhere                                      74        
+Talk Talk                   It's My Life                                    85        
+Tom Petty                   Free Falling                                    83        
+Fleetwood Mac               Everywhere                                      76        
+Bob Marley and The Wailers  Could You Be Loved                              75        
 Proclaimers                 I'm Gonna Be                                    72        
-Crowded House               Don't Dream It's Over                           53        
+Crowded House               Don't Dream It's Over                           54        
 Daryl Hall and John Oates   You Make My Dreams                              53        
 Hall and Oates              Out Of Touch                                    48        
 Depeche Mode                Personal Jesus                                  45        
 Bon Jovi                    Bad Medicine                                    44        
-Lightning Seeds             Pure                                            43        
-Smiths                      This Charming Man                               40        
-Luther Vandross             Never Too Much                                  39        
+Lightning Seeds             Pure                                            44        
+Smiths                      This Charming Man                               41        
+Luther Vandross             Never Too Much                                  40        
+Smiths                      How Soon Is Now?                                38        
 Cure                        Just Like Heaven                                37        
-Smiths                      How Soon Is Now?                                37        
 Smiths                      Ask                                             36        
 Grandmaster Flash           The Message                                     35        
 Queen                       Hammer To Fall                                  34        
 R.E.M                       Stand.                                          34        
 Bob Marley and The Wailers  Three Little Birds                              33        
 Pat Benatar                 Hit Me With Your Best Shot                      33        
+Bruce Springsteen           Hungry Heart                                    32        
 Smiths                      Heaven Knows I'm Miserable Now                  32        
-Bruce Springsteen           Hungry Heart                                    31        
 Cure                        In Between Days                                 29        
 Tracy Chapman               Baby Can I Hold You                             21        
 Tracy Chapman               Talkin' 'bout A Revolution                      17        
@@ -31,11 +31,11 @@ Bad Manners                 Lip Up Fatty                                    9
 A Flock Of Seagulls         I Ran                                           8         
 Rick James                  Superfreak                                      8         
 Cure                        Why Can't I Be You                              7         
+Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 New Order                   Bizarre Love Triangle                           7         
 Christopher Cross           Ride Like The Wind                              6         
 Depeche Mode                Shake The Disease                               6         
-Inxs and Jimmy Barnes       Good Times                                      6         
 Stevie Nicks                Edge Of Seventeen                               6         
 Talking Heads               Burning Down The House                          6         
 Clash                       I Fought The Law                                5         
@@ -53,20 +53,23 @@ Freddie Mercury and Queen   I Was Born To Love You                          3
 Inxs                        Never Tear Us Apart                             3         
 Prince                      I Would Die 4 U                                 3         
 Queen                       Who Wants To Live Forever                       3         
+Smiths                      There Is A Light That Never Goes Out            3         
 Stranglers                  Always The Sun                                  3         
 Abba                        Lay All Your Love On Me                         2         
 Billy Joel                  The Longest Time                                2         
 Creatures                   Miss The Girl                                   2         
 Dire Straits                Your Latest Trick                               2         
 Fleetwood Mac               Gypsy                                           2         
+Paul McCartney              Take It Away                                    2         
+Roxy Music                  Avalon                                          2         
 S.O.S. Band                 Just Be Good To Me                              2         
 Smiths                      Please, Please, Please, Let Me Get What I Want  2         
 Smiths                      Stop Me If You've Heard This One Before         2         
-Smiths                      There Is A Light That Never Goes Out            2         
 Throwing Muses              Dizzy                                           2         
 Yello                       Oh Yeah                                         2         
 Aztec Camera                Working In A Goldmine                           1         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
+Beastie Boys                No Sleep Till Brooklyn                          1         
 Beloved                     The Sun Rising                                  1         
 Bruce Springsteen           Born In The USA                                 1         
 Bruce Springsteen           Tougher Than The Rest                           1         
@@ -84,17 +87,17 @@ Kim Wilde                   View From A Bridge                              1
 Manhattan Transfer          Twilight Zone                                   1         
 Meat Loaf                   Midnight At The Lost And Found                  1         
 Men At Work                 Overkill                                        1         
+New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
-Paul McCartney              Take It Away                                    1         
 Paul Simon                  Graceland                                       1         
 Poison                      Your Mama Don't Dance                           1         
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
 Prince                      Nothing Compares 2 U                            1         
+Queen                       Las Palabras de Amor                            1         
 Rick Springfield            Jessie's Girl                                   1         
 Righteous Brothers          You've Lost That Loving Feeling                 1         
-Roxy Music                  Avalon                                          1         
 Rush                        Tom Sawyer                                      1         
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         

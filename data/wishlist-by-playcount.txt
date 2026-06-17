@@ -1,21 +1,21 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            88        
+Journey                     Don't Stop Believin'                            89        
 Talk Talk                   It's My Life                                    86        
-Tom Petty                   Free Falling                                    83        
-Fleetwood Mac               Everywhere                                      76        
-Bob Marley and The Wailers  Could You Be Loved                              75        
-Proclaimers                 I'm Gonna Be                                    73        
-Crowded House               Don't Dream It's Over                           54        
-Daryl Hall and John Oates   You Make My Dreams                              54        
+Tom Petty                   Free Falling                                    84        
+Fleetwood Mac               Everywhere                                      77        
+Bob Marley and The Wailers  Could You Be Loved                              76        
+Proclaimers                 I'm Gonna Be                                    74        
+Crowded House               Don't Dream It's Over                           55        
+Daryl Hall and John Oates   You Make My Dreams                              55        
 Hall and Oates              Out Of Touch                                    48        
 Depeche Mode                Personal Jesus                                  46        
 Bon Jovi                    Bad Medicine                                    45        
-Lightning Seeds             Pure                                            44        
-Smiths                      This Charming Man                               41        
+Lightning Seeds             Pure                                            45        
+Smiths                      This Charming Man                               42        
 Luther Vandross             Never Too Much                                  40        
+Cure                        Just Like Heaven                                38        
 Smiths                      How Soon Is Now?                                38        
-Cure                        Just Like Heaven                                37        
 Grandmaster Flash           The Message                                     36        
 Smiths                      Ask                                             36        
 R.E.M                       Stand.                                          35        
@@ -24,7 +24,7 @@ Bob Marley and The Wailers  Three Little Birds                              33
 Pat Benatar                 Hit Me With Your Best Shot                      33        
 Bruce Springsteen           Hungry Heart                                    32        
 Smiths                      Heaven Knows I'm Miserable Now                  32        
-Cure                        In Between Days                                 29        
+Cure                        In Between Days                                 30        
 Tracy Chapman               Baby Can I Hold You                             21        
 Tracy Chapman               Talkin' 'bout A Revolution                      17        
 Bad Manners                 Lip Up Fatty                                    9         
@@ -36,15 +36,16 @@ Janet Jackson               Rhythm Nation                                   7
 New Order                   Bizarre Love Triangle                           7         
 Christopher Cross           Ride Like The Wind                              6         
 Depeche Mode                Shake The Disease                               6         
+Smiths                      The Boy With A Thorn In His Side                6         
 Stevie Nicks                Edge Of Seventeen                               6         
 Talking Heads               Burning Down The House                          6         
 Clash                       I Fought The Law                                5         
 Cure                        Lullaby                                         5         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Ramones                     Baby I Love You                                 5         
-Smiths                      The Boy With A Thorn In His Side                5         
 Billy Idol                  Eyes Without A Face                             4         
 Def Leppard                 Love Bites                                      4         
+Smiths                      There Is A Light That Never Goes Out            4         
 Smiths                      William, It Was Really Nothing                  4         
 Bob Marley and The Wailers  Buffalo Soldier                                 3         
 Bodysnatchers               Let's Do Rock Steady                            3         
@@ -53,7 +54,6 @@ Freddie Mercury and Queen   I Was Born To Love You                          3
 Inxs                        Never Tear Us Apart                             3         
 Prince                      I Would Die 4 U                                 3         
 Queen                       Who Wants To Live Forever                       3         
-Smiths                      There Is A Light That Never Goes Out            3         
 Stranglers                  Always The Sun                                  3         
 Abba                        Lay All Your Love On Me                         2         
 Billy Joel                  The Longest Time                                2         

@@ -89,7 +89,7 @@ where   country = 'uk'
 and     station = 'absolute80s'
 group by play_date
 having 100.0*sum(matched_source='wantlist')/sum(1) < 3
-and sum(matched_source='wantlist') < 10 
+and sum(matched_source='wantlist') < 8 
 order by wantlist,
         pct_wantlist;
         

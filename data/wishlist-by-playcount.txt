@@ -1,30 +1,30 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            91        
-Talk Talk                   It's My Life                                    89        
-Tom Petty                   Free Falling                                    85        
-Bob Marley and The Wailers  Could You Be Loved                              79        
-Fleetwood Mac               Everywhere                                      78        
-Proclaimers                 I'm Gonna Be                                    76        
-Crowded House               Don't Dream It's Over                           56        
+Journey                     Don't Stop Believin'                            92        
+Talk Talk                   It's My Life                                    90        
+Tom Petty                   Free Falling                                    86        
+Bob Marley and The Wailers  Could You Be Loved                              80        
+Fleetwood Mac               Everywhere                                      79        
+Proclaimers                 I'm Gonna Be                                    77        
+Crowded House               Don't Dream It's Over                           57        
 Daryl Hall and John Oates   You Make My Dreams                              56        
 Depeche Mode                Personal Jesus                                  49        
 Hall and Oates              Out Of Touch                                    49        
+Lightning Seeds             Pure                                            47        
 Bon Jovi                    Bad Medicine                                    46        
-Lightning Seeds             Pure                                            46        
-Smiths                      This Charming Man                               44        
+Smiths                      This Charming Man                               45        
 Luther Vandross             Never Too Much                                  42        
 Smiths                      How Soon Is Now?                                40        
 Cure                        Just Like Heaven                                39        
 Smiths                      Ask                                             38        
 Grandmaster Flash           The Message                                     37        
 R.E.M                       Stand.                                          37        
-Bruce Springsteen           Hungry Heart                                    35        
+Bruce Springsteen           Hungry Heart                                    36        
+Bob Marley and The Wailers  Three Little Birds                              35        
 Queen                       Hammer To Fall                                  35        
-Bob Marley and The Wailers  Three Little Birds                              34        
 Smiths                      Heaven Knows I'm Miserable Now                  32        
 Cure                        In Between Days                                 30        
-Tracy Chapman               Baby Can I Hold You                             21        
+Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      18        
 Bad Manners                 Lip Up Fatty                                    9         
 Rick James                  Superfreak                                      9         
@@ -38,11 +38,11 @@ Depeche Mode                Shake The Disease                               6
 Smiths                      The Boy With A Thorn In His Side                6         
 Stevie Nicks                Edge Of Seventeen                               6         
 Talking Heads               Burning Down The House                          6         
+Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
 Cure                        Lullaby                                         5         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
-Billy Idol                  Eyes Without A Face                             4         
 Def Leppard                 Love Bites                                      4         
 Inxs                        Never Tear Us Apart                             4         
 Prince                      I Would Die 4 U                                 4         
@@ -67,6 +67,7 @@ Beloved                     The Sun Rising                                  1
 Bryan Adams                 Heat Of The Night                               1         
 David Bowie                 Magic Dance                                     1         
 Elvis Costello              Everyday I Write The Book                       1         
+George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
 Huey Lewis and The News     Back In Time                                    1         
@@ -75,7 +76,9 @@ Kate Bush                   This Woman's Work                               1
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
+Omd                         So In Love                                      1         
 Paul Simon                  Graceland                                       1         
+Phil Collins                If Leaving Me Is Easy                           1         
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
 Prince                      Nothing Compares 2 U                            1         
@@ -84,6 +87,7 @@ Rush                        Tom Sawyer                                      1
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         
 Simple Minds                Sweat In Bullet                                 1         
+Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Specials                    Rat Race                                        1         
 Stone Roses                 What The World Is Waiting For                   1         

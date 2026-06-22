@@ -6,18 +6,18 @@ Bad Manners                 Lip Up Fatty                                    9
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
 Beloved                     The Sun Rising                                  1         
-Billy Idol                  Eyes Without A Face                             4         
+Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              79        
-Bob Marley and The Wailers  Three Little Birds                              34        
+Bob Marley and The Wailers  Could You Be Loved                              80        
+Bob Marley and The Wailers  Three Little Birds                              35        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    46        
-Bruce Springsteen           Hungry Heart                                    35        
+Bruce Springsteen           Hungry Heart                                    36        
 Bryan Adams                 Heat Of The Night                               1         
 Christopher Cross           Ride Like The Wind                              7         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           56        
+Crowded House               Don't Dream It's Over                           57        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 30        
 Cure                        Just Like Heaven                                39        
@@ -30,8 +30,9 @@ Def Leppard                 Love Bites                                      4
 Depeche Mode                Personal Jesus                                  49        
 Depeche Mode                Shake The Disease                               6         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      78        
+Fleetwood Mac               Everywhere                                      79        
 Fleetwood Mac               Gypsy                                           2         
+George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
 Grandmaster Flash           The Message                                     37        
@@ -41,21 +42,23 @@ Inxs                        Never Tear Us Apart                             4
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            91        
+Journey                     Don't Stop Believin'                            92        
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            46        
+Lightning Seeds             Pure                                            47        
 Luther Vandross             Never Too Much                                  42        
 New Order                   Bizarre Love Triangle                           7         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
+Omd                         So In Love                                      1         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Paul Simon                  Graceland                                       1         
+Phil Collins                If Leaving Me Is Easy                           1         
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    76        
+Proclaimers                 I'm Gonna Be                                    77        
 Queen                       Hammer To Fall                                  35        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
@@ -66,6 +69,7 @@ S.O.S. Band                 Just Be Good To Me                              2
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         
 Simple Minds                Sweat In Bullet                                 1         
+Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             38        
 Smiths                      Heaven Knows I'm Miserable Now                  32        
 Smiths                      How Soon Is Now?                                40        
@@ -74,20 +78,20 @@ Smiths                      Stop Me If You've Heard This One Before         2
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                6         
 Smiths                      There Is A Light That Never Goes Out            4         
-Smiths                      This Charming Man                               44        
+Smiths                      This Charming Man                               45        
 Smiths                      William, It Was Really Nothing                  4         
 Specials                    Rat Race                                        1         
 Stevie Nicks                Edge Of Seventeen                               6         
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 1         
-Talk Talk                   It's My Life                                    89        
+Talk Talk                   It's My Life                                    90        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    85        
+Tom Petty                   Free Falling                                    86        
 Tone Loc                    Wild Thing                                      1         
-Tracy Chapman               Baby Can I Hold You                             21        
+Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      18        
 U2                          Gloria                                          1         
 Waterboys                   Fisherman's Blues                               1         

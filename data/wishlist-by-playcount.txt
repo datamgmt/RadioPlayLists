@@ -1,21 +1,21 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            92        
+Journey                     Don't Stop Believin'                            93        
 Talk Talk                   It's My Life                                    90        
 Tom Petty                   Free Falling                                    86        
 Bob Marley and The Wailers  Could You Be Loved                              80        
-Fleetwood Mac               Everywhere                                      79        
+Fleetwood Mac               Everywhere                                      80        
 Proclaimers                 I'm Gonna Be                                    77        
 Crowded House               Don't Dream It's Over                           57        
 Daryl Hall and John Oates   You Make My Dreams                              56        
+Hall and Oates              Out Of Touch                                    50        
 Depeche Mode                Personal Jesus                                  49        
-Hall and Oates              Out Of Touch                                    49        
+Bon Jovi                    Bad Medicine                                    47        
 Lightning Seeds             Pure                                            47        
-Bon Jovi                    Bad Medicine                                    46        
 Smiths                      This Charming Man                               45        
-Luther Vandross             Never Too Much                                  42        
+Luther Vandross             Never Too Much                                  43        
+Cure                        Just Like Heaven                                40        
 Smiths                      How Soon Is Now?                                40        
-Cure                        Just Like Heaven                                39        
 Smiths                      Ask                                             38        
 Grandmaster Flash           The Message                                     37        
 R.E.M                       Stand.                                          37        
@@ -31,17 +31,17 @@ Rick James                  Superfreak                                      9
 A Flock Of Seagulls         I Ran                                           8         
 Christopher Cross           Ride Like The Wind                              7         
 Cure                        Why Can't I Be You                              7         
+Depeche Mode                Shake The Disease                               7         
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 New Order                   Bizarre Love Triangle                           7         
-Depeche Mode                Shake The Disease                               6         
+Cure                        Lullaby                                         6         
 Smiths                      The Boy With A Thorn In His Side                6         
 Stevie Nicks                Edge Of Seventeen                               6         
 Talking Heads               Burning Down The House                          6         
 Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
-Cure                        Lullaby                                         5         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Def Leppard                 Love Bites                                      4         
 Inxs                        Never Tear Us Apart                             4         
@@ -61,11 +61,13 @@ Smiths                      Please, Please, Please, Let Me Get What I Want  2
 Smiths                      Stop Me If You've Heard This One Before         2         
 Throwing Muses              Dizzy                                           2         
 Yello                       Oh Yeah                                         2         
+B52s                        Give Me Back My Man                             1         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
 Beloved                     The Sun Rising                                  1         
 Bryan Adams                 Heat Of The Night                               1         
 David Bowie                 Magic Dance                                     1         
+Devo                        Whip It                                         1         
 Elvis Costello              Everyday I Write The Book                       1         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         

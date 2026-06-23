@@ -2,6 +2,7 @@ artist                      title                                           play
 --------------------------  ----------------------------------------------  ----------
 A Flock Of Seagulls         I Ran                                           8         
 Abba                        Lay All Your Love On Me                         2         
+B52s                        Give Me Back My Man                             1         
 Bad Manners                 Lip Up Fatty                                    9         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
@@ -11,7 +12,7 @@ Billy Joel                  The Longest Time                                2
 Bob Marley and The Wailers  Could You Be Loved                              80        
 Bob Marley and The Wailers  Three Little Birds                              35        
 Bodysnatchers               Let's Do Rock Steady                            5         
-Bon Jovi                    Bad Medicine                                    46        
+Bon Jovi                    Bad Medicine                                    47        
 Bruce Springsteen           Hungry Heart                                    36        
 Bryan Adams                 Heat Of The Night                               1         
 Christopher Cross           Ride Like The Wind                              7         
@@ -20,32 +21,33 @@ Creatures                   Miss The Girl                                   2
 Crowded House               Don't Dream It's Over                           57        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 30        
-Cure                        Just Like Heaven                                39        
-Cure                        Lullaby                                         5         
+Cure                        Just Like Heaven                                40        
+Cure                        Lullaby                                         6         
 Cure                        Why Can't I Be You                              7         
 Daryl Hall and John Oates   You Make My Dreams                              56        
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      4         
 Depeche Mode                Personal Jesus                                  49        
-Depeche Mode                Shake The Disease                               6         
+Depeche Mode                Shake The Disease                               7         
+Devo                        Whip It                                         1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      79        
+Fleetwood Mac               Everywhere                                      80        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
 Grandmaster Flash           The Message                                     37        
-Hall and Oates              Out Of Touch                                    49        
+Hall and Oates              Out Of Touch                                    50        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            92        
+Journey                     Don't Stop Believin'                            93        
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            47        
-Luther Vandross             Never Too Much                                  42        
+Luther Vandross             Never Too Much                                  43        
 New Order                   Bizarre Love Triangle                           7         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         

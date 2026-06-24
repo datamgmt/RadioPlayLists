@@ -1,29 +1,29 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            93        
+Journey                     Don't Stop Believin'                            94        
 Talk Talk                   It's My Life                                    90        
-Tom Petty                   Free Falling                                    86        
-Bob Marley and The Wailers  Could You Be Loved                              80        
+Tom Petty                   Free Falling                                    87        
+Bob Marley and The Wailers  Could You Be Loved                              81        
 Fleetwood Mac               Everywhere                                      80        
-Proclaimers                 I'm Gonna Be                                    77        
-Crowded House               Don't Dream It's Over                           57        
-Daryl Hall and John Oates   You Make My Dreams                              56        
+Proclaimers                 I'm Gonna Be                                    78        
+Crowded House               Don't Dream It's Over                           58        
+Daryl Hall and John Oates   You Make My Dreams                              57        
 Hall and Oates              Out Of Touch                                    50        
 Depeche Mode                Personal Jesus                                  49        
 Bon Jovi                    Bad Medicine                                    47        
 Lightning Seeds             Pure                                            47        
 Smiths                      This Charming Man                               45        
 Luther Vandross             Never Too Much                                  43        
+Smiths                      How Soon Is Now?                                41        
 Cure                        Just Like Heaven                                40        
-Smiths                      How Soon Is Now?                                40        
-Smiths                      Ask                                             38        
+Smiths                      Ask                                             39        
+R.E.M                       Stand.                                          38        
 Grandmaster Flash           The Message                                     37        
-R.E.M                       Stand.                                          37        
 Bruce Springsteen           Hungry Heart                                    36        
 Bob Marley and The Wailers  Three Little Birds                              35        
 Queen                       Hammer To Fall                                  35        
-Smiths                      Heaven Knows I'm Miserable Now                  32        
-Cure                        In Between Days                                 30        
+Smiths                      Heaven Knows I'm Miserable Now                  33        
+Cure                        In Between Days                                 31        
 Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      18        
 Bad Manners                 Lip Up Fatty                                    9         
@@ -35,9 +35,9 @@ Depeche Mode                Shake The Disease                               7
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 New Order                   Bizarre Love Triangle                           7         
+Stevie Nicks                Edge Of Seventeen                               7         
 Cure                        Lullaby                                         6         
 Smiths                      The Boy With A Thorn In His Side                6         
-Stevie Nicks                Edge Of Seventeen                               6         
 Talking Heads               Burning Down The House                          6         
 Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         

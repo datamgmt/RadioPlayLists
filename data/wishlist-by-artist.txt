@@ -9,8 +9,8 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              81        
-Bob Marley and The Wailers  Three Little Birds                              35        
+Bob Marley and The Wailers  Could You Be Loved                              82        
+Bob Marley and The Wailers  Three Little Birds                              36        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    47        
 Bruce Springsteen           Hungry Heart                                    36        
@@ -18,36 +18,37 @@ Bryan Adams                 Heat Of The Night                               1
 Christopher Cross           Ride Like The Wind                              7         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           58        
+Crowded House               Don't Dream It's Over                           59        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 31        
 Cure                        Just Like Heaven                                40        
 Cure                        Lullaby                                         6         
 Cure                        Why Can't I Be You                              7         
-Daryl Hall and John Oates   You Make My Dreams                              57        
+Daryl Hall and John Oates   You Make My Dreams                              58        
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
-Def Leppard                 Love Bites                                      4         
-Depeche Mode                Personal Jesus                                  49        
+Def Leppard                 Love Bites                                      5         
+Depeche Mode                Personal Jesus                                  50        
 Depeche Mode                Shake The Disease                               7         
 Devo                        Whip It                                         1         
+Dire Straits                Twisting By The Pool                            1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      80        
+Fleetwood Mac               Everywhere                                      81        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
-Grandmaster Flash           The Message                                     37        
-Hall and Oates              Out Of Touch                                    50        
+Grandmaster Flash           The Message                                     38        
+Hall and Oates              Out Of Touch                                    51        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            94        
+Journey                     Don't Stop Believin'                            95        
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            47        
-Luther Vandross             Never Too Much                                  43        
+Luther Vandross             Never Too Much                                  44        
 New Order                   Bizarre Love Triangle                           7         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
@@ -60,7 +61,7 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    78        
+Proclaimers                 I'm Gonna Be                                    79        
 Queen                       Hammer To Fall                                  35        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
@@ -70,6 +71,7 @@ Rush                        Tom Sawyer                                      1
 S.O.S. Band                 Just Be Good To Me                              2         
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         
+Simple Minds                Someone Somewhere In Summertime                 1         
 Simple Minds                Sweat In Bullet                                 1         
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             39        
@@ -86,8 +88,8 @@ Specials                    Rat Race                                        1
 Stevie Nicks                Edge Of Seventeen                               7         
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
-Style Council               Long Hot Summer                                 1         
-Talk Talk                   It's My Life                                    90        
+Style Council               Long Hot Summer                                 2         
+Talk Talk                   It's My Life                                    91        
 Talking Heads               Burning Down The House                          6         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         

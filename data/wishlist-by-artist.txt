@@ -9,23 +9,23 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              82        
+Bob Marley and The Wailers  Could You Be Loved                              83        
 Bob Marley and The Wailers  Three Little Birds                              36        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    48        
-Bruce Springsteen           Hungry Heart                                    37        
+Bruce Springsteen           Hungry Heart                                    39        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
 Christopher Cross           Ride Like The Wind                              7         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           59        
+Crowded House               Don't Dream It's Over                           60        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 31        
 Cure                        Just Like Heaven                                41        
 Cure                        Lullaby                                         6         
 Cure                        Why Can't I Be You                              7         
-Daryl Hall and John Oates   You Make My Dreams                              58        
+Daryl Hall and John Oates   You Make My Dreams                              60        
 David Bowie                 Magic Dance                                     1         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      5         
@@ -34,19 +34,19 @@ Depeche Mode                Shake The Disease                               7
 Devo                        Whip It                                         1         
 Dire Straits                Twisting By The Pool                            1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      82        
+Fleetwood Mac               Everywhere                                      83        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
 Grandmaster Flash           The Message                                     39        
-Hall and Oates              Out Of Touch                                    51        
+Hall and Oates              Out Of Touch                                    52        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            96        
+Journey                     Don't Stop Believin'                            97        
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            47        
 Luther Vandross             Never Too Much                                  44        
@@ -63,10 +63,10 @@ Prince                      Controversy                                     1
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
 Proclaimers                 I'm Gonna Be                                    80        
-Queen                       Hammer To Fall                                  35        
+Queen                       Hammer To Fall                                  36        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
-R.E.M                       Stand.                                          39        
+R.E.M                       Stand.                                          40        
 Rick James                  Superfreak                                      9         
 Rush                        Tom Sawyer                                      1         
 S.O.S. Band                 Just Be Good To Me                              2         
@@ -83,7 +83,7 @@ Smiths                      Stop Me If You've Heard This One Before         2
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                6         
 Smiths                      There Is A Light That Never Goes Out            4         
-Smiths                      This Charming Man                               45        
+Smiths                      This Charming Man                               46        
 Smiths                      William, It Was Really Nothing                  4         
 Specials                    Rat Race                                        1         
 Stevie Nicks                Edge Of Seventeen                               7         

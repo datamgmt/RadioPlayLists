@@ -1,18 +1,18 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            97        
-Talk Talk                   It's My Life                                    92        
+Talk Talk                   It's My Life                                    93        
 Tom Petty                   Free Falling                                    88        
+Fleetwood Mac               Everywhere                                      84        
 Bob Marley and The Wailers  Could You Be Loved                              83        
-Fleetwood Mac               Everywhere                                      83        
-Proclaimers                 I'm Gonna Be                                    80        
+Proclaimers                 I'm Gonna Be                                    81        
+Daryl Hall and John Oates   You Make My Dreams                              61        
 Crowded House               Don't Dream It's Over                           60        
-Daryl Hall and John Oates   You Make My Dreams                              60        
 Hall and Oates              Out Of Touch                                    52        
-Depeche Mode                Personal Jesus                                  50        
+Depeche Mode                Personal Jesus                                  51        
 Bon Jovi                    Bad Medicine                                    48        
-Lightning Seeds             Pure                                            47        
-Smiths                      This Charming Man                               46        
+Lightning Seeds             Pure                                            48        
+Smiths                      This Charming Man                               47        
 Luther Vandross             Never Too Much                                  44        
 Cure                        Just Like Heaven                                41        
 Smiths                      How Soon Is Now?                                41        
@@ -22,10 +22,10 @@ Grandmaster Flash           The Message                                     39
 Smiths                      Ask                                             39        
 Bob Marley and The Wailers  Three Little Birds                              36        
 Queen                       Hammer To Fall                                  36        
-Smiths                      Heaven Knows I'm Miserable Now                  33        
+Smiths                      Heaven Knows I'm Miserable Now                  34        
 Cure                        In Between Days                                 31        
 Tracy Chapman               Baby Can I Hold You                             22        
-Tracy Chapman               Talkin' 'bout A Revolution                      18        
+Tracy Chapman               Talkin' 'bout A Revolution                      19        
 Bad Manners                 Lip Up Fatty                                    9         
 Rick James                  Superfreak                                      9         
 A Flock Of Seagulls         I Ran                                           8         

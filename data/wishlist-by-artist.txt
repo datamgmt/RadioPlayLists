@@ -10,17 +10,17 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              85        
+Bob Marley and The Wailers  Could You Be Loved                              86        
 Bob Marley and The Wailers  Three Little Birds                              37        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    49        
-Bruce Springsteen           Hungry Heart                                    40        
+Bruce Springsteen           Hungry Heart                                    41        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
 Christopher Cross           Ride Like The Wind                              7         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           60        
+Crowded House               Don't Dream It's Over                           61        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 31        
 Cure                        Just Like Heaven                                42        
@@ -36,19 +36,19 @@ Devo                        Whip It                                         1
 Dire Straits                Twisting By The Pool                            1         
 Donna Allen                 Joy And Pain                                    1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      84        
+Fleetwood Mac               Everywhere                                      85        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
-Grandmaster Flash           The Message                                     39        
-Hall and Oates              Out Of Touch                                    52        
+Grandmaster Flash           The Message                                     40        
+Hall and Oates              Out Of Touch                                    53        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            99        
+Journey                     Don't Stop Believin'                            101       
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            49        
 Luther Vandross             Never Too Much                                  45        
@@ -64,11 +64,11 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    82        
-Queen                       Hammer To Fall                                  36        
+Proclaimers                 I'm Gonna Be                                    83        
+Queen                       Hammer To Fall                                  37        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
-R.E.M                       Stand.                                          41        
+R.E.M                       Stand.                                          42        
 Rick James                  Superfreak                                      9         
 Rush                        Tom Sawyer                                      1         
 S.O.S. Band                 Just Be Good To Me                              2         
@@ -93,7 +93,7 @@ Stone Roses                 What The World Is Waiting For                   1
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
 Talk Talk                   It's My Life                                    94        
-Talking Heads               Burning Down The House                          6         
+Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
 Tom Petty                   Free Falling                                    90        

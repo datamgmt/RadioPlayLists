@@ -1,27 +1,27 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            99        
+Journey                     Don't Stop Believin'                            101       
 Talk Talk                   It's My Life                                    94        
 Tom Petty                   Free Falling                                    90        
-Bob Marley and The Wailers  Could You Be Loved                              85        
-Fleetwood Mac               Everywhere                                      84        
-Proclaimers                 I'm Gonna Be                                    82        
+Bob Marley and The Wailers  Could You Be Loved                              86        
+Fleetwood Mac               Everywhere                                      85        
+Proclaimers                 I'm Gonna Be                                    83        
+Crowded House               Don't Dream It's Over                           61        
 Daryl Hall and John Oates   You Make My Dreams                              61        
-Crowded House               Don't Dream It's Over                           60        
+Hall and Oates              Out Of Touch                                    53        
 Depeche Mode                Personal Jesus                                  52        
-Hall and Oates              Out Of Touch                                    52        
 Bon Jovi                    Bad Medicine                                    49        
 Lightning Seeds             Pure                                            49        
 Smiths                      This Charming Man                               47        
 Luther Vandross             Never Too Much                                  45        
 Cure                        Just Like Heaven                                42        
+R.E.M                       Stand.                                          42        
 Smiths                      How Soon Is Now?                                42        
-R.E.M                       Stand.                                          41        
-Bruce Springsteen           Hungry Heart                                    40        
+Bruce Springsteen           Hungry Heart                                    41        
+Grandmaster Flash           The Message                                     40        
 Smiths                      Ask                                             40        
-Grandmaster Flash           The Message                                     39        
 Bob Marley and The Wailers  Three Little Birds                              37        
-Queen                       Hammer To Fall                                  36        
+Queen                       Hammer To Fall                                  37        
 Smiths                      Heaven Knows I'm Miserable Now                  35        
 Cure                        In Between Days                                 31        
 Tracy Chapman               Baby Can I Hold You                             22        
@@ -36,9 +36,9 @@ Depeche Mode                Shake The Disease                               7
 Inxs and Jimmy Barnes       Good Times                                      7         
 Janet Jackson               Rhythm Nation                                   7         
 Stevie Nicks                Edge Of Seventeen                               7         
+Talking Heads               Burning Down The House                          7         
 Cure                        Lullaby                                         6         
 Smiths                      The Boy With A Thorn In His Side                6         
-Talking Heads               Burning Down The House                          6         
 Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         

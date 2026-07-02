@@ -1,16 +1,16 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            101       
-Talk Talk                   It's My Life                                    94        
-Tom Petty                   Free Falling                                    90        
-Bob Marley and The Wailers  Could You Be Loved                              86        
-Fleetwood Mac               Everywhere                                      85        
-Proclaimers                 I'm Gonna Be                                    83        
+Talk Talk                   It's My Life                                    95        
+Tom Petty                   Free Falling                                    91        
+Bob Marley and The Wailers  Could You Be Loved                              87        
+Fleetwood Mac               Everywhere                                      86        
+Proclaimers                 I'm Gonna Be                                    85        
 Crowded House               Don't Dream It's Over                           61        
 Daryl Hall and John Oates   You Make My Dreams                              61        
 Hall and Oates              Out Of Touch                                    53        
 Depeche Mode                Personal Jesus                                  52        
-Bon Jovi                    Bad Medicine                                    49        
+Bon Jovi                    Bad Medicine                                    50        
 Lightning Seeds             Pure                                            49        
 Smiths                      This Charming Man                               47        
 Luther Vandross             Never Too Much                                  45        
@@ -22,7 +22,7 @@ Grandmaster Flash           The Message                                     40
 Smiths                      Ask                                             40        
 Bob Marley and The Wailers  Three Little Birds                              37        
 Queen                       Hammer To Fall                                  37        
-Smiths                      Heaven Knows I'm Miserable Now                  35        
+Smiths                      Heaven Knows I'm Miserable Now                  36        
 Cure                        In Between Days                                 31        
 Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      20        
@@ -30,11 +30,11 @@ Bad Manners                 Lip Up Fatty                                    9
 Rick James                  Superfreak                                      9         
 A Flock Of Seagulls         I Ran                                           8         
 Cure                        Why Can't I Be You                              8         
+Inxs and Jimmy Barnes       Good Times                                      8         
+Janet Jackson               Rhythm Nation                                   8         
 New Order                   Bizarre Love Triangle                           8         
 Christopher Cross           Ride Like The Wind                              7         
 Depeche Mode                Shake The Disease                               7         
-Inxs and Jimmy Barnes       Good Times                                      7         
-Janet Jackson               Rhythm Nation                                   7         
 Stevie Nicks                Edge Of Seventeen                               7         
 Talking Heads               Burning Down The House                          7         
 Cure                        Lullaby                                         6         
@@ -51,13 +51,13 @@ Smiths                      William, It Was Really Nothing                  4
 Stranglers                  Always The Sun                                  4         
 De La Soul                  Me Myself & I                                   3         
 Queen                       Who Wants To Live Forever                       3         
+Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Abba                        Lay All Your Love On Me                         2         
 Billy Joel                  The Longest Time                                2         
 Creatures                   Miss The Girl                                   2         
 Cure                        A Forest                                        2         
 Fleetwood Mac               Gypsy                                           2         
 S.O.S. Band                 Just Be Good To Me                              2         
-Smiths                      Please, Please, Please, Let Me Get What I Want  2         
 Smiths                      Stop Me If You've Heard This One Before         2         
 Style Council               Long Hot Summer                                 2         
 Throwing Muses              Dizzy                                           2         
@@ -77,6 +77,7 @@ Elvis Costello              Everyday I Write The Book                       1
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
+Hall and Oates              Kiss On My List                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Jocelyn Brown               Somebody Else's Guy                             1         
 Kate Bush                   This Woman's Work                               1         

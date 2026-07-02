@@ -10,10 +10,10 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  1         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              86        
+Bob Marley and The Wailers  Could You Be Loved                              87        
 Bob Marley and The Wailers  Three Little Birds                              37        
 Bodysnatchers               Let's Do Rock Steady                            5         
-Bon Jovi                    Bad Medicine                                    49        
+Bon Jovi                    Bad Medicine                                    50        
 Bruce Springsteen           Hungry Heart                                    41        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
@@ -36,17 +36,18 @@ Devo                        Whip It                                         1
 Dire Straits                Twisting By The Pool                            1         
 Donna Allen                 Joy And Pain                                    1         
 Elvis Costello              Everyday I Write The Book                       1         
-Fleetwood Mac               Everywhere                                      85        
+Fleetwood Mac               Everywhere                                      86        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
 Grandmaster Flash           The Message                                     40        
+Hall and Oates              Kiss On My List                                 1         
 Hall and Oates              Out Of Touch                                    53        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
-Inxs and Jimmy Barnes       Good Times                                      7         
-Janet Jackson               Rhythm Nation                                   7         
+Inxs and Jimmy Barnes       Good Times                                      8         
+Janet Jackson               Rhythm Nation                                   8         
 Jocelyn Brown               Somebody Else's Guy                             1         
 Journey                     Don't Stop Believin'                            101       
 Kate Bush                   This Woman's Work                               1         
@@ -64,7 +65,7 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    83        
+Proclaimers                 I'm Gonna Be                                    85        
 Queen                       Hammer To Fall                                  37        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
@@ -78,9 +79,9 @@ Simple Minds                Someone Somewhere In Summertime                 1
 Simple Minds                Sweat In Bullet                                 1         
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             40        
-Smiths                      Heaven Knows I'm Miserable Now                  35        
+Smiths                      Heaven Knows I'm Miserable Now                  36        
 Smiths                      How Soon Is Now?                                42        
-Smiths                      Please, Please, Please, Let Me Get What I Want  2         
+Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Smiths                      Stop Me If You've Heard This One Before         2         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                6         
@@ -92,11 +93,11 @@ Stevie Nicks                Edge Of Seventeen                               7
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
-Talk Talk                   It's My Life                                    94        
+Talk Talk                   It's My Life                                    95        
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    90        
+Tom Petty                   Free Falling                                    91        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      20        

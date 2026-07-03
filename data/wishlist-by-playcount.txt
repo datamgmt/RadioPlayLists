@@ -1,26 +1,26 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            101       
-Talk Talk                   It's My Life                                    95        
-Tom Petty                   Free Falling                                    91        
+Journey                     Don't Stop Believin'                            102       
+Talk Talk                   It's My Life                                    96        
+Tom Petty                   Free Falling                                    92        
 Bob Marley and The Wailers  Could You Be Loved                              87        
 Fleetwood Mac               Everywhere                                      86        
 Proclaimers                 I'm Gonna Be                                    85        
 Crowded House               Don't Dream It's Over                           61        
 Daryl Hall and John Oates   You Make My Dreams                              61        
-Hall and Oates              Out Of Touch                                    53        
+Hall and Oates              Out Of Touch                                    54        
 Depeche Mode                Personal Jesus                                  52        
 Bon Jovi                    Bad Medicine                                    50        
-Lightning Seeds             Pure                                            49        
+Lightning Seeds             Pure                                            50        
 Smiths                      This Charming Man                               47        
 Luther Vandross             Never Too Much                                  45        
-Cure                        Just Like Heaven                                42        
+Cure                        Just Like Heaven                                43        
+Bruce Springsteen           Hungry Heart                                    42        
 R.E.M                       Stand.                                          42        
 Smiths                      How Soon Is Now?                                42        
-Bruce Springsteen           Hungry Heart                                    41        
-Grandmaster Flash           The Message                                     40        
+Grandmaster Flash           The Message                                     41        
 Smiths                      Ask                                             40        
-Bob Marley and The Wailers  Three Little Birds                              37        
+Bob Marley and The Wailers  Three Little Birds                              38        
 Queen                       Hammer To Fall                                  37        
 Smiths                      Heaven Knows I'm Miserable Now                  36        
 Cure                        In Between Days                                 31        
@@ -38,12 +38,12 @@ Depeche Mode                Shake The Disease                               7
 Stevie Nicks                Edge Of Seventeen                               7         
 Talking Heads               Burning Down The House                          7         
 Cure                        Lullaby                                         6         
+Paul Simon                  Diamonds On The Soles Of Her Shoes              6         
 Smiths                      The Boy With A Thorn In His Side                6         
 Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
 Def Leppard                 Love Bites                                      5         
-Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
 Inxs                        Never Tear Us Apart                             4         
 Prince                      I Would Die 4 U                                 4         
 Smiths                      There Is A Light That Never Goes Out            4         
@@ -53,6 +53,7 @@ De La Soul                  Me Myself & I                                   3
 Queen                       Who Wants To Live Forever                       3         
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Abba                        Lay All Your Love On Me                         2         
+Beloved                     The Sun Rising                                  2         
 Billy Joel                  The Longest Time                                2         
 Creatures                   Miss The Girl                                   2         
 Cure                        A Forest                                        2         
@@ -66,7 +67,6 @@ B52s                        Give Me Back My Man                             1
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Bananarama                  Rough Justice                                   1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
-Beloved                     The Sun Rising                                  1         
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
 David Bowie                 Magic Dance                                     1         

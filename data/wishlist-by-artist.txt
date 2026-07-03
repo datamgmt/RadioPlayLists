@@ -7,14 +7,14 @@ Bad Manners                 Lip Up Fatty                                    9
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Bananarama                  Rough Justice                                   1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
-Beloved                     The Sun Rising                                  1         
+Beloved                     The Sun Rising                                  2         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
 Bob Marley and The Wailers  Could You Be Loved                              87        
-Bob Marley and The Wailers  Three Little Birds                              37        
+Bob Marley and The Wailers  Three Little Birds                              38        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    50        
-Bruce Springsteen           Hungry Heart                                    41        
+Bruce Springsteen           Hungry Heart                                    42        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
 Christopher Cross           Ride Like The Wind                              7         
@@ -23,7 +23,7 @@ Creatures                   Miss The Girl                                   2
 Crowded House               Don't Dream It's Over                           61        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 31        
-Cure                        Just Like Heaven                                42        
+Cure                        Just Like Heaven                                43        
 Cure                        Lullaby                                         6         
 Cure                        Why Can't I Be You                              8         
 Daryl Hall and John Oates   You Make My Dreams                              61        
@@ -41,24 +41,24 @@ Fleetwood Mac               Gypsy                                           2
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
-Grandmaster Flash           The Message                                     40        
+Grandmaster Flash           The Message                                     41        
 Hall and Oates              Kiss On My List                                 1         
-Hall and Oates              Out Of Touch                                    53        
+Hall and Oates              Out Of Touch                                    54        
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             4         
 Inxs and Jimmy Barnes       Good Times                                      8         
 Janet Jackson               Rhythm Nation                                   8         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            101       
+Journey                     Don't Stop Believin'                            102       
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            49        
+Lightning Seeds             Pure                                            50        
 Luther Vandross             Never Too Much                                  45        
 New Order                   Bizarre Love Triangle                           8         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
 Omd                         So In Love                                      1         
-Paul Simon                  Diamonds On The Soles Of Her Shoes              5         
+Paul Simon                  Diamonds On The Soles Of Her Shoes              6         
 Paul Simon                  Graceland                                       1         
 Phil Collins                If Leaving Me Is Easy                           1         
 Prefab Sprout               Nightingales                                    1         
@@ -93,11 +93,11 @@ Stevie Nicks                Edge Of Seventeen                               7
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
-Talk Talk                   It's My Life                                    95        
+Talk Talk                   It's My Life                                    96        
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    91        
+Tom Petty                   Free Falling                                    92        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             22        
 Tracy Chapman               Talkin' 'bout A Revolution                      20        

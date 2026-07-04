@@ -1,0 +1,16 @@
+artist                      title                                 price
+--------------------------  ------------------------------------  ----------
+Bob Marley and The Wailers  Three Little Birds                    £5        
+Crowded House               Don't Dream It's Over                 £2         
+Daryl Hall and John Oates   You Make My Dreams                    £6, £15        
+Depeche Mode                Personal Jesus                        £10         
+Fleetwood Mac               Everywhere                            £2         
+Journey                     Don't Stop Believin'                  £14         
+Luther Vandross             Never Too Much                        £1         
+Rick James                  Superfreak                            £3, £8         
+Talk Talk                   It's My Life                          £4         
+The Proclaimers             I'm Gonna Be                          £9         
+The Smiths                  How Soon Is Now?                      £15         
+The Smiths                  The Boy With A Thorn In His Side      £9         
+The Smiths                  There Is A Light That Never Goes Out  £120         
+Tom Petty                   Free Falling                          £20         

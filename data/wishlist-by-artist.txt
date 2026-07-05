@@ -17,7 +17,7 @@ Bon Jovi                    Bad Medicine                                    51
 Bruce Springsteen           Hungry Heart                                    42        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
-Christopher Cross           Ride Like The Wind                              7         
+Christopher Cross           Ride Like The Wind                              8         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           62        
@@ -45,13 +45,13 @@ Grandmaster Flash           The Message                                     41
 Hall and Oates              Kiss On My List                                 1         
 Hall and Oates              Out Of Touch                                    54        
 Huey Lewis and The News     Back In Time                                    1         
-Inxs                        Never Tear Us Apart                             4         
+Inxs                        Never Tear Us Apart                             5         
 Inxs and Jimmy Barnes       Good Times                                      8         
 Janet Jackson               Rhythm Nation                                   8         
 Jocelyn Brown               Somebody Else's Guy                             1         
 Journey                     Don't Stop Believin'                            104       
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            50        
+Lightning Seeds             Pure                                            51        
 Luther Vandross             Never Too Much                                  47        
 New Order                   Bizarre Love Triangle                           8         
 New Order                   Temptation                                      1         
@@ -65,12 +65,12 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    86        
-Queen                       Hammer To Fall                                  37        
+Proclaimers                 I'm Gonna Be                                    87        
+Queen                       Hammer To Fall                                  38        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
 R.E.M                       Stand.                                          42        
-Rick James                  Superfreak                                      9         
+Rick James                  Superfreak                                      10        
 Rush                        Tom Sawyer                                      1         
 S.O.S. Band                 Just Be Good To Me                              2         
 Sade                        The Sweetest Taboo                              1         
@@ -82,7 +82,7 @@ Smiths                      Ask                                             41
 Smiths                      Heaven Knows I'm Miserable Now                  36        
 Smiths                      How Soon Is Now?                                43        
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
-Smiths                      Stop Me If You've Heard This One Before         2         
+Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                6         
 Smiths                      There Is A Light That Never Goes Out            4         
@@ -93,14 +93,14 @@ Stevie Nicks                Edge Of Seventeen                               7
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
-Talk Talk                   It's My Life                                    97        
+Talk Talk                   It's My Life                                    98        
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    92        
+Tom Petty                   Free Falling                                    93        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             22        
-Tracy Chapman               Talkin' 'bout A Revolution                      20        
+Tracy Chapman               Talkin' 'bout A Revolution                      23        
 U2                          All I Want Is You                               1         
 U2                          Gloria                                          1         
 Waterboys                   Fisherman's Blues                               1         

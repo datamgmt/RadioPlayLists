@@ -1,17 +1,17 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            104       
-Talk Talk                   It's My Life                                    97        
-Tom Petty                   Free Falling                                    92        
+Talk Talk                   It's My Life                                    98        
+Tom Petty                   Free Falling                                    93        
 Bob Marley and The Wailers  Could You Be Loved                              88        
 Fleetwood Mac               Everywhere                                      87        
-Proclaimers                 I'm Gonna Be                                    86        
+Proclaimers                 I'm Gonna Be                                    87        
 Crowded House               Don't Dream It's Over                           62        
 Daryl Hall and John Oates   You Make My Dreams                              62        
 Hall and Oates              Out Of Touch                                    54        
 Depeche Mode                Personal Jesus                                  53        
 Bon Jovi                    Bad Medicine                                    51        
-Lightning Seeds             Pure                                            50        
+Lightning Seeds             Pure                                            51        
 Smiths                      This Charming Man                               49        
 Luther Vandross             Never Too Much                                  47        
 Cure                        Just Like Heaven                                43        
@@ -21,19 +21,19 @@ R.E.M                       Stand.                                          42
 Grandmaster Flash           The Message                                     41        
 Smiths                      Ask                                             41        
 Bob Marley and The Wailers  Three Little Birds                              38        
-Queen                       Hammer To Fall                                  37        
+Queen                       Hammer To Fall                                  38        
 Smiths                      Heaven Knows I'm Miserable Now                  36        
 Cure                        In Between Days                                 32        
+Tracy Chapman               Talkin' 'bout A Revolution                      23        
 Tracy Chapman               Baby Can I Hold You                             22        
-Tracy Chapman               Talkin' 'bout A Revolution                      20        
+Rick James                  Superfreak                                      10        
 Bad Manners                 Lip Up Fatty                                    9         
-Rick James                  Superfreak                                      9         
 A Flock Of Seagulls         I Ran                                           8         
+Christopher Cross           Ride Like The Wind                              8         
 Cure                        Why Can't I Be You                              8         
 Inxs and Jimmy Barnes       Good Times                                      8         
 Janet Jackson               Rhythm Nation                                   8         
 New Order                   Bizarre Love Triangle                           8         
-Christopher Cross           Ride Like The Wind                              7         
 Depeche Mode                Shake The Disease                               7         
 Stevie Nicks                Edge Of Seventeen                               7         
 Talking Heads               Burning Down The House                          7         
@@ -44,7 +44,7 @@ Billy Idol                  Eyes Without A Face                             5
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
 Def Leppard                 Love Bites                                      5         
-Inxs                        Never Tear Us Apart                             4         
+Inxs                        Never Tear Us Apart                             5         
 Prince                      I Would Die 4 U                                 4         
 Smiths                      There Is A Light That Never Goes Out            4         
 Smiths                      William, It Was Really Nothing                  4         
@@ -52,6 +52,7 @@ Stranglers                  Always The Sun                                  4
 De La Soul                  Me Myself & I                                   3         
 Queen                       Who Wants To Live Forever                       3         
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
+Smiths                      Stop Me If You've Heard This One Before         3         
 Abba                        Lay All Your Love On Me                         2         
 Beloved                     The Sun Rising                                  2         
 Billy Joel                  The Longest Time                                2         
@@ -60,7 +61,6 @@ Cure                        A Forest                                        2
 David Bowie                 Magic Dance                                     2         
 Fleetwood Mac               Gypsy                                           2         
 S.O.S. Band                 Just Be Good To Me                              2         
-Smiths                      Stop Me If You've Heard This One Before         2         
 Style Council               Long Hot Summer                                 2         
 Throwing Muses              Dizzy                                           2         
 Yello                       Oh Yeah                                         2         

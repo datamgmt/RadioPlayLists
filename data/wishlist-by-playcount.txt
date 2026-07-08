@@ -1,13 +1,13 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            107       
-Talk Talk                   It's My Life                                    99        
+Talk Talk                   It's My Life                                    101       
 Tom Petty                   Free Falling                                    95        
-Bob Marley and The Wailers  Could You Be Loved                              89        
+Bob Marley and The Wailers  Could You Be Loved                              90        
+Fleetwood Mac               Everywhere                                      89        
 Proclaimers                 I'm Gonna Be                                    89        
-Fleetwood Mac               Everywhere                                      88        
-Crowded House               Don't Dream It's Over                           63        
-Daryl Hall and John Oates   You Make My Dreams                              63        
+Crowded House               Don't Dream It's Over                           64        
+Daryl Hall and John Oates   You Make My Dreams                              64        
 Hall and Oates              Out Of Touch                                    55        
 Depeche Mode                Personal Jesus                                  53        
 Bon Jovi                    Bad Medicine                                    52        
@@ -19,16 +19,16 @@ Bruce Springsteen           Hungry Heart                                    43
 R.E.M                       Stand.                                          43        
 Smiths                      How Soon Is Now?                                43        
 Grandmaster Flash           The Message                                     42        
-Smiths                      Ask                                             41        
+Smiths                      Ask                                             42        
+Queen                       Hammer To Fall                                  39        
 Bob Marley and The Wailers  Three Little Birds                              38        
-Queen                       Hammer To Fall                                  38        
-Smiths                      Heaven Knows I'm Miserable Now                  37        
+Smiths                      Heaven Knows I'm Miserable Now                  38        
 Cure                        In Between Days                                 32        
-Tracy Chapman               Talkin' 'bout A Revolution                      24        
+Tracy Chapman               Talkin' 'bout A Revolution                      25        
 Tracy Chapman               Baby Can I Hold You                             23        
 Bad Manners                 Lip Up Fatty                                    10        
 Rick James                  Superfreak                                      10        
-A Flock Of Seagulls         I Ran                                           8         
+A Flock Of Seagulls         I Ran                                           9         
 Christopher Cross           Ride Like The Wind                              8         
 Cure                        Why Can't I Be You                              8         
 Inxs and Jimmy Barnes       Good Times                                      8         

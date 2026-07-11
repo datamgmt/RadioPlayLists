@@ -1,16 +1,31 @@
 artist                      title                                 price
 --------------------------  ------------------------------------  ----------
+Bob Marley and The Wailers  Could You Be Loved                    £2
 Bob Marley and The Wailers  Three Little Birds                    £5        
+Bon Jovi                    Bad Medicine                          £2     
+Bruce Springsteen           Hungry Heart                          £3      
 Crowded House               Don't Dream It's Over                 £2         
-Daryl Hall and John Oates   You Make My Dreams                    £6, £15        
+Cure                        In Between Days                       £8       
+Cure                        Just Like Heaven                      £22   
 Depeche Mode                Personal Jesus                        £10         
 Fleetwood Mac               Everywhere                            £2         
+Grandmaster Flash           The Message                           £3       
+Hall and Oates              Out Of Touch                          £3       
+Hall and Oates              You Make My Dreams                    £6, £15        
 Journey                     Don't Stop Believin'                  £14         
+Lightning Seeds             Pure                                  £3        
 Luther Vandross             Never Too Much                        £1         
+Proclaimers                 I'm Gonna Be                          £9         
+Queen                       Hammer To Fall                        £3     
+R.E.M                       Stand.                                £4        
 Rick James                  Superfreak                            £3, £8         
+Smiths                      Ask                                   £7       
+Smiths                      Heaven Knows I'm Miserable Now        £6      
+Smiths                      How Soon Is Now?                      £15         
+Smiths                      The Boy With A Thorn In His Side      £9         
+Smiths                      There Is A Light That Never Goes Out  £120         
+Smiths                      This Charming Man                     £10  
 Talk Talk                   It's My Life                          £4         
-The Proclaimers             I'm Gonna Be                          £9         
-The Smiths                  How Soon Is Now?                      £15         
-The Smiths                  The Boy With A Thorn In His Side      £9         
-The Smiths                  There Is A Light That Never Goes Out  £120         
-Tom Petty                   Free Falling                          £20         
+Tom Petty                   Free Falling                          £20       
+Tracy Chapman               Baby Can I Hold You                   £5
+Tracy Chapman               Talkin' 'bout A Revolution            £5      

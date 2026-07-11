@@ -1,28 +1,28 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            109       
+Journey                     Don't Stop Believin'                            110       
 Talk Talk                   It's My Life                                    102       
-Tom Petty                   Free Falling                                    97        
+Tom Petty                   Free Falling                                    98        
+Fleetwood Mac               Everywhere                                      92        
 Bob Marley and The Wailers  Could You Be Loved                              91        
 Proclaimers                 I'm Gonna Be                                    91        
-Fleetwood Mac               Everywhere                                      90        
 Crowded House               Don't Dream It's Over                           64        
 Daryl Hall and John Oates   You Make My Dreams                              64        
-Hall and Oates              Out Of Touch                                    56        
-Depeche Mode                Personal Jesus                                  54        
+Hall and Oates              Out Of Touch                                    57        
+Depeche Mode                Personal Jesus                                  55        
+Lightning Seeds             Pure                                            54        
 Bon Jovi                    Bad Medicine                                    53        
-Lightning Seeds             Pure                                            53        
 Smiths                      This Charming Man                               51        
 Luther Vandross             Never Too Much                                  49        
-Cure                        Just Like Heaven                                45        
+Cure                        Just Like Heaven                                46        
+R.E.M                       Stand.                                          45        
 Bruce Springsteen           Hungry Heart                                    44        
-R.E.M                       Stand.                                          44        
 Smiths                      How Soon Is Now?                                44        
-Grandmaster Flash           The Message                                     42        
-Smiths                      Ask                                             42        
-Queen                       Hammer To Fall                                  39        
-Bob Marley and The Wailers  Three Little Birds                              38        
-Smiths                      Heaven Knows I'm Miserable Now                  38        
+Grandmaster Flash           The Message                                     43        
+Smiths                      Ask                                             43        
+Queen                       Hammer To Fall                                  40        
+Bob Marley and The Wailers  Three Little Birds                              39        
+Smiths                      Heaven Knows I'm Miserable Now                  39        
 Cure                        In Between Days                                 33        
 Tracy Chapman               Talkin' 'bout A Revolution                      25        
 Tracy Chapman               Baby Can I Hold You                             24        
@@ -62,6 +62,7 @@ David Bowie                 Magic Dance                                     2
 Elvis Costello              Everyday I Write The Book                       2         
 Fleetwood Mac               Gypsy                                           2         
 S.O.S. Band                 Just Be Good To Me                              2         
+Simple Minds                Someone Somewhere In Summertime                 2         
 Style Council               Long Hot Summer                                 2         
 Throwing Muses              Dizzy                                           2         
 Yello                       Oh Yeah                                         2         
@@ -99,7 +100,6 @@ Roman Holiday               Don't Try To Stop It                            1
 Rush                        Tom Sawyer                                      1         
 Sade                        The Sweetest Taboo                              1         
 Shannon                     Give Me Tonight                                 1         
-Simple Minds                Someone Somewhere In Summertime                 1         
 Simple Minds                Sweat In Bullet                                 1         
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      That Joke Isn't Funny Anymore                   1         

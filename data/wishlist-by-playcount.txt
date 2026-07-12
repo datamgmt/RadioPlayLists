@@ -1,23 +1,23 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            110       
-Talk Talk                   It's My Life                                    102       
-Tom Petty                   Free Falling                                    98        
-Fleetwood Mac               Everywhere                                      92        
-Bob Marley and The Wailers  Could You Be Loved                              91        
-Proclaimers                 I'm Gonna Be                                    91        
+Talk Talk                   It's My Life                                    103       
+Tom Petty                   Free Falling                                    99        
+Fleetwood Mac               Everywhere                                      93        
+Bob Marley and The Wailers  Could You Be Loved                              92        
+Proclaimers                 I'm Gonna Be                                    92        
+Daryl Hall and John Oates   You Make My Dreams                              65        
 Crowded House               Don't Dream It's Over                           64        
-Daryl Hall and John Oates   You Make My Dreams                              64        
 Hall and Oates              Out Of Touch                                    57        
+Bon Jovi                    Bad Medicine                                    55        
 Depeche Mode                Personal Jesus                                  55        
 Lightning Seeds             Pure                                            54        
-Bon Jovi                    Bad Medicine                                    53        
 Smiths                      This Charming Man                               51        
 Luther Vandross             Never Too Much                                  49        
 Cure                        Just Like Heaven                                46        
+Bruce Springsteen           Hungry Heart                                    45        
 R.E.M                       Stand.                                          45        
-Bruce Springsteen           Hungry Heart                                    44        
-Smiths                      How Soon Is Now?                                44        
+Smiths                      How Soon Is Now?                                45        
 Grandmaster Flash           The Message                                     43        
 Smiths                      Ask                                             43        
 Queen                       Hammer To Fall                                  40        
@@ -29,11 +29,11 @@ Tracy Chapman               Baby Can I Hold You                             24
 Bad Manners                 Lip Up Fatty                                    10        
 Rick James                  Superfreak                                      10        
 A Flock Of Seagulls         I Ran                                           9         
+New Order                   Bizarre Love Triangle                           9         
 Christopher Cross           Ride Like The Wind                              8         
 Cure                        Why Can't I Be You                              8         
 Inxs and Jimmy Barnes       Good Times                                      8         
 Janet Jackson               Rhythm Nation                                   8         
-New Order                   Bizarre Love Triangle                           8         
 Stevie Nicks                Edge Of Seventeen                               8         
 Depeche Mode                Shake The Disease                               7         
 Smiths                      The Boy With A Thorn In His Side                7         

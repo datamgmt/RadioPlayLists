@@ -11,11 +11,11 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  2         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              91        
+Bob Marley and The Wailers  Could You Be Loved                              92        
 Bob Marley and The Wailers  Three Little Birds                              39        
 Bodysnatchers               Let's Do Rock Steady                            5         
-Bon Jovi                    Bad Medicine                                    53        
-Bruce Springsteen           Hungry Heart                                    44        
+Bon Jovi                    Bad Medicine                                    55        
+Bruce Springsteen           Hungry Heart                                    45        
 Bryan Adams                 Heat Of The Night                               1         
 Chris Rea                   On The Beach                                    1         
 Christopher Cross           Ride Like The Wind                              8         
@@ -27,7 +27,7 @@ Cure                        In Between Days                                 33
 Cure                        Just Like Heaven                                46        
 Cure                        Lullaby                                         6         
 Cure                        Why Can't I Be You                              8         
-Daryl Hall and John Oates   You Make My Dreams                              64        
+Daryl Hall and John Oates   You Make My Dreams                              65        
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      5         
@@ -38,7 +38,7 @@ Dire Straits                Twisting By The Pool                            1
 Donna Allen                 Joy And Pain                                    1         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 Elvis Costello              Everyday I Write The Book                       2         
-Fleetwood Mac               Everywhere                                      92        
+Fleetwood Mac               Everywhere                                      93        
 Fleetwood Mac               Gypsy                                           2         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
@@ -57,7 +57,7 @@ Kate Bush                   This Woman's Work                               1
 Lightning Seeds             Pure                                            54        
 Luther Vandross             Never Too Much                                  49        
 Mary Jane Girls             All Night Long                                  1         
-New Order                   Bizarre Love Triangle                           8         
+New Order                   Bizarre Love Triangle                           9         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
@@ -69,7 +69,7 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    91        
+Proclaimers                 I'm Gonna Be                                    92        
 Queen                       Hammer To Fall                                  40        
 Queen                       Las Palabras de Amor                            1         
 Queen                       Who Wants To Live Forever                       3         
@@ -85,7 +85,7 @@ Simple Minds                Sweat In Bullet                                 1
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             43        
 Smiths                      Heaven Knows I'm Miserable Now                  39        
-Smiths                      How Soon Is Now?                                44        
+Smiths                      How Soon Is Now?                                45        
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
@@ -98,11 +98,11 @@ Stevie Nicks                Edge Of Seventeen                               8
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
-Talk Talk                   It's My Life                                    102       
+Talk Talk                   It's My Life                                    103       
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    98        
+Tom Petty                   Free Falling                                    99        
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             24        
 Tracy Chapman               Talkin' 'bout A Revolution                      25        

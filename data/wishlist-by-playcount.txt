@@ -1,30 +1,30 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            110       
+Journey                     Don't Stop Believin'                            111       
 Talk Talk                   It's My Life                                    103       
 Tom Petty                   Free Falling                                    99        
-Fleetwood Mac               Everywhere                                      93        
+Fleetwood Mac               Everywhere                                      94        
+Proclaimers                 I'm Gonna Be                                    93        
 Bob Marley and The Wailers  Could You Be Loved                              92        
-Proclaimers                 I'm Gonna Be                                    92        
+Crowded House               Don't Dream It's Over                           65        
 Daryl Hall and John Oates   You Make My Dreams                              65        
-Crowded House               Don't Dream It's Over                           64        
-Hall and Oates              Out Of Touch                                    57        
+Hall and Oates              Out Of Touch                                    58        
+Depeche Mode                Personal Jesus                                  56        
 Bon Jovi                    Bad Medicine                                    55        
-Depeche Mode                Personal Jesus                                  55        
-Lightning Seeds             Pure                                            54        
+Lightning Seeds             Pure                                            55        
 Smiths                      This Charming Man                               51        
-Luther Vandross             Never Too Much                                  49        
+Luther Vandross             Never Too Much                                  50        
 Cure                        Just Like Heaven                                46        
 Bruce Springsteen           Hungry Heart                                    45        
 R.E.M                       Stand.                                          45        
 Smiths                      How Soon Is Now?                                45        
 Grandmaster Flash           The Message                                     43        
 Smiths                      Ask                                             43        
+Bob Marley and The Wailers  Three Little Birds                              40        
 Queen                       Hammer To Fall                                  40        
-Bob Marley and The Wailers  Three Little Birds                              39        
 Smiths                      Heaven Knows I'm Miserable Now                  39        
-Cure                        In Between Days                                 33        
-Tracy Chapman               Talkin' 'bout A Revolution                      25        
+Cure                        In Between Days                                 34        
+Tracy Chapman               Talkin' 'bout A Revolution                      27        
 Tracy Chapman               Baby Can I Hold You                             24        
 Bad Manners                 Lip Up Fatty                                    10        
 Rick James                  Superfreak                                      10        
@@ -45,11 +45,12 @@ Billy Idol                  Eyes Without A Face                             5
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
 Def Leppard                 Love Bites                                      5         
+Smiths                      There Is A Light That Never Goes Out            5         
 Smiths                      William, It Was Really Nothing                  5         
 Prince                      I Would Die 4 U                                 4         
-Smiths                      There Is A Light That Never Goes Out            4         
 Stranglers                  Always The Sun                                  4         
 De La Soul                  Me Myself & I                                   3         
+Fleetwood Mac               Gypsy                                           3         
 Queen                       Who Wants To Live Forever                       3         
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Smiths                      Stop Me If You've Heard This One Before         3         
@@ -60,18 +61,20 @@ Creatures                   Miss The Girl                                   2
 Cure                        A Forest                                        2         
 David Bowie                 Magic Dance                                     2         
 Elvis Costello              Everyday I Write The Book                       2         
-Fleetwood Mac               Gypsy                                           2         
+Queen                       Las Palabras de Amor                            2         
 S.O.S. Band                 Just Be Good To Me                              2         
 Simple Minds                Someone Somewhere In Summertime                 2         
 Style Council               Long Hot Summer                                 2         
 Throwing Muses              Dizzy                                           2         
 Yello                       Oh Yeah                                         2         
+Ac/dc                       For Those About To Rock                         1         
 B52s                        Give Me Back My Man                             1         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Bananarama                  Rough Justice                                   1         
 Beach Boys                  California Girls                                1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
 Bryan Adams                 Heat Of The Night                               1         
+Bryan Ferry                 Don't Stop The Dance                            1         
 Chris Rea                   On The Beach                                    1         
 Devo                        Whip It                                         1         
 Dire Straits                Twisting By The Pool                            1         
@@ -83,9 +86,12 @@ Go gos                      Our Lips Are Sealed                             1
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
 Huey Lewis and The News     Back In Time                                    1         
+Jam                         Just Who Is The 5 O'clock Hero                  1         
 Jocelyn Brown               Somebody Else's Guy                             1         
+Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
 Mary Jane Girls             All Night Long                                  1         
+Miami Sound Machine         Bad Boy                                         1         
 New Order                   Temptation                                      1         
 New Order                   Thieves Like Us                                 1         
 Omd                         If You Leave                                    1         
@@ -95,7 +101,6 @@ Phil Collins                If Leaving Me Is Easy                           1
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
 Prince                      Nothing Compares 2 U                            1         
-Queen                       Las Palabras de Amor                            1         
 Roman Holiday               Don't Try To Stop It                            1         
 Rush                        Tom Sawyer                                      1         
 Sade                        The Sweetest Taboo                              1         
@@ -104,9 +109,12 @@ Simple Minds                Sweat In Bullet                                 1
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Specials                    Rat Race                                        1         
+Stevie Wonder               Do I Do                                         1         
 Stone Roses                 What The World Is Waiting For                   1         
+Suzanne Vega                Left Of Center                                  1         
 Tears For Fears             Woman In Chains                                 1         
 Tone Loc                    Wild Thing                                      1         
 U2                          All I Want Is You                               1         
 U2                          Gloria                                          1         
 Waterboys                   Fisherman's Blues                               1         
+Wham!                       Where Did Your Heart Go?                        1         

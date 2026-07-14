@@ -1,27 +1,27 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            111       
-Talk Talk                   It's My Life                                    103       
-Tom Petty                   Free Falling                                    99        
+Journey                     Don't Stop Believin'                            112       
+Talk Talk                   It's My Life                                    104       
+Tom Petty                   Free Falling                                    100       
 Fleetwood Mac               Everywhere                                      94        
-Proclaimers                 I'm Gonna Be                                    93        
-Bob Marley and The Wailers  Could You Be Loved                              92        
-Crowded House               Don't Dream It's Over                           65        
+Proclaimers                 I'm Gonna Be                                    94        
+Bob Marley and The Wailers  Could You Be Loved                              93        
+Crowded House               Don't Dream It's Over                           66        
 Daryl Hall and John Oates   You Make My Dreams                              65        
 Hall and Oates              Out Of Touch                                    58        
-Depeche Mode                Personal Jesus                                  56        
+Depeche Mode                Personal Jesus                                  57        
 Bon Jovi                    Bad Medicine                                    55        
 Lightning Seeds             Pure                                            55        
 Smiths                      This Charming Man                               51        
 Luther Vandross             Never Too Much                                  50        
 Cure                        Just Like Heaven                                46        
+R.E.M                       Stand.                                          46        
+Smiths                      How Soon Is Now?                                46        
 Bruce Springsteen           Hungry Heart                                    45        
-R.E.M                       Stand.                                          45        
-Smiths                      How Soon Is Now?                                45        
 Grandmaster Flash           The Message                                     43        
 Smiths                      Ask                                             43        
+Queen                       Hammer To Fall                                  41        
 Bob Marley and The Wailers  Three Little Birds                              40        
-Queen                       Hammer To Fall                                  40        
 Smiths                      Heaven Knows I'm Miserable Now                  39        
 Cure                        In Between Days                                 34        
 Tracy Chapman               Talkin' 'bout A Revolution                      27        
@@ -35,10 +35,10 @@ Cure                        Why Can't I Be You                              8
 Inxs and Jimmy Barnes       Good Times                                      8         
 Janet Jackson               Rhythm Nation                                   8         
 Stevie Nicks                Edge Of Seventeen                               8         
+Cure                        Lullaby                                         7         
 Depeche Mode                Shake The Disease                               7         
 Smiths                      The Boy With A Thorn In His Side                7         
 Talking Heads               Burning Down The House                          7         
-Cure                        Lullaby                                         6         
 Inxs                        Never Tear Us Apart                             6         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              6         
 Billy Idol                  Eyes Without A Face                             5         

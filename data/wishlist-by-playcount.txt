@@ -1,25 +1,25 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            112       
+Journey                     Don't Stop Believin'                            113       
 Talk Talk                   It's My Life                                    104       
-Tom Petty                   Free Falling                                    100       
-Fleetwood Mac               Everywhere                                      94        
+Tom Petty                   Free Falling                                    101       
+Fleetwood Mac               Everywhere                                      95        
+Bob Marley and The Wailers  Could You Be Loved                              94        
 Proclaimers                 I'm Gonna Be                                    94        
-Bob Marley and The Wailers  Could You Be Loved                              93        
 Crowded House               Don't Dream It's Over                           66        
-Daryl Hall and John Oates   You Make My Dreams                              65        
+Daryl Hall and John Oates   You Make My Dreams                              66        
 Hall and Oates              Out Of Touch                                    58        
 Depeche Mode                Personal Jesus                                  57        
-Bon Jovi                    Bad Medicine                                    55        
+Bon Jovi                    Bad Medicine                                    56        
 Lightning Seeds             Pure                                            55        
-Smiths                      This Charming Man                               51        
+Smiths                      This Charming Man                               52        
 Luther Vandross             Never Too Much                                  50        
-Cure                        Just Like Heaven                                46        
+Cure                        Just Like Heaven                                47        
 R.E.M                       Stand.                                          46        
 Smiths                      How Soon Is Now?                                46        
 Bruce Springsteen           Hungry Heart                                    45        
-Grandmaster Flash           The Message                                     43        
-Smiths                      Ask                                             43        
+Grandmaster Flash           The Message                                     44        
+Smiths                      Ask                                             44        
 Queen                       Hammer To Fall                                  41        
 Bob Marley and The Wailers  Three Little Birds                              40        
 Smiths                      Heaven Knows I'm Miserable Now                  39        
@@ -39,12 +39,12 @@ Cure                        Lullaby                                         7
 Depeche Mode                Shake The Disease                               7         
 Smiths                      The Boy With A Thorn In His Side                7         
 Talking Heads               Burning Down The House                          7         
+Def Leppard                 Love Bites                                      6         
 Inxs                        Never Tear Us Apart                             6         
 Paul Simon                  Diamonds On The Soles Of Her Shoes              6         
 Billy Idol                  Eyes Without A Face                             5         
 Bodysnatchers               Let's Do Rock Steady                            5         
 Clash                       I Fought The Law                                5         
-Def Leppard                 Love Bites                                      5         
 Smiths                      There Is A Light That Never Goes Out            5         
 Smiths                      William, It Was Really Nothing                  5         
 Prince                      I Would Die 4 U                                 4         

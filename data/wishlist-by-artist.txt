@@ -12,7 +12,7 @@ Beastie Boys                No Sleep Till Brooklyn                          1
 Beloved                     The Sun Rising                                  2         
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              94        
+Bob Marley and The Wailers  Could You Be Loved                              95        
 Bob Marley and The Wailers  Three Little Birds                              40        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    56        
@@ -23,7 +23,7 @@ Chris Rea                   On The Beach                                    1
 Christopher Cross           Ride Like The Wind                              8         
 Clash                       I Fought The Law                                5         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           66        
+Crowded House               Don't Dream It's Over                           67        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 34        
 Cure                        Just Like Heaven                                47        
@@ -40,7 +40,7 @@ Dire Straits                Twisting By The Pool                            1
 Donna Allen                 Joy And Pain                                    1         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 Elvis Costello              Everyday I Write The Book                       2         
-Fleetwood Mac               Everywhere                                      95        
+Fleetwood Mac               Everywhere                                      96        
 Fleetwood Mac               Gypsy                                           3         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
@@ -58,8 +58,8 @@ Jocelyn Brown               Somebody Else's Guy                             1
 Journey                     Don't Stop Believin'                            113       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            55        
-Luther Vandross             Never Too Much                                  50        
+Lightning Seeds             Pure                                            56        
+Luther Vandross             Never Too Much                                  51        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
 New Order                   Bizarre Love Triangle                           9         
@@ -74,7 +74,7 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    94        
+Proclaimers                 I'm Gonna Be                                    95        
 Queen                       Hammer To Fall                                  41        
 Queen                       Las Palabras de Amor                            2         
 Queen                       Who Wants To Live Forever                       3         
@@ -96,7 +96,7 @@ Smiths                      Stop Me If You've Heard This One Before         3
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                7         
 Smiths                      There Is A Light That Never Goes Out            5         
-Smiths                      This Charming Man                               52        
+Smiths                      This Charming Man                               53        
 Smiths                      William, It Was Really Nothing                  5         
 Specials                    Rat Race                                        1         
 Stevie Nicks                Edge Of Seventeen                               8         
@@ -105,7 +105,7 @@ Stone Roses                 What The World Is Waiting For                   1
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
 Suzanne Vega                Left Of Center                                  1         
-Talk Talk                   It's My Life                                    104       
+Talk Talk                   It's My Life                                    105       
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         

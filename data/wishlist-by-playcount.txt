@@ -1,19 +1,19 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            113       
-Talk Talk                   It's My Life                                    104       
+Talk Talk                   It's My Life                                    105       
 Tom Petty                   Free Falling                                    101       
-Fleetwood Mac               Everywhere                                      95        
-Bob Marley and The Wailers  Could You Be Loved                              94        
-Proclaimers                 I'm Gonna Be                                    94        
-Crowded House               Don't Dream It's Over                           66        
+Fleetwood Mac               Everywhere                                      96        
+Bob Marley and The Wailers  Could You Be Loved                              95        
+Proclaimers                 I'm Gonna Be                                    95        
+Crowded House               Don't Dream It's Over                           67        
 Daryl Hall and John Oates   You Make My Dreams                              66        
 Hall and Oates              Out Of Touch                                    58        
 Depeche Mode                Personal Jesus                                  57        
 Bon Jovi                    Bad Medicine                                    56        
-Lightning Seeds             Pure                                            55        
-Smiths                      This Charming Man                               52        
-Luther Vandross             Never Too Much                                  50        
+Lightning Seeds             Pure                                            56        
+Smiths                      This Charming Man                               53        
+Luther Vandross             Never Too Much                                  51        
 Cure                        Just Like Heaven                                47        
 R.E.M                       Stand.                                          46        
 Smiths                      How Soon Is Now?                                46        

@@ -13,7 +13,7 @@ Beloved                     The Sun Rising                                  2
 Billy Idol                  Eyes Without A Face                             5         
 Billy Joel                  The Longest Time                                2         
 Bob Marley and The Wailers  Could You Be Loved                              95        
-Bob Marley and The Wailers  Three Little Birds                              40        
+Bob Marley and The Wailers  Three Little Birds                              41        
 Bodysnatchers               Let's Do Rock Steady                            5         
 Bon Jovi                    Bad Medicine                                    57        
 Bruce Springsteen           Hungry Heart                                    45        
@@ -25,11 +25,11 @@ Clash                       I Fought The Law                                5
 Creatures                   Miss The Girl                                   2         
 Crowded House               Don't Dream It's Over                           68        
 Cure                        A Forest                                        2         
-Cure                        In Between Days                                 34        
-Cure                        Just Like Heaven                                47        
+Cure                        In Between Days                                 35        
+Cure                        Just Like Heaven                                48        
 Cure                        Lullaby                                         7         
 Cure                        Why Can't I Be You                              8         
-Daryl Hall and John Oates   You Make My Dreams                              67        
+Daryl Hall and John Oates   You Make My Dreams                              68        
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      6         
@@ -45,7 +45,7 @@ Fleetwood Mac               Gypsy                                           3
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Go gos                      Our Lips Are Sealed                             1         
-Grandmaster Flash           The Message                                     44        
+Grandmaster Flash           The Message                                     45        
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
 Hall and Oates              Out Of Touch                                    59        
@@ -55,11 +55,11 @@ Inxs and Jimmy Barnes       Good Times                                      8
 Jam                         Just Who Is The 5 O'clock Hero                  1         
 Janet Jackson               Rhythm Nation                                   9         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            114       
+Journey                     Don't Stop Believin'                            115       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            56        
-Luther Vandross             Never Too Much                                  51        
+Lightning Seeds             Pure                                            57        
+Luther Vandross             Never Too Much                                  52        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
 New Order                   Bizarre Love Triangle                           9         
@@ -74,8 +74,8 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 4         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    96        
-Queen                       Hammer To Fall                                  41        
+Proclaimers                 I'm Gonna Be                                    98        
+Queen                       Hammer To Fall                                  42        
 Queen                       Las Palabras de Amor                            2         
 Queen                       Who Wants To Live Forever                       3         
 R.E.M                       Stand.                                          47        

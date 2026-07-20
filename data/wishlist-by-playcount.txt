@@ -1,30 +1,30 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            116       
-Talk Talk                   It's My Life                                    107       
-Tom Petty                   Free Falling                                    102       
+Journey                     Don't Stop Believin'                            117       
+Talk Talk                   It's My Life                                    108       
+Tom Petty                   Free Falling                                    103       
 Fleetwood Mac               Everywhere                                      98        
 Proclaimers                 I'm Gonna Be                                    98        
 Bob Marley and The Wailers  Could You Be Loved                              96        
 Crowded House               Don't Dream It's Over                           69        
-Daryl Hall and John Oates   You Make My Dreams                              68        
-Hall and Oates              Out Of Touch                                    59        
+Daryl Hall and John Oates   You Make My Dreams                              69        
+Hall and Oates              Out Of Touch                                    60        
 Bon Jovi                    Bad Medicine                                    58        
 Depeche Mode                Personal Jesus                                  58        
-Lightning Seeds             Pure                                            57        
+Lightning Seeds             Pure                                            58        
 Smiths                      This Charming Man                               54        
 Luther Vandross             Never Too Much                                  52        
 Cure                        Just Like Heaven                                48        
+Smiths                      How Soon Is Now?                                48        
+Grandmaster Flash           The Message                                     47        
 R.E.M                       Stand.                                          47        
-Smiths                      How Soon Is Now?                                47        
 Bruce Springsteen           Hungry Heart                                    46        
-Grandmaster Flash           The Message                                     46        
 Smiths                      Ask                                             45        
 Queen                       Hammer To Fall                                  42        
 Bob Marley and The Wailers  Three Little Birds                              41        
-Smiths                      Heaven Knows I'm Miserable Now                  40        
+Smiths                      Heaven Knows I'm Miserable Now                  41        
 Cure                        In Between Days                                 35        
-Tracy Chapman               Talkin' 'bout A Revolution                      28        
+Tracy Chapman               Talkin' 'bout A Revolution                      30        
 Tracy Chapman               Baby Can I Hold You                             24        
 Bad Manners                 Lip Up Fatty                                    11        
 Rick James                  Superfreak                                      11        
@@ -60,31 +60,38 @@ Billy Joel                  The Longest Time                                2
 Creatures                   Miss The Girl                                   2         
 Cure                        A Forest                                        2         
 David Bowie                 Magic Dance                                     2         
+Donna Allen                 Joy And Pain                                    2         
 Elvis Costello              Everyday I Write The Book                       2         
 Queen                       Las Palabras de Amor                            2         
 S.O.S. Band                 Just Be Good To Me                              2         
 Simple Minds                Someone Somewhere In Summertime                 2         
 Style Council               Long Hot Summer                                 2         
 Throwing Muses              Dizzy                                           2         
+U2                          All I Want Is You                               2         
 Yello                       Oh Yeah                                         2         
+A Guy Called Gerald         Voodoo Ray                                      1         
 Ac/dc                       For Those About To Rock                         1         
 B52s                        Give Me Back My Man                             1         
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Bananarama                  Rough Justice                                   1         
+Bangles                     Be With You                                     1         
 Beach Boys                  California Girls                                1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
 Bryan Adams                 Heat Of The Night                               1         
 Bryan Ferry                 Don't Stop The Dance                            1         
 Chris Rea                   On The Beach                                    1         
+Danny Wilson                The Second Summer Of Love                       1         
 Devo                        Whip It                                         1         
 Dire Straits                Twisting By The Pool                            1         
-Donna Allen                 Joy And Pain                                    1         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
+Glenn Frey                  Smugglers Blues                                 1         
 Go gos                      Our Lips Are Sealed                             1         
+Guns N Roses                Patience                                        1         
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
+Howard Jones                Life In One Day                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Jam                         Just Who Is The 5 O'clock Hero                  1         
 Jocelyn Brown               Somebody Else's Guy                             1         
@@ -114,7 +121,6 @@ Stone Roses                 What The World Is Waiting For                   1
 Suzanne Vega                Left Of Center                                  1         
 Tears For Fears             Woman In Chains                                 1         
 Tone Loc                    Wild Thing                                      1         
-U2                          All I Want Is You                               1         
 U2                          Gloria                                          1         
 Waterboys                   Fisherman's Blues                               1         
 Wham!                       Where Did Your Heart Go?                        1         

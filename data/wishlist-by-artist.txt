@@ -1,12 +1,14 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 A Flock Of Seagulls         I Ran                                           9         
+A Guy Called Gerald         Voodoo Ray                                      1         
 Abba                        Lay All Your Love On Me                         2         
 Ac/dc                       For Those About To Rock                         1         
 B52s                        Give Me Back My Man                             1         
 Bad Manners                 Lip Up Fatty                                    11        
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                         1         
 Bananarama                  Rough Justice                                   1         
+Bangles                     Be With You                                     1         
 Beach Boys                  California Girls                                1         
 Beastie Boys                No Sleep Till Brooklyn                          1         
 Beloved                     The Sun Rising                                  2         
@@ -29,7 +31,8 @@ Cure                        In Between Days                                 35
 Cure                        Just Like Heaven                                48        
 Cure                        Lullaby                                         7         
 Cure                        Why Can't I Be You                              8         
-Daryl Hall and John Oates   You Make My Dreams                              68        
+Danny Wilson                The Second Summer Of Love                       1         
+Daryl Hall and John Oates   You Make My Dreams                              69        
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      6         
@@ -37,28 +40,31 @@ Depeche Mode                Personal Jesus                                  58
 Depeche Mode                Shake The Disease                               7         
 Devo                        Whip It                                         1         
 Dire Straits                Twisting By The Pool                            1         
-Donna Allen                 Joy And Pain                                    1         
+Donna Allen                 Joy And Pain                                    2         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 Elvis Costello              Everyday I Write The Book                       2         
 Fleetwood Mac               Everywhere                                      98        
 Fleetwood Mac               Gypsy                                           3         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
+Glenn Frey                  Smugglers Blues                                 1         
 Go gos                      Our Lips Are Sealed                             1         
-Grandmaster Flash           The Message                                     46        
+Grandmaster Flash           The Message                                     47        
+Guns N Roses                Patience                                        1         
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
-Hall and Oates              Out Of Touch                                    59        
+Hall and Oates              Out Of Touch                                    60        
+Howard Jones                Life In One Day                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             6         
 Inxs and Jimmy Barnes       Good Times                                      8         
 Jam                         Just Who Is The 5 O'clock Hero                  1         
 Janet Jackson               Rhythm Nation                                   9         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            116       
+Journey                     Don't Stop Believin'                            117       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            57        
+Lightning Seeds             Pure                                            58        
 Luther Vandross             Never Too Much                                  52        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
@@ -89,8 +95,8 @@ Simple Minds                Someone Somewhere In Summertime                 2
 Simple Minds                Sweat In Bullet                                 1         
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             45        
-Smiths                      Heaven Knows I'm Miserable Now                  40        
-Smiths                      How Soon Is Now?                                47        
+Smiths                      Heaven Knows I'm Miserable Now                  41        
+Smiths                      How Soon Is Now?                                48        
 Smiths                      Please, Please, Please, Let Me Get What I Want  3         
 Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
@@ -105,15 +111,15 @@ Stone Roses                 What The World Is Waiting For                   1
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 2         
 Suzanne Vega                Left Of Center                                  1         
-Talk Talk                   It's My Life                                    107       
+Talk Talk                   It's My Life                                    108       
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    102       
+Tom Petty                   Free Falling                                    103       
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             24        
-Tracy Chapman               Talkin' 'bout A Revolution                      28        
-U2                          All I Want Is You                               1         
+Tracy Chapman               Talkin' 'bout A Revolution                      30        
+U2                          All I Want Is You                               2         
 U2                          Gloria                                          1         
 Waterboys                   Fisherman's Blues                               1         
 Wham!                       Where Did Your Heart Go?                        1         

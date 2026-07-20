@@ -11,6 +11,7 @@ artist,title,matched_source
 "808 state","Pacific State",collection
 "A Flock Of Seagulls","I Ran",wantlist
 "A Flock Of Seagulls",Wishing,collection
+"A Guy Called Gerald","Voodoo Ray",wantlist
 "A Taste Of Honey","Boogie Oogie Oogie",collection
 A-Ha,"Cry Wolf",collection
 A-Ha,"Hunting High And Low",collection
@@ -351,6 +352,7 @@ Blur,"Song 2",wantlist
 "Bobby Brown","Don't Be Cruel",collection
 "Bobby Brown","Every Little Step",collection
 "Bobby Brown","My Prerogative",collection
+"Bobby Brown","On Our Own",collection
 "Bobby Byrd","I Know You Got Soul",wantlist
 "Bobby Caldwell","What You Won't Do For Love",wantlist
 "Bomb The Bass","Beat Dis",collection
@@ -381,6 +383,7 @@ Blur,"Song 2",wantlist
 "Booker Newbury III","Love Town",collection
 "Booker T and The Mg's","Green Onions",collection
 "Boomtown Rats","I Don't Like Mondays",collection
+"Boomtown Rats","Rat T**p",collection
 "Boomtown Rats","Rat Trap",collection
 "Boomtown Rats","She's So Modern",collection
 "Boris Gardiner","I Want To Wake Up With You",collection
@@ -591,6 +594,7 @@ D:ream,"Things Can Only Get Better",wantlist
 "Dan Hartman","Relight My Fire",wantlist
 "Dan Hill","Sometimes When We Touch",collection
 "Danny Wilson","Mary's Prayer",collection
+"Danny Wilson","The Second Summer Of Love",wantlist
 Darts,"Let's Hang On",collection
 "Daryl Hall & John Oates","I Can't Go For That",collection
 "Daryl Hall & John Oates",Maneater,collection
@@ -1103,6 +1107,7 @@ Girlschool,"Hit And Run",collection
 "Gladys Knight & The Pips","The Best Thing That Ever Happened To Me",collection
 "Gladys Knight and The Pips","Midnight Train To Georgia",collection
 "Glen Frey","The Heat Is On",collection
+"Glenn Frey","Smugglers Blues",wantlist
 "Glenn Frey","The Heat Is On",collection
 "Glenn Medeiros","Nothing's Gonna Change My Love For You",collection
 "Gloria Estefan","Anything For You",collection
@@ -1136,6 +1141,7 @@ Gonzalez,"I Haven't Stopped Dancing Yet",collection
 "Guess Who","American Woman",wantlist
 "Guns N Roses","Paradise City",collection
 "Guns N Roses","Paradise City*",collection
+"Guns N Roses",Patience,wantlist
 "Guns N Roses","Sweet Child O' Mine",collection
 "Guns N Roses","Welcome To The Jungle",collection
 "Guru Josh",Infinity,collection
@@ -1196,6 +1202,7 @@ Hipsway,"The Honeythief",collection
 "Hot Chocolate","You Sexy Thing",collection
 "Hothouse Flowers","Don't Go",collection
 "House Of Love","Shine On",collection
+"Howard Jones","Life In One Day",wantlist
 "Howard Jones","Like To Get To Know You Well",collection
 "Howard Jones","Look Mama",collection
 "Howard Jones","New Song",collection
@@ -1464,6 +1471,7 @@ Kws,"Please Don't Go",collection
 "Kylie Minogue","I Should Be So Lucky",collection
 "Kylie Minogue","Spinning Around",wantlist
 "Kylie Minogue","Step Back In Time",collection
+"Kylie Minogue","Wouldn't Change A Thing",collection
 "Kylie Minogue & Jason Donovan","Especially For You",collection
 "Kym Sims","Too Blind To See It",collection
 Labelle,"Lady Marmalade",collection
@@ -2108,6 +2116,7 @@ Roxette,"The Look",collection
 "Roxy Music","Street Life",collection
 "Roxy Music","Virginia Plain",collection
 "Roy Orbison","It's Over",collection
+"Roy Orbison","You G*t It",collection
 "Roy Orbison","You Got It",collection
 "Rufus & Chaka Khan","Ain't Nobody",collection
 "Rufus and Chaka Khan","Ain't Nobody",collection
@@ -2116,6 +2125,7 @@ Rush,"Spirit Of Radio",collection
 Rush,"Tom Sawyer",wantlist
 "S Express","Hey Music Lover",collection
 "S Express","Theme From S'express",collection
+"S*x Pistols","Pretty Vacant",collection
 S-Express,"Theme From S-Express",collection
 SL2,"On A Ragga Tip",collection
 Sabrina,Boys,collection
@@ -2258,6 +2268,7 @@ Snow,Informer,collection
 "Soft Cell","Tainted Love",collection
 "Soft Cell",Torch,collection
 "Soft Cell","Where Did Our Love Go",collection
+Sonia,"You'll Never Stop Me From Loving You",collection
 "Sonny and Cher","I G*t You Babe",collection
 "Sonny and Cher","I Got You Babe",collection
 "Sophie Ellis Bextor","Murder On The Dancefloor",collection
@@ -2286,6 +2297,7 @@ Spagna,"Call Me",collection
 "Spice Girls","Too Much",wantlist
 "Spice Girls",Wannabe,wantlist
 "Spice Girls","Who Do You Think You Are",wantlist
+"Split Enz","I G*t You",collection
 "Split Enz","I Got You",collection
 Squeeze,"Another Nail In My Heart",collection
 Squeeze,"Cool For Cats",collection
@@ -2406,6 +2418,7 @@ Sylvester,"You Make Me Feel (Mighty Real)",collection
 "T Rex","Ride A White Swan",collection
 "T Rex","Solid Gold Easy Action",collection
 "T Rex","Telegram Sam",collection
+"T'P*u","China In Your Hand",collection
 "T'Pau","China In Your Hand",collection
 "T'Pau","Heart And Soul",collection
 "T'Pau","Only The Lonely",collection
@@ -2476,6 +2489,7 @@ Texas,"Say What You Want",wantlist
 "The B52s","Love Shack",collection
 "The B52s",Roam,collection
 "The B52s","Rock Lobster",collection
+"The Bangles","Be With You",wantlist
 "The Bangles","Eternal Flame",collection
 "The Bangles","Hazy Shade Of Winter",collection
 "The Bangles","If She Knew What She Wants",collection
@@ -2585,6 +2599,7 @@ Texas,"Say What You Want",wantlist
 "The Cure","Why Can't I Be You",wantlist
 "The Damned",Eloise,collection
 "The Damned","Love Song",collection
+"The Damned","The Shadow Of Love",collection
 "The Dave Clark Five","Glad All Over",collection
 "The Delfonics","Ready Or Not",wantlist
 "The Detroit Emeralds","Feel The Need In Me",collection
@@ -2965,6 +2980,7 @@ U2,"With Or Without You",collection
 UB40,"(I Can't Help) Falling In Love With You",collection
 UB40,"Kingston Town",collection
 UB40,"Red Red Wine",collection
+"UB40 & Chrissie Hynde","I G*t You Babe",collection
 "UB40 & Chrissie Hynde","I Got You Babe",collection
 "UB40 and Chrissie Hynde","I G*t You Babe",collection
 "UB40 and Chrissie Hynde","I Got You Babe",collection
@@ -3095,6 +3111,8 @@ Yello,"The Race",collection
 Yes,"Owner Of A Lonely Heart",collection
 Yes,"Wonderous Stories",collection
 "Yvonne Elliman","If I Can't Have You",wantlist
+"ZZ T*p","Gimme All Your Lovin'",collection
+"ZZ T*p",Legs,collection
 "ZZ T*p","Sharp Dressed Man",collection
 "ZZ Top","Gimme All Your Lovin",collection
 "ZZ Top","Gimme All Your Lovin'",collection

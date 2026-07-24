@@ -33,7 +33,7 @@ Cure                        Just Like Heaven                                49
 Cure                        Lullaby                                         7         
 Cure                        Why Can't I Be You                              8         
 Danny Wilson                The Second Summer Of Love                       1         
-Daryl Hall and John Oates   You Make My Dreams                              70        
+Daryl Hall and John Oates   You Make My Dreams                              71        
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      6         
@@ -54,7 +54,7 @@ Grandmaster Flash           The Message                                     48
 Guns N Roses                Patience                                        1         
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
-Hall and Oates              Out Of Touch                                    61        
+Hall and Oates              Out Of Touch                                    62        
 Howard Jones                Life In One Day                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             6         
@@ -65,7 +65,7 @@ Jocelyn Brown               Somebody Else's Guy                             1
 Journey                     Don't Stop Believin'                            119       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            59        
+Lightning Seeds             Pure                                            60        
 Luther Vandross             Never Too Much                                  53        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
@@ -81,11 +81,11 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 5         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    100       
+Proclaimers                 I'm Gonna Be                                    101       
 Queen                       Hammer To Fall                                  43        
 Queen                       Las Palabras de Amor                            2         
 Queen                       Who Wants To Live Forever                       4         
-R.E.M                       Stand.                                          49        
+R.E.M                       Stand.                                          50        
 Rick James                  Superfreak                                      11        
 Roman Holiday               Don't Try To Stop It                            1         
 Rush                        Tom Sawyer                                      1         
@@ -95,10 +95,10 @@ Shannon                     Give Me Tonight                                 1
 Simple Minds                Someone Somewhere In Summertime                 2         
 Simple Minds                Sweat In Bullet                                 1         
 Skipworth and Turner        Thinking About Your Love                        1         
-Smiths                      Ask                                             46        
-Smiths                      Heaven Knows I'm Miserable Now                  42        
+Smiths                      Ask                                             47        
+Smiths                      Heaven Knows I'm Miserable Now                  43        
 Smiths                      How Soon Is Now?                                49        
-Smiths                      Please, Please, Please, Let Me Get What I Want  3         
+Smiths                      Please, Please, Please, Let Me Get What I Want  4         
 Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                7         

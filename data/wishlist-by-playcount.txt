@@ -3,29 +3,29 @@ artist                      title                                           play
 Journey                     Don't Stop Believin'                            120       
 Talk Talk                   It's My Life                                    111       
 Tom Petty                   Free Falling                                    106       
-Fleetwood Mac               Everywhere                                      102       
-Proclaimers                 I'm Gonna Be                                    101       
+Fleetwood Mac               Everywhere                                      103       
+Proclaimers                 I'm Gonna Be                                    102       
 Bob Marley and The Wailers  Could You Be Loved                              100       
 Daryl Hall and John Oates   You Make My Dreams                              73        
 Crowded House               Don't Dream It's Over                           71        
-Hall and Oates              Out Of Touch                                    62        
+Hall and Oates              Out Of Touch                                    63        
 Bon Jovi                    Bad Medicine                                    61        
 Depeche Mode                Personal Jesus                                  61        
-Lightning Seeds             Pure                                            60        
+Lightning Seeds             Pure                                            61        
 Smiths                      This Charming Man                               57        
 Luther Vandross             Never Too Much                                  54        
-Cure                        Just Like Heaven                                50        
-R.E.M                       Stand.                                          50        
-Smiths                      How Soon Is Now?                                49        
+Cure                        Just Like Heaven                                51        
+R.E.M                       Stand.                                          51        
+Smiths                      How Soon Is Now?                                50        
+Bruce Springsteen           Hungry Heart                                    48        
 Grandmaster Flash           The Message                                     48        
-Bruce Springsteen           Hungry Heart                                    47        
-Smiths                      Ask                                             47        
-Queen                       Hammer To Fall                                  43        
-Smiths                      Heaven Knows I'm Miserable Now                  43        
+Smiths                      Ask                                             48        
+Queen                       Hammer To Fall                                  44        
+Smiths                      Heaven Knows I'm Miserable Now                  44        
 Bob Marley and The Wailers  Three Little Birds                              42        
 Cure                        In Between Days                                 37        
 Tracy Chapman               Talkin' 'bout A Revolution                      30        
-Tracy Chapman               Baby Can I Hold You                             25        
+Tracy Chapman               Baby Can I Hold You                             26        
 Bad Manners                 Lip Up Fatty                                    12        
 Rick James                  Superfreak                                      11        
 A Flock Of Seagulls         I Ran                                           9         

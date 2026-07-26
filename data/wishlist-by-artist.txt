@@ -20,7 +20,7 @@ Bob Marley and The Wailers  Three Little Birds                              42
 Bodysnatchers               Let's Do Rock Steady                            6         
 Bon Jovi                    Bad Medicine                                    61        
 Bon Jovi                    Lay Your Hands On Me                            1         
-Bruce Springsteen           Hungry Heart                                    47        
+Bruce Springsteen           Hungry Heart                                    48        
 Bryan Adams                 Heat Of The Night                               1         
 Bryan Ferry                 Don't Stop The Dance                            1         
 Chris Rea                   On The Beach                                    1         
@@ -30,7 +30,7 @@ Creatures                   Miss The Girl                                   2
 Crowded House               Don't Dream It's Over                           71        
 Cure                        A Forest                                        2         
 Cure                        In Between Days                                 37        
-Cure                        Just Like Heaven                                50        
+Cure                        Just Like Heaven                                51        
 Cure                        Lullaby                                         7         
 Cure                        Why Can't I Be You                              8         
 Danny Wilson                The Second Summer Of Love                       1         
@@ -45,7 +45,7 @@ Dire Straits                Twisting By The Pool                            2
 Donna Allen                 Joy And Pain                                    2         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 Elvis Costello              Everyday I Write The Book                       2         
-Fleetwood Mac               Everywhere                                      102       
+Fleetwood Mac               Everywhere                                      103       
 Fleetwood Mac               Gypsy                                           3         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
@@ -55,7 +55,7 @@ Grandmaster Flash           The Message                                     48
 Guns N Roses                Patience                                        1         
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
-Hall and Oates              Out Of Touch                                    62        
+Hall and Oates              Out Of Touch                                    63        
 Howard Jones                Life In One Day                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             6         
@@ -66,7 +66,7 @@ Jocelyn Brown               Somebody Else's Guy                             1
 Journey                     Don't Stop Believin'                            120       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
-Lightning Seeds             Pure                                            60        
+Lightning Seeds             Pure                                            61        
 Luther Vandross             Never Too Much                                  54        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
@@ -82,11 +82,11 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 5         
 Prince                      Nothing Compares 2 U                            1         
-Proclaimers                 I'm Gonna Be                                    101       
-Queen                       Hammer To Fall                                  43        
+Proclaimers                 I'm Gonna Be                                    102       
+Queen                       Hammer To Fall                                  44        
 Queen                       Las Palabras de Amor                            2         
 Queen                       Who Wants To Live Forever                       4         
-R.E.M                       Stand.                                          50        
+R.E.M                       Stand.                                          51        
 Rick James                  Superfreak                                      11        
 Roman Holiday               Don't Try To Stop It                            1         
 Rush                        Tom Sawyer                                      1         
@@ -97,9 +97,9 @@ Simple Minds                Someone Somewhere In Summertime                 2
 Simple Minds                Sweat In Bullet                                 1         
 Sinead O'Connor             Mandinka                                        1         
 Skipworth and Turner        Thinking About Your Love                        1         
-Smiths                      Ask                                             47        
-Smiths                      Heaven Knows I'm Miserable Now                  43        
-Smiths                      How Soon Is Now?                                49        
+Smiths                      Ask                                             48        
+Smiths                      Heaven Knows I'm Miserable Now                  44        
+Smiths                      How Soon Is Now?                                50        
 Smiths                      Please, Please, Please, Let Me Get What I Want  4         
 Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
@@ -120,7 +120,7 @@ Tears For Fears             Woman In Chains                                 1
 Throwing Muses              Dizzy                                           2         
 Tom Petty                   Free Falling                                    106       
 Tone Loc                    Wild Thing                                      1         
-Tracy Chapman               Baby Can I Hold You                             25        
+Tracy Chapman               Baby Can I Hold You                             26        
 Tracy Chapman               Talkin' 'bout A Revolution                      30        
 U2                          All I Want Is You                               2         
 U2                          Gloria                                          1         

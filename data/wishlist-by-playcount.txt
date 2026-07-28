@@ -1,29 +1,29 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                            121       
-Talk Talk                   It's My Life                                    112       
-Tom Petty                   Free Falling                                    107       
+Journey                     Don't Stop Believin'                            123       
+Talk Talk                   It's My Life                                    113       
+Tom Petty                   Free Falling                                    108       
 Fleetwood Mac               Everywhere                                      104       
 Proclaimers                 I'm Gonna Be                                    103       
-Bob Marley and The Wailers  Could You Be Loved                              101       
-Daryl Hall and John Oates   You Make My Dreams                              74        
-Crowded House               Don't Dream It's Over                           72        
+Bob Marley and The Wailers  Could You Be Loved                              102       
+Daryl Hall and John Oates   You Make My Dreams                              75        
+Crowded House               Don't Dream It's Over                           73        
 Hall and Oates              Out Of Touch                                    63        
 Bon Jovi                    Bad Medicine                                    62        
+Lightning Seeds             Pure                                            62        
 Depeche Mode                Personal Jesus                                  61        
-Lightning Seeds             Pure                                            61        
-Smiths                      This Charming Man                               57        
+Smiths                      This Charming Man                               58        
 Luther Vandross             Never Too Much                                  54        
-Cure                        Just Like Heaven                                52        
-R.E.M                       Stand.                                          51        
-Smiths                      How Soon Is Now?                                50        
+Cure                        Just Like Heaven                                53        
+R.E.M                       Stand.                                          52        
+Smiths                      How Soon Is Now?                                51        
+Grandmaster Flash           The Message                                     49        
+Smiths                      Ask                                             49        
 Bruce Springsteen           Hungry Heart                                    48        
-Grandmaster Flash           The Message                                     48        
-Smiths                      Ask                                             48        
-Queen                       Hammer To Fall                                  44        
+Queen                       Hammer To Fall                                  45        
 Smiths                      Heaven Knows I'm Miserable Now                  44        
 Bob Marley and The Wailers  Three Little Birds                              42        
-Cure                        In Between Days                                 37        
+Cure                        In Between Days                                 38        
 Tracy Chapman               Talkin' 'bout A Revolution                      31        
 Tracy Chapman               Baby Can I Hold You                             26        
 Bad Manners                 Lip Up Fatty                                    13        
@@ -31,10 +31,10 @@ Rick James                  Superfreak                                      11
 A Flock Of Seagulls         I Ran                                           9         
 Christopher Cross           Ride Like The Wind                              9         
 Cure                        Why Can't I Be You                              9         
+Inxs and Jimmy Barnes       Good Times                                      9         
 Janet Jackson               Rhythm Nation                                   9         
 New Order                   Bizarre Love Triangle                           9         
 Depeche Mode                Shake The Disease                               8         
-Inxs and Jimmy Barnes       Good Times                                      8         
 Stevie Nicks                Edge Of Seventeen                               8         
 Cure                        Lullaby                                         7         
 Def Leppard                 Love Bites                                      7         
@@ -64,6 +64,7 @@ David Bowie                 Magic Dance                                     2
 Dire Straits                Twisting By The Pool                            2         
 Donna Allen                 Joy And Pain                                    2         
 Elvis Costello              Everyday I Write The Book                       2         
+Prince                      Nothing Compares 2 U                            2         
 Queen                       Las Palabras de Amor                            2         
 S.O.S. Band                 Just Be Good To Me                              2         
 Sade                        The Sweetest Taboo                              2         
@@ -91,6 +92,7 @@ Danny Wilson                The Second Summer Of Love                       1
 Desireless                  Voyage Voyage                                   1         
 Devo                        Whip It                                         1         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
+Fleetwood Mac               Seven Wonders                                   1         
 George Harrison             All Those Years Ago                             1         
 Georgia Satellites          Battleship Chains                               1         
 Glenn Frey                  Smugglers Blues                                 1         
@@ -115,7 +117,6 @@ Paul Simon                  Graceland                                       1
 Phil Collins                If Leaving Me Is Easy                           1         
 Prefab Sprout               Nightingales                                    1         
 Prince                      Controversy                                     1         
-Prince                      Nothing Compares 2 U                            1         
 Public Enemy                Bring The Noise                                 1         
 Rolling Stones              She's So Cold                                   1         
 Roman Holiday               Don't Try To Stop It                            1         

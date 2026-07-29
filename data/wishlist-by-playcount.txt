@@ -1,25 +1,25 @@
 artist                      title                                           play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                            123       
-Talk Talk                   It's My Life                                    113       
-Tom Petty                   Free Falling                                    108       
-Fleetwood Mac               Everywhere                                      104       
-Proclaimers                 I'm Gonna Be                                    103       
+Talk Talk                   It's My Life                                    114       
+Tom Petty                   Free Falling                                    109       
+Fleetwood Mac               Everywhere                                      105       
+Proclaimers                 I'm Gonna Be                                    104       
 Bob Marley and The Wailers  Could You Be Loved                              102       
 Daryl Hall and John Oates   You Make My Dreams                              75        
 Crowded House               Don't Dream It's Over                           73        
-Hall and Oates              Out Of Touch                                    63        
-Bon Jovi                    Bad Medicine                                    62        
+Hall and Oates              Out Of Touch                                    64        
+Bon Jovi                    Bad Medicine                                    63        
+Depeche Mode                Personal Jesus                                  62        
 Lightning Seeds             Pure                                            62        
-Depeche Mode                Personal Jesus                                  61        
-Smiths                      This Charming Man                               58        
-Luther Vandross             Never Too Much                                  54        
+Smiths                      This Charming Man                               59        
+Luther Vandross             Never Too Much                                  55        
 Cure                        Just Like Heaven                                53        
-R.E.M                       Stand.                                          52        
+R.E.M                       Stand.                                          53        
 Smiths                      How Soon Is Now?                                51        
+Bruce Springsteen           Hungry Heart                                    49        
 Grandmaster Flash           The Message                                     49        
 Smiths                      Ask                                             49        
-Bruce Springsteen           Hungry Heart                                    48        
 Queen                       Hammer To Fall                                  45        
 Smiths                      Heaven Knows I'm Miserable Now                  44        
 Bob Marley and The Wailers  Three Little Birds                              42        
@@ -34,8 +34,8 @@ Cure                        Why Can't I Be You                              9
 Inxs and Jimmy Barnes       Good Times                                      9         
 Janet Jackson               Rhythm Nation                                   9         
 New Order                   Bizarre Love Triangle                           9         
+Stevie Nicks                Edge Of Seventeen                               9         
 Depeche Mode                Shake The Disease                               8         
-Stevie Nicks                Edge Of Seventeen                               8         
 Cure                        Lullaby                                         7         
 Def Leppard                 Love Bites                                      7         
 Inxs                        Never Tear Us Apart                             7         

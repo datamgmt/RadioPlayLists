@@ -19,9 +19,9 @@ Bob Marley and The Wailers  Could You Be Loved                              102
 Bob Marley and The Wailers  Redemption Song                                 1         
 Bob Marley and The Wailers  Three Little Birds                              42        
 Bodysnatchers               Let's Do Rock Steady                            6         
-Bon Jovi                    Bad Medicine                                    62        
+Bon Jovi                    Bad Medicine                                    63        
 Bon Jovi                    Lay Your Hands On Me                            1         
-Bruce Springsteen           Hungry Heart                                    48        
+Bruce Springsteen           Hungry Heart                                    49        
 Bruce Springsteen           Tunnel Of Love                                  1         
 Bryan Adams                 Heat Of The Night                               1         
 Bryan Ferry                 Don't Stop The Dance                            1         
@@ -41,7 +41,7 @@ Daryl Hall and John Oates   You Make My Dreams                              75
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      7         
-Depeche Mode                Personal Jesus                                  61        
+Depeche Mode                Personal Jesus                                  62        
 Depeche Mode                Shake The Disease                               8         
 Desireless                  Voyage Voyage                                   1         
 Devo                        Whip It                                         1         
@@ -49,7 +49,7 @@ Dire Straits                Twisting By The Pool                            2
 Donna Allen                 Joy And Pain                                    2         
 Echo and The Bunnymen       Lips Like Sugar                                 1         
 Elvis Costello              Everyday I Write The Book                       2         
-Fleetwood Mac               Everywhere                                      104       
+Fleetwood Mac               Everywhere                                      105       
 Fleetwood Mac               Gypsy                                           3         
 Fleetwood Mac               Seven Wonders                                   1         
 George Harrison             All Those Years Ago                             1         
@@ -60,7 +60,7 @@ Grandmaster Flash           The Message                                     49
 Guns N Roses                Patience                                        1         
 H20                         I Dream To Sleep                                1         
 Hall and Oates              Kiss On My List                                 1         
-Hall and Oates              Out Of Touch                                    63        
+Hall and Oates              Out Of Touch                                    64        
 Howard Jones                Life In One Day                                 1         
 Huey Lewis and The News     Back In Time                                    1         
 Inxs                        Never Tear Us Apart                             7         
@@ -72,7 +72,7 @@ Journey                     Don't Stop Believin'                            123
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            62        
-Luther Vandross             Never Too Much                                  54        
+Luther Vandross             Never Too Much                                  55        
 Mary Jane Girls             All Night Long                                  1         
 Miami Sound Machine         Bad Boy                                         1         
 New Order                   Bizarre Love Triangle                           9         
@@ -88,12 +88,12 @@ Prefab Sprout               Nightingales                                    1
 Prince                      Controversy                                     1         
 Prince                      I Would Die 4 U                                 5         
 Prince                      Nothing Compares 2 U                            2         
-Proclaimers                 I'm Gonna Be                                    103       
+Proclaimers                 I'm Gonna Be                                    104       
 Public Enemy                Bring The Noise                                 1         
 Queen                       Hammer To Fall                                  45        
 Queen                       Las Palabras de Amor                            2         
 Queen                       Who Wants To Live Forever                       4         
-R.E.M                       Stand.                                          52        
+R.E.M                       Stand.                                          53        
 Rick James                  Superfreak                                      11        
 Rolling Stones              She's So Cold                                   1         
 Roman Holiday               Don't Try To Stop It                            1         
@@ -113,21 +113,21 @@ Smiths                      Stop Me If You've Heard This One Before         3
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                7         
 Smiths                      There Is A Light That Never Goes Out            5         
-Smiths                      This Charming Man                               58        
+Smiths                      This Charming Man                               59        
 Smiths                      William, It Was Really Nothing                  5         
 Specials                    Rat Race                                        1         
-Stevie Nicks                Edge Of Seventeen                               8         
+Stevie Nicks                Edge Of Seventeen                               9         
 Stevie Wonder               Do I Do                                         1         
 Stone Roses                 What The World Is Waiting For                   1         
 Stranglers                  Always The Sun                                  4         
 Style Council               Long Hot Summer                                 3         
 Suzanne Vega                Left Of Center                                  1         
 T'P*u                       I Will Be With You                              1         
-Talk Talk                   It's My Life                                    113       
+Talk Talk                   It's My Life                                    114       
 Talking Heads               Burning Down The House                          7         
 Tears For Fears             Woman In Chains                                 1         
 Throwing Muses              Dizzy                                           2         
-Tom Petty                   Free Falling                                    108       
+Tom Petty                   Free Falling                                    109       
 Tone Loc                    Wild Thing                                      1         
 Tracy Chapman               Baby Can I Hold You                             26        
 Tracy Chapman               Talkin' 'bout A Revolution                      31        

@@ -15,7 +15,7 @@ Beat                        Best Friend                                     1
 Beloved                     The Sun Rising                                  2         
 Billy Idol                  Eyes Without A Face                             6         
 Billy Joel                  The Longest Time                                2         
-Bob Marley and The Wailers  Could You Be Loved                              102       
+Bob Marley and The Wailers  Could You Be Loved                              103       
 Bob Marley and The Wailers  Redemption Song                                 1         
 Bob Marley and The Wailers  Three Little Birds                              42        
 Bodysnatchers               Let's Do Rock Steady                            6         
@@ -30,18 +30,18 @@ Chris Rea                   On The Beach                                    1
 Christopher Cross           Ride Like The Wind                              9         
 Clash                       I Fought The Law                                6         
 Creatures                   Miss The Girl                                   2         
-Crowded House               Don't Dream It's Over                           73        
+Crowded House               Don't Dream It's Over                           74        
 Cure                        A Forest                                        2         
-Cure                        In Between Days                                 38        
-Cure                        Just Like Heaven                                53        
+Cure                        In Between Days                                 39        
+Cure                        Just Like Heaven                                54        
 Cure                        Lullaby                                         7         
 Cure                        Why Can't I Be You                              9         
 Danny Wilson                The Second Summer Of Love                       1         
-Daryl Hall and John Oates   You Make My Dreams                              75        
+Daryl Hall and John Oates   You Make My Dreams                              76        
 David Bowie                 Magic Dance                                     2         
 De La Soul                  Me Myself & I                                   3         
 Def Leppard                 Love Bites                                      7         
-Depeche Mode                Personal Jesus                                  62        
+Depeche Mode                Personal Jesus                                  63        
 Depeche Mode                Shake The Disease                               8         
 Desireless                  Voyage Voyage                                   1         
 Devo                        Whip It                                         1         
@@ -68,7 +68,7 @@ Inxs and Jimmy Barnes       Good Times                                      9
 Jam                         Just Who Is The 5 O'clock Hero                  1         
 Janet Jackson               Rhythm Nation                                   9         
 Jocelyn Brown               Somebody Else's Guy                             1         
-Journey                     Don't Stop Believin'                            123       
+Journey                     Don't Stop Believin'                            124       
 Judas Priest                You've Got Another Thing Comin                  1         
 Kate Bush                   This Woman's Work                               1         
 Lightning Seeds             Pure                                            62        
@@ -107,12 +107,12 @@ Sinead O'Connor             Mandinka                                        1
 Skipworth and Turner        Thinking About Your Love                        1         
 Smiths                      Ask                                             49        
 Smiths                      Heaven Knows I'm Miserable Now                  44        
-Smiths                      How Soon Is Now?                                51        
+Smiths                      How Soon Is Now?                                52        
 Smiths                      Please, Please, Please, Let Me Get What I Want  4         
 Smiths                      Stop Me If You've Heard This One Before         3         
 Smiths                      That Joke Isn't Funny Anymore                   1         
 Smiths                      The Boy With A Thorn In His Side                7         
-Smiths                      There Is A Light That Never Goes Out            5         
+Smiths                      There Is A Light That Never Goes Out            6         
 Smiths                      This Charming Man                               59        
 Smiths                      William, It Was Really Nothing                  5         
 Specials                    Rat Race                                        1         

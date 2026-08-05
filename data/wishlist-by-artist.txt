@@ -19,7 +19,7 @@ Billy Joel                  The Longest Time                                    
 Bob Marley and The Wailers  Could You Be Loved                                     105
 Bob Marley and The Wailers  Redemption Song                                          1
 Bob Marley and The Wailers  Three Little Birds                                      46
-Bodysnatchers               Let's Do Rock Steady                                     6
+Bodysnatchers               Let's Do Rock Steady                                     7
 Bon Jovi                    Bad Medicine                                            65
 Bon Jovi                    Lay Your Hands On Me                                     1
 Bon Jovi                    Never Say Goodbye                                        1
@@ -32,14 +32,14 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                       9
 Clash                       I Fought The Law                                         6
 Creatures                   Miss The Girl                                            2
-Crowded House               Don't Dream It's Over                                   77
+Crowded House               Don't Dream It's Over                                   79
 Cure                        A Forest                                                 2
 Cure                        In Between Days                                         40
 Cure                        Just Like Heaven                                        56
 Cure                        Lullaby                                                  7
 Cure                        Why Can't I Be You                                       9
 Danny Wilson                The Second Summer Of Love                                1
-Daryl Hall and John Oates   You Make My Dreams                                      78
+Daryl Hall and John Oates   You Make My Dreams                                      79
 David Bowie                 Magic Dance                                              2
 De La Soul                  Me Myself & I                                            3
 Def Leppard                 Love Bites                                               7
@@ -76,8 +76,8 @@ Judas Priest                You've Got Another Thing Comin                      
 Kate Bush                   This Woman's Work                                        1
 Kids from Fame              Hi Fidelity                                              2
 Kool and The Gang           Big Fun                                                  1
-Lightning Seeds             Pure                                                    65
-Luther Vandross             Never Too Much                                          56
+Lightning Seeds             Pure                                                    66
+Luther Vandross             Never Too Much                                          57
 Mary Jane Girls             All Night Long                                           1
 Miami Sound Machine         Bad Boy                                                  1
 New Order                   Bizarre Love Triangle                                   10
@@ -111,14 +111,14 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                 1
 Skipworth and Turner        Thinking About Your Love                                 1
 Smiths                      Ask                                                     52
-Smiths                      Heaven Knows I'm Miserable Now                          45
+Smiths                      Heaven Knows I'm Miserable Now                          46
 Smiths                      How Soon Is Now?                                        54
 Smiths                      Please, Please, Please, Let Me Get What I Want           4
 Smiths                      Stop Me If You've Heard This One Before                  3
 Smiths                      That Joke Isn't Funny Anymore                            1
 Smiths                      The Boy With A Thorn In His Side                         8
 Smiths                      There Is A Light That Never Goes Out                     6
-Smiths                      This Charming Man                                       61
+Smiths                      This Charming Man                                       62
 Smiths                      William, It Was Really Nothing                           5
 Specials                    Rat Race                                                 1
 Stevie Nicks                Edge Of Seventeen                                        9
@@ -128,7 +128,7 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                          3
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
-Talk Talk                   It's My Life                                           117
+Talk Talk                   It's My Life                                           118
 Talking Heads               Burning Down The House                                   7
 Tears For Fears             Woman In Chains                                          1
 Throwing Muses              Dizzy                                                    2

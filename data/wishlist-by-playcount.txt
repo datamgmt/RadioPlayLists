@@ -1,20 +1,20 @@
           artist                                title                       play_count
 --------------------------  ----------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                   128
-Talk Talk                   It's My Life                                           117
+Talk Talk                   It's My Life                                           118
 Tom Petty                   Free Falling                                           112
 Fleetwood Mac               Everywhere                                             108
 Proclaimers                 I'm Gonna Be                                           108
 Bob Marley and The Wailers  Could You Be Loved                                     105
-Daryl Hall and John Oates   You Make My Dreams                                      78
-Crowded House               Don't Dream It's Over                                   77
+Crowded House               Don't Dream It's Over                                   79
+Daryl Hall and John Oates   You Make My Dreams                                      79
 Hall and Oates              Out Of Touch                                            67
+Lightning Seeds             Pure                                                    66
 Bon Jovi                    Bad Medicine                                            65
 Depeche Mode                Personal Jesus                                          65
-Lightning Seeds             Pure                                                    65
-Smiths                      This Charming Man                                       61
+Smiths                      This Charming Man                                       62
+Luther Vandross             Never Too Much                                          57
 Cure                        Just Like Heaven                                        56
-Luther Vandross             Never Too Much                                          56
 R.E.M                       Stand.                                                  55
 Smiths                      How Soon Is Now?                                        54
 Bruce Springsteen           Hungry Heart                                            52
@@ -22,7 +22,7 @@ Smiths                      Ask                                                 
 Grandmaster Flash           The Message                                             51
 Queen                       Hammer To Fall                                          48
 Bob Marley and The Wailers  Three Little Birds                                      46
-Smiths                      Heaven Knows I'm Miserable Now                          45
+Smiths                      Heaven Knows I'm Miserable Now                          46
 Cure                        In Between Days                                         40
 Tracy Chapman               Talkin' 'bout A Revolution                              31
 Tracy Chapman               Baby Can I Hold You                                     26
@@ -38,12 +38,12 @@ Stevie Nicks                Edge Of Seventeen                                   
 Depeche Mode                Shake The Disease                                        8
 Inxs                        Never Tear Us Apart                                      8
 Smiths                      The Boy With A Thorn In His Side                         8
+Bodysnatchers               Let's Do Rock Steady                                     7
 Cure                        Lullaby                                                  7
 Def Leppard                 Love Bites                                               7
 Paul Simon                  Diamonds On The Soles Of Her Shoes                       7
 Talking Heads               Burning Down The House                                   7
 Billy Idol                  Eyes Without A Face                                      6
-Bodysnatchers               Let's Do Rock Steady                                     6
 Clash                       I Fought The Law                                         6
 Smiths                      There Is A Light That Never Goes Out                     6
 Prince                      I Would Die 4 U                                          5

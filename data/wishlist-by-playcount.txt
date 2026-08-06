@@ -1,26 +1,26 @@
           artist                                title                       play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                   128
-Talk Talk                   It's My Life                                           118
-Tom Petty                   Free Falling                                           112
-Fleetwood Mac               Everywhere                                             108
-Proclaimers                 I'm Gonna Be                                           108
-Bob Marley and The Wailers  Could You Be Loved                                     105
+Journey                     Don't Stop Believin'                                   129
+Talk Talk                   It's My Life                                           119
+Tom Petty                   Free Falling                                           113
+Fleetwood Mac               Everywhere                                             109
+Proclaimers                 I'm Gonna Be                                           109
+Bob Marley and The Wailers  Could You Be Loved                                     106
 Crowded House               Don't Dream It's Over                                   79
 Daryl Hall and John Oates   You Make My Dreams                                      79
-Hall and Oates              Out Of Touch                                            67
+Hall and Oates              Out Of Touch                                            68
+Depeche Mode                Personal Jesus                                          66
 Lightning Seeds             Pure                                                    66
 Bon Jovi                    Bad Medicine                                            65
-Depeche Mode                Personal Jesus                                          65
 Smiths                      This Charming Man                                       62
+Cure                        Just Like Heaven                                        57
 Luther Vandross             Never Too Much                                          57
-Cure                        Just Like Heaven                                        56
 R.E.M                       Stand.                                                  55
 Smiths                      How Soon Is Now?                                        54
 Bruce Springsteen           Hungry Heart                                            52
 Smiths                      Ask                                                     52
 Grandmaster Flash           The Message                                             51
-Queen                       Hammer To Fall                                          48
+Queen                       Hammer To Fall                                          49
 Bob Marley and The Wailers  Three Little Birds                                      46
 Smiths                      Heaven Knows I'm Miserable Now                          46
 Cure                        In Between Days                                         40
@@ -28,9 +28,9 @@ Tracy Chapman               Talkin' 'bout A Revolution                          
 Tracy Chapman               Baby Can I Hold You                                     26
 Bad Manners                 Lip Up Fatty                                            14
 Rick James                  Superfreak                                              12
+Christopher Cross           Ride Like The Wind                                      10
 New Order                   Bizarre Love Triangle                                   10
 A Flock Of Seagulls         I Ran                                                    9
-Christopher Cross           Ride Like The Wind                                       9
 Cure                        Why Can't I Be You                                       9
 Inxs and Jimmy Barnes       Good Times                                               9
 Janet Jackson               Rhythm Nation                                            9

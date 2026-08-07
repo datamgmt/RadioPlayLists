@@ -16,14 +16,14 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                           2
 Billy Idol                  Eyes Without A Face                                      6
 Billy Joel                  The Longest Time                                         2
-Bob Marley and The Wailers  Could You Be Loved                                     106
+Bob Marley and The Wailers  Could You Be Loved                                     107
 Bob Marley and The Wailers  Redemption Song                                          1
 Bob Marley and The Wailers  Three Little Birds                                      46
 Bodysnatchers               Let's Do Rock Steady                                     7
-Bon Jovi                    Bad Medicine                                            65
+Bon Jovi                    Bad Medicine                                            66
 Bon Jovi                    Lay Your Hands On Me                                     1
 Bon Jovi                    Never Say Goodbye                                        1
-Bruce Springsteen           Hungry Heart                                            52
+Bruce Springsteen           Hungry Heart                                            53
 Bruce Springsteen           Tunnel Of Love                                           1
 Bryan Adams                 Heat Of The Night                                        1
 Bryan Ferry                 Don't Stop The Dance                                     1
@@ -32,14 +32,14 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                      10
 Clash                       I Fought The Law                                         6
 Creatures                   Miss The Girl                                            2
-Crowded House               Don't Dream It's Over                                   79
+Crowded House               Don't Dream It's Over                                   80
 Cure                        A Forest                                                 2
 Cure                        In Between Days                                         40
 Cure                        Just Like Heaven                                        57
 Cure                        Lullaby                                                  7
 Cure                        Why Can't I Be You                                       9
 Danny Wilson                The Second Summer Of Love                                1
-Daryl Hall and John Oates   You Make My Dreams                                      79
+Daryl Hall and John Oates   You Make My Dreams                                      80
 David Bowie                 Magic Dance                                              2
 De La Soul                  Me Myself & I                                            3
 Def Leppard                 Love Bites                                               7
@@ -71,13 +71,13 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                           1
 Janet Jackson               Rhythm Nation                                            9
 Jocelyn Brown               Somebody Else's Guy                                      1
-Journey                     Don't Stop Believin'                                   129
+Journey                     Don't Stop Believin'                                   130
 Judas Priest                You've Got Another Thing Comin                           1
 Kate Bush                   This Woman's Work                                        1
 Kids from Fame              Hi Fidelity                                              2
 Kool and The Gang           Big Fun                                                  1
 Lightning Seeds             Pure                                                    66
-Luther Vandross             Never Too Much                                          57
+Luther Vandross             Never Too Much                                          58
 Mary Jane Girls             All Night Long                                           1
 Miami Sound Machine         Bad Boy                                                  1
 New Order                   Bizarre Love Triangle                                   10
@@ -93,7 +93,7 @@ Prefab Sprout               Nightingales                                        
 Prince                      Controversy                                              1
 Prince                      I Would Die 4 U                                          5
 Prince                      Nothing Compares 2 U                                     2
-Proclaimers                 I'm Gonna Be                                           109
+Proclaimers                 I'm Gonna Be                                           110
 Public Enemy                Bring The Noise                                          1
 Queen                       Hammer To Fall                                          49
 Queen                       Las Palabras de Amor                                     2
@@ -118,7 +118,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                            1
 Smiths                      The Boy With A Thorn In His Side                         8
 Smiths                      There Is A Light That Never Goes Out                     6
-Smiths                      This Charming Man                                       62
+Smiths                      This Charming Man                                       63
 Smiths                      William, It Was Really Nothing                           5
 Specials                    Rat Race                                                 1
 Stevie Nicks                Edge Of Seventeen                                        9
@@ -128,11 +128,11 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                          3
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
-Talk Talk                   It's My Life                                           119
+Talk Talk                   It's My Life                                           120
 Talking Heads               Burning Down The House                                   7
 Tears For Fears             Woman In Chains                                          1
 Throwing Muses              Dizzy                                                    2
-Tom Petty                   Free Falling                                           113
+Tom Petty                   Free Falling                                           114
 Tone Loc                    Wild Thing                                               1
 Tracy Chapman               Baby Can I Hold You                                     26
 Tracy Chapman               Talkin' 'bout A Revolution                              31
@@ -141,4 +141,4 @@ U2                          Gloria                                              
 Visage                      Night Train                                              1
 Waterboys                   Fisherman's Blues                                        1
 Wham!                       Where Did Your Heart Go?                                 1
-Yello                       Oh Yeah                                                  2
+Yello                       Oh Yeah                                                  3

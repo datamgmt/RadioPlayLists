@@ -1,23 +1,23 @@
           artist                                title                       play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                   129
-Talk Talk                   It's My Life                                           119
-Tom Petty                   Free Falling                                           113
+Journey                     Don't Stop Believin'                                   130
+Talk Talk                   It's My Life                                           120
+Tom Petty                   Free Falling                                           114
+Proclaimers                 I'm Gonna Be                                           110
 Fleetwood Mac               Everywhere                                             109
-Proclaimers                 I'm Gonna Be                                           109
-Bob Marley and The Wailers  Could You Be Loved                                     106
-Crowded House               Don't Dream It's Over                                   79
-Daryl Hall and John Oates   You Make My Dreams                                      79
+Bob Marley and The Wailers  Could You Be Loved                                     107
+Crowded House               Don't Dream It's Over                                   80
+Daryl Hall and John Oates   You Make My Dreams                                      80
 Hall and Oates              Out Of Touch                                            68
+Bon Jovi                    Bad Medicine                                            66
 Depeche Mode                Personal Jesus                                          66
 Lightning Seeds             Pure                                                    66
-Bon Jovi                    Bad Medicine                                            65
-Smiths                      This Charming Man                                       62
+Smiths                      This Charming Man                                       63
+Luther Vandross             Never Too Much                                          58
 Cure                        Just Like Heaven                                        57
-Luther Vandross             Never Too Much                                          57
 R.E.M                       Stand.                                                  55
 Smiths                      How Soon Is Now?                                        54
-Bruce Springsteen           Hungry Heart                                            52
+Bruce Springsteen           Hungry Heart                                            53
 Smiths                      Ask                                                     52
 Grandmaster Flash           The Message                                             51
 Queen                       Hammer To Fall                                          49
@@ -55,6 +55,7 @@ Smiths                      Please, Please, Please, Let Me Get What I Want      
 De La Soul                  Me Myself & I                                            3
 Smiths                      Stop Me If You've Heard This One Before                  3
 Style Council               Long Hot Summer                                          3
+Yello                       Oh Yeah                                                  3
 Abba                        Lay All Your Love On Me                                  2
 Beloved                     The Sun Rising                                           2
 Billy Joel                  The Longest Time                                         2
@@ -73,7 +74,6 @@ Sade                        The Sweetest Taboo                                  
 Simple Minds                Someone Somewhere In Summertime                          2
 Throwing Muses              Dizzy                                                    2
 U2                          All I Want Is You                                        2
-Yello                       Oh Yeah                                                  2
 A Guy Called Gerald         Voodoo Ray                                               1
 Ac/dc                       For Those About To Rock                                  1
 Associates                  18 Carat Love Affair                                     1

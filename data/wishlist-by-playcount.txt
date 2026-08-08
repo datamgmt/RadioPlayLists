@@ -1,50 +1,50 @@
           artist                                title                       play_count
 --------------------------  ----------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                   130
+Journey                     Don't Stop Believin'                                   132
 Talk Talk                   It's My Life                                           120
 Tom Petty                   Free Falling                                           114
-Proclaimers                 I'm Gonna Be                                           110
-Fleetwood Mac               Everywhere                                             109
-Bob Marley and The Wailers  Could You Be Loved                                     107
+Proclaimers                 I'm Gonna Be                                           111
+Fleetwood Mac               Everywhere                                             110
+Bob Marley and The Wailers  Could You Be Loved                                     108
 Crowded House               Don't Dream It's Over                                   80
 Daryl Hall and John Oates   You Make My Dreams                                      80
-Hall and Oates              Out Of Touch                                            68
+Hall and Oates              Out Of Touch                                            69
+Depeche Mode                Personal Jesus                                          67
 Bon Jovi                    Bad Medicine                                            66
-Depeche Mode                Personal Jesus                                          66
 Lightning Seeds             Pure                                                    66
 Smiths                      This Charming Man                                       63
+Cure                        Just Like Heaven                                        58
 Luther Vandross             Never Too Much                                          58
-Cure                        Just Like Heaven                                        57
 R.E.M                       Stand.                                                  55
 Smiths                      How Soon Is Now?                                        54
 Bruce Springsteen           Hungry Heart                                            53
 Smiths                      Ask                                                     52
 Grandmaster Flash           The Message                                             51
 Queen                       Hammer To Fall                                          49
-Bob Marley and The Wailers  Three Little Birds                                      46
+Bob Marley and The Wailers  Three Little Birds                                      47
 Smiths                      Heaven Knows I'm Miserable Now                          46
-Cure                        In Between Days                                         40
+Cure                        In Between Days                                         41
 Tracy Chapman               Talkin' 'bout A Revolution                              31
 Tracy Chapman               Baby Can I Hold You                                     26
 Bad Manners                 Lip Up Fatty                                            14
 Rick James                  Superfreak                                              12
 Christopher Cross           Ride Like The Wind                                      10
+Janet Jackson               Rhythm Nation                                           10
 New Order                   Bizarre Love Triangle                                   10
 A Flock Of Seagulls         I Ran                                                    9
 Cure                        Why Can't I Be You                                       9
 Inxs and Jimmy Barnes       Good Times                                               9
-Janet Jackson               Rhythm Nation                                            9
 Stevie Nicks                Edge Of Seventeen                                        9
 Depeche Mode                Shake The Disease                                        8
 Inxs                        Never Tear Us Apart                                      8
 Smiths                      The Boy With A Thorn In His Side                         8
 Bodysnatchers               Let's Do Rock Steady                                     7
+Clash                       I Fought The Law                                         7
 Cure                        Lullaby                                                  7
 Def Leppard                 Love Bites                                               7
 Paul Simon                  Diamonds On The Soles Of Her Shoes                       7
 Talking Heads               Burning Down The House                                   7
 Billy Idol                  Eyes Without A Face                                      6
-Clash                       I Fought The Law                                         6
 Smiths                      There Is A Light That Never Goes Out                     6
 Prince                      I Would Die 4 U                                          5
 Smiths                      William, It Was Really Nothing                           5
@@ -53,6 +53,8 @@ Fleetwood Mac               Gypsy                                               
 Queen                       Who Wants To Live Forever                                4
 Smiths                      Please, Please, Please, Let Me Get What I Want           4
 De La Soul                  Me Myself & I                                            3
+S.O.S. Band                 Just Be Good To Me                                       3
+Simple Minds                Someone Somewhere In Summertime                          3
 Smiths                      Stop Me If You've Heard This One Before                  3
 Style Council               Long Hot Summer                                          3
 Yello                       Oh Yeah                                                  3
@@ -69,9 +71,7 @@ Elvis Costello              Everyday I Write The Book                           
 Kids from Fame              Hi Fidelity                                              2
 Prince                      Nothing Compares 2 U                                     2
 Queen                       Las Palabras de Amor                                     2
-S.O.S. Band                 Just Be Good To Me                                       2
 Sade                        The Sweetest Taboo                                       2
-Simple Minds                Someone Somewhere In Summertime                          2
 Throwing Muses              Dizzy                                                    2
 U2                          All I Want Is You                                        2
 A Guy Called Gerald         Voodoo Ray                                               1
@@ -137,6 +137,7 @@ Stone Roses                 What The World Is Waiting For                       
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
 Tears For Fears             Woman In Chains                                          1
+Tom Petty                   Don't Come Around Here No More                           1
 Tone Loc                    Wild Thing                                               1
 U2                          Gloria                                                   1
 Visage                      Night Train                                              1

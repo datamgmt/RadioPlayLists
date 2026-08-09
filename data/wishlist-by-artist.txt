@@ -20,10 +20,10 @@ Bob Marley and The Wailers  Could You Be Loved                                  
 Bob Marley and The Wailers  Redemption Song                                          1
 Bob Marley and The Wailers  Three Little Birds                                      47
 Bodysnatchers               Let's Do Rock Steady                                     7
-Bon Jovi                    Bad Medicine                                            66
+Bon Jovi                    Bad Medicine                                            67
 Bon Jovi                    Lay Your Hands On Me                                     1
 Bon Jovi                    Never Say Goodbye                                        1
-Bruce Springsteen           Hungry Heart                                            53
+Bruce Springsteen           Hungry Heart                                            54
 Bruce Springsteen           Tunnel Of Love                                           1
 Bryan Adams                 Heat Of The Night                                        1
 Bryan Ferry                 Don't Stop The Dance                                     1
@@ -43,7 +43,7 @@ Daryl Hall and John Oates   You Make My Dreams                                  
 David Bowie                 Magic Dance                                              2
 De La Soul                  Me Myself & I                                            3
 Def Leppard                 Love Bites                                               7
-Depeche Mode                Personal Jesus                                          67
+Depeche Mode                Personal Jesus                                          68
 Depeche Mode                Shake The Disease                                        8
 Desireless                  Voyage Voyage                                            1
 Devo                        Whip It                                                  1
@@ -77,7 +77,7 @@ Kate Bush                   This Woman's Work                                   
 Kids from Fame              Hi Fidelity                                              2
 Kool and The Gang           Big Fun                                                  1
 Lightning Seeds             Pure                                                    66
-Luther Vandross             Never Too Much                                          58
+Luther Vandross             Never Too Much                                          59
 Mary Jane Girls             All Night Long                                           1
 Miami Sound Machine         Bad Boy                                                  1
 New Order                   Bizarre Love Triangle                                   10
@@ -95,11 +95,11 @@ Prince                      I Would Die 4 U                                     
 Prince                      Nothing Compares 2 U                                     2
 Proclaimers                 I'm Gonna Be                                           111
 Public Enemy                Bring The Noise                                          1
-Queen                       Hammer To Fall                                          49
+Queen                       Hammer To Fall                                          50
 Queen                       Las Palabras de Amor                                     2
 Queen                       Who Wants To Live Forever                                4
 R.E.M                       Stand.                                                  55
-Rick James                  Superfreak                                              12
+Rick James                  Superfreak                                              13
 Rolling Stones              She's So Cold                                            1
 Roman Holiday               Don't Try To Stop It                                     1
 Rush                        Tom Sawyer                                               1
@@ -110,7 +110,7 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                          1
 Sinead O'Connor             Mandinka                                                 1
 Skipworth and Turner        Thinking About Your Love                                 1
-Smiths                      Ask                                                     52
+Smiths                      Ask                                                     53
 Smiths                      Heaven Knows I'm Miserable Now                          46
 Smiths                      How Soon Is Now?                                        54
 Smiths                      Please, Please, Please, Let Me Get What I Want           4
@@ -128,15 +128,15 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                          3
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
-Talk Talk                   It's My Life                                           120
+Talk Talk                   It's My Life                                           121
 Talking Heads               Burning Down The House                                   7
 Tears For Fears             Woman In Chains                                          1
 Throwing Muses              Dizzy                                                    2
 Tom Petty                   Don't Come Around Here No More                           1
-Tom Petty                   Free Falling                                           114
+Tom Petty                   Free Falling                                           115
 Tone Loc                    Wild Thing                                               1
 Tracy Chapman               Baby Can I Hold You                                     26
-Tracy Chapman               Talkin' 'bout A Revolution                              31
+Tracy Chapman               Talkin' 'bout A Revolution                              32
 U2                          All I Want Is You                                        2
 U2                          Gloria                                                   1
 Visage                      Night Train                                              1

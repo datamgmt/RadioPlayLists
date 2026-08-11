@@ -20,7 +20,7 @@ Bob Marley and The Wailers  Could You Be Loved                                  
 Bob Marley and The Wailers  Redemption Song                                          1
 Bob Marley and The Wailers  Three Little Birds                                      48
 Bodysnatchers               Let's Do Rock Steady                                     7
-Bon Jovi                    Bad Medicine                                            67
+Bon Jovi                    Bad Medicine                                            68
 Bon Jovi                    Lay Your Hands On Me                                     1
 Bon Jovi                    Never Say Goodbye                                        1
 Bruce Springsteen           Hungry Heart                                            54
@@ -32,22 +32,22 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                      10
 Clash                       I Fought The Law                                         7
 Creatures                   Miss The Girl                                            2
-Crowded House               Don't Dream It's Over                                   80
+Crowded House               Don't Dream It's Over                                   81
 Cure                        A Forest                                                 2
 Cure                        In Between Days                                         42
 Cure                        Just Like Heaven                                        59
 Cure                        Lullaby                                                  7
 Cure                        Why Can't I Be You                                       9
 Danny Wilson                The Second Summer Of Love                                1
-Daryl Hall and John Oates   You Make My Dreams                                      81
+Daryl Hall and John Oates   You Make My Dreams                                      82
 David Bowie                 Magic Dance                                              2
 De La Soul                  Me Myself & I                                            3
 Def Leppard                 Love Bites                                               7
-Depeche Mode                Personal Jesus                                          68
+Depeche Mode                Personal Jesus                                          69
 Depeche Mode                Shake The Disease                                        8
 Desireless                  Voyage Voyage                                            1
 Devo                        Whip It                                                  1
-Dire Straits                Twisting By The Pool                                     2
+Dire Straits                Twisting By The Pool                                     3
 Donna Allen                 Joy And Pain                                             2
 Echo and The Bunnymen       Lips Like Sugar                                          2
 Elvis Costello              Everyday I Write The Book                                2
@@ -58,7 +58,7 @@ George Harrison             All Those Years Ago                                 
 Georgia Satellites          Battleship Chains                                        1
 Glenn Frey                  Smugglers Blues                                          1
 Go gos                      Our Lips Are Sealed                                      1
-Grandmaster Flash           The Message                                             51
+Grandmaster Flash           The Message                                             52
 Guns N Roses                Patience                                                 1
 H20                         I Dream To Sleep                                         1
 Haircut 100                 Nobody's Fool                                            1
@@ -71,7 +71,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                           1
 Janet Jackson               Rhythm Nation                                           10
 Jocelyn Brown               Somebody Else's Guy                                      1
-Journey                     Don't Stop Believin'                                   133
+Journey                     Don't Stop Believin'                                   134
 Judas Priest                You've Got Another Thing Comin                           1
 Kate Bush                   This Woman's Work                                        1
 Kids from Fame              Hi Fidelity                                              2
@@ -95,7 +95,7 @@ Prince                      I Would Die 4 U                                     
 Prince                      Nothing Compares 2 U                                     2
 Proclaimers                 I'm Gonna Be                                           112
 Public Enemy                Bring The Noise                                          1
-Queen                       Hammer To Fall                                          50
+Queen                       Hammer To Fall                                          51
 Queen                       Las Palabras de Amor                                     2
 Queen                       Who Wants To Live Forever                                4
 R.E.M                       Stand.                                                  56
@@ -111,7 +111,7 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                 1
 Skipworth and Turner        Thinking About Your Love                                 1
 Smiths                      Ask                                                     53
-Smiths                      Heaven Knows I'm Miserable Now                          46
+Smiths                      Heaven Knows I'm Miserable Now                          47
 Smiths                      How Soon Is Now?                                        55
 Smiths                      Please, Please, Please, Let Me Get What I Want           4
 Smiths                      Stop Me If You've Heard This One Before                  3
@@ -130,15 +130,15 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                          3
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
-Talk Talk                   It's My Life                                           121
+Talk Talk                   It's My Life                                           122
 Talking Heads               Burning Down The House                                   7
 Tears For Fears             Woman In Chains                                          1
 Throwing Muses              Dizzy                                                    2
 Tom Petty                   Don't Come Around Here No More                           1
-Tom Petty                   Free Falling                                           116
+Tom Petty                   Free Falling                                           117
 Tone Loc                    Wild Thing                                               1
 Tracy Chapman               Baby Can I Hold You                                     27
-Tracy Chapman               Talkin' 'bout A Revolution                              32
+Tracy Chapman               Talkin' 'bout A Revolution                              33
 U2                          All I Want Is You                                        2
 U2                          Gloria                                                   1
 Visage                      Night Train                                              1

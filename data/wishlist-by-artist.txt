@@ -16,11 +16,11 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                           2
 Billy Idol                  Eyes Without A Face                                      7
 Billy Joel                  The Longest Time                                         2
-Bob Marley and The Wailers  Could You Be Loved                                     109
+Bob Marley and The Wailers  Could You Be Loved                                     110
 Bob Marley and The Wailers  Redemption Song                                          1
 Bob Marley and The Wailers  Three Little Birds                                      48
 Bodysnatchers               Let's Do Rock Steady                                     7
-Bon Jovi                    Bad Medicine                                            68
+Bon Jovi                    Bad Medicine                                            69
 Bon Jovi                    Lay Your Hands On Me                                     1
 Bon Jovi                    Never Say Goodbye                                        1
 Bruce Springsteen           Hungry Heart                                            54
@@ -51,7 +51,7 @@ Dire Straits                Twisting By The Pool                                
 Donna Allen                 Joy And Pain                                             2
 Echo and The Bunnymen       Lips Like Sugar                                          2
 Elvis Costello              Everyday I Write The Book                                2
-Fleetwood Mac               Everywhere                                             111
+Fleetwood Mac               Everywhere                                             112
 Fleetwood Mac               Gypsy                                                    4
 Fleetwood Mac               Seven Wonders                                            1
 George Harrison             All Those Years Ago                                      1
@@ -63,7 +63,7 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                         1
 Haircut 100                 Nobody's Fool                                            1
 Hall and Oates              Kiss On My List                                          1
-Hall and Oates              Out Of Touch                                            70
+Hall and Oates              Out Of Touch                                            71
 Howard Jones                Life In One Day                                          1
 Huey Lewis and The News     Back In Time                                             1
 Inxs                        Never Tear Us Apart                                      8
@@ -76,10 +76,11 @@ Judas Priest                You've Got Another Thing Comin                      
 Kate Bush                   This Woman's Work                                        1
 Kids from Fame              Hi Fidelity                                              2
 Kool and The Gang           Big Fun                                                  1
-Lightning Seeds             Pure                                                    67
-Luther Vandross             Never Too Much                                          59
+Lightning Seeds             Pure                                                    68
+Luther Vandross             Never Too Much                                          60
 Mary Jane Girls             All Night Long                                           1
 Miami Sound Machine         Bad Boy                                                  1
+Michael Jackson             Man In The Mirror                                        1
 New Order                   Bizarre Love Triangle                                   10
 New Order                   Temptation                                               1
 New Order                   Thieves Like Us                                          1
@@ -93,7 +94,7 @@ Prefab Sprout               Nightingales                                        
 Prince                      Controversy                                              1
 Prince                      I Would Die 4 U                                          5
 Prince                      Nothing Compares 2 U                                     2
-Proclaimers                 I'm Gonna Be                                           112
+Proclaimers                 I'm Gonna Be                                           113
 Public Enemy                Bring The Noise                                          1
 Queen                       Hammer To Fall                                          51
 Queen                       Las Palabras de Amor                                     2
@@ -110,9 +111,9 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                          1
 Sinead O'Connor             Mandinka                                                 1
 Skipworth and Turner        Thinking About Your Love                                 1
-Smiths                      Ask                                                     53
+Smiths                      Ask                                                     54
 Smiths                      Heaven Knows I'm Miserable Now                          47
-Smiths                      How Soon Is Now?                                        55
+Smiths                      How Soon Is Now?                                        56
 Smiths                      Please, Please, Please, Let Me Get What I Want           4
 Smiths                      Stop Me If You've Heard This One Before                  3
 Smiths                      That Joke Isn't Funny Anymore                            1
@@ -130,12 +131,12 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                          3
 Suzanne Vega                Left Of Center                                           1
 T'P*u                       I Will Be With You                                       1
-Talk Talk                   It's My Life                                           122
+Talk Talk                   It's My Life                                           123
 Talking Heads               Burning Down The House                                   7
 Tears For Fears             Woman In Chains                                          1
 Throwing Muses              Dizzy                                                    2
 Tom Petty                   Don't Come Around Here No More                           1
-Tom Petty                   Free Falling                                           117
+Tom Petty                   Free Falling                                           118
 Tone Loc                    Wild Thing                                               1
 Tracy Chapman               Baby Can I Hold You                                     27
 Tracy Chapman               Talkin' 'bout A Revolution                              33

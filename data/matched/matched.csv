@@ -8,6 +8,7 @@ artist,title,matched_source
 10cc,"Things We Do For Love",collection
 "2 Unlimited","No Limits",collection
 "2 in a Room","Wiggle It",collection
+"4 Non Blondes","What's Up",wantlist
 "808 state","In Yer Face *",collection
 "808 state","Pacific State",collection
 "A Flock Of Seagulls","I Ran",wantlist
@@ -214,6 +215,7 @@ Bananarama,Venus,collection
 "Bass O Matic","Fascinating Rhythm",collection
 Bass-O-Matic,"Fascinating Rhythm",collection
 "Bay City Rollers","Bye Bye Baby",collection
+Beabadoobee,"Sun Has Set","no single"
 "Beastie Boys","No Sleep Till Brooklyn",wantlist
 "Beastie Boys","You Gotta Fight For Your Right To Party",collection
 Beatmasters,"Ska Train",collection
@@ -313,6 +315,7 @@ Blondie,Rapture,collection
 Blondie,"Sunday Girl",collection
 Blondie,"The Tide Is High",collection
 Blondie,"Union City Blue",collection
+Blossoms,"There's A Reason Why","no single"
 "Blue Oyster Cult","Don't Fear The Reaper *",collection
 "Blue Pearl","Naked In The Rain",collection
 "Blue feat. Elton John","Sorry Seems To Be The Hardest Word",collection
@@ -481,6 +484,7 @@ Carpenters,"There's A Kind Of Hush",collection
 Carpenters,"Yesterday Once More",collection
 "Cat Stevens","Peace Train",wantlist
 "Cat Stevens","Wild World",wantlist
+"Catfish and The Bottlemen",Longshot,"no single"
 Ccs,"Whole Lotta Love",wantlist
 "Chad Jackson","Hear The Drummer Get Wicked",collection
 "Chairmen Of The Board","Give Me Just A Little More Time",collection
@@ -890,6 +894,7 @@ Elo,"Turn To Stone",collection
 "Elton John","Saturday Night's Alright (For Fighting)",collection
 "Elton John","Saturday Night's Alright For Fighting",collection
 "Elton John","Sorry Seems To Be The Hardest Word",collection
+"Elton John","The B***h Is Back",collection
 "Elton John","The Bitch Is Back",collection
 "Elton John","Tiny Dancer",wantlist
 "Elton John","Your Song",wantlist
@@ -968,6 +973,7 @@ Faces,"Ooh La La",wantlist
 Falco,"Rock Me Amadeus",collection
 "Fat Larry's Band",Zoom,collection
 "Fatboy Slim","Praise You",wantlist
+"Fatboy Slim","Rockafeller S***k","no single"
 "Fatboy Slim","Rockafeller Skank",wantlist
 "Feargal Sharkey","A Good Heart",collection
 "Fern Kinney","Together We Are Beautiful",collection
@@ -1007,6 +1013,7 @@ Floaters,"Float On",collection
 "Florence and The Machine","You've Got The Love",wantlist
 Focus,"Hocus Pocus",wantlist
 "Foo Fighters","Best Of You",collection
+"Foo Fighters",Everlong,wantlist
 "Force M.D.'s","Tender Love",collection
 "Force Md's","Tender Love",collection
 Foreigner,"Cold As Ice",collection
@@ -1039,6 +1046,7 @@ Free,"Wishing Well",collection
 Freeez,I.O.U,collection
 Freeez,I.O.U.,collection
 Freeez,"Southern Freeez",collection
+Fun,"We Are Young","no single"
 "Fun Boy Three","Our Lips Are Sealed",collection
 "Fun Boy Three","The Telephone Always Rings",collection
 "Fun Boy Three","Tunnel Of Love",collection
@@ -1425,6 +1433,7 @@ K.W.S.,"Please Don't Go",collection
 Kajagoogoo,"Too Shy",collection
 "Kane Gang","Closest Thing To Heaven",collection
 "Karyn White",Superwoman,collection
+Kasabian,"Great Pretender","no single"
 "Kate Bush","Army Dreamers",collection
 "Kate Bush",Babooshka,collection
 "Kate Bush",Cloudbusting,collection
@@ -1804,6 +1813,7 @@ Nirvana,"Smells Like Teen Spirit",collection
 "Nu Shooz","I Can't Wait",collection
 "O'Jays",Backstabbers,collection
 "O'Jays","I Love Music",collection
+Oasis,Acquiesce,"no single"
 Oasis,"Cigarettes And Alcohol",wantlist
 Oasis,"Don't Look Back In Anger",wantlist
 Oasis,"Live Forever",wantlist
@@ -1842,7 +1852,9 @@ Omd,"Talking Loud And Clear",collection
 "Ozzy Osbourne","Bark At The Moon",collection
 "Ozzy Osbourne","Crazy Train",wantlist
 "Ozzy Osbourne","Shot In The Dark",collection
+"Paolo Nutini","Jenny Don't Be Hasty",wantlist
 "Paolo Nutini","Last Request",wantlist
+Paramore,"Misery Business",wantlist
 "Pat Benatar","All Fired Up",wantlist
 "Pat Benatar",Heartbreaker,collection
 "Pat Benatar","Hit Me With Your Best Shot",collection
@@ -2176,6 +2188,7 @@ Sade,"Your Love Is King",collection
 "Sam Brown",Stop,collection
 "Sam Cooke","Wonderful World",collection
 "Sam Fender","People Watching",wantlist
+"Sam Fender ft. Olivia Dean","Rein Me In",wantlist
 "Sam Sparro","Black and Gold",wantlist
 "Samantha Sang",Emotion,collection
 Santana,"Black Magic Woman/Gypsy Queen",collection
@@ -2286,6 +2299,7 @@ Slade,"Far Far Away",collection
 Slade,"How Does It Feel",wantlist
 Slade,"Look Wot You Dun",collection
 Slade,"Mama Weer All Crazee Now",collection
+Slade,"My Friend Stan",collection
 Slade,"Run Run Away",collection
 Sleeper,"Sale Of The Century",wantlist
 "Sly & The Family Stone","Dance To The Music",collection
@@ -2424,6 +2438,7 @@ Sting,"If You Love Somebody Set Them Free",collection
 "Stray Cats","Stray Cat Strut",collection
 Styx,Babe,collection
 "Sub Sub / Melanie Williams","Ain't No Love (Ain't No Use)",collection
+Supergrass,"Pumping On Your Stereo",wantlist
 Supertramp,"Breakfast In America",collection
 Supertramp,Dreamer,collection
 Supertramp,"Give A Little Bit",collection
@@ -2848,6 +2863,7 @@ Texas,"Say What You Want",wantlist
 "The Smiths","Please, Please, Please, Let Me Get What I Want",wantlist
 "The Smiths","Sheila Take A Bow",collection
 "The Smiths","Shoplifters Of The World Unite",collection
+"The Smiths","Stop Me If You Think You've Heard This One Before",wantlist
 "The Smiths","Stop Me If You've Heard This One Before",wantlist
 "The Smiths","That Joke Isn't Funny Anymore",wantlist
 "The Smiths","The Boy With A Thorn In His Side",wantlist

@@ -6,7 +6,7 @@ Abba                        Lay All Your Love On Me                             
 Ac/dc                       For Those About To Rock                                     1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
-Bad Manners                 Lip Up Fatty                                               14
+Bad Manners                 Lip Up Fatty                                               15
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
 Bananarama                  Rough Justice                                               1
 Bangles                     Be With You                                                 1
@@ -20,10 +20,10 @@ Bob Marley and The Wailers  Could You Be Loved                                  
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         49
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               70
+Bon Jovi                    Bad Medicine                                               71
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
-Bruce Springsteen           Hungry Heart                                               55
+Bruce Springsteen           Hungry Heart                                               56
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
@@ -32,18 +32,18 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                         10
 Clash                       I Fought The Law                                            8
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                      83
+Crowded House               Don't Dream It's Over                                      84
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            43
-Cure                        Just Like Heaven                                           60
+Cure                        In Between Days                                            44
+Cure                        Just Like Heaven                                           61
 Cure                        Lullaby                                                     7
 Cure                        Why Can't I Be You                                          9
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         84
+Daryl Hall and John Oates   You Make My Dreams                                         85
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Def Leppard                 Love Bites                                                  7
-Depeche Mode                Personal Jesus                                             70
+Depeche Mode                Personal Jesus                                             71
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -51,14 +51,14 @@ Dire Straits                Twisting By The Pool                                
 Donna Allen                 Joy And Pain                                                2
 Echo and The Bunnymen       Lips Like Sugar                                             2
 Elvis Costello              Everyday I Write The Book                                   2
-Fleetwood Mac               Everywhere                                                114
+Fleetwood Mac               Everywhere                                                115
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                53
+Grandmaster Flash           The Message                                                54
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -71,7 +71,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              10
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      136
+Journey                     Don't Stop Believin'                                      137
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   This Woman's Work                                           1
 Kids from Fame              Hi Fidelity                                                 2
@@ -94,12 +94,12 @@ Prefab Sprout               Nightingales                                        
 Prince                      Controversy                                                 1
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
-Proclaimers                 I'm Gonna Be                                              114
+Proclaimers                 I'm Gonna Be                                              115
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             52
 Queen                       Las Palabras de Amor                                        2
 Queen                       Who Wants To Live Forever                                   4
-R.E.M                       Stand.                                                     57
+R.E.M                       Stand.                                                     58
 Rick James                  Superfreak                                                 13
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
@@ -112,7 +112,7 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        55
-Smiths                      Heaven Knows I'm Miserable Now                             47
+Smiths                      Heaven Knows I'm Miserable Now                             48
 Smiths                      How Soon Is Now?                                           57
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
@@ -137,7 +137,7 @@ Talking Heads               Burning Down The House                              
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              119
+Tom Petty                   Free Falling                                              120
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        27
 Tracy Chapman               Talkin' 'bout A Revolution                                 33

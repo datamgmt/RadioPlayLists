@@ -1,41 +1,41 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      137
-Talk Talk                   It's My Life                                              126
-Tom Petty                   Free Falling                                              120
+Journey                     Don't Stop Believin'                                      138
+Talk Talk                   It's My Life                                              127
+Tom Petty                   Free Falling                                              121
+Proclaimers                 I'm Gonna Be                                              116
 Fleetwood Mac               Everywhere                                                115
-Proclaimers                 I'm Gonna Be                                              115
-Bob Marley and The Wailers  Could You Be Loved                                        112
-Daryl Hall and John Oates   You Make My Dreams                                         85
-Crowded House               Don't Dream It's Over                                      84
-Hall and Oates              Out Of Touch                                               73
-Bon Jovi                    Bad Medicine                                               71
-Depeche Mode                Personal Jesus                                             71
-Lightning Seeds             Pure                                                       69
-Smiths                      This Charming Man                                          64
-Cure                        Just Like Heaven                                           61
-Luther Vandross             Never Too Much                                             61
+Bob Marley and The Wailers  Could You Be Loved                                        113
+Daryl Hall and John Oates   You Make My Dreams                                         87
+Crowded House               Don't Dream It's Over                                      85
+Hall and Oates              Out Of Touch                                               74
+Bon Jovi                    Bad Medicine                                               72
+Depeche Mode                Personal Jesus                                             72
+Lightning Seeds             Pure                                                       70
+Smiths                      This Charming Man                                          65
+Cure                        Just Like Heaven                                           62
+Luther Vandross             Never Too Much                                             62
 R.E.M                       Stand.                                                     58
-Smiths                      How Soon Is Now?                                           57
+Smiths                      How Soon Is Now?                                           58
 Bruce Springsteen           Hungry Heart                                               56
-Smiths                      Ask                                                        55
-Grandmaster Flash           The Message                                                54
-Queen                       Hammer To Fall                                             52
-Bob Marley and The Wailers  Three Little Birds                                         49
-Smiths                      Heaven Knows I'm Miserable Now                             48
+Smiths                      Ask                                                        56
+Grandmaster Flash           The Message                                                55
+Queen                       Hammer To Fall                                             53
+Bob Marley and The Wailers  Three Little Birds                                         50
+Smiths                      Heaven Knows I'm Miserable Now                             49
 Cure                        In Between Days                                            44
 Tracy Chapman               Talkin' 'bout A Revolution                                 33
 Tracy Chapman               Baby Can I Hold You                                        27
 Bad Manners                 Lip Up Fatty                                               15
 Rick James                  Superfreak                                                 13
 Christopher Cross           Ride Like The Wind                                         10
+Cure                        Why Can't I Be You                                         10
 Janet Jackson               Rhythm Nation                                              10
 New Order                   Bizarre Love Triangle                                      10
+Stevie Nicks                Edge Of Seventeen                                          10
 A Flock Of Seagulls         I Ran                                                       9
-Cure                        Why Can't I Be You                                          9
 Depeche Mode                Shake The Disease                                           9
 Inxs and Jimmy Barnes       Good Times                                                  9
-Stevie Nicks                Edge Of Seventeen                                           9
 Bodysnatchers               Let's Do Rock Steady                                        8
 Clash                       I Fought The Law                                            8
 Inxs                        Never Tear Us Apart                                         8
@@ -53,6 +53,7 @@ Fleetwood Mac               Gypsy                                               
 Queen                       Who Wants To Live Forever                                   4
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You've Heard This One Before                     4
+Abba                        Lay All Your Love On Me                                     3
 Cure                        A Forest                                                    3
 De La Soul                  Me Myself & I                                               3
 Dire Straits                Twisting By The Pool                                        3
@@ -60,7 +61,7 @@ S.O.S. Band                 Just Be Good To Me                                  
 Simple Minds                Someone Somewhere In Summertime                             3
 Style Council               Long Hot Summer                                             3
 Yello                       Oh Yeah                                                     3
-Abba                        Lay All Your Love On Me                                     2
+A Guy Called Gerald         Voodoo Ray                                                  2
 Beloved                     The Sun Rising                                              2
 Billy Joel                  The Longest Time                                            2
 Creatures                   Miss The Girl                                               2
@@ -74,7 +75,6 @@ Queen                       Las Palabras de Amor                                
 Sade                        The Sweetest Taboo                                          2
 Throwing Muses              Dizzy                                                       2
 U2                          All I Want Is You                                           2
-A Guy Called Gerald         Voodoo Ray                                                  1
 Ac/dc                       For Those About To Rock                                     1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
@@ -95,6 +95,7 @@ Chris Rea                   On The Beach                                        
 Danny Wilson                The Second Summer Of Love                                   1
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
+Elo                         Ticket To The Moon                                          1
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
@@ -109,6 +110,7 @@ Huey Lewis and The News     Back In Time                                        
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Jocelyn Brown               Somebody Else's Guy                                         1
 Judas Priest                You've Got Another Thing Comin                              1
+Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
 Kool and The Gang           Big Fun                                                     1
 Mary Jane Girls             All Night Long                                              1
@@ -123,11 +125,14 @@ Paul Simon                  Graceland                                           
 Phil Collins                If Leaving Me Is Easy                                       1
 Prefab Sprout               Nightingales                                                1
 Prince                      Controversy                                                 1
+Prince                      Partyman                                                    1
 Public Enemy                Bring The Noise                                             1
+Queen                       The Invisible Man                                           1
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
 Rush                        Tom Sawyer                                                  1
 Shannon                     Give Me Tonight                                             1
+Simple Minds                Kick It In                                                  1
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
@@ -144,6 +149,8 @@ Tears For Fears             Woman In Chains                                     
 Tom Petty                   Don't Come Around Here No More                              1
 Tone Loc                    Wild Thing                                                  1
 U2                          Gloria                                                      1
+Ub40                        Don't Let It Pass You By                                    1
 Visage                      Night Train                                                 1
+Visage                      Visage                                                      1
 Waterboys                   Fisherman's Blues                                           1
 Wham!                       Where Did Your Heart Go?                                    1

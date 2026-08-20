@@ -1,37 +1,37 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      139
+Journey                     Don't Stop Believin'                                      140
 Talk Talk                   It's My Life                                              128
 Tom Petty                   Free Falling                                              122
-Proclaimers                 I'm Gonna Be                                              117
-Fleetwood Mac               Everywhere                                                116
-Bob Marley and The Wailers  Could You Be Loved                                        114
+Proclaimers                 I'm Gonna Be                                              118
+Fleetwood Mac               Everywhere                                                117
+Bob Marley and The Wailers  Could You Be Loved                                        115
 Daryl Hall and John Oates   You Make My Dreams                                         87
 Crowded House               Don't Dream It's Over                                      85
 Hall and Oates              Out Of Touch                                               75
+Bon Jovi                    Bad Medicine                                               73
 Depeche Mode                Personal Jesus                                             73
-Bon Jovi                    Bad Medicine                                               72
 Lightning Seeds             Pure                                                       71
-Smiths                      This Charming Man                                          66
+Smiths                      This Charming Man                                          67
 Luther Vandross             Never Too Much                                             63
 Cure                        Just Like Heaven                                           62
 R.E.M                       Stand.                                                     59
-Smiths                      How Soon Is Now?                                           58
+Smiths                      How Soon Is Now?                                           59
 Bruce Springsteen           Hungry Heart                                               57
 Smiths                      Ask                                                        57
-Grandmaster Flash           The Message                                                55
+Grandmaster Flash           The Message                                                56
 Queen                       Hammer To Fall                                             54
-Bob Marley and The Wailers  Three Little Birds                                         50
-Smiths                      Heaven Knows I'm Miserable Now                             49
+Bob Marley and The Wailers  Three Little Birds                                         51
+Smiths                      Heaven Knows I'm Miserable Now                             50
 Cure                        In Between Days                                            44
 Tracy Chapman               Talkin' 'bout A Revolution                                 33
 Tracy Chapman               Baby Can I Hold You                                        27
 Bad Manners                 Lip Up Fatty                                               15
 Rick James                  Superfreak                                                 13
+New Order                   Bizarre Love Triangle                                      11
 Christopher Cross           Ride Like The Wind                                         10
 Cure                        Why Can't I Be You                                         10
 Janet Jackson               Rhythm Nation                                              10
-New Order                   Bizarre Love Triangle                                      10
 Stevie Nicks                Edge Of Seventeen                                          10
 A Flock Of Seagulls         I Ran                                                       9
 Depeche Mode                Shake The Disease                                           9
@@ -48,15 +48,16 @@ Talking Heads               Burning Down The House                              
 Prince                      I Would Die 4 U                                             6
 Smiths                      There Is A Light That Never Goes Out                        6
 Stranglers                  Always The Sun                                              6
+Queen                       Who Wants To Live Forever                                   5
 Smiths                      William, It Was Really Nothing                              5
 Fleetwood Mac               Gypsy                                                       4
-Queen                       Who Wants To Live Forever                                   4
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You've Heard This One Before                     4
 Abba                        Lay All Your Love On Me                                     3
 Cure                        A Forest                                                    3
 De La Soul                  Me Myself & I                                               3
 Dire Straits                Twisting By The Pool                                        3
+Echo and The Bunnymen       Lips Like Sugar                                             3
 S.O.S. Band                 Just Be Good To Me                                          3
 Simple Minds                Someone Somewhere In Summertime                             3
 Style Council               Long Hot Summer                                             3
@@ -67,7 +68,6 @@ Billy Joel                  The Longest Time                                    
 Creatures                   Miss The Girl                                               2
 David Bowie                 Magic Dance                                                 2
 Donna Allen                 Joy And Pain                                                2
-Echo and The Bunnymen       Lips Like Sugar                                             2
 Elvis Costello              Everyday I Write The Book                                   2
 Kids from Fame              Hi Fidelity                                                 2
 Prince                      Nothing Compares 2 U                                        2

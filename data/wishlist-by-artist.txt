@@ -16,11 +16,11 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        114
+Bob Marley and The Wailers  Could You Be Loved                                        115
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         50
+Bob Marley and The Wailers  Three Little Birds                                         51
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               72
+Bon Jovi                    Bad Medicine                                               73
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bruce Springsteen           Hungry Heart                                               57
@@ -49,17 +49,17 @@ Desireless                  Voyage Voyage                                       
 Devo                        Whip It                                                     1
 Dire Straits                Twisting By The Pool                                        3
 Donna Allen                 Joy And Pain                                                2
-Echo and The Bunnymen       Lips Like Sugar                                             2
+Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   2
-Fleetwood Mac               Everywhere                                                116
+Fleetwood Mac               Everywhere                                                117
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                55
+Grandmaster Flash           The Message                                                56
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -72,7 +72,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              10
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      139
+Journey                     Don't Stop Believin'                                      140
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -83,7 +83,7 @@ Luther Vandross             Never Too Much                                      
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
-New Order                   Bizarre Love Triangle                                      10
+New Order                   Bizarre Love Triangle                                      11
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1
 Omd                         If You Leave                                                1
@@ -97,12 +97,12 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              117
+Proclaimers                 I'm Gonna Be                                              118
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             54
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
-Queen                       Who Wants To Live Forever                                   4
+Queen                       Who Wants To Live Forever                                   5
 R.E.M                       Stand.                                                     59
 Rick James                  Superfreak                                                 13
 Rolling Stones              She's So Cold                                               1
@@ -117,15 +117,15 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        57
-Smiths                      Heaven Knows I'm Miserable Now                             49
-Smiths                      How Soon Is Now?                                           58
+Smiths                      Heaven Knows I'm Miserable Now                             50
+Smiths                      How Soon Is Now?                                           59
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     4
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            8
 Smiths                      There Is A Light That Never Goes Out                        6
-Smiths                      This Charming Man                                          66
+Smiths                      This Charming Man                                          67
 Smiths                      William, It Was Really Nothing                              5
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

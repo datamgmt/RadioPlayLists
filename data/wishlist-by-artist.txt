@@ -18,7 +18,7 @@ Billy Idol                  Eyes Without A Face                                 
 Billy Joel                  The Longest Time                                            2
 Bob Marley and The Wailers  Could You Be Loved                                        115
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         51
+Bob Marley and The Wailers  Three Little Birds                                         52
 Bodysnatchers               Let's Do Rock Steady                                        8
 Bon Jovi                    Bad Medicine                                               73
 Bon Jovi                    Lay Your Hands On Me                                        1
@@ -32,14 +32,14 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                         10
 Clash                       I Fought The Law                                            8
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                      85
+Crowded House               Don't Dream It's Over                                      86
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            44
-Cure                        Just Like Heaven                                           62
+Cure                        Just Like Heaven                                           63
 Cure                        Lullaby                                                     7
 Cure                        Why Can't I Be You                                         10
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         87
+Daryl Hall and John Oates   You Make My Dreams                                         88
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Def Leppard                 Love Bites                                                  7
@@ -59,12 +59,12 @@ George Harrison             All Those Years Ago                                 
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                56
+Grandmaster Flash           The Message                                                57
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               75
+Hall and Oates              Out Of Touch                                               76
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -78,7 +78,7 @@ Kate Bush                   Sat In Your Lap                                     
 Kate Bush                   This Woman's Work                                           1
 Kids from Fame              Hi Fidelity                                                 2
 Kool and The Gang           Big Fun                                                     1
-Lightning Seeds             Pure                                                       71
+Lightning Seeds             Pure                                                       72
 Luther Vandross             Never Too Much                                             63
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
@@ -116,7 +116,7 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        57
+Smiths                      Ask                                                        58
 Smiths                      Heaven Knows I'm Miserable Now                             50
 Smiths                      How Soon Is Now?                                           59
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
@@ -142,7 +142,7 @@ Talking Heads               Burning Down The House                              
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              122
+Tom Petty                   Free Falling                                              123
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        27
 Tracy Chapman               Talkin' 'bout A Revolution                                 33

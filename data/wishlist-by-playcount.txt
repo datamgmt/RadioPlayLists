@@ -1,26 +1,26 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      140
-Talk Talk                   It's My Life                                              128
+Journey                     Don't Stop Believin'                                      141
+Talk Talk                   It's My Life                                              129
 Tom Petty                   Free Falling                                              123
-Proclaimers                 I'm Gonna Be                                              118
+Proclaimers                 I'm Gonna Be                                              119
 Fleetwood Mac               Everywhere                                                117
-Bob Marley and The Wailers  Could You Be Loved                                        115
+Bob Marley and The Wailers  Could You Be Loved                                        116
 Daryl Hall and John Oates   You Make My Dreams                                         88
 Crowded House               Don't Dream It's Over                                      86
 Hall and Oates              Out Of Touch                                               76
-Bon Jovi                    Bad Medicine                                               73
-Depeche Mode                Personal Jesus                                             73
+Bon Jovi                    Bad Medicine                                               74
+Depeche Mode                Personal Jesus                                             74
 Lightning Seeds             Pure                                                       72
 Smiths                      This Charming Man                                          67
 Cure                        Just Like Heaven                                           63
 Luther Vandross             Never Too Much                                             63
-R.E.M                       Stand.                                                     59
+R.E.M                       Stand.                                                     60
 Smiths                      How Soon Is Now?                                           59
 Smiths                      Ask                                                        58
 Bruce Springsteen           Hungry Heart                                               57
 Grandmaster Flash           The Message                                                57
-Queen                       Hammer To Fall                                             54
+Queen                       Hammer To Fall                                             55
 Bob Marley and The Wailers  Three Little Birds                                         52
 Smiths                      Heaven Knows I'm Miserable Now                             50
 Cure                        In Between Days                                            44
@@ -28,25 +28,25 @@ Tracy Chapman               Talkin' 'bout A Revolution                          
 Tracy Chapman               Baby Can I Hold You                                        27
 Bad Manners                 Lip Up Fatty                                               15
 Rick James                  Superfreak                                                 13
+Cure                        Why Can't I Be You                                         11
 New Order                   Bizarre Love Triangle                                      11
+A Flock Of Seagulls         I Ran                                                      10
 Christopher Cross           Ride Like The Wind                                         10
-Cure                        Why Can't I Be You                                         10
+Clash                       I Fought The Law                                           10
 Janet Jackson               Rhythm Nation                                              10
 Stevie Nicks                Edge Of Seventeen                                          10
-A Flock Of Seagulls         I Ran                                                       9
 Depeche Mode                Shake The Disease                                           9
 Inxs and Jimmy Barnes       Good Times                                                  9
 Bodysnatchers               Let's Do Rock Steady                                        8
-Clash                       I Fought The Law                                            8
 Inxs                        Never Tear Us Apart                                         8
 Paul Simon                  Diamonds On The Soles Of Her Shoes                          8
 Smiths                      The Boy With A Thorn In His Side                            8
 Billy Idol                  Eyes Without A Face                                         7
 Cure                        Lullaby                                                     7
 Def Leppard                 Love Bites                                                  7
+Smiths                      There Is A Light That Never Goes Out                        7
 Talking Heads               Burning Down The House                                      7
 Prince                      I Would Die 4 U                                             6
-Smiths                      There Is A Light That Never Goes Out                        6
 Stranglers                  Always The Sun                                              6
 Queen                       Who Wants To Live Forever                                   5
 Smiths                      William, It Was Really Nothing                              5
@@ -65,6 +65,7 @@ Yello                       Oh Yeah                                             
 A Guy Called Gerald         Voodoo Ray                                                  2
 Beloved                     The Sun Rising                                              2
 Billy Joel                  The Longest Time                                            2
+Chris Rea                   On The Beach                                                2
 Creatures                   Miss The Girl                                               2
 David Bowie                 Magic Dance                                                 2
 Donna Allen                 Joy And Pain                                                2
@@ -91,7 +92,6 @@ Bruce Springsteen           Tunnel Of Love                                      
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
 Change and Luther Vandross  The Glow Of Love                                            1
-Chris Rea                   On The Beach                                                1
 Danny Wilson                The Second Summer Of Love                                   1
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -126,6 +126,7 @@ Phil Collins                If Leaving Me Is Easy                               
 Prefab Sprout               Nightingales                                                1
 Prince                      Controversy                                                 1
 Prince                      Partyman                                                    1
+Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       The Invisible Man                                           1
 Rolling Stones              She's So Cold                                               1

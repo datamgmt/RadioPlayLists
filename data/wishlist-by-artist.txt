@@ -1,6 +1,6 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-A Flock Of Seagulls         I Ran                                                       9
+A Flock Of Seagulls         I Ran                                                      10
 A Guy Called Gerald         Voodoo Ray                                                  2
 Abba                        Lay All Your Love On Me                                     3
 Ac/dc                       For Those About To Rock                                     1
@@ -16,11 +16,11 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        115
+Bob Marley and The Wailers  Could You Be Loved                                        116
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         52
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               73
+Bon Jovi                    Bad Medicine                                               74
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bruce Springsteen           Hungry Heart                                               57
@@ -28,22 +28,22 @@ Bruce Springsteen           Tunnel Of Love                                      
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
 Change and Luther Vandross  The Glow Of Love                                            1
-Chris Rea                   On The Beach                                                1
+Chris Rea                   On The Beach                                                2
 Christopher Cross           Ride Like The Wind                                         10
-Clash                       I Fought The Law                                            8
+Clash                       I Fought The Law                                           10
 Creatures                   Miss The Girl                                               2
 Crowded House               Don't Dream It's Over                                      86
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            44
 Cure                        Just Like Heaven                                           63
 Cure                        Lullaby                                                     7
-Cure                        Why Can't I Be You                                         10
+Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
 Daryl Hall and John Oates   You Make My Dreams                                         88
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Def Leppard                 Love Bites                                                  7
-Depeche Mode                Personal Jesus                                             73
+Depeche Mode                Personal Jesus                                             74
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -72,7 +72,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              10
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      140
+Journey                     Don't Stop Believin'                                      141
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -97,13 +97,14 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              118
+Proclaimers                 I'm Gonna Be                                              119
+Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             54
+Queen                       Hammer To Fall                                             55
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
-R.E.M                       Stand.                                                     59
+R.E.M                       Stand.                                                     60
 Rick James                  Superfreak                                                 13
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
@@ -124,7 +125,7 @@ Smiths                      Stop Me If You Think You've Heard This One Before   
 Smiths                      Stop Me If You've Heard This One Before                     4
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            8
-Smiths                      There Is A Light That Never Goes Out                        6
+Smiths                      There Is A Light That Never Goes Out                        7
 Smiths                      This Charming Man                                          67
 Smiths                      William, It Was Really Nothing                              5
 Spandau Ballet              Fight For Ourselves                                         1
@@ -137,7 +138,7 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             3
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              128
+Talk Talk                   It's My Life                                              129
 Talking Heads               Burning Down The House                                      7
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2

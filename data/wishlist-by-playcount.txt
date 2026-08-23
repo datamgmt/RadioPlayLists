@@ -1,33 +1,33 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      141
+Journey                     Don't Stop Believin'                                      142
 Talk Talk                   It's My Life                                              129
 Tom Petty                   Free Falling                                              123
-Proclaimers                 I'm Gonna Be                                              119
-Fleetwood Mac               Everywhere                                                117
-Bob Marley and The Wailers  Could You Be Loved                                        116
-Daryl Hall and John Oates   You Make My Dreams                                         88
+Proclaimers                 I'm Gonna Be                                              120
+Fleetwood Mac               Everywhere                                                118
+Bob Marley and The Wailers  Could You Be Loved                                        117
+Daryl Hall and John Oates   You Make My Dreams                                         89
 Crowded House               Don't Dream It's Over                                      86
-Hall and Oates              Out Of Touch                                               76
+Hall and Oates              Out Of Touch                                               77
+Depeche Mode                Personal Jesus                                             75
 Bon Jovi                    Bad Medicine                                               74
-Depeche Mode                Personal Jesus                                             74
 Lightning Seeds             Pure                                                       72
-Smiths                      This Charming Man                                          67
-Cure                        Just Like Heaven                                           63
+Smiths                      This Charming Man                                          68
+Cure                        Just Like Heaven                                           64
 Luther Vandross             Never Too Much                                             63
 R.E.M                       Stand.                                                     60
-Smiths                      How Soon Is Now?                                           59
+Smiths                      How Soon Is Now?                                           60
+Grandmaster Flash           The Message                                                58
 Smiths                      Ask                                                        58
 Bruce Springsteen           Hungry Heart                                               57
-Grandmaster Flash           The Message                                                57
 Queen                       Hammer To Fall                                             55
 Bob Marley and The Wailers  Three Little Birds                                         52
 Smiths                      Heaven Knows I'm Miserable Now                             50
-Cure                        In Between Days                                            44
+Cure                        In Between Days                                            45
 Tracy Chapman               Talkin' 'bout A Revolution                                 33
 Tracy Chapman               Baby Can I Hold You                                        27
 Bad Manners                 Lip Up Fatty                                               15
-Rick James                  Superfreak                                                 13
+Rick James                  Superfreak                                                 14
 Cure                        Why Can't I Be You                                         11
 New Order                   Bizarre Love Triangle                                      11
 A Flock Of Seagulls         I Ran                                                      10

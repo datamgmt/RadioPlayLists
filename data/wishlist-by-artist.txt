@@ -16,7 +16,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        116
+Bob Marley and The Wailers  Could You Be Loved                                        117
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         52
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -34,16 +34,16 @@ Clash                       I Fought The Law                                    
 Creatures                   Miss The Girl                                               2
 Crowded House               Don't Dream It's Over                                      86
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            44
-Cure                        Just Like Heaven                                           63
+Cure                        In Between Days                                            45
+Cure                        Just Like Heaven                                           64
 Cure                        Lullaby                                                     7
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         88
+Daryl Hall and John Oates   You Make My Dreams                                         89
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Def Leppard                 Love Bites                                                  7
-Depeche Mode                Personal Jesus                                             74
+Depeche Mode                Personal Jesus                                             75
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -52,19 +52,19 @@ Donna Allen                 Joy And Pain                                        
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   2
-Fleetwood Mac               Everywhere                                                117
+Fleetwood Mac               Everywhere                                                118
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                57
+Grandmaster Flash           The Message                                                58
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               76
+Hall and Oates              Out Of Touch                                               77
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -72,7 +72,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              10
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      141
+Journey                     Don't Stop Believin'                                      142
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -97,7 +97,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              119
+Proclaimers                 I'm Gonna Be                                              120
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             55
@@ -105,7 +105,7 @@ Queen                       Las Palabras de Amor                                
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
 R.E.M                       Stand.                                                     60
-Rick James                  Superfreak                                                 13
+Rick James                  Superfreak                                                 14
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
 Rush                        Tom Sawyer                                                  1
@@ -119,14 +119,14 @@ Sinead O'Connor             Mandinka                                            
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        58
 Smiths                      Heaven Knows I'm Miserable Now                             50
-Smiths                      How Soon Is Now?                                           59
+Smiths                      How Soon Is Now?                                           60
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     4
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            8
 Smiths                      There Is A Light That Never Goes Out                        7
-Smiths                      This Charming Man                                          67
+Smiths                      This Charming Man                                          68
 Smiths                      William, It Was Really Nothing                              5
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

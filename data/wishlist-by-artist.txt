@@ -7,7 +7,7 @@ Ac/dc                       For Those About To Rock                             
 All About Eve               Martha's Harbour                                            1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
-Bad Manners                 Lip Up Fatty                                               15
+Bad Manners                 Lip Up Fatty                                               16
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
 Bananarama                  Rough Justice                                               1
 Bangles                     Be With You                                                 1
@@ -17,14 +17,14 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        118
+Bob Marley and The Wailers  Could You Be Loved                                        119
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         53
+Bob Marley and The Wailers  Three Little Birds                                         54
 Bodysnatchers               Let's Do Rock Steady                                        8
 Bon Jovi                    Bad Medicine                                               76
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
-Bruce Springsteen           Hungry Heart                                               58
+Bruce Springsteen           Hungry Heart                                               59
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
@@ -82,8 +82,8 @@ Kate Bush                   This Woman's Work                                   
 Kids from Fame              Hi Fidelity                                                 2
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
-Lightning Seeds             Pure                                                       73
-Luther Vandross             Never Too Much                                             64
+Lightning Seeds             Pure                                                       74
+Luther Vandross             Never Too Much                                             65
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -102,10 +102,10 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              121
+Proclaimers                 I'm Gonna Be                                              122
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             55
+Queen                       Hammer To Fall                                             56
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
@@ -124,7 +124,7 @@ Sinead O'Connor             Mandinka                                            
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        59
 Smiths                      Heaven Knows I'm Miserable Now                             51
-Smiths                      How Soon Is Now?                                           60
+Smiths                      How Soon Is Now?                                           61
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     4
@@ -143,12 +143,12 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             4
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              130
-Talking Heads               Burning Down The House                                      7
+Talk Talk                   It's My Life                                              131
+Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              124
+Tom Petty                   Free Falling                                              125
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        28
 Tracy Chapman               Talkin' 'bout A Revolution                                 34

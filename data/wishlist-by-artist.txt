@@ -17,11 +17,11 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        119
+Bob Marley and The Wailers  Could You Be Loved                                        120
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         54
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               76
+Bon Jovi                    Bad Medicine                                               77
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bruce Springsteen           Hungry Heart                                               59
@@ -36,17 +36,17 @@ Creatures                   Miss The Girl                                       
 Crowded House               Don't Dream It's Over                                      88
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            46
-Cure                        Just Like Heaven                                           65
+Cure                        Just Like Heaven                                           66
 Cure                        Lullaby                                                     7
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         90
+Daryl Hall and John Oates   You Make My Dreams                                         91
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                  8
-Depeche Mode                Personal Jesus                                             76
+Depeche Mode                Personal Jesus                                             77
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -55,7 +55,7 @@ Donna Allen                 Joy And Pain                                        
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   3
-Fleetwood Mac               Everywhere                                                119
+Fleetwood Mac               Everywhere                                                120
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
@@ -75,7 +75,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              10
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      143
+Journey                     Don't Stop Believin'                                      144
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -131,7 +131,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            9
 Smiths                      There Is A Light That Never Goes Out                        7
-Smiths                      This Charming Man                                          69
+Smiths                      This Charming Man                                          70
 Smiths                      William, It Was Really Nothing                              5
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1
@@ -148,9 +148,9 @@ Talking Heads               Burning Down The House                              
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              125
+Tom Petty                   Free Falling                                              126
 Tone Loc                    Wild Thing                                                  1
-Tracy Chapman               Baby Can I Hold You                                        28
+Tracy Chapman               Baby Can I Hold You                                        29
 Tracy Chapman               Talkin' 'bout A Revolution                                 34
 U2                          All I Want Is You                                           2
 U2                          Gloria                                                      1

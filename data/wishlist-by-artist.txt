@@ -17,7 +17,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        120
+Bob Marley and The Wailers  Could You Be Loved                                        121
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         54
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -33,11 +33,11 @@ Chris Rea                   On The Beach                                        
 Christopher Cross           Ride Like The Wind                                         11
 Clash                       I Fought The Law                                           10
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                      88
+Crowded House               Don't Dream It's Over                                      89
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            46
 Cure                        Just Like Heaven                                           66
-Cure                        Lullaby                                                     7
+Cure                        Lullaby                                                     8
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
@@ -46,7 +46,7 @@ David Bowie                 Magic Dance                                         
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                  8
-Depeche Mode                Personal Jesus                                             77
+Depeche Mode                Personal Jesus                                             78
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -55,14 +55,14 @@ Donna Allen                 Joy And Pain                                        
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   3
-Fleetwood Mac               Everywhere                                                120
+Fleetwood Mac               Everywhere                                                121
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                59
+Grandmaster Flash           The Message                                                60
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -73,21 +73,21 @@ Huey Lewis and The News     Back In Time                                        
 Inxs                        Never Tear Us Apart                                         8
 Inxs and Jimmy Barnes       Good Times                                                 10
 Jam                         Just Who Is The 5 O'clock Hero                              1
-Janet Jackson               Rhythm Nation                                              10
+Janet Jackson               Rhythm Nation                                              11
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      144
+Journey                     Don't Stop Believin'                                      146
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
 Kids from Fame              Hi Fidelity                                                 2
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
-Lightning Seeds             Pure                                                       74
+Lightning Seeds             Pure                                                       75
 Luther Vandross             Never Too Much                                             65
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
-New Order                   Bizarre Love Triangle                                      11
+New Order                   Bizarre Love Triangle                                      12
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1
 Oliver Cheatham             Get Down Saturday Night                                     1
@@ -109,7 +109,7 @@ Queen                       Hammer To Fall                                      
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
-R.E.M                       Stand.                                                     60
+R.E.M                       Stand.                                                     61
 Rick James                  Superfreak                                                 14
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
@@ -122,8 +122,8 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        59
-Smiths                      Heaven Knows I'm Miserable Now                             51
+Smiths                      Ask                                                        60
+Smiths                      Heaven Knows I'm Miserable Now                             52
 Smiths                      How Soon Is Now?                                           61
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
@@ -143,12 +143,12 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             4
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              131
+Talk Talk                   It's My Life                                              132
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              126
+Tom Petty                   Free Falling                                              127
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        29
 Tracy Chapman               Talkin' 'bout A Revolution                                 34

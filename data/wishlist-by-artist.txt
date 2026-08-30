@@ -17,14 +17,14 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        121
+Bob Marley and The Wailers  Could You Be Loved                                        123
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         54
+Bob Marley and The Wailers  Three Little Birds                                         55
 Bodysnatchers               Let's Do Rock Steady                                        8
 Bon Jovi                    Bad Medicine                                               77
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
-Bruce Springsteen           Hungry Heart                                               59
+Bruce Springsteen           Hungry Heart                                               60
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
@@ -36,26 +36,27 @@ Creatures                   Miss The Girl                                       
 Crowded House               Don't Dream It's Over                                      89
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            46
-Cure                        Just Like Heaven                                           66
+Cure                        Just Like Heaven                                           67
 Cure                        Lullaby                                                     8
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         91
+Daryl Hall and John Oates   You Make My Dreams                                         93
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                  8
-Depeche Mode                Personal Jesus                                             78
+Depeche Mode                Personal Jesus                                             79
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
 Dire Straits                Twisting By The Pool                                        3
+Dolly Parton                9 to 5                                                      1
 Donna Allen                 Joy And Pain                                                2
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   3
-Fleetwood Mac               Everywhere                                                121
+Fleetwood Mac               Everywhere                                                122
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Harrison             All Those Years Ago                                         1
@@ -67,7 +68,7 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               77
+Hall and Oates              Out Of Touch                                               78
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -75,7 +76,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              11
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      146
+Journey                     Don't Stop Believin'                                      148
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -83,7 +84,7 @@ Kids from Fame              Hi Fidelity                                         
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
 Lightning Seeds             Pure                                                       75
-Luther Vandross             Never Too Much                                             65
+Luther Vandross             Never Too Much                                             66
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -102,14 +103,14 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              122
+Proclaimers                 I'm Gonna Be                                              123
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             56
+Queen                       Hammer To Fall                                             57
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
-R.E.M                       Stand.                                                     61
+R.E.M                       Stand.                                                     62
 Rick James                  Superfreak                                                 14
 Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
@@ -122,9 +123,9 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        60
+Smiths                      Ask                                                        61
 Smiths                      Heaven Knows I'm Miserable Now                             52
-Smiths                      How Soon Is Now?                                           61
+Smiths                      How Soon Is Now?                                           62
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     4
@@ -132,25 +133,25 @@ Smiths                      That Joke Isn't Funny Anymore                       
 Smiths                      The Boy With A Thorn In His Side                            9
 Smiths                      There Is A Light That Never Goes Out                        7
 Smiths                      This Charming Man                                          70
-Smiths                      William, It Was Really Nothing                              5
+Smiths                      William, It Was Really Nothing                              6
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1
 Specials                    Rat Race                                                    1
-Stevie Nicks                Edge Of Seventeen                                          10
+Stevie Nicks                Edge Of Seventeen                                          11
 Stevie Wonder               Do I Do                                                     1
 Stone Roses                 What The World Is Waiting For                               1
 Stranglers                  Always The Sun                                              6
 Style Council               Long Hot Summer                                             4
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              132
+Talk Talk                   It's My Life                                              133
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              127
+Tom Petty                   Free Falling                                              128
 Tone Loc                    Wild Thing                                                  1
-Tracy Chapman               Baby Can I Hold You                                        29
+Tracy Chapman               Baby Can I Hold You                                        30
 Tracy Chapman               Talkin' 'bout A Revolution                                 34
 U2                          All I Want Is You                                           2
 U2                          Gloria                                                      1

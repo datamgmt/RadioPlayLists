@@ -1,17 +1,17 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      148
+Journey                     Don't Stop Believin'                                      149
 Talk Talk                   It's My Life                                              133
-Tom Petty                   Free Falling                                              128
-Bob Marley and The Wailers  Could You Be Loved                                        123
-Proclaimers                 I'm Gonna Be                                              123
+Tom Petty                   Free Falling                                              129
+Proclaimers                 I'm Gonna Be                                              125
+Bob Marley and The Wailers  Could You Be Loved                                        124
 Fleetwood Mac               Everywhere                                                122
 Daryl Hall and John Oates   You Make My Dreams                                         93
-Crowded House               Don't Dream It's Over                                      89
-Depeche Mode                Personal Jesus                                             79
+Crowded House               Don't Dream It's Over                                      90
+Depeche Mode                Personal Jesus                                             80
+Bon Jovi                    Bad Medicine                                               78
 Hall and Oates              Out Of Touch                                               78
-Bon Jovi                    Bad Medicine                                               77
-Lightning Seeds             Pure                                                       75
+Lightning Seeds             Pure                                                       76
 Smiths                      This Charming Man                                          70
 Cure                        Just Like Heaven                                           67
 Luther Vandross             Never Too Much                                             66
@@ -21,12 +21,12 @@ Smiths                      Ask                                                 
 Bruce Springsteen           Hungry Heart                                               60
 Grandmaster Flash           The Message                                                60
 Queen                       Hammer To Fall                                             57
-Bob Marley and The Wailers  Three Little Birds                                         55
-Smiths                      Heaven Knows I'm Miserable Now                             52
-Cure                        In Between Days                                            46
+Bob Marley and The Wailers  Three Little Birds                                         56
+Smiths                      Heaven Knows I'm Miserable Now                             53
+Cure                        In Between Days                                            47
 Tracy Chapman               Talkin' 'bout A Revolution                                 34
 Tracy Chapman               Baby Can I Hold You                                        30
-Bad Manners                 Lip Up Fatty                                               16
+Bad Manners                 Lip Up Fatty                                               17
 Rick James                  Superfreak                                                 14
 New Order                   Bizarre Love Triangle                                      12
 Christopher Cross           Ride Like The Wind                                         11
@@ -69,14 +69,17 @@ Beloved                     The Sun Rising                                      
 Billy Joel                  The Longest Time                                            2
 Creatures                   Miss The Girl                                               2
 David Bowie                 Magic Dance                                                 2
+Dolly Parton                9 to 5                                                      2
 Donna Allen                 Joy And Pain                                                2
 Kids from Fame              Hi Fidelity                                                 2
 Pat Benatar                 All Fired Up                                                2
 Prince                      Nothing Compares 2 U                                        2
 Queen                       Las Palabras de Amor                                        2
+Rolling Stones              She's So Cold                                               2
 Sade                        The Sweetest Taboo                                          2
 Throwing Muses              Dizzy                                                       2
 U2                          All I Want Is You                                           2
+Ac/dc                       Back In Black                                               1
 Ac/dc                       For Those About To Rock                                     1
 All About Eve               Martha's Harbour                                            1
 Associates                  18 Carat Love Affair                                        1
@@ -90,18 +93,20 @@ Beat                        Best Friend                                         
 Bob Marley and The Wailers  Redemption Song                                             1
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
+Bow Wow Wow                 C30 C60 C90 Go!                                             1
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
 Change and Luther Vandross  The Glow Of Love                                            1
+Cool Notes                  In Your Car                                                 1
 Cure                        The Walk                                                    1
 Danny Wilson                The Second Summer Of Love                                   1
 Debbie Gibson               Foolish Beat                                                1
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
-Dolly Parton                9 to 5                                                      1
 Elo                         Ticket To The Moon                                          1
 Fleetwood Mac               Seven Wonders                                               1
+George Benson               Love X Love                                                 1
 George Harrison             All Those Years Ago                                         1
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
@@ -126,16 +131,17 @@ New Order                   Temptation                                          
 New Order                   Thieves Like Us                                             1
 Oliver Cheatham             Get Down Saturday Night                                     1
 Omd                         If You Leave                                                1
+Omd                         Secret                                                      1
 Omd                         So In Love                                                  1
 Paul Simon                  Graceland                                                   1
 Phil Collins                If Leaving Me Is Easy                                       1
+Pointer Sisters             Dare Me                                                     1
 Prefab Sprout               Nightingales                                                1
 Prince                      Controversy                                                 1
 Prince                      Partyman                                                    1
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       The Invisible Man                                           1
-Rolling Stones              She's So Cold                                               1
 Roman Holiday               Don't Try To Stop It                                        1
 Rush                        Tom Sawyer                                                  1
 Shannon                     Give Me Tonight                                             1
@@ -153,12 +159,15 @@ Stone Roses                 What The World Is Waiting For                       
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 Tears For Fears             Woman In Chains                                             1
+Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
 Tone Loc                    Wild Thing                                                  1
 U2                          Gloria                                                      1
 Ub40                        Don't Let It Pass You By                                    1
+Ultravox                    Sleepwalk                                                   1
 Van Halen                   When It's Love                                              1
 Visage                      Night Train                                                 1
 Visage                      Visage                                                      1
 Waterboys                   Fisherman's Blues                                           1
 Wham!                       Where Did Your Heart Go?                                    1
+Yellow Magic Orchestra      Computer Game                                               1

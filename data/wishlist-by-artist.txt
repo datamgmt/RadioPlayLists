@@ -8,7 +8,7 @@ Ac/dc                       For Those About To Rock                             
 All About Eve               Martha's Harbour                                            1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
-Bad Manners                 Lip Up Fatty                                               17
+Bad Manners                 Lip Up Fatty                                               18
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
 Bananarama                  Rough Justice                                               1
 Bangles                     Be With You                                                 1
@@ -18,7 +18,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        124
+Bob Marley and The Wailers  Could You Be Loved                                        125
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         56
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -26,7 +26,7 @@ Bon Jovi                    Bad Medicine                                        
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
-Bruce Springsteen           Hungry Heart                                               60
+Bruce Springsteen           Hungry Heart                                               61
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
@@ -44,7 +44,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         93
+Daryl Hall and John Oates   You Make My Dreams                                         94
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
@@ -59,7 +59,7 @@ Donna Allen                 Joy And Pain                                        
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
 Elvis Costello              Everyday I Write The Book                                   3
-Fleetwood Mac               Everywhere                                                122
+Fleetwood Mac               Everywhere                                                123
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Benson               Love X Love                                                 1
@@ -80,7 +80,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              11
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      149
+Journey                     Don't Stop Believin'                                      150
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
@@ -112,12 +112,12 @@ Prince                      Partyman                                            
 Proclaimers                 I'm Gonna Be                                              125
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             57
+Queen                       Hammer To Fall                                             58
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
 R.E.M                       Stand.                                                     62
-Rick James                  Superfreak                                                 14
+Rick James                  Superfreak                                                 15
 Rolling Stones              She's So Cold                                               2
 Roman Holiday               Don't Try To Stop It                                        1
 Rush                        Tom Sawyer                                                  1
@@ -131,14 +131,14 @@ Sinead O'Connor             Mandinka                                            
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        61
 Smiths                      Heaven Knows I'm Miserable Now                             53
-Smiths                      How Soon Is Now?                                           62
+Smiths                      How Soon Is Now?                                           63
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     4
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            9
 Smiths                      There Is A Light That Never Goes Out                        7
-Smiths                      This Charming Man                                          70
+Smiths                      This Charming Man                                          71
 Smiths                      William, It Was Really Nothing                              6
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

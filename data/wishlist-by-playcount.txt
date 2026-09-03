@@ -1,12 +1,12 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      151
-Talk Talk                   It's My Life                                              133
-Tom Petty                   Free Falling                                              130
-Proclaimers                 I'm Gonna Be                                              126
-Bob Marley and The Wailers  Could You Be Loved                                        125
+Talk Talk                   It's My Life                                              134
+Tom Petty                   Free Falling                                              131
+Proclaimers                 I'm Gonna Be                                              127
+Bob Marley and The Wailers  Could You Be Loved                                        126
 Fleetwood Mac               Everywhere                                                123
-Daryl Hall and John Oates   You Make My Dreams                                         94
+Daryl Hall and John Oates   You Make My Dreams                                         95
 Crowded House               Don't Dream It's Over                                      90
 Depeche Mode                Personal Jesus                                             81
 Bon Jovi                    Bad Medicine                                               79
@@ -15,16 +15,16 @@ Lightning Seeds             Pure                                                
 Smiths                      This Charming Man                                          71
 Cure                        Just Like Heaven                                           68
 Luther Vandross             Never Too Much                                             66
-Smiths                      How Soon Is Now?                                           63
-R.E.M                       Stand.                                                     62
+Smiths                      How Soon Is Now?                                           64
+R.E.M                       Stand.                                                     63
+Smiths                      Ask                                                        62
 Bruce Springsteen           Hungry Heart                                               61
-Smiths                      Ask                                                        61
-Grandmaster Flash           The Message                                                60
+Grandmaster Flash           The Message                                                61
 Queen                       Hammer To Fall                                             58
 Bob Marley and The Wailers  Three Little Birds                                         57
 Smiths                      Heaven Knows I'm Miserable Now                             54
 Cure                        In Between Days                                            48
-Tracy Chapman               Talkin' 'bout A Revolution                                 34
+Tracy Chapman               Talkin' 'bout A Revolution                                 35
 Tracy Chapman               Baby Can I Hold You                                        30
 Bad Manners                 Lip Up Fatty                                               18
 Rick James                  Superfreak                                                 15
@@ -50,10 +50,10 @@ Prince                      I Would Die 4 U                                     
 Smiths                      William, It Was Really Nothing                              6
 Stranglers                  Always The Sun                                              6
 Queen                       Who Wants To Live Forever                                   5
+Smiths                      Stop Me If You've Heard This One Before                     5
 Style Council               Long Hot Summer                                             5
 Fleetwood Mac               Gypsy                                                       4
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
-Smiths                      Stop Me If You've Heard This One Before                     4
 Yello                       Oh Yeah                                                     4
 Abba                        Lay All Your Love On Me                                     3
 Chris Rea                   On The Beach                                                3

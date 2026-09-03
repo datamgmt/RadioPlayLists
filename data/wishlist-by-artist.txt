@@ -18,7 +18,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              2
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        125
+Bob Marley and The Wailers  Could You Be Loved                                        126
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         57
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -44,7 +44,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         94
+Daryl Hall and John Oates   You Make My Dreams                                         95
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
@@ -67,7 +67,7 @@ George Harrison             All Those Years Ago                                 
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                60
+Grandmaster Flash           The Message                                                61
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -109,14 +109,14 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              126
+Proclaimers                 I'm Gonna Be                                              127
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             58
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
-R.E.M                       Stand.                                                     62
+R.E.M                       Stand.                                                     63
 Rick James                  Superfreak                                                 15
 Rolling Stones              She's So Cold                                               2
 Roman Holiday               Don't Try To Stop It                                        1
@@ -129,12 +129,12 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        61
+Smiths                      Ask                                                        62
 Smiths                      Heaven Knows I'm Miserable Now                             54
-Smiths                      How Soon Is Now?                                           63
+Smiths                      How Soon Is Now?                                           64
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
-Smiths                      Stop Me If You've Heard This One Before                     4
+Smiths                      Stop Me If You've Heard This One Before                     5
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                            9
 Smiths                      There Is A Light That Never Goes Out                        7
@@ -150,16 +150,16 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             5
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              133
+Talk Talk                   It's My Life                                              134
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              130
+Tom Petty                   Free Falling                                              131
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        30
-Tracy Chapman               Talkin' 'bout A Revolution                                 34
+Tracy Chapman               Talkin' 'bout A Revolution                                 35
 U2                          All I Want Is You                                           2
 U2                          Gloria                                                      1
 Ub40                        Don't Let It Pass You By                                    1

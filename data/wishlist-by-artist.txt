@@ -38,18 +38,18 @@ Cool Notes                  In Your Car                                         
 Creatures                   Miss The Girl                                               2
 Crowded House               Don't Dream It's Over                                      91
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            48
+Cure                        In Between Days                                            49
 Cure                        Just Like Heaven                                           69
 Cure                        Lullaby                                                     8
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         11
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                         96
+Daryl Hall and John Oates   You Make My Dreams                                         97
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                  8
-Depeche Mode                Personal Jesus                                             82
+Depeche Mode                Personal Jesus                                             83
 Depeche Mode                Shake The Disease                                           9
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -80,15 +80,15 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              11
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      152
+Journey                     Don't Stop Believin'                                      153
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
 Kids from Fame              Hi Fidelity                                                 2
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
-Lightning Seeds             Pure                                                       77
-Luther Vandross             Never Too Much                                             66
+Lightning Seeds             Pure                                                       78
+Luther Vandross             Never Too Much                                             68
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -116,7 +116,7 @@ Queen                       Hammer To Fall                                      
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   5
-R.E.M                       Stand.                                                     63
+R.E.M                       Stand.                                                     64
 Rick James                  Superfreak                                                 15
 Rolling Stones              She's So Cold                                               2
 Roman Holiday               Don't Try To Stop It                                        1
@@ -130,8 +130,8 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        62
-Smiths                      Heaven Knows I'm Miserable Now                             54
-Smiths                      How Soon Is Now?                                           64
+Smiths                      Heaven Knows I'm Miserable Now                             55
+Smiths                      How Soon Is Now?                                           65
 Smiths                      Please, Please, Please, Let Me Get What I Want              4
 Smiths                      Stop Me If You Think You've Heard This One Before           1
 Smiths                      Stop Me If You've Heard This One Before                     5
@@ -156,7 +156,7 @@ Tears For Fears             Woman In Chains                                     
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              131
+Tom Petty                   Free Falling                                              133
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        30
 Tracy Chapman               Talkin' 'bout A Revolution                                 35

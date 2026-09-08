@@ -1,25 +1,25 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      154
-Talk Talk                   It's My Life                                              137
-Tom Petty                   Free Falling                                              133
-Proclaimers                 I'm Gonna Be                                              129
-Bob Marley and The Wailers  Could You Be Loved                                        126
-Fleetwood Mac               Everywhere                                                125
-Daryl Hall and John Oates   You Make My Dreams                                         98
-Crowded House               Don't Dream It's Over                                      92
+Journey                     Don't Stop Believin'                                      155
+Talk Talk                   It's My Life                                              138
+Tom Petty                   Free Falling                                              134
+Proclaimers                 I'm Gonna Be                                              130
+Bob Marley and The Wailers  Could You Be Loved                                        127
+Fleetwood Mac               Everywhere                                                126
+Daryl Hall and John Oates   You Make My Dreams                                         99
+Crowded House               Don't Dream It's Over                                      93
 Depeche Mode                Personal Jesus                                             83
 Hall and Oates              Out Of Touch                                               82
 Bon Jovi                    Bad Medicine                                               81
-Lightning Seeds             Pure                                                       78
+Lightning Seeds             Pure                                                       79
 Smiths                      This Charming Man                                          72
 Cure                        Just Like Heaven                                           71
 Luther Vandross             Never Too Much                                             69
 Smiths                      How Soon Is Now?                                           65
+Grandmaster Flash           The Message                                                64
 R.E.M                       Stand.                                                     64
-Grandmaster Flash           The Message                                                63
+Smiths                      Ask                                                        63
 Bruce Springsteen           Hungry Heart                                               62
-Smiths                      Ask                                                        62
 Queen                       Hammer To Fall                                             60
 Bob Marley and The Wailers  Three Little Birds                                         59
 Smiths                      Heaven Knows I'm Miserable Now                             56
@@ -35,8 +35,8 @@ Janet Jackson               Rhythm Nation                                       
 Stevie Nicks                Edge Of Seventeen                                          11
 A Flock Of Seagulls         I Ran                                                      10
 Clash                       I Fought The Law                                           10
+Depeche Mode                Shake The Disease                                          10
 Inxs and Jimmy Barnes       Good Times                                                 10
-Depeche Mode                Shake The Disease                                           9
 Paul Simon                  Diamonds On The Soles Of Her Shoes                          9
 Smiths                      The Boy With A Thorn In His Side                            9
 Bodysnatchers               Let's Do Rock Steady                                        8

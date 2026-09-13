@@ -18,15 +18,15 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              3
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        129
+Bob Marley and The Wailers  Could You Be Loved                                        130
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         59
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               83
+Bon Jovi                    Bad Medicine                                               84
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
-Bruce Springsteen           Hungry Heart                                               64
+Bruce Springsteen           Hungry Heart                                               65
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
@@ -36,20 +36,20 @@ Christopher Cross           Ride Like The Wind                                  
 Clash                       I Fought The Law                                           10
 Cool Notes                  In Your Car                                                 1
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                      95
+Crowded House               Don't Dream It's Over                                      96
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            51
+Cure                        In Between Days                                            52
 Cure                        Just Like Heaven                                           72
 Cure                        Lullaby                                                     8
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         12
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        100
+Daryl Hall and John Oates   You Make My Dreams                                        101
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Debbie Gibson               Foolish Beat                                                1
-Def Leppard                 Love Bites                                                  8
-Depeche Mode                Personal Jesus                                             85
+Def Leppard                 Love Bites                                                  9
+Depeche Mode                Personal Jesus                                             86
 Depeche Mode                Shake The Disease                                          10
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -69,7 +69,7 @@ George Michael              Kissing A Fool                                      
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                66
+Grandmaster Flash           The Message                                                67
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -90,8 +90,8 @@ Kate Bush                   This Woman's Work                                   
 Kids from Fame              Hi Fidelity                                                 2
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
-Lightning Seeds             Pure                                                       80
-Luther Vandross             Never Too Much                                             70
+Lightning Seeds             Pure                                                       81
+Luther Vandross             Never Too Much                                             71
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -134,7 +134,7 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        63
-Smiths                      Heaven Knows I'm Miserable Now                             57
+Smiths                      Heaven Knows I'm Miserable Now                             58
 Smiths                      How Soon Is Now?                                           67
 Smiths                      Please, Please, Please, Let Me Get What I Want              5
 Smiths                      Stop Me If You Think You've Heard This One Before           1

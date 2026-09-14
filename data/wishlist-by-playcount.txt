@@ -1,27 +1,27 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      157
-Talk Talk                   It's My Life                                              141
-Tom Petty                   Free Falling                                              137
-Proclaimers                 I'm Gonna Be                                              133
-Bob Marley and The Wailers  Could You Be Loved                                        130
-Fleetwood Mac               Everywhere                                                128
-Daryl Hall and John Oates   You Make My Dreams                                        101
+Journey                     Don't Stop Believin'                                      159
+Talk Talk                   It's My Life                                              142
+Tom Petty                   Free Falling                                              138
+Proclaimers                 I'm Gonna Be                                              134
+Bob Marley and The Wailers  Could You Be Loved                                        131
+Fleetwood Mac               Everywhere                                                129
+Daryl Hall and John Oates   You Make My Dreams                                        102
 Crowded House               Don't Dream It's Over                                      96
 Depeche Mode                Personal Jesus                                             86
-Bon Jovi                    Bad Medicine                                               84
-Hall and Oates              Out Of Touch                                               84
+Bon Jovi                    Bad Medicine                                               85
+Hall and Oates              Out Of Touch                                               85
 Lightning Seeds             Pure                                                       81
-Smiths                      This Charming Man                                          75
-Cure                        Just Like Heaven                                           72
+Smiths                      This Charming Man                                          76
+Cure                        Just Like Heaven                                           73
 Luther Vandross             Never Too Much                                             71
+Smiths                      How Soon Is Now?                                           68
 Grandmaster Flash           The Message                                                67
-Smiths                      How Soon Is Now?                                           67
 Bruce Springsteen           Hungry Heart                                               65
 R.E.M                       Stand.                                                     64
-Smiths                      Ask                                                        63
-Queen                       Hammer To Fall                                             61
-Bob Marley and The Wailers  Three Little Birds                                         59
+Smiths                      Ask                                                        64
+Queen                       Hammer To Fall                                             62
+Bob Marley and The Wailers  Three Little Birds                                         60
 Smiths                      Heaven Knows I'm Miserable Now                             58
 Cure                        In Between Days                                            52
 Tracy Chapman               Talkin' 'bout A Revolution                                 36
@@ -47,9 +47,9 @@ Talking Heads               Burning Down The House                              
 Billy Idol                  Eyes Without A Face                                         7
 Smiths                      There Is A Light That Never Goes Out                        7
 Prince                      I Would Die 4 U                                             6
+Queen                       Who Wants To Live Forever                                   6
 Smiths                      William, It Was Really Nothing                              6
 Stranglers                  Always The Sun                                              6
-Queen                       Who Wants To Live Forever                                   5
 Smiths                      Please, Please, Please, Let Me Get What I Want              5
 Smiths                      Stop Me If You've Heard This One Before                     5
 Style Council               Long Hot Summer                                             5
@@ -105,6 +105,7 @@ Debbie Gibson               Foolish Beat                                        
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
 Donna Summer                Love Is In Control                                          1
+Eagles                      Take It Easy                                                1
 Elo                         Ticket To The Moon                                          1
 Fleetwood Mac               Seven Wonders                                               1
 George Benson               Love X Love                                                 1
@@ -127,6 +128,8 @@ Kate Bush                   Sat In Your Lap                                     
 Kate Bush                   This Woman's Work                                           1
 Kim Wilde                   Love Blonde                                                 1
 Kool and The Gang           Big Fun                                                     1
+Level 42                    Heaven In My Hands                                          1
+Level 42                    Take A Look                                                 1
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -136,6 +139,7 @@ Oliver Cheatham             Get Down Saturday Night                             
 Omd                         If You Leave                                                1
 Omd                         Secret                                                      1
 Omd                         So In Love                                                  1
+Omd                         Tesla Girls                                                 1
 Paul Simon                  Graceland                                                   1
 Peter Gabriel               Shock The Monkey                                            1
 Phil Collins                If Leaving Me Is Easy                                       1

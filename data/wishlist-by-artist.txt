@@ -40,7 +40,7 @@ Crowded House               Don't Dream It's Over                               
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            52
 Cure                        Just Like Heaven                                           73
-Cure                        Lullaby                                                     8
+Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         12
 Danny Wilson                The Second Summer Of Love                                   1
@@ -70,7 +70,7 @@ George Michael              Kissing A Fool                                      
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                67
+Grandmaster Flash           The Message                                                68
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -93,8 +93,8 @@ Kim Wilde                   Love Blonde                                         
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                       81
-Luther Vandross             Never Too Much                                             71
+Lightning Seeds             Pure                                                       82
+Luther Vandross             Never Too Much                                             72
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -164,7 +164,7 @@ Tears For Fears             Woman In Chains                                     
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              138
+Tom Petty                   Free Falling                                              139
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        32
 Tracy Chapman               Talkin' 'bout A Revolution                                 36

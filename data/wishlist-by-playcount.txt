@@ -2,7 +2,7 @@
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      159
 Talk Talk                   It's My Life                                              142
-Tom Petty                   Free Falling                                              138
+Tom Petty                   Free Falling                                              139
 Proclaimers                 I'm Gonna Be                                              134
 Bob Marley and The Wailers  Could You Be Loved                                        131
 Fleetwood Mac               Everywhere                                                129
@@ -11,12 +11,12 @@ Crowded House               Don't Dream It's Over                               
 Depeche Mode                Personal Jesus                                             86
 Bon Jovi                    Bad Medicine                                               85
 Hall and Oates              Out Of Touch                                               85
-Lightning Seeds             Pure                                                       81
+Lightning Seeds             Pure                                                       82
 Smiths                      This Charming Man                                          76
 Cure                        Just Like Heaven                                           73
-Luther Vandross             Never Too Much                                             71
+Luther Vandross             Never Too Much                                             72
+Grandmaster Flash           The Message                                                68
 Smiths                      How Soon Is Now?                                           68
-Grandmaster Flash           The Message                                                67
 Bruce Springsteen           Hungry Heart                                               65
 R.E.M                       Stand.                                                     64
 Smiths                      Ask                                                        64
@@ -37,11 +37,11 @@ Janet Jackson               Rhythm Nation                                       
 Clash                       I Fought The Law                                           10
 Depeche Mode                Shake The Disease                                          10
 Inxs and Jimmy Barnes       Good Times                                                 10
+Cure                        Lullaby                                                     9
 Def Leppard                 Love Bites                                                  9
 Paul Simon                  Diamonds On The Soles Of Her Shoes                          9
 Smiths                      The Boy With A Thorn In His Side                            9
 Bodysnatchers               Let's Do Rock Steady                                        8
-Cure                        Lullaby                                                     8
 Inxs                        Never Tear Us Apart                                         8
 Talking Heads               Burning Down The House                                      8
 Billy Idol                  Eyes Without A Face                                         7

@@ -1,16 +1,16 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      159
+Journey                     Don't Stop Believin'                                      161
 Talk Talk                   It's My Life                                              142
-Tom Petty                   Free Falling                                              139
-Proclaimers                 I'm Gonna Be                                              134
-Bob Marley and The Wailers  Could You Be Loved                                        131
-Fleetwood Mac               Everywhere                                                129
+Tom Petty                   Free Falling                                              140
+Proclaimers                 I'm Gonna Be                                              135
+Bob Marley and The Wailers  Could You Be Loved                                        132
+Fleetwood Mac               Everywhere                                                130
 Daryl Hall and John Oates   You Make My Dreams                                        102
-Crowded House               Don't Dream It's Over                                      96
+Crowded House               Don't Dream It's Over                                      97
+Bon Jovi                    Bad Medicine                                               86
 Depeche Mode                Personal Jesus                                             86
-Bon Jovi                    Bad Medicine                                               85
-Hall and Oates              Out Of Touch                                               85
+Hall and Oates              Out Of Touch                                               86
 Lightning Seeds             Pure                                                       82
 Smiths                      This Charming Man                                          76
 Cure                        Just Like Heaven                                           73
@@ -20,10 +20,10 @@ Smiths                      How Soon Is Now?                                    
 Bruce Springsteen           Hungry Heart                                               65
 R.E.M                       Stand.                                                     64
 Smiths                      Ask                                                        64
-Queen                       Hammer To Fall                                             62
+Queen                       Hammer To Fall                                             63
 Bob Marley and The Wailers  Three Little Birds                                         60
-Smiths                      Heaven Knows I'm Miserable Now                             58
-Cure                        In Between Days                                            52
+Smiths                      Heaven Knows I'm Miserable Now                             59
+Cure                        In Between Days                                            53
 Tracy Chapman               Talkin' 'bout A Revolution                                 36
 Tracy Chapman               Baby Can I Hold You                                        32
 Bad Manners                 Lip Up Fatty                                               19
@@ -31,9 +31,9 @@ Rick James                  Superfreak                                          
 New Order                   Bizarre Love Triangle                                      13
 Christopher Cross           Ride Like The Wind                                         12
 Cure                        Why Can't I Be You                                         12
+Janet Jackson               Rhythm Nation                                              12
 Stevie Nicks                Edge Of Seventeen                                          12
 A Flock Of Seagulls         I Ran                                                      11
-Janet Jackson               Rhythm Nation                                              11
 Clash                       I Fought The Law                                           10
 Depeche Mode                Shake The Disease                                          10
 Inxs and Jimmy Barnes       Good Times                                                 10

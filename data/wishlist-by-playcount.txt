@@ -1,21 +1,21 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      161
-Talk Talk                   It's My Life                                              142
-Tom Petty                   Free Falling                                              140
-Proclaimers                 I'm Gonna Be                                              135
-Bob Marley and The Wailers  Could You Be Loved                                        132
-Fleetwood Mac               Everywhere                                                130
-Daryl Hall and John Oates   You Make My Dreams                                        102
-Crowded House               Don't Dream It's Over                                      97
-Bon Jovi                    Bad Medicine                                               86
-Depeche Mode                Personal Jesus                                             86
-Hall and Oates              Out Of Touch                                               86
-Lightning Seeds             Pure                                                       82
-Smiths                      This Charming Man                                          76
-Cure                        Just Like Heaven                                           73
-Luther Vandross             Never Too Much                                             72
-Grandmaster Flash           The Message                                                68
+Journey                     Don't Stop Believin'                                      162
+Talk Talk                   It's My Life                                              144
+Tom Petty                   Free Falling                                              142
+Proclaimers                 I'm Gonna Be                                              136
+Bob Marley and The Wailers  Could You Be Loved                                        133
+Fleetwood Mac               Everywhere                                                131
+Daryl Hall and John Oates   You Make My Dreams                                        103
+Crowded House               Don't Dream It's Over                                      98
+Bon Jovi                    Bad Medicine                                               87
+Depeche Mode                Personal Jesus                                             87
+Hall and Oates              Out Of Touch                                               87
+Lightning Seeds             Pure                                                       83
+Smiths                      This Charming Man                                          77
+Cure                        Just Like Heaven                                           74
+Luther Vandross             Never Too Much                                             73
+Grandmaster Flash           The Message                                                69
 Smiths                      How Soon Is Now?                                           68
 Bruce Springsteen           Hungry Heart                                               65
 R.E.M                       Stand.                                                     64
@@ -37,10 +37,10 @@ A Flock Of Seagulls         I Ran                                               
 Clash                       I Fought The Law                                           10
 Depeche Mode                Shake The Disease                                          10
 Inxs and Jimmy Barnes       Good Times                                                 10
+Smiths                      The Boy With A Thorn In His Side                           10
 Cure                        Lullaby                                                     9
 Def Leppard                 Love Bites                                                  9
 Paul Simon                  Diamonds On The Soles Of Her Shoes                          9
-Smiths                      The Boy With A Thorn In His Side                            9
 Bodysnatchers               Let's Do Rock Steady                                        8
 Inxs                        Never Tear Us Apart                                         8
 Talking Heads               Burning Down The House                                      8

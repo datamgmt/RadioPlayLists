@@ -18,7 +18,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              3
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        133
+Bob Marley and The Wailers  Could You Be Loved                                        134
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         60
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -39,7 +39,7 @@ Creatures                   Miss The Girl                                       
 Crowded House               Don't Dream It's Over                                      98
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            53
-Cure                        Just Like Heaven                                           74
+Cure                        Just Like Heaven                                           75
 Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         12
@@ -75,7 +75,7 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               87
+Hall and Oates              Out Of Touch                                               88
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -83,7 +83,7 @@ Inxs and Jimmy Barnes       Good Times                                          
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Rhythm Nation                                              12
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      162
+Journey                     Don't Stop Believin'                                      163
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -117,14 +117,14 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              136
+Proclaimers                 I'm Gonna Be                                              137
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             63
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           1
 Queen                       Who Wants To Live Forever                                   6
-R.E.M                       Stand.                                                     64
+R.E.M                       Stand.                                                     65
 Rick James                  Superfreak                                                 16
 Rolling Stones              She's So Cold                                               2
 Roman Holiday               Don't Try To Stop It                                        1
@@ -137,7 +137,7 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        64
+Smiths                      Ask                                                        66
 Smiths                      Heaven Knows I'm Miserable Now                             59
 Smiths                      How Soon Is Now?                                           68
 Smiths                      Please, Please, Please, Let Me Get What I Want              5

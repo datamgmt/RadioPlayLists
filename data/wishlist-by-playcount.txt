@@ -1,22 +1,22 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      163
+Journey                     Don't Stop Believin'                                      164
 Talk Talk                   It's My Life                                              144
-Tom Petty                   Free Falling                                              142
+Tom Petty                   Free Falling                                              143
 Proclaimers                 I'm Gonna Be                                              137
 Bob Marley and The Wailers  Could You Be Loved                                        134
 Fleetwood Mac               Everywhere                                                131
 Daryl Hall and John Oates   You Make My Dreams                                        103
 Crowded House               Don't Dream It's Over                                      98
+Bon Jovi                    Bad Medicine                                               88
 Hall and Oates              Out Of Touch                                               88
-Bon Jovi                    Bad Medicine                                               87
 Depeche Mode                Personal Jesus                                             87
 Lightning Seeds             Pure                                                       83
-Smiths                      This Charming Man                                          77
+Smiths                      This Charming Man                                          78
 Cure                        Just Like Heaven                                           75
 Luther Vandross             Never Too Much                                             73
 Grandmaster Flash           The Message                                                69
-Smiths                      How Soon Is Now?                                           68
+Smiths                      How Soon Is Now?                                           69
 Smiths                      Ask                                                        66
 Bruce Springsteen           Hungry Heart                                               65
 R.E.M                       Stand.                                                     65
@@ -24,17 +24,17 @@ Queen                       Hammer To Fall                                      
 Bob Marley and The Wailers  Three Little Birds                                         60
 Smiths                      Heaven Knows I'm Miserable Now                             59
 Cure                        In Between Days                                            53
-Tracy Chapman               Talkin' 'bout A Revolution                                 36
+Tracy Chapman               Talkin' 'bout A Revolution                                 37
 Tracy Chapman               Baby Can I Hold You                                        32
-Bad Manners                 Lip Up Fatty                                               19
-Rick James                  Superfreak                                                 16
+Bad Manners                 Lip Up Fatty                                               20
+Rick James                  Superfreak                                                 17
 New Order                   Bizarre Love Triangle                                      13
 Christopher Cross           Ride Like The Wind                                         12
 Cure                        Why Can't I Be You                                         12
 Janet Jackson               Rhythm Nation                                              12
 Stevie Nicks                Edge Of Seventeen                                          12
 A Flock Of Seagulls         I Ran                                                      11
-Clash                       I Fought The Law                                           10
+Clash                       I Fought The Law                                           11
 Depeche Mode                Shake The Disease                                          10
 Inxs and Jimmy Barnes       Good Times                                                 10
 Smiths                      The Boy With A Thorn In His Side                           10

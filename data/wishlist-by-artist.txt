@@ -5,6 +5,7 @@ A Guy Called Gerald         Voodoo Ray                                          
 Abba                        Lay All Your Love On Me                                     3
 Ac/dc                       Back In Black                                               1
 Ac/dc                       For Those About To Rock                                     1
+Aerosmith                   Janie's Got A Gun                                           1
 All About Eve               Martha's Harbour                                            1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
@@ -36,9 +37,9 @@ Christopher Cross           Ride Like The Wind                                  
 Clash                       I Fought The Law                                           11
 Cool Notes                  In Your Car                                                 1
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                      98
+Crowded House               Don't Dream It's Over                                      99
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            53
+Cure                        In Between Days                                            54
 Cure                        Just Like Heaven                                           75
 Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
@@ -47,6 +48,7 @@ Danny Wilson                The Second Summer Of Love                           
 Daryl Hall and John Oates   You Make My Dreams                                        103
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
+Deacon Blue                 Love And Regret                                             1
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                  9
 Depeche Mode                Personal Jesus                                             87
@@ -60,8 +62,10 @@ Donna Summer                Love Is In Control                                  
 Eagles                      Take It Easy                                                1
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elo                         Ticket To The Moon                                          1
+Elton John                  Sacrifice                                                   1
 Elvis Costello              Everyday I Write The Book                                   3
-Fleetwood Mac               Everywhere                                                131
+Eurythmics                  Revival                                                     1
+Fleetwood Mac               Everywhere                                                132
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Benson               Love X Love                                                 1
@@ -70,7 +74,7 @@ George Michael              Kissing A Fool                                      
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                69
+Grandmaster Flash           The Message                                                70
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -81,7 +85,8 @@ Huey Lewis and The News     Back In Time                                        
 Inxs                        Never Tear Us Apart                                         8
 Inxs and Jimmy Barnes       Good Times                                                 10
 Jam                         Just Who Is The 5 O'clock Hero                              1
-Janet Jackson               Rhythm Nation                                              12
+Janet Jackson               Miss You Much                                               1
+Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
 Journey                     Don't Stop Believin'                                      164
 Journey                     Who's Crying Now                                            1
@@ -93,8 +98,8 @@ Kim Wilde                   Love Blonde                                         
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                       83
-Luther Vandross             Never Too Much                                             73
+Lightning Seeds             Pure                                                       84
+Luther Vandross             Never Too Much                                             74
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
@@ -117,15 +122,16 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              137
+Proclaimers                 I'm Gonna Be                                              138
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             63
 Queen                       Las Palabras de Amor                                        2
-Queen                       The Invisible Man                                           1
+Queen                       The Invisible Man                                           2
 Queen                       Who Wants To Live Forever                                   6
 R.E.M                       Stand.                                                     65
 Rick James                  Superfreak                                                 17
+Rolling Stones              Rock and a Hard Place                                       1
 Rolling Stones              She's So Cold                                               2
 Roman Holiday               Don't Try To Stop It                                        1
 Rush                        Tom Sawyer                                                  1
@@ -137,7 +143,7 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        66
+Smiths                      Ask                                                        67
 Smiths                      Heaven Knows I'm Miserable Now                             59
 Smiths                      How Soon Is Now?                                           69
 Smiths                      Please, Please, Please, Let Me Get What I Want              5
@@ -158,15 +164,16 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             5
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              144
+Talk Talk                   It's My Life                                              145
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
+Thompson Twins              Lay Your Hands On Me                                        1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
 Tom Petty                   Free Falling                                              143
 Tone Loc                    Wild Thing                                                  1
-Tracy Chapman               Baby Can I Hold You                                        32
+Tracy Chapman               Baby Can I Hold You                                        33
 Tracy Chapman               Talkin' 'bout A Revolution                                 37
 U2                          All I Want Is You                                           2
 U2                          Gloria                                                      1

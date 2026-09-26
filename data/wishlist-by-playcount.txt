@@ -1,18 +1,18 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      168
+Journey                     Don't Stop Believin'                                      170
 Talk Talk                   It's My Life                                              148
 Tom Petty                   Free Falling                                              146
-Proclaimers                 I'm Gonna Be                                              141
-Bob Marley and The Wailers  Could You Be Loved                                        136
-Fleetwood Mac               Everywhere                                                133
+Proclaimers                 I'm Gonna Be                                              142
+Bob Marley and The Wailers  Could You Be Loved                                        137
+Fleetwood Mac               Everywhere                                                134
 Daryl Hall and John Oates   You Make My Dreams                                        106
 Crowded House               Don't Dream It's Over                                     101
-Hall and Oates              Out Of Touch                                               90
-Bon Jovi                    Bad Medicine                                               89
+Hall and Oates              Out Of Touch                                               91
+Bon Jovi                    Bad Medicine                                               90
 Depeche Mode                Personal Jesus                                             88
 Lightning Seeds             Pure                                                       86
-Smiths                      This Charming Man                                          80
+Smiths                      This Charming Man                                          81
 Luther Vandross             Never Too Much                                             76
 Cure                        Just Like Heaven                                           75
 Grandmaster Flash           The Message                                                72
@@ -23,7 +23,7 @@ R.E.M                       Stand.                                              
 Queen                       Hammer To Fall                                             64
 Bob Marley and The Wailers  Three Little Birds                                         62
 Smiths                      Heaven Knows I'm Miserable Now                             60
-Cure                        In Between Days                                            54
+Cure                        In Between Days                                            55
 Tracy Chapman               Talkin' 'bout A Revolution                                 37
 Tracy Chapman               Baby Can I Hold You                                        33
 Bad Manners                 Lip Up Fatty                                               20
@@ -133,6 +133,7 @@ Judas Priest                You've Got Another Thing Comin                      
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
 Kim Wilde                   Love Blonde                                                 1
+Kirsty MacColl              Free World                                                  1
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1

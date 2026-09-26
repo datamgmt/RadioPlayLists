@@ -19,11 +19,11 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              3
 Billy Idol                  Eyes Without A Face                                         7
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        136
+Bob Marley and The Wailers  Could You Be Loved                                        137
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         62
 Bodysnatchers               Let's Do Rock Steady                                        8
-Bon Jovi                    Bad Medicine                                               89
+Bon Jovi                    Bad Medicine                                               90
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
@@ -39,7 +39,7 @@ Cool Notes                  In Your Car                                         
 Creatures                   Miss The Girl                                               2
 Crowded House               Don't Dream It's Over                                     101
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            54
+Cure                        In Between Days                                            55
 Cure                        Just Like Heaven                                           75
 Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
@@ -65,7 +65,7 @@ Elo                         Ticket To The Moon                                  
 Elton John                  Sacrifice                                                   1
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                133
+Fleetwood Mac               Everywhere                                                134
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Benson               Love X Love                                                 1
@@ -79,7 +79,7 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               90
+Hall and Oates              Out Of Touch                                               91
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -88,13 +88,14 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               1
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      168
+Journey                     Don't Stop Believin'                                      170
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
 Kate Bush                   This Woman's Work                                           1
 Kids from Fame              Hi Fidelity                                                 2
 Kim Wilde                   Love Blonde                                                 1
+Kirsty MacColl              Free World                                                  1
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
@@ -122,7 +123,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              141
+Proclaimers                 I'm Gonna Be                                              142
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             64
@@ -152,7 +153,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                           10
 Smiths                      There Is A Light That Never Goes Out                        7
-Smiths                      This Charming Man                                          80
+Smiths                      This Charming Man                                          81
 Smiths                      William, It Was Really Nothing                              7
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

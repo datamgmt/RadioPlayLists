@@ -37,7 +37,7 @@ Christopher Cross           Ride Like The Wind                                  
 Clash                       I Fought The Law                                           11
 Cool Notes                  In Your Car                                                 1
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                     101
+Crowded House               Don't Dream It's Over                                     102
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            55
 Cure                        Just Like Heaven                                           75
@@ -45,7 +45,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         12
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        106
+Daryl Hall and John Oates   You Make My Dreams                                        107
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Deacon Blue                 Love And Regret                                             1
@@ -65,7 +65,7 @@ Elo                         Ticket To The Moon                                  
 Elton John                  Sacrifice                                                   1
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                134
+Fleetwood Mac               Everywhere                                                135
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 George Benson               Love X Love                                                 1
@@ -99,12 +99,12 @@ Kirsty MacColl              Free World                                          
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                       86
-Luther Vandross             Never Too Much                                             76
+Lightning Seeds             Pure                                                       87
+Luther Vandross             Never Too Much                                             77
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
-New Order                   Bizarre Love Triangle                                      13
+New Order                   Bizarre Love Triangle                                      14
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1
 Oliver Cheatham             Get Down Saturday Night                                     1
@@ -165,14 +165,14 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             5
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              148
+Talk Talk                   It's My Life                                              149
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Thompson Twins              Lay Your Hands On Me                                        1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              146
+Tom Petty                   Free Falling                                              147
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        33
 Tracy Chapman               Talkin' 'bout A Revolution                                 37

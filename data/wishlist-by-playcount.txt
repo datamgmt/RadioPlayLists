@@ -1,19 +1,19 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      170
-Talk Talk                   It's My Life                                              148
-Tom Petty                   Free Falling                                              146
+Talk Talk                   It's My Life                                              149
+Tom Petty                   Free Falling                                              147
 Proclaimers                 I'm Gonna Be                                              142
 Bob Marley and The Wailers  Could You Be Loved                                        137
-Fleetwood Mac               Everywhere                                                134
-Daryl Hall and John Oates   You Make My Dreams                                        106
-Crowded House               Don't Dream It's Over                                     101
+Fleetwood Mac               Everywhere                                                135
+Daryl Hall and John Oates   You Make My Dreams                                        107
+Crowded House               Don't Dream It's Over                                     102
 Hall and Oates              Out Of Touch                                               91
 Bon Jovi                    Bad Medicine                                               90
 Depeche Mode                Personal Jesus                                             88
-Lightning Seeds             Pure                                                       86
+Lightning Seeds             Pure                                                       87
 Smiths                      This Charming Man                                          81
-Luther Vandross             Never Too Much                                             76
+Luther Vandross             Never Too Much                                             77
 Cure                        Just Like Heaven                                           75
 Grandmaster Flash           The Message                                                72
 Smiths                      How Soon Is Now?                                           70
@@ -28,9 +28,9 @@ Tracy Chapman               Talkin' 'bout A Revolution                          
 Tracy Chapman               Baby Can I Hold You                                        33
 Bad Manners                 Lip Up Fatty                                               20
 Rick James                  Superfreak                                                 17
+New Order                   Bizarre Love Triangle                                      14
 Christopher Cross           Ride Like The Wind                                         13
 Janet Jackson               Rhythm Nation                                              13
-New Order                   Bizarre Love Triangle                                      13
 Cure                        Why Can't I Be You                                         12
 Stevie Nicks                Edge Of Seventeen                                          12
 A Flock Of Seagulls         I Ran                                                      11

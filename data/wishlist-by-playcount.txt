@@ -1,28 +1,28 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      170
-Talk Talk                   It's My Life                                              149
-Tom Petty                   Free Falling                                              147
-Proclaimers                 I'm Gonna Be                                              142
-Bob Marley and The Wailers  Could You Be Loved                                        137
-Fleetwood Mac               Everywhere                                                135
-Daryl Hall and John Oates   You Make My Dreams                                        107
-Crowded House               Don't Dream It's Over                                     102
+Journey                     Don't Stop Believin'                                      171
+Talk Talk                   It's My Life                                              151
+Tom Petty                   Free Falling                                              148
+Proclaimers                 I'm Gonna Be                                              145
+Bob Marley and The Wailers  Could You Be Loved                                        139
+Fleetwood Mac               Everywhere                                                136
+Daryl Hall and John Oates   You Make My Dreams                                        108
+Crowded House               Don't Dream It's Over                                     103
 Hall and Oates              Out Of Touch                                               91
 Bon Jovi                    Bad Medicine                                               90
 Depeche Mode                Personal Jesus                                             88
 Lightning Seeds             Pure                                                       87
-Smiths                      This Charming Man                                          81
+Smiths                      This Charming Man                                          82
 Luther Vandross             Never Too Much                                             77
-Cure                        Just Like Heaven                                           75
+Cure                        Just Like Heaven                                           76
 Grandmaster Flash           The Message                                                72
-Smiths                      How Soon Is Now?                                           70
+Smiths                      How Soon Is Now?                                           71
 Smiths                      Ask                                                        68
-Bruce Springsteen           Hungry Heart                                               66
+Bruce Springsteen           Hungry Heart                                               67
 R.E.M                       Stand.                                                     66
 Queen                       Hammer To Fall                                             64
-Bob Marley and The Wailers  Three Little Birds                                         62
-Smiths                      Heaven Knows I'm Miserable Now                             60
+Bob Marley and The Wailers  Three Little Birds                                         63
+Smiths                      Heaven Knows I'm Miserable Now                             61
 Cure                        In Between Days                                            55
 Tracy Chapman               Talkin' 'bout A Revolution                                 37
 Tracy Chapman               Baby Can I Hold You                                        33
@@ -30,8 +30,8 @@ Bad Manners                 Lip Up Fatty                                        
 Rick James                  Superfreak                                                 17
 New Order                   Bizarre Love Triangle                                      14
 Christopher Cross           Ride Like The Wind                                         13
+Cure                        Why Can't I Be You                                         13
 Janet Jackson               Rhythm Nation                                              13
-Cure                        Why Can't I Be You                                         12
 Stevie Nicks                Edge Of Seventeen                                          12
 A Flock Of Seagulls         I Ran                                                      11
 Clash                       I Fought The Law                                           11
@@ -61,6 +61,7 @@ Chris Rea                   On The Beach                                        
 Cure                        A Forest                                                    3
 De La Soul                  Me Myself & I                                               3
 Dire Straits                Twisting By The Pool                                        3
+Dolly Parton                9 to 5                                                      3
 Echo and The Bunnymen       Lips Like Sugar                                             3
 Elvis Costello              Everyday I Write The Book                                   3
 S.O.S. Band                 Just Be Good To Me                                          3
@@ -69,7 +70,6 @@ A Guy Called Gerald         Voodoo Ray                                          
 Billy Joel                  The Longest Time                                            2
 Creatures                   Miss The Girl                                               2
 David Bowie                 Magic Dance                                                 2
-Dolly Parton                9 to 5                                                      2
 Donna Allen                 Joy And Pain                                                2
 Kids from Fame              Hi Fidelity                                                 2
 Pat Benatar                 All Fired Up                                                2
@@ -109,10 +109,12 @@ Desireless                  Voyage Voyage                                       
 Devo                        Whip It                                                     1
 Donna Summer                Love Is In Control                                          1
 Eagles                      Take It Easy                                                1
+Elo                         Here Is The News                                            1
 Elo                         Ticket To The Moon                                          1
 Elton John                  Sacrifice                                                   1
 Eurythmics                  Revival                                                     1
 Fleetwood Mac               Seven Wonders                                               1
+Genesis                     No Reply At All                                             1
 George Benson               Love X Love                                                 1
 George Harrison             All Those Years Ago                                         1
 George Michael              Kissing A Fool                                              1
@@ -137,6 +139,7 @@ Kirsty MacColl              Free World                                          
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
+Madness                     Shut Up                                                     1
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1

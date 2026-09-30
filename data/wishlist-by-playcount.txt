@@ -1,19 +1,19 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      171
+Journey                     Don't Stop Believin'                                      173
 Talk Talk                   It's My Life                                              151
-Tom Petty                   Free Falling                                              148
+Tom Petty                   Free Falling                                              149
 Proclaimers                 I'm Gonna Be                                              145
-Bob Marley and The Wailers  Could You Be Loved                                        139
+Bob Marley and The Wailers  Could You Be Loved                                        140
 Fleetwood Mac               Everywhere                                                136
 Daryl Hall and John Oates   You Make My Dreams                                        108
 Crowded House               Don't Dream It's Over                                     103
+Bon Jovi                    Bad Medicine                                               91
 Hall and Oates              Out Of Touch                                               91
-Bon Jovi                    Bad Medicine                                               90
 Depeche Mode                Personal Jesus                                             88
 Lightning Seeds             Pure                                                       87
 Smiths                      This Charming Man                                          82
-Luther Vandross             Never Too Much                                             77
+Luther Vandross             Never Too Much                                             78
 Cure                        Just Like Heaven                                           76
 Grandmaster Flash           The Message                                                72
 Smiths                      How Soon Is Now?                                           71
@@ -49,9 +49,9 @@ Smiths                      There Is A Light That Never Goes Out                
 Smiths                      William, It Was Really Nothing                              7
 Prince                      I Would Die 4 U                                             6
 Queen                       Who Wants To Live Forever                                   6
+Smiths                      Please, Please, Please, Let Me Get What I Want              6
 Smiths                      Stop Me If You've Heard This One Before                     6
 Stranglers                  Always The Sun                                              6
-Smiths                      Please, Please, Please, Let Me Get What I Want              5
 Style Council               Long Hot Summer                                             5
 Yello                       Oh Yeah                                                     5
 Fleetwood Mac               Gypsy                                                       4

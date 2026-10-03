@@ -19,7 +19,7 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              3
 Billy Idol                  Eyes Without A Face                                         8
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        141
+Bob Marley and The Wailers  Could You Be Loved                                        142
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         64
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -45,13 +45,13 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         13
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        109
+Daryl Hall and John Oates   You Make My Dreams                                        110
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Deacon Blue                 Love And Regret                                             1
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                 10
-Depeche Mode                Personal Jesus                                             89
+Depeche Mode                Personal Jesus                                             90
 Depeche Mode                Shake The Disease                                          10
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -81,7 +81,7 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                               92
+Hall and Oates              Out Of Touch                                               93
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                1
 Inxs                        Never Tear Us Apart                                         8
@@ -90,7 +90,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               1
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      174
+Journey                     Don't Stop Believin'                                      175
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -129,11 +129,11 @@ Prince                      Partyman                                            
 Proclaimers                 I'm Gonna Be                                              147
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             64
+Queen                       Hammer To Fall                                             65
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           2
 Queen                       Who Wants To Live Forever                                   6
-R.E.M                       Stand.                                                     67
+R.E.M                       Stand.                                                     68
 Rick James                  Superfreak                                                 17
 Rolling Stones              Rock and a Hard Place                                       1
 Rolling Stones              She's So Cold                                               2
@@ -148,7 +148,7 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        68
-Smiths                      Heaven Knows I'm Miserable Now                             62
+Smiths                      Heaven Knows I'm Miserable Now                             63
 Smiths                      How Soon Is Now?                                           72
 Smiths                      Please, Please, Please, Let Me Get What I Want              6
 Smiths                      Stop Me If You Think You've Heard This One Before           1

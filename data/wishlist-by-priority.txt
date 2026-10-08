@@ -1,9 +1,9 @@
           artist                           title                  play_count
 --------------------------  ------------------------------------  ----------
 Bob Marley and The Wailers  Three Little Birds                             1
-Crowded House               Don't Dream It's Over                          2
+Crowded House               Don't Dream It's Over                          3
 Daryl Hall and John Oates   You Make My Dreams                             1
-Depeche Mode                Personal Jesus                                 1
+Depeche Mode                Personal Jesus                                 2
 Fleetwood Mac               Everywhere                                     2
 Grandmaster Flash           The Message                                    1
 Journey                     Don't Stop Believin'                           1

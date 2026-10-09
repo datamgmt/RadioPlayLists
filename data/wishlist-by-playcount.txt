@@ -1,21 +1,21 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      179
-Talk Talk                   It's My Life                                              157
-Tom Petty                   Free Falling                                              154
-Proclaimers                 I'm Gonna Be                                              150
-Bob Marley and The Wailers  Could You Be Loved                                        143
-Fleetwood Mac               Everywhere                                                139
-Daryl Hall and John Oates   You Make My Dreams                                        111
+Journey                     Don't Stop Believin'                                      180
+Talk Talk                   It's My Life                                              158
+Tom Petty                   Free Falling                                              155
+Proclaimers                 I'm Gonna Be                                              151
+Bob Marley and The Wailers  Could You Be Loved                                        144
+Fleetwood Mac               Everywhere                                                141
+Daryl Hall and John Oates   You Make My Dreams                                        112
 Crowded House               Don't Dream It's Over                                     107
 Hall and Oates              Out Of Touch                                               95
 Bon Jovi                    Bad Medicine                                               94
 Depeche Mode                Personal Jesus                                             92
-Lightning Seeds             Pure                                                       90
+Lightning Seeds             Pure                                                       91
 Smiths                      This Charming Man                                          84
 Luther Vandross             Never Too Much                                             81
 Cure                        Just Like Heaven                                           79
-Grandmaster Flash           The Message                                                74
+Grandmaster Flash           The Message                                                75
 Smiths                      How Soon Is Now?                                           74
 Bruce Springsteen           Hungry Heart                                               69
 R.E.M                       Stand.                                                     69
@@ -54,9 +54,9 @@ Smiths                      Stop Me If You've Heard This One Before             
 Stranglers                  Always The Sun                                              6
 Yello                       Oh Yeah                                                     6
 Style Council               Long Hot Summer                                             5
+Beloved                     The Sun Rising                                              4
 Fleetwood Mac               Gypsy                                                       4
 Abba                        Lay All Your Love On Me                                     3
-Beloved                     The Sun Rising                                              3
 Chris Rea                   On The Beach                                                3
 Cure                        A Forest                                                    3
 De La Soul                  Me Myself & I                                               3

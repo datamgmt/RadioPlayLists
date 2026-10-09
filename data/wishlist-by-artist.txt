@@ -16,10 +16,10 @@ Bangles                     Be With You                                         
 Beach Boys                  California Girls                                            1
 Beastie Boys                No Sleep Till Brooklyn                                      1
 Beat                        Best Friend                                                 1
-Beloved                     The Sun Rising                                              3
+Beloved                     The Sun Rising                                              4
 Billy Idol                  Eyes Without A Face                                         8
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        143
+Bob Marley and The Wailers  Could You Be Loved                                        144
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         64
 Bodysnatchers               Let's Do Rock Steady                                        8
@@ -46,7 +46,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         13
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        111
+Daryl Hall and John Oates   You Make My Dreams                                        112
 David Bowie                 Magic Dance                                                 2
 De La Soul                  Me Myself & I                                               3
 Deacon Blue                 Love And Regret                                             1
@@ -68,7 +68,7 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                139
+Fleetwood Mac               Everywhere                                                141
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 Genesis                     No Reply At All                                             1
@@ -78,7 +78,7 @@ George Michael              Kissing A Fool                                      
 Georgia Satellites          Battleship Chains                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                74
+Grandmaster Flash           The Message                                                75
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -92,7 +92,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      179
+Journey                     Don't Stop Believin'                                      180
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -103,7 +103,7 @@ Kirsty MacColl              Free World                                          
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                       90
+Lightning Seeds             Pure                                                       91
 Luther Vandross             Never Too Much                                             81
 Madness                     Shut Up                                                     1
 Mary Jane Girls             All Night Long                                              1
@@ -128,7 +128,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             6
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              150
+Proclaimers                 I'm Gonna Be                                              151
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             66
@@ -171,14 +171,14 @@ Stranglers                  Always The Sun                                      
 Style Council               Long Hot Summer                                             5
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
-Talk Talk                   It's My Life                                              157
+Talk Talk                   It's My Life                                              158
 Talking Heads               Burning Down The House                                      8
 Tears For Fears             Woman In Chains                                             1
 Thompson Twins              Lay Your Hands On Me                                        1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              154
+Tom Petty                   Free Falling                                              155
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        34
 Tracy Chapman               Talkin' 'bout A Revolution                                 37

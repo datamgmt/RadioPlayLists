@@ -1,34 +1,34 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      182
-Talk Talk                   It's My Life                                              159
-Tom Petty                   Free Falling                                              156
+Journey                     Don't Stop Believin'                                      183
+Talk Talk                   It's My Life                                              160
+Tom Petty                   Free Falling                                              157
 Proclaimers                 I'm Gonna Be                                              152
-Bob Marley and The Wailers  Could You Be Loved                                        144
-Fleetwood Mac               Everywhere                                                141
-Daryl Hall and John Oates   You Make My Dreams                                        112
+Bob Marley and The Wailers  Could You Be Loved                                        146
+Fleetwood Mac               Everywhere                                                142
+Daryl Hall and John Oates   You Make My Dreams                                        113
 Crowded House               Don't Dream It's Over                                     107
-Hall and Oates              Out Of Touch                                               96
-Bon Jovi                    Bad Medicine                                               94
-Depeche Mode                Personal Jesus                                             93
-Lightning Seeds             Pure                                                       91
-Smiths                      This Charming Man                                          85
+Hall and Oates              Out Of Touch                                               97
+Bon Jovi                    Bad Medicine                                               95
+Depeche Mode                Personal Jesus                                             94
+Lightning Seeds             Pure                                                       93
+Smiths                      This Charming Man                                          86
 Luther Vandross             Never Too Much                                             81
-Cure                        Just Like Heaven                                           79
+Cure                        Just Like Heaven                                           80
 Grandmaster Flash           The Message                                                75
-Smiths                      How Soon Is Now?                                           74
+Smiths                      How Soon Is Now?                                           75
 Bruce Springsteen           Hungry Heart                                               70
+R.E.M                       Stand.                                                     70
 Smiths                      Ask                                                        70
-R.E.M                       Stand.                                                     69
 Queen                       Hammer To Fall                                             67
-Bob Marley and The Wailers  Three Little Birds                                         65
-Smiths                      Heaven Knows I'm Miserable Now                             64
+Bob Marley and The Wailers  Three Little Birds                                         66
+Smiths                      Heaven Knows I'm Miserable Now                             65
 Cure                        In Between Days                                            58
-Tracy Chapman               Talkin' 'bout A Revolution                                 38
+Tracy Chapman               Talkin' 'bout A Revolution                                 39
 Tracy Chapman               Baby Can I Hold You                                        34
 Bad Manners                 Lip Up Fatty                                               21
 Rick James                  Superfreak                                                 18
-New Order                   Bizarre Love Triangle                                      14
+New Order                   Bizarre Love Triangle                                      15
 Christopher Cross           Ride Like The Wind                                         13
 Cure                        Why Can't I Be You                                         13
 Janet Jackson               Rhythm Nation                                              13
@@ -44,12 +44,12 @@ Paul Simon                  Diamonds On The Soles Of Her Shoes                  
 Billy Idol                  Eyes Without A Face                                         8
 Bodysnatchers               Let's Do Rock Steady                                        8
 Inxs                        Never Tear Us Apart                                         8
+Smiths                      There Is A Light That Never Goes Out                        8
 Talking Heads               Burning Down The House                                      8
+Prince                      I Would Die 4 U                                             7
 Queen                       Who Wants To Live Forever                                   7
-Smiths                      There Is A Light That Never Goes Out                        7
 Smiths                      William, It Was Really Nothing                              7
 Stranglers                  Always The Sun                                              7
-Prince                      I Would Die 4 U                                             6
 Smiths                      Please, Please, Please, Let Me Get What I Want              6
 Smiths                      Stop Me If You've Heard This One Before                     6
 Yello                       Oh Yeah                                                     6
@@ -100,6 +100,7 @@ Bow Wow Wow                 C30 C60 C90 Go!                                     
 Bruce Springsteen           Tunnel Of Love                                              1
 Bryan Adams                 Heat Of The Night                                           1
 Bryan Ferry                 Don't Stop The Dance                                        1
+Cameo                       Candy                                                       1
 Change and Luther Vandross  The Glow Of Love                                            1
 Cool Notes                  In Your Car                                                 1
 Culture Club                I'll Tumble 4 Ya                                            1
@@ -147,6 +148,7 @@ Miami Sound Machine         Bad Boy                                             
 Michael Jackson             Man In The Mirror                                           1
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1
+Nick Heyward                Whistle Down The Wind                                       1
 Oliver Cheatham             Get Down Saturday Night                                     1
 Omd                         If You Leave                                                1
 Omd                         Secret                                                      1

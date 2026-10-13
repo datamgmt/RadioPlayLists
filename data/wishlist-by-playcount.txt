@@ -1,26 +1,26 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      183
-Talk Talk                   It's My Life                                              160
+Journey                     Don't Stop Believin'                                      184
+Talk Talk                   It's My Life                                              161
 Tom Petty                   Free Falling                                              157
 Proclaimers                 I'm Gonna Be                                              152
 Bob Marley and The Wailers  Could You Be Loved                                        146
-Fleetwood Mac               Everywhere                                                142
+Fleetwood Mac               Everywhere                                                143
 Daryl Hall and John Oates   You Make My Dreams                                        113
-Crowded House               Don't Dream It's Over                                     107
+Crowded House               Don't Dream It's Over                                     108
 Hall and Oates              Out Of Touch                                               97
 Bon Jovi                    Bad Medicine                                               95
 Depeche Mode                Personal Jesus                                             94
 Lightning Seeds             Pure                                                       93
 Smiths                      This Charming Man                                          86
-Luther Vandross             Never Too Much                                             81
-Cure                        Just Like Heaven                                           80
-Grandmaster Flash           The Message                                                75
+Luther Vandross             Never Too Much                                             82
+Cure                        Just Like Heaven                                           81
+Grandmaster Flash           The Message                                                76
 Smiths                      How Soon Is Now?                                           75
+Smiths                      Ask                                                        71
 Bruce Springsteen           Hungry Heart                                               70
 R.E.M                       Stand.                                                     70
-Smiths                      Ask                                                        70
-Queen                       Hammer To Fall                                             67
+Queen                       Hammer To Fall                                             68
 Bob Marley and The Wailers  Three Little Birds                                         66
 Smiths                      Heaven Knows I'm Miserable Now                             65
 Cure                        In Between Days                                            58
@@ -68,6 +68,7 @@ Kids from Fame              Hi Fidelity                                         
 S.O.S. Band                 Just Be Good To Me                                          3
 Simple Minds                Someone Somewhere In Summertime                             3
 A Guy Called Gerald         Voodoo Ray                                                  2
+Beat                        Best Friend                                                 2
 Billy Joel                  The Longest Time                                            2
 Creatures                   Miss The Girl                                               2
 David Bowie                 Magic Dance                                                 2
@@ -92,7 +93,6 @@ Bananarama                  Rough Justice                                       
 Bangles                     Be With You                                                 1
 Beach Boys                  California Girls                                            1
 Beastie Boys                No Sleep Till Brooklyn                                      1
-Beat                        Best Friend                                                 1
 Bob Marley and The Wailers  Redemption Song                                             1
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
@@ -146,6 +146,7 @@ Madness                     Shut Up                                             
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
+Motorhead                   Ace Of Spades                                               1
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1
 Nick Heyward                Whistle Down The Wind                                       1

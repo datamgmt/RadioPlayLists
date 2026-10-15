@@ -1,35 +1,35 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      184
-Talk Talk                   It's My Life                                              161
-Tom Petty                   Free Falling                                              157
-Proclaimers                 I'm Gonna Be                                              152
-Bob Marley and The Wailers  Could You Be Loved                                        146
-Fleetwood Mac               Everywhere                                                143
-Daryl Hall and John Oates   You Make My Dreams                                        113
-Crowded House               Don't Dream It's Over                                     108
-Hall and Oates              Out Of Touch                                               97
+Journey                     Don't Stop Believin'                                      185
+Talk Talk                   It's My Life                                              162
+Tom Petty                   Free Falling                                              159
+Proclaimers                 I'm Gonna Be                                              153
+Bob Marley and The Wailers  Could You Be Loved                                        148
+Fleetwood Mac               Everywhere                                                144
+Daryl Hall and John Oates   You Make My Dreams                                        115
+Crowded House               Don't Dream It's Over                                     109
+Hall and Oates              Out Of Touch                                               98
 Bon Jovi                    Bad Medicine                                               95
-Depeche Mode                Personal Jesus                                             94
-Lightning Seeds             Pure                                                       93
-Smiths                      This Charming Man                                          86
-Luther Vandross             Never Too Much                                             82
+Depeche Mode                Personal Jesus                                             95
+Lightning Seeds             Pure                                                       94
+Smiths                      This Charming Man                                          87
+Luther Vandross             Never Too Much                                             83
 Cure                        Just Like Heaven                                           81
 Grandmaster Flash           The Message                                                76
 Smiths                      How Soon Is Now?                                           75
+R.E.M                       Stand.                                                     71
 Smiths                      Ask                                                        71
 Bruce Springsteen           Hungry Heart                                               70
-R.E.M                       Stand.                                                     70
 Queen                       Hammer To Fall                                             68
 Bob Marley and The Wailers  Three Little Birds                                         66
-Smiths                      Heaven Knows I'm Miserable Now                             65
+Smiths                      Heaven Knows I'm Miserable Now                             66
 Cure                        In Between Days                                            58
 Tracy Chapman               Talkin' 'bout A Revolution                                 39
 Tracy Chapman               Baby Can I Hold You                                        34
 Bad Manners                 Lip Up Fatty                                               21
 Rick James                  Superfreak                                                 18
 New Order                   Bizarre Love Triangle                                      15
-Christopher Cross           Ride Like The Wind                                         13
+Christopher Cross           Ride Like The Wind                                         14
 Cure                        Why Can't I Be You                                         13
 Janet Jackson               Rhythm Nation                                              13
 Stevie Nicks                Edge Of Seventeen                                          13
@@ -151,6 +151,7 @@ New Order                   Temptation                                          
 New Order                   Thieves Like Us                                             1
 Nick Heyward                Whistle Down The Wind                                       1
 Oliver Cheatham             Get Down Saturday Night                                     1
+Omd                         Electricity                                                 1
 Omd                         If You Leave                                                1
 Omd                         Secret                                                      1
 Omd                         So In Love                                                  1

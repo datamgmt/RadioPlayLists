@@ -1,27 +1,27 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      187
-Talk Talk                   It's My Life                                              165
-Tom Petty                   Free Falling                                              161
-Proclaimers                 I'm Gonna Be                                              156
-Bob Marley and The Wailers  Could You Be Loved                                        150
-Fleetwood Mac               Everywhere                                                146
+Journey                     Don't Stop Believin'                                      188
+Talk Talk                   It's My Life                                              167
+Tom Petty                   Free Falling                                              163
+Proclaimers                 I'm Gonna Be                                              157
+Bob Marley and The Wailers  Could You Be Loved                                        151
+Fleetwood Mac               Everywhere                                                147
 Daryl Hall and John Oates   You Make My Dreams                                        118
-Crowded House               Don't Dream It's Over                                     110
+Crowded House               Don't Dream It's Over                                     111
 Hall and Oates              Out Of Touch                                              100
 Bon Jovi                    Bad Medicine                                               96
 Depeche Mode                Personal Jesus                                             96
-Lightning Seeds             Pure                                                       95
-Smiths                      This Charming Man                                          88
-Luther Vandross             Never Too Much                                             85
+Lightning Seeds             Pure                                                       96
+Smiths                      This Charming Man                                          89
+Luther Vandross             Never Too Much                                             86
 Cure                        Just Like Heaven                                           82
 Grandmaster Flash           The Message                                                78
 Smiths                      How Soon Is Now?                                           76
+R.E.M                       Stand.                                                     72
 Smiths                      Ask                                                        72
 Bruce Springsteen           Hungry Heart                                               71
-R.E.M                       Stand.                                                     71
-Queen                       Hammer To Fall                                             70
-Bob Marley and The Wailers  Three Little Birds                                         67
+Queen                       Hammer To Fall                                             71
+Bob Marley and The Wailers  Three Little Birds                                         68
 Smiths                      Heaven Knows I'm Miserable Now                             66
 Cure                        In Between Days                                            59
 Tracy Chapman               Talkin' 'bout A Revolution                                 39
@@ -41,11 +41,11 @@ Inxs and Jimmy Barnes       Good Times                                          
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10
 Cure                        Lullaby                                                     9
+Talking Heads               Burning Down The House                                      9
 Billy Idol                  Eyes Without A Face                                         8
 Bodysnatchers               Let's Do Rock Steady                                        8
 Inxs                        Never Tear Us Apart                                         8
 Smiths                      There Is A Light That Never Goes Out                        8
-Talking Heads               Burning Down The House                                      8
 Prince                      I Would Die 4 U                                             7
 Queen                       Who Wants To Live Forever                                   7
 Smiths                      Stop Me If You've Heard This One Before                     7

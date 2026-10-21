@@ -1,6 +1,6 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      188
+Journey                     Don't Stop Believin'                                      189
 Talk Talk                   It's My Life                                              167
 Tom Petty                   Free Falling                                              163
 Proclaimers                 I'm Gonna Be                                              157
@@ -9,14 +9,14 @@ Fleetwood Mac               Everywhere                                          
 Daryl Hall and John Oates   You Make My Dreams                                        118
 Crowded House               Don't Dream It's Over                                     111
 Hall and Oates              Out Of Touch                                              100
-Bon Jovi                    Bad Medicine                                               96
-Depeche Mode                Personal Jesus                                             96
+Bon Jovi                    Bad Medicine                                               97
+Depeche Mode                Personal Jesus                                             97
 Lightning Seeds             Pure                                                       96
 Smiths                      This Charming Man                                          89
 Luther Vandross             Never Too Much                                             86
 Cure                        Just Like Heaven                                           82
 Grandmaster Flash           The Message                                                78
-Smiths                      How Soon Is Now?                                           76
+Smiths                      How Soon Is Now?                                           77
 R.E.M                       Stand.                                                     72
 Smiths                      Ask                                                        72
 Bruce Springsteen           Hungry Heart                                               71
@@ -48,10 +48,10 @@ Inxs                        Never Tear Us Apart                                 
 Smiths                      There Is A Light That Never Goes Out                        8
 Prince                      I Would Die 4 U                                             7
 Queen                       Who Wants To Live Forever                                   7
+Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Smiths                      Stop Me If You've Heard This One Before                     7
 Smiths                      William, It Was Really Nothing                              7
 Stranglers                  Always The Sun                                              7
-Smiths                      Please, Please, Please, Let Me Get What I Want              6
 Yello                       Oh Yeah                                                     6
 Style Council               Long Hot Summer                                             5
 Beloved                     The Sun Rising                                              4

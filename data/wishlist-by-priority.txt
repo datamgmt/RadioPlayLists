@@ -1,19 +1,21 @@
-          artist                           title                  play_count
---------------------------  ------------------------------------  ----------
-Bob Marley and The Wailers  Three Little Birds                             1
-Crowded House               Don't Dream It's Over                          3
-Daryl Hall and John Oates   You Make My Dreams                             1
-Depeche Mode                Personal Jesus                                 2
-Fleetwood Mac               Everywhere                                     2
-Grandmaster Flash           The Message                                    1
-Journey                     Don't Stop Believin'                           1
-Luther Vandross             Never Too Much                                 2
-Rick James                  Superfreak                                     2
-Talk Talk                   It's My Life                                   2
-The Cure                    Lullaby                                        1
-The Lightning Seeds         Pure                                           1
-The Proclaimers             I'm Gonna Be                                   2
-The Smiths                  How Soon Is Now?                               1
-The Smiths                  The Boy With A Thorn In His Side               1
-The Smiths                  There Is A Light That Never Goes Out           1
-Tom Petty                   Free Falling                                   3
+          artist                                title                       play_count
+--------------------------  ----------------------------------------------  ----------
+Bob Marley and The Wailers  Three Little Birds                                       1
+Bon Jovi                    Bad Medicine                                             1
+Crowded House               Don't Dream It's Over                                    3
+Daryl Hall and John Oates   You Make My Dreams                                       1
+Depeche Mode                Personal Jesus                                           3
+Fleetwood Mac               Everywhere                                               2
+Grandmaster Flash           The Message                                              1
+Journey                     Don't Stop Believin'                                     2
+Luther Vandross             Never Too Much                                           2
+Rick James                  Superfreak                                               2
+Talk Talk                   It's My Life                                             2
+The Cure                    Lullaby                                                  1
+The Lightning Seeds         Pure                                                     1
+The Proclaimers             I'm Gonna Be                                             2
+The Smiths                  How Soon Is Now?                                         2
+The Smiths                  Please, Please, Please, Let Me Get What I Want           1
+The Smiths                  The Boy With A Thorn In His Side                         1
+The Smiths                  There Is A Light That Never Goes Out                     1
+Tom Petty                   Free Falling                                             3

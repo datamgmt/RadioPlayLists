@@ -1,18 +1,18 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      196
-Talk Talk                   It's My Life                                              173
-Tom Petty                   Free Falling                                              170
-Proclaimers                 I'm Gonna Be                                              161
+Journey                     Don't Stop Believin'                                      197
+Talk Talk                   It's My Life                                              175
+Tom Petty                   Free Falling                                              171
+Proclaimers                 I'm Gonna Be                                              162
 Bob Marley and The Wailers  Could You Be Loved                                        155
 Fleetwood Mac               Everywhere                                                149
 Daryl Hall and John Oates   You Make My Dreams                                        122
-Crowded House               Don't Dream It's Over                                     113
+Crowded House               Don't Dream It's Over                                     114
 Hall and Oates              Out Of Touch                                              103
 Bon Jovi                    Bad Medicine                                               99
 Depeche Mode                Personal Jesus                                             99
 Lightning Seeds             Pure                                                       99
-Smiths                      This Charming Man                                          92
+Smiths                      This Charming Man                                          93
 Luther Vandross             Never Too Much                                             87
 Cure                        Just Like Heaven                                           84
 Grandmaster Flash           The Message                                                81
@@ -24,7 +24,7 @@ Smiths                      Ask                                                 
 Bob Marley and The Wailers  Three Little Birds                                         71
 Smiths                      Heaven Knows I'm Miserable Now                             68
 Cure                        In Between Days                                            61
-Tracy Chapman               Talkin' 'bout A Revolution                                 41
+Tracy Chapman               Talkin' 'bout A Revolution                                 42
 Tracy Chapman               Baby Can I Hold You                                        34
 Bad Manners                 Lip Up Fatty                                               22
 Rick James                  Superfreak                                                 19
@@ -34,9 +34,9 @@ Cure                        Why Can't I Be You                                  
 Stevie Nicks                Edge Of Seventeen                                          14
 Janet Jackson               Rhythm Nation                                              13
 Clash                       I Fought The Law                                           12
+Depeche Mode                Shake The Disease                                          12
 A Flock Of Seagulls         I Ran                                                      11
 Def Leppard                 Love Bites                                                 11
-Depeche Mode                Shake The Disease                                          11
 Inxs and Jimmy Barnes       Good Times                                                 10
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10

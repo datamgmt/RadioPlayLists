@@ -1,35 +1,35 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      197
-Talk Talk                   It's My Life                                              175
-Tom Petty                   Free Falling                                              171
-Proclaimers                 I'm Gonna Be                                              162
-Bob Marley and The Wailers  Could You Be Loved                                        155
-Fleetwood Mac               Everywhere                                                149
-Daryl Hall and John Oates   You Make My Dreams                                        122
+Journey                     Don't Stop Believin'                                      199
+Talk Talk                   It's My Life                                              176
+Tom Petty                   Free Falling                                              172
+Proclaimers                 I'm Gonna Be                                              164
+Bob Marley and The Wailers  Could You Be Loved                                        158
+Fleetwood Mac               Everywhere                                                151
+Daryl Hall and John Oates   You Make My Dreams                                        124
 Crowded House               Don't Dream It's Over                                     114
-Hall and Oates              Out Of Touch                                              103
-Bon Jovi                    Bad Medicine                                               99
-Depeche Mode                Personal Jesus                                             99
-Lightning Seeds             Pure                                                       99
+Hall and Oates              Out Of Touch                                              104
+Depeche Mode                Personal Jesus                                            101
+Bon Jovi                    Bad Medicine                                              100
+Lightning Seeds             Pure                                                      100
 Smiths                      This Charming Man                                          93
-Luther Vandross             Never Too Much                                             87
-Cure                        Just Like Heaven                                           84
-Grandmaster Flash           The Message                                                81
-Smiths                      How Soon Is Now?                                           79
-Bruce Springsteen           Hungry Heart                                               75
-R.E.M                       Stand.                                                     75
-Queen                       Hammer To Fall                                             74
-Smiths                      Ask                                                        73
-Bob Marley and The Wailers  Three Little Birds                                         71
-Smiths                      Heaven Knows I'm Miserable Now                             68
-Cure                        In Between Days                                            61
+Luther Vandross             Never Too Much                                             88
+Cure                        Just Like Heaven                                           85
+Grandmaster Flash           The Message                                                82
+Smiths                      How Soon Is Now?                                           80
+Bruce Springsteen           Hungry Heart                                               76
+R.E.M                       Stand.                                                     76
+Queen                       Hammer To Fall                                             75
+Smiths                      Ask                                                        74
+Bob Marley and The Wailers  Three Little Birds                                         72
+Smiths                      Heaven Knows I'm Miserable Now                             69
+Cure                        In Between Days                                            62
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
 Tracy Chapman               Baby Can I Hold You                                        34
-Bad Manners                 Lip Up Fatty                                               22
+Bad Manners                 Lip Up Fatty                                               23
 Rick James                  Superfreak                                                 19
-New Order                   Bizarre Love Triangle                                      15
-Christopher Cross           Ride Like The Wind                                         14
+New Order                   Bizarre Love Triangle                                      16
+Christopher Cross           Ride Like The Wind                                         15
 Cure                        Why Can't I Be You                                         14
 Stevie Nicks                Edge Of Seventeen                                          14
 Janet Jackson               Rhythm Nation                                              13
@@ -37,16 +37,16 @@ Clash                       I Fought The Law                                    
 Depeche Mode                Shake The Disease                                          12
 A Flock Of Seagulls         I Ran                                                      11
 Def Leppard                 Love Bites                                                 11
-Inxs and Jimmy Barnes       Good Times                                                 10
+Inxs and Jimmy Barnes       Good Times                                                 11
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10
 Billy Idol                  Eyes Without A Face                                         9
 Bodysnatchers               Let's Do Rock Steady                                        9
 Cure                        Lullaby                                                     9
+Smiths                      There Is A Light That Never Goes Out                        9
 Talking Heads               Burning Down The House                                      9
 Inxs                        Never Tear Us Apart                                         8
 Queen                       Who Wants To Live Forever                                   8
-Smiths                      There Is A Light That Never Goes Out                        8
 Smiths                      William, It Was Really Nothing                              8
 Yello                       Oh Yeah                                                     8
 Prince                      I Would Die 4 U                                             7
@@ -109,10 +109,12 @@ Bryan Adams                 Heat Of The Night                                   
 Bryan Ferry                 Don't Stop The Dance                                        1
 Cameo                       Candy                                                       1
 Change and Luther Vandross  The Glow Of Love                                            1
+Clash                       Train In Vain                                               1
 Cool Notes                  In Your Car                                                 1
 Culture Club                I'll Tumble 4 Ya                                            1
 Cure                        The Walk                                                    1
 Danny Wilson                The Second Summer Of Love                                   1
+David Bowie                 Scary Monsters                                              1
 Deacon Blue                 Love And Regret                                             1
 Debbie Gibson               Foolish Beat                                                1
 Desireless                  Voyage Voyage                                               1
@@ -129,8 +131,10 @@ George Benson               Love X Love                                         
 George Harrison             All Those Years Ago                                         1
 George Michael              Kissing A Fool                                              1
 Georgia Satellites          Battleship Chains                                           1
+Gerard McMann               Cry Little Sister                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
+Guns N Roses                Nightrain                                                   1
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
@@ -148,9 +152,11 @@ Kool and The Gang           Big Fun                                             
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
 Luther Vandross             She Won't Talk To Me                                        1
+Madness                     The Ghost Train                                             1
 Mary Jane Girls             All Night Long                                              1
 Miami Sound Machine         Bad Boy                                                     1
 Michael Jackson             Man In The Mirror                                           1
+Michael Jackson             Thriller                                                    1
 Motorhead                   Ace Of Spades                                               1
 New Order                   Temptation                                                  1
 New Order                   Thieves Like Us                                             1

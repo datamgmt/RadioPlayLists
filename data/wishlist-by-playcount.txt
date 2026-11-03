@@ -1,39 +1,39 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      199
-Talk Talk                   It's My Life                                              176
-Tom Petty                   Free Falling                                              172
-Proclaimers                 I'm Gonna Be                                              164
-Bob Marley and The Wailers  Could You Be Loved                                        158
+Journey                     Don't Stop Believin'                                      200
+Talk Talk                   It's My Life                                              178
+Tom Petty                   Free Falling                                              174
+Proclaimers                 I'm Gonna Be                                              166
+Bob Marley and The Wailers  Could You Be Loved                                        159
 Fleetwood Mac               Everywhere                                                151
 Daryl Hall and John Oates   You Make My Dreams                                        124
-Crowded House               Don't Dream It's Over                                     114
-Hall and Oates              Out Of Touch                                              104
-Depeche Mode                Personal Jesus                                            101
-Bon Jovi                    Bad Medicine                                              100
-Lightning Seeds             Pure                                                      100
-Smiths                      This Charming Man                                          93
-Luther Vandross             Never Too Much                                             88
+Crowded House               Don't Dream It's Over                                     115
+Hall and Oates              Out Of Touch                                              105
+Depeche Mode                Personal Jesus                                            102
+Bon Jovi                    Bad Medicine                                              101
+Lightning Seeds             Pure                                                      101
+Smiths                      This Charming Man                                          94
+Luther Vandross             Never Too Much                                             89
 Cure                        Just Like Heaven                                           85
-Grandmaster Flash           The Message                                                82
+Grandmaster Flash           The Message                                                83
 Smiths                      How Soon Is Now?                                           80
-Bruce Springsteen           Hungry Heart                                               76
+Bruce Springsteen           Hungry Heart                                               77
 R.E.M                       Stand.                                                     76
 Queen                       Hammer To Fall                                             75
-Smiths                      Ask                                                        74
+Smiths                      Ask                                                        75
 Bob Marley and The Wailers  Three Little Birds                                         72
 Smiths                      Heaven Knows I'm Miserable Now                             69
-Cure                        In Between Days                                            62
+Cure                        In Between Days                                            63
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
-Tracy Chapman               Baby Can I Hold You                                        34
+Tracy Chapman               Baby Can I Hold You                                        35
 Bad Manners                 Lip Up Fatty                                               23
 Rick James                  Superfreak                                                 19
 New Order                   Bizarre Love Triangle                                      16
 Christopher Cross           Ride Like The Wind                                         15
 Cure                        Why Can't I Be You                                         14
 Stevie Nicks                Edge Of Seventeen                                          14
+Clash                       I Fought The Law                                           13
 Janet Jackson               Rhythm Nation                                              13
-Clash                       I Fought The Law                                           12
 Depeche Mode                Shake The Disease                                          12
 A Flock Of Seagulls         I Ran                                                      11
 Def Leppard                 Love Bites                                                 11
@@ -46,10 +46,10 @@ Cure                        Lullaby                                             
 Smiths                      There Is A Light That Never Goes Out                        9
 Talking Heads               Burning Down The House                                      9
 Inxs                        Never Tear Us Apart                                         8
+Prince                      I Would Die 4 U                                             8
 Queen                       Who Wants To Live Forever                                   8
 Smiths                      William, It Was Really Nothing                              8
 Yello                       Oh Yeah                                                     8
-Prince                      I Would Die 4 U                                             7
 Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Smiths                      Stop Me If You've Heard This One Before                     7
 Stranglers                  Always The Sun                                              7
@@ -72,6 +72,7 @@ Beat                        Best Friend                                         
 Billy Joel                  The Longest Time                                            2
 Bruce Springsteen           Tunnel Of Love                                              2
 Creatures                   Miss The Girl                                               2
+Culture Club                I'll Tumble 4 Ya                                            2
 David Bowie                 Magic Dance                                                 2
 Donna Allen                 Joy And Pain                                                2
 Genesis                     No Reply At All                                             2
@@ -111,7 +112,6 @@ Cameo                       Candy                                               
 Change and Luther Vandross  The Glow Of Love                                            1
 Clash                       Train In Vain                                               1
 Cool Notes                  In Your Car                                                 1
-Culture Club                I'll Tumble 4 Ya                                            1
 Cure                        The Walk                                                    1
 Danny Wilson                The Second Summer Of Love                                   1
 David Bowie                 Scary Monsters                                              1
@@ -191,6 +191,7 @@ Spandau Ballet              I'll Fly For You                                    
 Specials                    Rat Race                                                    1
 Stevie Wonder               Do I Do                                                     1
 Stone Roses                 What The World Is Waiting For                               1
+Supertramp                  It's Raining Again                                          1
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1

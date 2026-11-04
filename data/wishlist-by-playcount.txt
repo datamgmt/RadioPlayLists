@@ -1,28 +1,28 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      200
+Journey                     Don't Stop Believin'                                      201
 Talk Talk                   It's My Life                                              178
-Tom Petty                   Free Falling                                              174
+Tom Petty                   Free Falling                                              175
 Proclaimers                 I'm Gonna Be                                              166
 Bob Marley and The Wailers  Could You Be Loved                                        159
-Fleetwood Mac               Everywhere                                                151
+Fleetwood Mac               Everywhere                                                152
 Daryl Hall and John Oates   You Make My Dreams                                        124
-Crowded House               Don't Dream It's Over                                     115
+Crowded House               Don't Dream It's Over                                     116
 Hall and Oates              Out Of Touch                                              105
+Bon Jovi                    Bad Medicine                                              102
 Depeche Mode                Personal Jesus                                            102
-Bon Jovi                    Bad Medicine                                              101
 Lightning Seeds             Pure                                                      101
-Smiths                      This Charming Man                                          94
+Smiths                      This Charming Man                                          95
 Luther Vandross             Never Too Much                                             89
 Cure                        Just Like Heaven                                           85
 Grandmaster Flash           The Message                                                83
-Smiths                      How Soon Is Now?                                           80
+Smiths                      How Soon Is Now?                                           81
 Bruce Springsteen           Hungry Heart                                               77
 R.E.M                       Stand.                                                     76
 Queen                       Hammer To Fall                                             75
 Smiths                      Ask                                                        75
 Bob Marley and The Wailers  Three Little Birds                                         72
-Smiths                      Heaven Knows I'm Miserable Now                             69
+Smiths                      Heaven Knows I'm Miserable Now                             70
 Cure                        In Between Days                                            63
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
 Tracy Chapman               Baby Can I Hold You                                        35
@@ -30,7 +30,7 @@ Bad Manners                 Lip Up Fatty                                        
 Rick James                  Superfreak                                                 19
 New Order                   Bizarre Love Triangle                                      16
 Christopher Cross           Ride Like The Wind                                         15
-Cure                        Why Can't I Be You                                         14
+Cure                        Why Can't I Be You                                         15
 Stevie Nicks                Edge Of Seventeen                                          14
 Clash                       I Fought The Law                                           13
 Janet Jackson               Rhythm Nation                                              13

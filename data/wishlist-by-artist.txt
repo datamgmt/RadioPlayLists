@@ -21,7 +21,7 @@ Beloved                     The Sun Rising                                      
 Big Country                 East Of Eden                                                1
 Billy Idol                  Eyes Without A Face                                         9
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        159
+Bob Marley and The Wailers  Could You Be Loved                                        160
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         72
 Bodysnatchers               Let's Do Rock Steady                                        9
@@ -29,7 +29,7 @@ Bon Jovi                    Bad Medicine                                        
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
-Bruce Springsteen           Hungry Heart                                               77
+Bruce Springsteen           Hungry Heart                                               78
 Bruce Springsteen           Spare Parts                                                 1
 Bruce Springsteen           Tunnel Of Love                                              2
 Bryan Adams                 Heat Of The Night                                           1
@@ -46,7 +46,7 @@ Crowded House               Don't Dream It's Over                               
 Culture Club                I'll Tumble 4 Ya                                            2
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            63
-Cure                        Just Like Heaven                                           85
+Cure                        Just Like Heaven                                           86
 Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         15
@@ -57,8 +57,8 @@ David Bowie                 Scary Monsters                                      
 De La Soul                  Me Myself & I                                               3
 Deacon Blue                 Love And Regret                                             1
 Debbie Gibson               Foolish Beat                                                1
-Def Leppard                 Love Bites                                                 11
-Depeche Mode                Personal Jesus                                            102
+Def Leppard                 Love Bites                                                 12
+Depeche Mode                Personal Jesus                                            103
 Depeche Mode                Shake The Disease                                          12
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -85,13 +85,13 @@ Georgia Satellites          Battleship Chains                                   
 Gerard McMann               Cry Little Sister                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                83
+Grandmaster Flash           The Message                                                84
 Guns N Roses                Nightrain                                                   1
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                              105
+Hall and Oates              Out Of Touch                                              106
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                2
 Inxs                        Never Tear Us Apart                                         8
@@ -111,8 +111,8 @@ Kirsty MacColl              Free World                                          
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                      101
-Luther Vandross             Never Too Much                                             89
+Lightning Seeds             Pure                                                      102
+Luther Vandross             Never Too Much                                             90
 Luther Vandross             She Won't Talk To Me                                        1
 Madness                     Shut Up                                                     2
 Madness                     The Ghost Train                                             1
@@ -142,7 +142,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             8
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              166
+Proclaimers                 I'm Gonna Be                                              167
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             75
@@ -150,7 +150,7 @@ Queen                       Las Palabras de Amor                                
 Queen                       Scandal                                                     1
 Queen                       The Invisible Man                                           2
 Queen                       Who Wants To Live Forever                                   8
-R.E.M                       Stand.                                                     76
+R.E.M                       Stand.                                                     77
 Rick James                  Superfreak                                                 19
 Rolling Stones              Rock and a Hard Place                                       1
 Rolling Stones              She's So Cold                                               2
@@ -187,7 +187,7 @@ Supertramp                  It's Raining Again                                  
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1
-Talk Talk                   It's My Life                                              178
+Talk Talk                   It's My Life                                              179
 Talking Heads               Burning Down The House                                      9
 Teardrop Explodes           Passionate Friend                                           1
 Tears For Fears             Woman In Chains                                             1

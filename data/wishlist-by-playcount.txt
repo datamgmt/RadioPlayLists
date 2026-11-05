@@ -1,24 +1,24 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      201
-Talk Talk                   It's My Life                                              178
+Talk Talk                   It's My Life                                              179
 Tom Petty                   Free Falling                                              175
-Proclaimers                 I'm Gonna Be                                              166
-Bob Marley and The Wailers  Could You Be Loved                                        159
+Proclaimers                 I'm Gonna Be                                              167
+Bob Marley and The Wailers  Could You Be Loved                                        160
 Fleetwood Mac               Everywhere                                                152
 Daryl Hall and John Oates   You Make My Dreams                                        124
 Crowded House               Don't Dream It's Over                                     116
-Hall and Oates              Out Of Touch                                              105
+Hall and Oates              Out Of Touch                                              106
+Depeche Mode                Personal Jesus                                            103
 Bon Jovi                    Bad Medicine                                              102
-Depeche Mode                Personal Jesus                                            102
-Lightning Seeds             Pure                                                      101
+Lightning Seeds             Pure                                                      102
 Smiths                      This Charming Man                                          95
-Luther Vandross             Never Too Much                                             89
-Cure                        Just Like Heaven                                           85
-Grandmaster Flash           The Message                                                83
+Luther Vandross             Never Too Much                                             90
+Cure                        Just Like Heaven                                           86
+Grandmaster Flash           The Message                                                84
 Smiths                      How Soon Is Now?                                           81
-Bruce Springsteen           Hungry Heart                                               77
-R.E.M                       Stand.                                                     76
+Bruce Springsteen           Hungry Heart                                               78
+R.E.M                       Stand.                                                     77
 Queen                       Hammer To Fall                                             75
 Smiths                      Ask                                                        75
 Bob Marley and The Wailers  Three Little Birds                                         72
@@ -34,9 +34,9 @@ Cure                        Why Can't I Be You                                  
 Stevie Nicks                Edge Of Seventeen                                          14
 Clash                       I Fought The Law                                           13
 Janet Jackson               Rhythm Nation                                              13
+Def Leppard                 Love Bites                                                 12
 Depeche Mode                Shake The Disease                                          12
 A Flock Of Seagulls         I Ran                                                      11
-Def Leppard                 Love Bites                                                 11
 Inxs and Jimmy Barnes       Good Times                                                 11
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10

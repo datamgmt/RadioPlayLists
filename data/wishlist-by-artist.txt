@@ -1,6 +1,6 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-A Flock Of Seagulls         I Ran                                                      11
+A Flock Of Seagulls         I Ran                                                      12
 A Guy Called Gerald         Voodoo Ray                                                  2
 Abba                        Lay All Your Love On Me                                     3
 Ac/dc                       Back In Black                                               1
@@ -21,9 +21,9 @@ Beloved                     The Sun Rising                                      
 Big Country                 East Of Eden                                                1
 Billy Idol                  Eyes Without A Face                                         9
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        160
+Bob Marley and The Wailers  Could You Be Loved                                        161
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         72
+Bob Marley and The Wailers  Three Little Birds                                         73
 Bodysnatchers               Let's Do Rock Steady                                        9
 Bon Jovi                    Bad Medicine                                              102
 Bon Jovi                    Lay Your Hands On Me                                        1
@@ -51,7 +51,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         15
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        124
+Daryl Hall and John Oates   You Make My Dreams                                        125
 David Bowie                 Magic Dance                                                 2
 David Bowie                 Scary Monsters                                              1
 De La Soul                  Me Myself & I                                               3
@@ -100,7 +100,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      201
+Journey                     Don't Stop Believin'                                      202
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -164,9 +164,9 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        75
+Smiths                      Ask                                                        76
 Smiths                      Heaven Knows I'm Miserable Now                             70
-Smiths                      How Soon Is Now?                                           81
+Smiths                      How Soon Is Now?                                           82
 Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Smiths                      Stop Me If You Think You've Heard This One Before           2
 Smiths                      Stop Me If You've Heard This One Before                     7
@@ -195,7 +195,7 @@ Thompson Twins              Lay Your Hands On Me                                
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              175
+Tom Petty                   Free Falling                                              176
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        35
 Tracy Chapman               Talkin' 'bout A Revolution                                 42

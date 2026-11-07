@@ -1,24 +1,24 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      202
-Talk Talk                   It's My Life                                              179
-Tom Petty                   Free Falling                                              176
-Proclaimers                 I'm Gonna Be                                              167
+Journey                     Don't Stop Believin'                                      203
+Talk Talk                   It's My Life                                              180
+Tom Petty                   Free Falling                                              177
+Proclaimers                 I'm Gonna Be                                              169
 Bob Marley and The Wailers  Could You Be Loved                                        161
 Fleetwood Mac               Everywhere                                                152
 Daryl Hall and John Oates   You Make My Dreams                                        125
 Crowded House               Don't Dream It's Over                                     116
-Hall and Oates              Out Of Touch                                              106
+Hall and Oates              Out Of Touch                                              107
 Depeche Mode                Personal Jesus                                            103
 Bon Jovi                    Bad Medicine                                              102
 Lightning Seeds             Pure                                                      102
-Smiths                      This Charming Man                                          95
-Luther Vandross             Never Too Much                                             90
+Smiths                      This Charming Man                                          96
+Luther Vandross             Never Too Much                                             91
 Cure                        Just Like Heaven                                           86
-Grandmaster Flash           The Message                                                84
+Grandmaster Flash           The Message                                                85
 Smiths                      How Soon Is Now?                                           82
+R.E.M                       Stand.                                                     79
 Bruce Springsteen           Hungry Heart                                               78
-R.E.M                       Stand.                                                     77
 Smiths                      Ask                                                        76
 Queen                       Hammer To Fall                                             75
 Bob Marley and The Wailers  Three Little Birds                                         73
@@ -40,11 +40,11 @@ Depeche Mode                Shake The Disease                                   
 Inxs and Jimmy Barnes       Good Times                                                 11
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10
+Talking Heads               Burning Down The House                                     10
 Billy Idol                  Eyes Without A Face                                         9
 Bodysnatchers               Let's Do Rock Steady                                        9
 Cure                        Lullaby                                                     9
 Smiths                      There Is A Light That Never Goes Out                        9
-Talking Heads               Burning Down The House                                      9
 Inxs                        Never Tear Us Apart                                         8
 Prince                      I Would Die 4 U                                             8
 Queen                       Who Wants To Live Forever                                   8

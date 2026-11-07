@@ -85,13 +85,13 @@ Georgia Satellites          Battleship Chains                                   
 Gerard McMann               Cry Little Sister                                           1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                84
+Grandmaster Flash           The Message                                                85
 Guns N Roses                Nightrain                                                   1
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                              106
+Hall and Oates              Out Of Touch                                              107
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                2
 Inxs                        Never Tear Us Apart                                         8
@@ -100,7 +100,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      202
+Journey                     Don't Stop Believin'                                      203
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -112,7 +112,7 @@ Kool and The Gang           Big Fun                                             
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
 Lightning Seeds             Pure                                                      102
-Luther Vandross             Never Too Much                                             90
+Luther Vandross             Never Too Much                                             91
 Luther Vandross             She Won't Talk To Me                                        1
 Madness                     Shut Up                                                     2
 Madness                     The Ghost Train                                             1
@@ -142,7 +142,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             8
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              167
+Proclaimers                 I'm Gonna Be                                              169
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             75
@@ -150,7 +150,7 @@ Queen                       Las Palabras de Amor                                
 Queen                       Scandal                                                     1
 Queen                       The Invisible Man                                           2
 Queen                       Who Wants To Live Forever                                   8
-R.E.M                       Stand.                                                     77
+R.E.M                       Stand.                                                     79
 Rick James                  Superfreak                                                 19
 Rolling Stones              Rock and a Hard Place                                       1
 Rolling Stones              She's So Cold                                               2
@@ -173,7 +173,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                           10
 Smiths                      There Is A Light That Never Goes Out                        9
-Smiths                      This Charming Man                                          95
+Smiths                      This Charming Man                                          96
 Smiths                      William, It Was Really Nothing                              8
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1
@@ -187,15 +187,15 @@ Supertramp                  It's Raining Again                                  
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1
-Talk Talk                   It's My Life                                              179
-Talking Heads               Burning Down The House                                      9
+Talk Talk                   It's My Life                                              180
+Talking Heads               Burning Down The House                                     10
 Teardrop Explodes           Passionate Friend                                           1
 Tears For Fears             Woman In Chains                                             1
 Thompson Twins              Lay Your Hands On Me                                        1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              176
+Tom Petty                   Free Falling                                              177
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        35
 Tracy Chapman               Talkin' 'bout A Revolution                                 42

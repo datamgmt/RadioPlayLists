@@ -21,7 +21,7 @@ Beloved                     The Sun Rising                                      
 Big Country                 East Of Eden                                                1
 Billy Idol                  Eyes Without A Face                                         9
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        161
+Bob Marley and The Wailers  Could You Be Loved                                        162
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         73
 Bodysnatchers               Let's Do Rock Steady                                        9
@@ -58,7 +58,7 @@ De La Soul                  Me Myself & I                                       
 Deacon Blue                 Love And Regret                                             1
 Debbie Gibson               Foolish Beat                                                1
 Def Leppard                 Love Bites                                                 12
-Depeche Mode                Personal Jesus                                            103
+Depeche Mode                Personal Jesus                                            104
 Depeche Mode                Shake The Disease                                          12
 Desireless                  Voyage Voyage                                               1
 Devo                        Whip It                                                     1
@@ -74,7 +74,7 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                152
+Fleetwood Mac               Everywhere                                                153
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 Genesis                     No Reply At All                                             2
@@ -100,7 +100,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      203
+Journey                     Don't Stop Believin'                                      204
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -111,7 +111,7 @@ Kirsty MacColl              Free World                                          
 Kool and The Gang           Big Fun                                                     1
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
-Lightning Seeds             Pure                                                      102
+Lightning Seeds             Pure                                                      103
 Luther Vandross             Never Too Much                                             91
 Luther Vandross             She Won't Talk To Me                                        1
 Madness                     Shut Up                                                     2
@@ -173,7 +173,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                           10
 Smiths                      There Is A Light That Never Goes Out                        9
-Smiths                      This Charming Man                                          96
+Smiths                      This Charming Man                                          97
 Smiths                      William, It Was Really Nothing                              8
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

@@ -1,18 +1,18 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      203
+Journey                     Don't Stop Believin'                                      204
 Talk Talk                   It's My Life                                              180
 Tom Petty                   Free Falling                                              177
 Proclaimers                 I'm Gonna Be                                              169
-Bob Marley and The Wailers  Could You Be Loved                                        161
-Fleetwood Mac               Everywhere                                                152
+Bob Marley and The Wailers  Could You Be Loved                                        162
+Fleetwood Mac               Everywhere                                                153
 Daryl Hall and John Oates   You Make My Dreams                                        125
 Crowded House               Don't Dream It's Over                                     116
 Hall and Oates              Out Of Touch                                              107
-Depeche Mode                Personal Jesus                                            103
+Depeche Mode                Personal Jesus                                            104
+Lightning Seeds             Pure                                                      103
 Bon Jovi                    Bad Medicine                                              102
-Lightning Seeds             Pure                                                      102
-Smiths                      This Charming Man                                          96
+Smiths                      This Charming Man                                          97
 Luther Vandross             Never Too Much                                             91
 Cure                        Just Like Heaven                                           86
 Grandmaster Flash           The Message                                                85

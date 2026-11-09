@@ -19,6 +19,7 @@ Beastie Boys                No Sleep Till Brooklyn                              
 Beat                        Best Friend                                                 2
 Beloved                     The Sun Rising                                              4
 Big Country                 East Of Eden                                                1
+Big Country                 Just A Shadow                                               1
 Billy Idol                  Eyes Without A Face                                         9
 Billy Joel                  The Longest Time                                            2
 Bob Marley and The Wailers  Could You Be Loved                                        162
@@ -29,7 +30,7 @@ Bon Jovi                    Bad Medicine                                        
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
-Bruce Springsteen           Hungry Heart                                               78
+Bruce Springsteen           Hungry Heart                                               79
 Bruce Springsteen           Spare Parts                                                 1
 Bruce Springsteen           Tunnel Of Love                                              2
 Bryan Adams                 Heat Of The Night                                           1
@@ -42,7 +43,7 @@ Clash                       I Fought The Law                                    
 Clash                       Train In Vain                                               1
 Cool Notes                  In Your Car                                                 1
 Creatures                   Miss The Girl                                               2
-Crowded House               Don't Dream It's Over                                     116
+Crowded House               Don't Dream It's Over                                     117
 Culture Club                I'll Tumble 4 Ya                                            2
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            63
@@ -74,9 +75,10 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                153
+Fleetwood Mac               Everywhere                                                154
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
+Freddie Mercury             Barcelona                                                   1
 Genesis                     No Reply At All                                             2
 George Benson               Love X Love                                                 1
 George Harrison             All Those Years Ago                                         1
@@ -91,11 +93,13 @@ Guns N Roses                Patience                                            
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                              107
+Hall and Oates              Out Of Touch                                              108
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                2
+Human League                Louise                                                      1
 Inxs                        Never Tear Us Apart                                         8
 Inxs and Jimmy Barnes       Good Times                                                 11
+Iron Maiden                 Aces High                                                   1
 Jam                         Just Who Is The 5 O'clock Hero                              1
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
@@ -149,7 +153,7 @@ Queen                       Hammer To Fall                                      
 Queen                       Las Palabras de Amor                                        2
 Queen                       Scandal                                                     1
 Queen                       The Invisible Man                                           2
-Queen                       Who Wants To Live Forever                                   8
+Queen                       Who Wants To Live Forever                                   9
 R.E.M                       Stand.                                                     79
 Rick James                  Superfreak                                                 19
 Rolling Stones              Rock and a Hard Place                                       1
@@ -167,6 +171,7 @@ Skipworth and Turner        Thinking About Your Love                            
 Smiths                      Ask                                                        76
 Smiths                      Heaven Knows I'm Miserable Now                             70
 Smiths                      How Soon Is Now?                                           82
+Smiths                      I Started Something I Couldn't Finish                       1
 Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Smiths                      Stop Me If You Think You've Heard This One Before           2
 Smiths                      Stop Me If You've Heard This One Before                     7
@@ -187,7 +192,7 @@ Supertramp                  It's Raining Again                                  
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1
-Talk Talk                   It's My Life                                              180
+Talk Talk                   It's My Life                                              181
 Talking Heads               Burning Down The House                                     10
 Teardrop Explodes           Passionate Friend                                           1
 Tears For Fears             Woman In Chains                                             1
@@ -195,7 +200,7 @@ Thompson Twins              Lay Your Hands On Me                                
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
 Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              177
+Tom Petty                   Free Falling                                              178
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        35
 Tracy Chapman               Talkin' 'bout A Revolution                                 42

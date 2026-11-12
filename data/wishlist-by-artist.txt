@@ -24,7 +24,7 @@ Billy Idol                  Eyes Without A Face                                 
 Billy Joel                  The Longest Time                                            2
 Bob Marley and The Wailers  Could You Be Loved                                        164
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         74
+Bob Marley and The Wailers  Three Little Birds                                         75
 Bodysnatchers               Let's Do Rock Steady                                        9
 Bon Jovi                    Bad Medicine                                              103
 Bon Jovi                    Lay Your Hands On Me                                        1
@@ -46,13 +46,13 @@ Creatures                   Miss The Girl                                       
 Crowded House               Don't Dream It's Over                                     118
 Culture Club                I'll Tumble 4 Ya                                            2
 Cure                        A Forest                                                    3
-Cure                        In Between Days                                            64
+Cure                        In Between Days                                            65
 Cure                        Just Like Heaven                                           88
 Cure                        Lullaby                                                     9
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         15
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        126
+Daryl Hall and John Oates   You Make My Dreams                                        127
 David Bowie                 Magic Dance                                                 2
 David Bowie                 Scary Monsters                                              1
 De La Soul                  Me Myself & I                                               3
@@ -75,7 +75,7 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                154
+Fleetwood Mac               Everywhere                                                155
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 Freddie Mercury             Barcelona                                                   1
@@ -104,7 +104,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      205
+Journey                     Don't Stop Believin'                                      206
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -149,7 +149,7 @@ Prince                      Partyman                                            
 Proclaimers                 I'm Gonna Be                                              171
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
-Queen                       Hammer To Fall                                             76
+Queen                       Hammer To Fall                                             77
 Queen                       Las Palabras de Amor                                        2
 Queen                       Scandal                                                     1
 Queen                       The Invisible Man                                           2
@@ -169,8 +169,8 @@ Simple Minds                Sweat In Bullet                                     
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
 Smiths                      Ask                                                        77
-Smiths                      Heaven Knows I'm Miserable Now                             71
-Smiths                      How Soon Is Now?                                           82
+Smiths                      Heaven Knows I'm Miserable Now                             72
+Smiths                      How Soon Is Now?                                           83
 Smiths                      I Started Something I Couldn't Finish                       1
 Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Smiths                      Stop Me If You Think You've Heard This One Before           2
@@ -192,7 +192,7 @@ Supertramp                  It's Raining Again                                  
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1
-Talk Talk                   It's My Life                                              181
+Talk Talk                   It's My Life                                              182
 Talking Heads               Burning Down The House                                     10
 Teardrop Explodes           Passionate Friend                                           1
 Tears For Fears             Woman In Chains                                             1

@@ -1,21 +1,21 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      206
-Talk Talk                   It's My Life                                              182
+Journey                     Don't Stop Believin'                                      207
+Talk Talk                   It's My Life                                              184
 Tom Petty                   Free Falling                                              180
-Proclaimers                 I'm Gonna Be                                              171
-Bob Marley and The Wailers  Could You Be Loved                                        164
+Proclaimers                 I'm Gonna Be                                              172
+Bob Marley and The Wailers  Could You Be Loved                                        165
 Fleetwood Mac               Everywhere                                                155
 Daryl Hall and John Oates   You Make My Dreams                                        127
-Crowded House               Don't Dream It's Over                                     118
+Crowded House               Don't Dream It's Over                                     119
 Hall and Oates              Out Of Touch                                              108
 Depeche Mode                Personal Jesus                                            105
-Lightning Seeds             Pure                                                      104
-Bon Jovi                    Bad Medicine                                              103
-Smiths                      This Charming Man                                          98
-Luther Vandross             Never Too Much                                             92
+Lightning Seeds             Pure                                                      105
+Bon Jovi                    Bad Medicine                                              104
+Smiths                      This Charming Man                                          99
+Luther Vandross             Never Too Much                                             93
 Cure                        Just Like Heaven                                           88
-Grandmaster Flash           The Message                                                86
+Grandmaster Flash           The Message                                                87
 Smiths                      How Soon Is Now?                                           83
 Bruce Springsteen           Hungry Heart                                               80
 R.E.M                       Stand.                                                     80
@@ -46,15 +46,15 @@ Bodysnatchers               Let's Do Rock Steady                                
 Cure                        Lullaby                                                     9
 Queen                       Who Wants To Live Forever                                   9
 Smiths                      There Is A Light That Never Goes Out                        9
+Yello                       Oh Yeah                                                     9
 Inxs                        Never Tear Us Apart                                         8
 Prince                      I Would Die 4 U                                             8
+Smiths                      Stop Me If You've Heard This One Before                     8
 Smiths                      William, It Was Really Nothing                              8
-Yello                       Oh Yeah                                                     8
 Smiths                      Please, Please, Please, Let Me Get What I Want              7
-Smiths                      Stop Me If You've Heard This One Before                     7
 Stranglers                  Always The Sun                                              7
+Beloved                     The Sun Rising                                              5
 Style Council               Long Hot Summer                                             5
-Beloved                     The Sun Rising                                              4
 Fleetwood Mac               Gypsy                                                       4
 Abba                        Lay All Your Love On Me                                     3
 Chris Rea                   On The Beach                                                3

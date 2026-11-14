@@ -2,11 +2,11 @@
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      207
 Talk Talk                   It's My Life                                              184
-Tom Petty                   Free Falling                                              180
-Proclaimers                 I'm Gonna Be                                              172
+Tom Petty                   Free Falling                                              181
+Proclaimers                 I'm Gonna Be                                              173
 Bob Marley and The Wailers  Could You Be Loved                                        165
-Fleetwood Mac               Everywhere                                                155
-Daryl Hall and John Oates   You Make My Dreams                                        127
+Fleetwood Mac               Everywhere                                                156
+Daryl Hall and John Oates   You Make My Dreams                                        128
 Crowded House               Don't Dream It's Over                                     119
 Hall and Oates              Out Of Touch                                              108
 Depeche Mode                Personal Jesus                                            105
@@ -19,9 +19,9 @@ Grandmaster Flash           The Message                                         
 Smiths                      How Soon Is Now?                                           83
 Bruce Springsteen           Hungry Heart                                               80
 R.E.M                       Stand.                                                     80
+Smiths                      Ask                                                        78
 Queen                       Hammer To Fall                                             77
-Smiths                      Ask                                                        77
-Bob Marley and The Wailers  Three Little Birds                                         75
+Bob Marley and The Wailers  Three Little Birds                                         76
 Smiths                      Heaven Knows I'm Miserable Now                             72
 Cure                        In Between Days                                            65
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
@@ -87,6 +87,7 @@ Rolling Stones              She's So Cold                                       
 Sade                        The Sweetest Taboo                                          2
 Smiths                      Stop Me If You Think You've Heard This One Before           2
 Throwing Muses              Dizzy                                                       2
+Tom Petty                   Don't Come Around Here No More                              2
 U2                          All I Want Is You                                           2
 Ac/dc                       Back In Black                                               1
 Ac/dc                       For Those About To Rock                                     1
@@ -204,7 +205,6 @@ Teardrop Explodes           Passionate Friend                                   
 Tears For Fears             Woman In Chains                                             1
 Thompson Twins              Lay Your Hands On Me                                        1
 Tom Browne                  Funkin For Jamaica                                          1
-Tom Petty                   Don't Come Around Here No More                              1
 Tone Loc                    Wild Thing                                                  1
 U2                          Bad                                                         1
 U2                          Fire                                                        1

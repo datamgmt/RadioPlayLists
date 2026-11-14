@@ -24,7 +24,7 @@ Billy Idol                  Eyes Without A Face                                 
 Billy Joel                  The Longest Time                                            2
 Bob Marley and The Wailers  Could You Be Loved                                        165
 Bob Marley and The Wailers  Redemption Song                                             1
-Bob Marley and The Wailers  Three Little Birds                                         75
+Bob Marley and The Wailers  Three Little Birds                                         76
 Bodysnatchers               Let's Do Rock Steady                                        9
 Bon Jovi                    Bad Medicine                                              104
 Bon Jovi                    Lay Your Hands On Me                                        1
@@ -52,7 +52,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         15
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        127
+Daryl Hall and John Oates   You Make My Dreams                                        128
 David Bowie                 Magic Dance                                                 2
 David Bowie                 Scary Monsters                                              1
 De La Soul                  Me Myself & I                                               3
@@ -75,7 +75,7 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                155
+Fleetwood Mac               Everywhere                                                156
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 Freddie Mercury             Barcelona                                                   1
@@ -146,7 +146,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             8
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              172
+Proclaimers                 I'm Gonna Be                                              173
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             77
@@ -168,7 +168,7 @@ Simple Minds                Someone Somewhere In Summertime                     
 Simple Minds                Sweat In Bullet                                             1
 Sinead O'Connor             Mandinka                                                    1
 Skipworth and Turner        Thinking About Your Love                                    1
-Smiths                      Ask                                                        77
+Smiths                      Ask                                                        78
 Smiths                      Heaven Knows I'm Miserable Now                             72
 Smiths                      How Soon Is Now?                                           83
 Smiths                      I Started Something I Couldn't Finish                       1
@@ -199,8 +199,8 @@ Tears For Fears             Woman In Chains                                     
 Thompson Twins              Lay Your Hands On Me                                        1
 Throwing Muses              Dizzy                                                       2
 Tom Browne                  Funkin For Jamaica                                          1
-Tom Petty                   Don't Come Around Here No More                              1
-Tom Petty                   Free Falling                                              180
+Tom Petty                   Don't Come Around Here No More                              2
+Tom Petty                   Free Falling                                              181
 Tone Loc                    Wild Thing                                                  1
 Tracy Chapman               Baby Can I Hold You                                        35
 Tracy Chapman               Talkin' 'bout A Revolution                                 42

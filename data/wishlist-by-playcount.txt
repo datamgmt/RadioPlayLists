@@ -1,33 +1,33 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      207
-Talk Talk                   It's My Life                                              184
-Tom Petty                   Free Falling                                              181
-Proclaimers                 I'm Gonna Be                                              173
-Bob Marley and The Wailers  Could You Be Loved                                        165
-Fleetwood Mac               Everywhere                                                156
-Daryl Hall and John Oates   You Make My Dreams                                        128
-Crowded House               Don't Dream It's Over                                     119
+Journey                     Don't Stop Believin'                                      209
+Talk Talk                   It's My Life                                              186
+Tom Petty                   Free Falling                                              183
+Proclaimers                 I'm Gonna Be                                              174
+Bob Marley and The Wailers  Could You Be Loved                                        167
+Fleetwood Mac               Everywhere                                                157
+Daryl Hall and John Oates   You Make My Dreams                                        129
+Crowded House               Don't Dream It's Over                                     120
 Hall and Oates              Out Of Touch                                              108
-Depeche Mode                Personal Jesus                                            105
-Lightning Seeds             Pure                                                      105
-Bon Jovi                    Bad Medicine                                              104
-Smiths                      This Charming Man                                          99
+Depeche Mode                Personal Jesus                                            106
+Lightning Seeds             Pure                                                      106
+Bon Jovi                    Bad Medicine                                              105
+Smiths                      This Charming Man                                         100
 Luther Vandross             Never Too Much                                             93
-Cure                        Just Like Heaven                                           88
-Grandmaster Flash           The Message                                                87
-Smiths                      How Soon Is Now?                                           83
-Bruce Springsteen           Hungry Heart                                               80
+Cure                        Just Like Heaven                                           89
+Grandmaster Flash           The Message                                                88
+Smiths                      How Soon Is Now?                                           84
+Bruce Springsteen           Hungry Heart                                               81
 R.E.M                       Stand.                                                     80
 Smiths                      Ask                                                        78
 Queen                       Hammer To Fall                                             77
 Bob Marley and The Wailers  Three Little Birds                                         76
-Smiths                      Heaven Knows I'm Miserable Now                             72
-Cure                        In Between Days                                            65
+Smiths                      Heaven Knows I'm Miserable Now                             73
+Cure                        In Between Days                                            66
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
-Tracy Chapman               Baby Can I Hold You                                        35
-Bad Manners                 Lip Up Fatty                                               23
-Rick James                  Superfreak                                                 19
+Tracy Chapman               Baby Can I Hold You                                        36
+Bad Manners                 Lip Up Fatty                                               24
+Rick James                  Superfreak                                                 20
 New Order                   Bizarre Love Triangle                                      16
 Christopher Cross           Ride Like The Wind                                         15
 Cure                        Why Can't I Be You                                         15
@@ -37,13 +37,13 @@ Janet Jackson               Rhythm Nation                                       
 A Flock Of Seagulls         I Ran                                                      12
 Def Leppard                 Love Bites                                                 12
 Depeche Mode                Shake The Disease                                          12
-Inxs and Jimmy Barnes       Good Times                                                 11
+Inxs and Jimmy Barnes       Good Times                                                 12
+Cure                        Lullaby                                                    10
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10
 Talking Heads               Burning Down The House                                     10
 Billy Idol                  Eyes Without A Face                                         9
 Bodysnatchers               Let's Do Rock Steady                                        9
-Cure                        Lullaby                                                     9
 Queen                       Who Wants To Live Forever                                   9
 Smiths                      There Is A Light That Never Goes Out                        9
 Yello                       Oh Yeah                                                     9
@@ -66,6 +66,7 @@ Echo and The Bunnymen       Lips Like Sugar                                     
 Elvis Costello              Everyday I Write The Book                                   3
 Kids from Fame              Hi Fidelity                                                 3
 S.O.S. Band                 Just Be Good To Me                                          3
+Sade                        The Sweetest Taboo                                          3
 Simple Minds                Someone Somewhere In Summertime                             3
 A Guy Called Gerald         Voodoo Ray                                                  2
 Beat                        Best Friend                                                 2
@@ -84,7 +85,6 @@ Prince                      Nothing Compares 2 U                                
 Queen                       Las Palabras de Amor                                        2
 Queen                       The Invisible Man                                           2
 Rolling Stones              She's So Cold                                               2
-Sade                        The Sweetest Taboo                                          2
 Smiths                      Stop Me If You Think You've Heard This One Before           2
 Throwing Muses              Dizzy                                                       2
 Tom Petty                   Don't Come Around Here No More                              2
@@ -218,6 +218,7 @@ Van Halen                   When It's Love                                      
 Visage                      Night Train                                                 1
 Visage                      Visage                                                      1
 Waterboys                   Fisherman's Blues                                           1
+Wee Papa Girl Rappers       Wee Rule                                                    1
 Wham!                       Where Did Your Heart Go?                                    1
 Who                         Eminence Front                                              1
 Wonder Stuff                Don't Let Me Down Gently                                    1

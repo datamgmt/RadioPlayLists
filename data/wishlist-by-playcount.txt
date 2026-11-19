@@ -1,35 +1,35 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      211
-Talk Talk                   It's My Life                                              186
-Tom Petty                   Free Falling                                              184
+Talk Talk                   It's My Life                                              187
+Tom Petty                   Free Falling                                              185
 Proclaimers                 I'm Gonna Be                                              175
 Bob Marley and The Wailers  Could You Be Loved                                        168
-Fleetwood Mac               Everywhere                                                158
-Daryl Hall and John Oates   You Make My Dreams                                        129
-Crowded House               Don't Dream It's Over                                     121
-Hall and Oates              Out Of Touch                                              108
-Depeche Mode                Personal Jesus                                            106
-Lightning Seeds             Pure                                                      106
-Bon Jovi                    Bad Medicine                                              105
-Smiths                      This Charming Man                                         101
+Fleetwood Mac               Everywhere                                                159
+Daryl Hall and John Oates   You Make My Dreams                                        130
+Crowded House               Don't Dream It's Over                                     122
+Hall and Oates              Out Of Touch                                              109
+Depeche Mode                Personal Jesus                                            107
+Lightning Seeds             Pure                                                      107
+Bon Jovi                    Bad Medicine                                              106
+Smiths                      This Charming Man                                         102
 Luther Vandross             Never Too Much                                             93
-Cure                        Just Like Heaven                                           89
-Grandmaster Flash           The Message                                                88
-Smiths                      How Soon Is Now?                                           84
+Cure                        Just Like Heaven                                           90
+Grandmaster Flash           The Message                                                89
+Smiths                      How Soon Is Now?                                           85
+R.E.M                       Stand.                                                     82
 Bruce Springsteen           Hungry Heart                                               81
-R.E.M                       Stand.                                                     81
 Smiths                      Ask                                                        78
 Bob Marley and The Wailers  Three Little Birds                                         77
 Queen                       Hammer To Fall                                             77
 Smiths                      Heaven Knows I'm Miserable Now                             73
-Cure                        In Between Days                                            66
+Cure                        In Between Days                                            67
 Tracy Chapman               Talkin' 'bout A Revolution                                 42
 Tracy Chapman               Baby Can I Hold You                                        36
 Bad Manners                 Lip Up Fatty                                               24
 Rick James                  Superfreak                                                 20
+Christopher Cross           Ride Like The Wind                                         16
 New Order                   Bizarre Love Triangle                                      16
-Christopher Cross           Ride Like The Wind                                         15
 Cure                        Why Can't I Be You                                         15
 Stevie Nicks                Edge Of Seventeen                                          14
 Clash                       I Fought The Law                                           13
@@ -42,16 +42,16 @@ Bodysnatchers               Let's Do Rock Steady                                
 Cure                        Lullaby                                                    10
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
 Smiths                      The Boy With A Thorn In His Side                           10
+Smiths                      There Is A Light That Never Goes Out                       10
 Talking Heads               Burning Down The House                                     10
 Billy Idol                  Eyes Without A Face                                         9
 Queen                       Who Wants To Live Forever                                   9
-Smiths                      There Is A Light That Never Goes Out                        9
 Yello                       Oh Yeah                                                     9
 Inxs                        Never Tear Us Apart                                         8
 Prince                      I Would Die 4 U                                             8
+Smiths                      Please, Please, Please, Let Me Get What I Want              8
 Smiths                      Stop Me If You've Heard This One Before                     8
 Smiths                      William, It Was Really Nothing                              8
-Smiths                      Please, Please, Please, Let Me Get What I Want              7
 Stranglers                  Always The Sun                                              7
 Beloved                     The Sun Rising                                              5
 Style Council               Long Hot Summer                                             5

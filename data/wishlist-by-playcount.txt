@@ -1,35 +1,35 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      212
-Talk Talk                   It's My Life                                              188
-Tom Petty                   Free Falling                                              186
-Proclaimers                 I'm Gonna Be                                              176
-Bob Marley and The Wailers  Could You Be Loved                                        169
+Journey                     Don't Stop Believin'                                      213
+Talk Talk                   It's My Life                                              189
+Tom Petty                   Free Falling                                              187
+Proclaimers                 I'm Gonna Be                                              177
+Bob Marley and The Wailers  Could You Be Loved                                        170
 Fleetwood Mac               Everywhere                                                160
-Daryl Hall and John Oates   You Make My Dreams                                        130
+Daryl Hall and John Oates   You Make My Dreams                                        131
 Hall and Oates              Out Of Touch                                              110
 Depeche Mode                Personal Jesus                                            108
 Lightning Seeds             Pure                                                      108
 Bon Jovi                    Bad Medicine                                              106
-Smiths                      This Charming Man                                         102
+Smiths                      This Charming Man                                         104
 Luther Vandross             Never Too Much                                             93
 Cure                        Just Like Heaven                                           90
-Grandmaster Flash           The Message                                                89
+Grandmaster Flash           The Message                                                90
 Smiths                      How Soon Is Now?                                           85
 R.E.M                       Stand.                                                     82
 Bruce Springsteen           Hungry Heart                                               81
 Smiths                      Ask                                                        79
+Bob Marley and The Wailers  Three Little Birds                                         78
 Queen                       Hammer To Fall                                             78
-Bob Marley and The Wailers  Three Little Birds                                         77
-Smiths                      Heaven Knows I'm Miserable Now                             73
-Cure                        In Between Days                                            67
-Tracy Chapman               Talkin' 'bout A Revolution                                 42
+Smiths                      Heaven Knows I'm Miserable Now                             74
+Cure                        In Between Days                                            68
+Tracy Chapman               Talkin' 'bout A Revolution                                 43
 Tracy Chapman               Baby Can I Hold You                                        36
 Bad Manners                 Lip Up Fatty                                               24
 Rick James                  Superfreak                                                 20
 Christopher Cross           Ride Like The Wind                                         16
+Cure                        Why Can't I Be You                                         16
 New Order                   Bizarre Love Triangle                                      16
-Cure                        Why Can't I Be You                                         15
 Stevie Nicks                Edge Of Seventeen                                          14
 Clash                       I Fought The Law                                           13
 Janet Jackson               Rhythm Nation                                              13
@@ -43,15 +43,15 @@ Paul Simon                  Diamonds On The Soles Of Her Shoes                  
 Smiths                      The Boy With A Thorn In His Side                           10
 Smiths                      There Is A Light That Never Goes Out                       10
 Talking Heads               Burning Down The House                                     10
+Yello                       Oh Yeah                                                    10
 Billy Idol                  Eyes Without A Face                                         9
+Prince                      I Would Die 4 U                                             9
 Queen                       Who Wants To Live Forever                                   9
-Yello                       Oh Yeah                                                     9
 Inxs                        Never Tear Us Apart                                         8
-Prince                      I Would Die 4 U                                             8
 Smiths                      Please, Please, Please, Let Me Get What I Want              8
 Smiths                      Stop Me If You've Heard This One Before                     8
 Smiths                      William, It Was Really Nothing                              8
-Stranglers                  Always The Sun                                              7
+Stranglers                  Always The Sun                                              8
 Beloved                     The Sun Rising                                              5
 Style Council               Long Hot Summer                                             5
 Fleetwood Mac               Gypsy                                                       4

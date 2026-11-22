@@ -1,26 +1,26 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
 Journey                     Don't Stop Believin'                                      213
-Talk Talk                   It's My Life                                              189
-Tom Petty                   Free Falling                                              187
-Proclaimers                 I'm Gonna Be                                              177
-Bob Marley and The Wailers  Could You Be Loved                                        170
-Fleetwood Mac               Everywhere                                                160
-Daryl Hall and John Oates   You Make My Dreams                                        131
+Talk Talk                   It's My Life                                              190
+Tom Petty                   Free Falling                                              188
+Proclaimers                 I'm Gonna Be                                              178
+Bob Marley and The Wailers  Could You Be Loved                                        171
+Fleetwood Mac               Everywhere                                                161
+Daryl Hall and John Oates   You Make My Dreams                                        132
 Hall and Oates              Out Of Touch                                              110
+Lightning Seeds             Pure                                                      109
 Depeche Mode                Personal Jesus                                            108
-Lightning Seeds             Pure                                                      108
 Bon Jovi                    Bad Medicine                                              106
 Smiths                      This Charming Man                                         104
 Luther Vandross             Never Too Much                                             93
 Cure                        Just Like Heaven                                           90
 Grandmaster Flash           The Message                                                90
-Smiths                      How Soon Is Now?                                           85
-R.E.M                       Stand.                                                     82
+Smiths                      How Soon Is Now?                                           86
+R.E.M                       Stand.                                                     83
 Bruce Springsteen           Hungry Heart                                               81
-Smiths                      Ask                                                        79
+Smiths                      Ask                                                        80
+Queen                       Hammer To Fall                                             79
 Bob Marley and The Wailers  Three Little Birds                                         78
-Queen                       Hammer To Fall                                             78
 Smiths                      Heaven Knows I'm Miserable Now                             74
 Cure                        In Between Days                                            68
 Tracy Chapman               Talkin' 'bout A Revolution                                 43
@@ -32,9 +32,9 @@ Cure                        Why Can't I Be You                                  
 New Order                   Bizarre Love Triangle                                      16
 Stevie Nicks                Edge Of Seventeen                                          14
 Clash                       I Fought The Law                                           13
+Def Leppard                 Love Bites                                                 13
 Janet Jackson               Rhythm Nation                                              13
 A Flock Of Seagulls         I Ran                                                      12
-Def Leppard                 Love Bites                                                 12
 Depeche Mode                Shake The Disease                                          12
 Inxs and Jimmy Barnes       Good Times                                                 12
 Bodysnatchers               Let's Do Rock Steady                                       10

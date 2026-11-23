@@ -5,19 +5,19 @@ Talk Talk                   It's My Life                                        
 Tom Petty                   Free Falling                                              188
 Proclaimers                 I'm Gonna Be                                              178
 Bob Marley and The Wailers  Could You Be Loved                                        171
-Fleetwood Mac               Everywhere                                                161
+Fleetwood Mac               Everywhere                                                162
 Daryl Hall and John Oates   You Make My Dreams                                        132
-Hall and Oates              Out Of Touch                                              110
+Hall and Oates              Out Of Touch                                              111
 Lightning Seeds             Pure                                                      109
 Depeche Mode                Personal Jesus                                            108
-Bon Jovi                    Bad Medicine                                              106
-Smiths                      This Charming Man                                         104
-Luther Vandross             Never Too Much                                             93
-Cure                        Just Like Heaven                                           90
+Bon Jovi                    Bad Medicine                                              107
+Smiths                      This Charming Man                                         105
+Luther Vandross             Never Too Much                                             94
+Cure                        Just Like Heaven                                           91
 Grandmaster Flash           The Message                                                90
 Smiths                      How Soon Is Now?                                           86
 R.E.M                       Stand.                                                     83
-Bruce Springsteen           Hungry Heart                                               81
+Bruce Springsteen           Hungry Heart                                               82
 Smiths                      Ask                                                        80
 Queen                       Hammer To Fall                                             79
 Bob Marley and The Wailers  Three Little Birds                                         78
@@ -37,6 +37,7 @@ Janet Jackson               Rhythm Nation                                       
 A Flock Of Seagulls         I Ran                                                      12
 Depeche Mode                Shake The Disease                                          12
 Inxs and Jimmy Barnes       Good Times                                                 12
+Billy Idol                  Eyes Without A Face                                        10
 Bodysnatchers               Let's Do Rock Steady                                       10
 Cure                        Lullaby                                                    10
 Paul Simon                  Diamonds On The Soles Of Her Shoes                         10
@@ -44,7 +45,6 @@ Smiths                      The Boy With A Thorn In His Side                    
 Smiths                      There Is A Light That Never Goes Out                       10
 Talking Heads               Burning Down The House                                     10
 Yello                       Oh Yeah                                                    10
-Billy Idol                  Eyes Without A Face                                         9
 Prince                      I Would Die 4 U                                             9
 Queen                       Who Wants To Live Forever                                   9
 Inxs                        Never Tear Us Apart                                         8
@@ -54,8 +54,8 @@ Smiths                      William, It Was Really Nothing                      
 Stranglers                  Always The Sun                                              8
 Beloved                     The Sun Rising                                              5
 Style Council               Long Hot Summer                                             5
+Abba                        Lay All Your Love On Me                                     4
 Fleetwood Mac               Gypsy                                                       4
-Abba                        Lay All Your Love On Me                                     3
 Chris Rea                   On The Beach                                                3
 Cure                        A Forest                                                    3
 De La Soul                  Me Myself & I                                               3
@@ -76,6 +76,8 @@ Culture Club                I'll Tumble 4 Ya                                    
 David Bowie                 Magic Dance                                                 2
 Donna Allen                 Joy And Pain                                                2
 Genesis                     No Reply At All                                             2
+George Benson               Love X Love                                                 2
+Hall and Oates              Kiss On My List                                             2
 Huey Lewis and The News     Back In Time                                                2
 Janet Jackson               Miss You Much                                               2
 Madness                     Shut Up                                                     2
@@ -92,6 +94,7 @@ Ac/dc                       Back In Black                                       
 Ac/dc                       For Those About To Rock                                     1
 Aerosmith                   Janie's Got A Gun                                           1
 All About Eve               Martha's Harbour                                            1
+Assembly                    Never Never                                                 1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
@@ -129,18 +132,17 @@ Eurythmics                  Don't Ask Me Why                                    
 Eurythmics                  Revival                                                     1
 Fleetwood Mac               Seven Wonders                                               1
 Freddie Mercury             Barcelona                                                   1
-George Benson               Love X Love                                                 1
 George Harrison             All Those Years Ago                                         1
 George Michael              Kissing A Fool                                              1
 Georgia Satellites          Battleship Chains                                           1
 Gerard McMann               Cry Little Sister                                           1
+Gladys Knight               Bourgie Bourgie                                             1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
 Guns N Roses                Nightrain                                                   1
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
-Hall and Oates              Kiss On My List                                             1
 Howard Jones                Life In One Day                                             1
 Human League                Louise                                                      1
 Iron Maiden                 Aces High                                                   1

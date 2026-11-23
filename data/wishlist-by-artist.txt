@@ -2,11 +2,12 @@
 --------------------------  -------------------------------------------------  ----------
 A Flock Of Seagulls         I Ran                                                      12
 A Guy Called Gerald         Voodoo Ray                                                  2
-Abba                        Lay All Your Love On Me                                     3
+Abba                        Lay All Your Love On Me                                     4
 Ac/dc                       Back In Black                                               1
 Ac/dc                       For Those About To Rock                                     1
 Aerosmith                   Janie's Got A Gun                                           1
 All About Eve               Martha's Harbour                                            1
+Assembly                    Never Never                                                 1
 Associates                  18 Carat Love Affair                                        1
 B52s                        Give Me Back My Man                                         1
 Bad Manners                 Lip Up Fatty                                               24
@@ -20,17 +21,17 @@ Beat                        Best Friend                                         
 Beloved                     The Sun Rising                                              5
 Big Country                 East Of Eden                                                1
 Big Country                 Just A Shadow                                               1
-Billy Idol                  Eyes Without A Face                                         9
+Billy Idol                  Eyes Without A Face                                        10
 Billy Joel                  The Longest Time                                            2
 Bob Marley and The Wailers  Could You Be Loved                                        171
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         78
 Bodysnatchers               Let's Do Rock Steady                                       10
-Bon Jovi                    Bad Medicine                                              106
+Bon Jovi                    Bad Medicine                                              107
 Bon Jovi                    Lay Your Hands On Me                                        1
 Bon Jovi                    Never Say Goodbye                                           1
 Bow Wow Wow                 C30 C60 C90 Go!                                             1
-Bruce Springsteen           Hungry Heart                                               81
+Bruce Springsteen           Hungry Heart                                               82
 Bruce Springsteen           Spare Parts                                                 1
 Bruce Springsteen           Tunnel Of Love                                              2
 Bryan Adams                 Heat Of The Night                                           1
@@ -46,7 +47,7 @@ Creatures                   Miss The Girl                                       
 Culture Club                I'll Tumble 4 Ya                                            2
 Cure                        A Forest                                                    3
 Cure                        In Between Days                                            68
-Cure                        Just Like Heaven                                           90
+Cure                        Just Like Heaven                                           91
 Cure                        Lullaby                                                    10
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         16
@@ -74,16 +75,17 @@ Elton John                  Sacrifice                                           
 Elvis Costello              Everyday I Write The Book                                   3
 Eurythmics                  Don't Ask Me Why                                            1
 Eurythmics                  Revival                                                     1
-Fleetwood Mac               Everywhere                                                161
+Fleetwood Mac               Everywhere                                                162
 Fleetwood Mac               Gypsy                                                       4
 Fleetwood Mac               Seven Wonders                                               1
 Freddie Mercury             Barcelona                                                   1
 Genesis                     No Reply At All                                             2
-George Benson               Love X Love                                                 1
+George Benson               Love X Love                                                 2
 George Harrison             All Those Years Ago                                         1
 George Michael              Kissing A Fool                                              1
 Georgia Satellites          Battleship Chains                                           1
 Gerard McMann               Cry Little Sister                                           1
+Gladys Knight               Bourgie Bourgie                                             1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
 Grandmaster Flash           The Message                                                90
@@ -91,8 +93,8 @@ Guns N Roses                Nightrain                                           
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
-Hall and Oates              Kiss On My List                                             1
-Hall and Oates              Out Of Touch                                              110
+Hall and Oates              Kiss On My List                                             2
+Hall and Oates              Out Of Touch                                              111
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                2
 Human League                Louise                                                      1
@@ -115,7 +117,7 @@ Kool and The Gang           Big Fun                                             
 Level 42                    Heaven In My Hands                                          1
 Level 42                    Take A Look                                                 1
 Lightning Seeds             Pure                                                      109
-Luther Vandross             Never Too Much                                             93
+Luther Vandross             Never Too Much                                             94
 Luther Vandross             She Won't Talk To Me                                        1
 Madness                     Shut Up                                                     2
 Madness                     The Ghost Train                                             1
@@ -177,7 +179,7 @@ Smiths                      Stop Me If You've Heard This One Before             
 Smiths                      That Joke Isn't Funny Anymore                               1
 Smiths                      The Boy With A Thorn In His Side                           10
 Smiths                      There Is A Light That Never Goes Out                       10
-Smiths                      This Charming Man                                         104
+Smiths                      This Charming Man                                         105
 Smiths                      William, It Was Really Nothing                              8
 Spandau Ballet              Fight For Ourselves                                         1
 Spandau Ballet              I'll Fly For You                                            1

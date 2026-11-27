@@ -1,23 +1,23 @@
           artist                                  title                        play_count
 --------------------------  -------------------------------------------------  ----------
-Journey                     Don't Stop Believin'                                      215
-Talk Talk                   It's My Life                                              192
+Journey                     Don't Stop Believin'                                      216
+Talk Talk                   It's My Life                                              193
 Tom Petty                   Free Falling                                              191
-Proclaimers                 I'm Gonna Be                                              180
-Bob Marley and The Wailers  Could You Be Loved                                        173
+Proclaimers                 I'm Gonna Be                                              181
+Bob Marley and The Wailers  Could You Be Loved                                        174
 Fleetwood Mac               Everywhere                                                163
-Daryl Hall and John Oates   You Make My Dreams                                        134
-Hall and Oates              Out Of Touch                                              112
+Daryl Hall and John Oates   You Make My Dreams                                        135
+Hall and Oates              Out Of Touch                                              113
 Depeche Mode                Personal Jesus                                            109
 Lightning Seeds             Pure                                                      109
 Bon Jovi                    Bad Medicine                                              108
 Smiths                      This Charming Man                                         106
 Luther Vandross             Never Too Much                                             95
+Grandmaster Flash           The Message                                                92
 Cure                        Just Like Heaven                                           91
-Grandmaster Flash           The Message                                                91
 Smiths                      How Soon Is Now?                                           87
+R.E.M                       Stand.                                                     84
 Bruce Springsteen           Hungry Heart                                               83
-R.E.M                       Stand.                                                     83
 Queen                       Hammer To Fall                                             80
 Smiths                      Ask                                                        80
 Bob Marley and The Wailers  Three Little Birds                                         79
@@ -96,6 +96,7 @@ Aerosmith                   Janie's Got A Gun                                   
 All About Eve               Martha's Harbour                                            1
 Assembly                    Never Never                                                 1
 Associates                  18 Carat Love Affair                                        1
+Aztec Camera                Walk Out To Winter                                          1
 B52s                        Give Me Back My Man                                         1
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
 Bananarama                  Love, Truth And Honesty                                     1

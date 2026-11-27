@@ -9,6 +9,7 @@ Aerosmith                   Janie's Got A Gun                                   
 All About Eve               Martha's Harbour                                            1
 Assembly                    Never Never                                                 1
 Associates                  18 Carat Love Affair                                        1
+Aztec Camera                Walk Out To Winter                                          1
 B52s                        Give Me Back My Man                                         1
 Bad Manners                 Lip Up Fatty                                               24
 Bad Manners                 Ne-ne Na-na Na-na Nu-nu                                     1
@@ -23,7 +24,7 @@ Big Country                 East Of Eden                                        
 Big Country                 Just A Shadow                                               1
 Billy Idol                  Eyes Without A Face                                        10
 Billy Joel                  The Longest Time                                            2
-Bob Marley and The Wailers  Could You Be Loved                                        173
+Bob Marley and The Wailers  Could You Be Loved                                        174
 Bob Marley and The Wailers  Redemption Song                                             1
 Bob Marley and The Wailers  Three Little Birds                                         79
 Bodysnatchers               Let's Do Rock Steady                                       10
@@ -52,7 +53,7 @@ Cure                        Lullaby                                             
 Cure                        The Walk                                                    1
 Cure                        Why Can't I Be You                                         16
 Danny Wilson                The Second Summer Of Love                                   1
-Daryl Hall and John Oates   You Make My Dreams                                        134
+Daryl Hall and John Oates   You Make My Dreams                                        135
 David Bowie                 Magic Dance                                                 2
 David Bowie                 Scary Monsters                                              1
 De La Soul                  Me Myself & I                                               3
@@ -88,13 +89,13 @@ Gerard McMann               Cry Little Sister                                   
 Gladys Knight               Bourgie Bourgie                                             1
 Glenn Frey                  Smugglers Blues                                             1
 Go gos                      Our Lips Are Sealed                                         1
-Grandmaster Flash           The Message                                                91
+Grandmaster Flash           The Message                                                92
 Guns N Roses                Nightrain                                                   1
 Guns N Roses                Patience                                                    1
 H20                         I Dream To Sleep                                            1
 Haircut 100                 Nobody's Fool                                               1
 Hall and Oates              Kiss On My List                                             2
-Hall and Oates              Out Of Touch                                              112
+Hall and Oates              Out Of Touch                                              113
 Howard Jones                Life In One Day                                             1
 Huey Lewis and The News     Back In Time                                                2
 Human League                Louise                                                      1
@@ -105,7 +106,7 @@ Jam                         Just Who Is The 5 O'clock Hero                      
 Janet Jackson               Miss You Much                                               2
 Janet Jackson               Rhythm Nation                                              13
 Jocelyn Brown               Somebody Else's Guy                                         1
-Journey                     Don't Stop Believin'                                      215
+Journey                     Don't Stop Believin'                                      216
 Journey                     Who's Crying Now                                            1
 Judas Priest                You've Got Another Thing Comin                              1
 Kate Bush                   Sat In Your Lap                                             1
@@ -147,7 +148,7 @@ Prince                      Controversy                                         
 Prince                      I Would Die 4 U                                             9
 Prince                      Nothing Compares 2 U                                        2
 Prince                      Partyman                                                    1
-Proclaimers                 I'm Gonna Be                                              180
+Proclaimers                 I'm Gonna Be                                              181
 Psychedelic Furs            Love My Way                                                 1
 Public Enemy                Bring The Noise                                             1
 Queen                       Hammer To Fall                                             80
@@ -155,7 +156,7 @@ Queen                       Las Palabras de Amor                                
 Queen                       Scandal                                                     1
 Queen                       The Invisible Man                                           2
 Queen                       Who Wants To Live Forever                                   9
-R.E.M                       Stand.                                                     83
+R.E.M                       Stand.                                                     84
 Rick James                  Superfreak                                                 20
 Rolling Stones              Rock and a Hard Place                                       1
 Rolling Stones              She's So Cold                                               2
@@ -193,7 +194,7 @@ Supertramp                  It's Raining Again                                  
 Suzanne Vega                Left Of Center                                              1
 T'P*u                       I Will Be With You                                          1
 T'Pau                       Secret Garden                                               1
-Talk Talk                   It's My Life                                              192
+Talk Talk                   It's My Life                                              193
 Talking Heads               Burning Down The House                                     11
 Teardrop Explodes           Passionate Friend                                           1
 Tears For Fears             Woman In Chains                                             1
